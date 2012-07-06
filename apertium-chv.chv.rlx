@@ -1,0 +1,20 @@
+DELIMITERS = "<.>" "<!>" "<?>" "<...>" "<¶>" ;
+SOFT-DELIMITERS = "<,>" ;
+
+SETS
+
+LIST N = n ; 
+LIST Prop = np ;
+LIST CC = cnjcoo ;
+LIST Dat = dat ; 
+
+LIST Func = subst attr advl ; 
+
+SECTION
+
+# Favour non-"derived" readings
+REMOVE Func ; 
+  ## 
+
+
+REMOVE Dat IF (0 Prop) (1 CC) (2 Prop) (NOT 2 Dat);
