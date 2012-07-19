@@ -14,7 +14,7 @@ Alphabet
 
  %{b%}:0
 
- %>:0 %{н%}:0 %{н2%}:0 %{w%}:0
+ %>:0 %{н%}:0 %{н2%}:0 %{w%}:0 %{в%}:0
 
  %{dup%}:0
 
@@ -587,3 +587,10 @@ Vx:Vy <=> _ %{w%}:в ;                     ! %>: :Glasnye ;
 	except
 		[ :BackVow :Soglasnye* :0* ]/[ %>: | :0 ] %{й%}:0 %>: _ ;
 ! шыра>{а}т>{ь}:шырать
+
+"Simplification of the stem ending in Russian words finishing in double consonant (класс, металл)"
+Cx:0 <=> _ Cy %{RUS%}:* %>: ;
+          where Cx in Soglasnye
+                Cy in Soglasnye
+                matched ;
+
