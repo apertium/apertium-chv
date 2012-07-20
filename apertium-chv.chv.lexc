@@ -3634,6 +3634,10 @@ LEXICON ProperNames
 Женя:Женя NP-ANT-M-RUS ;
 Женя:Женя NP-ANT-F-RUS ;
 
+
+
+
+
 Яковлев:Яковлев NP-COG-ОВ-RUS ; ! "" 
 Иванов:Иванов NP-COG-ОВ-RUS ; ! "" 
 Николаев:Николаев NP-COG-ОВ-RUS ; ! "" 
@@ -4274,11 +4278,68 @@ LEXICON ProperNames
 Валерий:Валерий NP-ANT-M-RUS ; ! "" 
 Олег:Олег NP-ANT-M-RUS ; ! "" 
 
+Сергей:Сергей NP-ANT-M-RUS ; ! ""
+Константин:Константин NP-ANT-M-RUS ; ! ""
+Андрей:Андрей NP-ANT-M-RUS ; ! ""
+Леонид:Леонид NP-ANT-M-RUS ; ! ""
+Василий:Василий NP-ANT-M-RUS ; ! ""
+Евгений:Евгений NP-ANT-M-RUS ; ! ""
+Петр:Петр NP-ANT-M-RUS ; ! ""
+Петӗр:Петӗр NP-ANT-M-RUS ; ! ""
+Дмитрий:Дмитрий NP-ANT-M-RUS ; ! ""
+Борис:Борис NP-ANT-M-RUS ; ! ""
+Георгий:Георгий NP-ANT-M-RUS ; ! ""
+Григорий:Григорий NP-ANT-M-RUS ; ! ""
+Вячеслав:Вячеслав NP-ANT-M-RUS ; ! ""
+Асамат:Асамат NP-ANT-M-RUS ; ! ""
+Валентин:Валентин NP-ANT-M-RUS ; ! ""
+Виктор:Виктор NP-ANT-M-RUS ; ! ""
+Денис:Денис NP-ANT-M-RUS ; ! ""
+Лев:Лев NP-ANT-M-RUS ; ! ""
+Никита:Никита NP-ANT-M-RUS ; ! ""
+Пётр:Пётр NP-ANT-M-RUS ; ! ""
+Илья:Илья NP-ANT-M-RUS ; ! ""
+Игорь:Игорь NP-ANT-M-RUS ; ! ""
+Максим:Максим NP-ANT-M-RUS ; ! ""
+Геральд:Геральд NP-ANT-M-RUS ; ! ""
+Альберт:Альберт NP-ANT-M-RUS ; ! ""
+
+
 Елена:Елена NP-ANT-F-RUS ; ! "" 
 Татьяна:Татьяна NP-ANT-F-RUS ; ! "" 
 Валентина:Валентина NP-ANT-F-RUS ; ! "" 
 Светлана:Светлана NP-ANT-F-RUS ; ! "" 
 Ирина:Ирина NP-ANT-F-RUS ; ! "" 
+
+Галина:Галина NP-ANT-F-RUS ; ! ""
+Ольга:Ольга NP-ANT-F-RUS ; ! ""
+Надежда:Надежда NP-ANT-F-RUS ; ! ""
+Вера:Вера NP-ANT-F-RUS ; ! ""
+Анастасия:Анастасия NP-ANT-F-RUS ; ! ""
+Марина:Марина NP-ANT-F-RUS ; ! ""
+Мария:Мария NP-ANT-F-RUS ; ! ""
+Екатерина:Екатерина NP-ANT-F-RUS ; ! ""
+Людмила:Людмила NP-ANT-F-RUS ; ! ""
+Нина:Нина NP-ANT-F-RUS ; ! ""
+Роза:Роза NP-ANT-F-RUS ; ! ""
+Лидия:Лидия NP-ANT-F-RUS ; ! ""
+Алина:Алина NP-ANT-F-RUS ; ! ""
+Ильина:Ильина NP-ANT-F-RUS ; ! ""
+Зоя:Зоя NP-ANT-F-RUS ; ! ""
+Ева:Ева NP-ANT-F-RUS ; ! ""
+Алена:Алена NP-ANT-F-RUS ; ! ""
+Оксана:Оксана NP-ANT-F-RUS ; ! ""
+Наталья:Наталья NP-ANT-F-RUS ; ! ""
+Кристина:Кристина NP-ANT-F-RUS ; ! ""
+Наталия:Наталия NP-ANT-F-RUS ; ! ""
+Ксения:Ксения NP-ANT-F-RUS ; ! ""
+Лариса:Лариса NP-ANT-F-RUS ; ! ""
+Катя:Катя NP-ANT-F-RUS ; ! ""
+Виктория:Виктория NP-ANT-F-RUS ; ! ""
+Наташа:Наташа NP-ANT-F-RUS ; ! ""
+Алиса:Алиса NP-ANT-F-RUS ; ! ""
+Лилия:Лилия NP-ANT-F-RUS ; ! ""
+
 
 
 LEXICON Adjectives
