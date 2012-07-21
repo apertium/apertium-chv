@@ -27,7 +27,7 @@ Multichar_Symbols
 %<np%>             ! 
 %<ant%>            ! 
 %<cog%>            ! 
-%<patro%>          ! Patronymic · Отчество
+%<pat%>          ! Patronymic · Отчество
 %<top%>            ! 
 
 %<nom%>            ! Тӗп · Инемительный / Основной · Nominative
@@ -397,8 +397,8 @@ LEXICON NP-COG-ИЙ-RUS
 
 LEXICON NP-PATRO-RUS 
 
-%<np%>%<patro%>%<m%>:ич SUBST ;
-%<np%>%<patro%>%<f%>:овна SUBST ;
+%<np%>%<pat%>%<m%>:ич SUBST ;
+%<np%>%<pat%>%<f%>:овна SUBST ;
 
 LEXICON PRON-PERS
 
