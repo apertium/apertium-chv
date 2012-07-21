@@ -64,6 +64,7 @@ Multichar_Symbols
 %<ord%>            ! Порядковые
 %<dist%>           ! Дистрибутивные
 %<coll%>           ! Собирательные
+%<percent%>        ! 
 
 %<m%>              ! Мужской род
 %<f%>              ! Женский род
@@ -166,6 +167,7 @@ Multichar_Symbols
 %{dup2%}           ! indicates that the next consonant must be duplicated (in affixes after vowel or voiced consonant)
 %{RUS%}
 
+%%
 %-
 %+
 %>                 ! Граница морфемы · Morpheme boundary
@@ -545,6 +547,7 @@ LEXICON DET-QNT
 LEXICON DIGITLEX
 
 %<num%>: # ;
+%<num%>%<percent%>:%>%% # ; 
 %<num%>%<ord%>:%>%-мӗш # ;
 %<num%>%<ord%>%<subst%>:%>%-мӗш SUBST2 ;
 
@@ -3530,6 +3533,7 @@ LEXICON Nouns
 турбогенератор:турбогенератор N1 ; ! ""
 
 тракторист:тракторист N1 ; ! ""
+департамент:департамент N1 ; ! ""
 
 LEXICON ProperNames
 
