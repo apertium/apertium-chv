@@ -166,6 +166,7 @@ Multichar_Symbols
 %{dup2%}           ! indicates that the next consonant must be duplicated (in affixes after vowel or voiced consonant)
 %{RUS%}
 
+%-
 %+
 %>                 ! Граница морфемы · Morpheme boundary
 % 
@@ -241,8 +242,8 @@ LEXICON CASE-NONOMGENDAT
 %<all%>:%{w%}%>алла COP ;
 %+ри%<post%>%<attr%>:%>%{Р%}и COP ;
 %+ри%<post%>%<subst%>:%>%{Р%}и SUBST2 ;
-%+рАни%<post%>%<attr%>:%>%{Р%}%{А%}ни COP ;
-%+рАни%<post%>%<subst%>:%>%{Р%}%{А%}ни SUBST2 ;
+%+рани%<post%>%<attr%>:%>%{Р%}%{А%}ни COP ;
+%+рани%<post%>%<subst%>:%>%{Р%}%{А%}ни SUBST2 ;
 !%+сӐри%<post%>%<attr%>:%>с%{Ӑ%}ри COP ;		! No resulta gens productiu (però possible segons l'Edik Lebedev)
 !%+сӐри%<post%>%<subst%>:%>с%{Ӑ%}ри SUBST2 ;		! No resulta gens productiu (però possible segons l'Edik Lebedev)
 !%+шӐни%<post%>%<attr%>:%>ш%{Ӑ%}ни COP ;		! No resulta gens productiu (però possible segons l'Edik Lebedev)
@@ -314,6 +315,8 @@ SUBST2 ;
 %+сӑр%<post%>%<subst%>:%>с%{Ӑ%}р%>ри SUBST2 ; !  Needs -ри to become a noun (??)
 %+лӑх%<post%>%<attr%>:%>л%{Ӑ%}х COP ;		! Деривативный аффикс (часто как -ость на русском языке)
 %+лӑх%<post%>%<subst%>:%>л%{Ӑ%}х SUBST2 ;	! Деривативный аффикс
+%+лӑ%<post%>%<attr%>:%>л%{Ӑ%} COP ;		! The function of adjectives may also be performed by the extremely common suffix –lă/-lĕ.
+!%+лӑ%<post%>%<subst%>:%>л%{Ӑ%} SUBST2 ;	! 
 
 LEXICON STR
 %<str%>:%{А%}х # ;			!!! эпӗх, илемлех, йываҫах, пилекех, ахалех (ахаль, adv), куратӑпах, кӗнекехче, кӗнекехче-и = kitap mıydı, кӗнекехче-ха, кӗнекехче-ши rus же
@@ -348,6 +351,10 @@ LEXICON N1     ! Chuvash nouns, standard paradigm
 ! Adjectives are derived by the means of -(л)л{Ӑ} (машиналлӑ) ор -л{А} (чӑвашла). Both affixes may be found for a single noun, the later meaning more '-like' and, maybe, being used often more as an adverb than as an adjective (Eduard Lebedev dixit)
 ! Some nouns may have comparative (e.g. ача·рах), but as it is little productive we don't consider that in the morphology 
 
+LEXICON N2     ! Nominal "postpositions" (perhaps can be removed)
+
+%<n%>: SUBST ; 
+
 LEXICON POS-ANNE
 
 %<px1sg%>:нне%>м CASE ;
@@ -381,7 +388,7 @@ LEXICON NP-ANT-F-RUS
 LEXICON NP-COG-ОВ-RUS 
 
 %<np%>%<cog%>%<m%>: SUBST ;
-%<np%>%<cog%>%<f%>:а SUBST ;
+%<np%>%<cog%>%<f%>:%{ӑ%} SUBST ;
 
 LEXICON NP-COG-ИЙ-RUS 
 
@@ -538,7 +545,8 @@ LEXICON DET-QNT
 LEXICON DIGITLEX
 
 %<num%>: # ;
-%<num%>%<ord%>:%-мӗш POS ;
+%<num%>%<ord%>:%>%-мӗш # ;
+%<num%>%<ord%>%<subst%>:%>%-мӗш SUBST2 ;
 
 
 LEXICON NUM-OPR
@@ -727,7 +735,8 @@ LEXICON V-COMMON
 %<ger15%>:%>{У%}ҫ%{Ӑ%}н # ;           
 
 %<ger1%>:%>м%{А%} SUBST ;
-%<ger3%>:%>н{Ӑ%} POS-INFL ;                 ! +и -> pl, case
+%<ger3%>:%>н{Ӑ%} # ;                 ! +и -> pl, case
+%<ger3%>%<px3sp%>:%>ни POS-INFL ;                 ! +и -> pl, case
 %<ger5%>:%>%{а%}к%{А%}н SUBST ;             ! CASE is also possible
 !%<ger8%>:%>{А%}с SUBST ;                        = Future participle +и -> case, also posession
 
@@ -803,10 +812,10 @@ LEXICON Particles
 веҫ:веҫ PART ; ! "вон, вон там" веҫ унта выртать, "кинга [он(а)?] лежить вон там"
 
 лап PART ; ! "именно", "ровно": лапах кӗрсе лачӗ, "плотно засел"
-лӑп PART ; ! "именно", "ровно": лӑп сакӑр сехетре çитрĕмĕр, "мы приехали рожно в восемь часов"
+лӑп PART ; ! "именно", "ровно": лӑп сакӑр сехетре çитрӗмӗр, "мы приехали рожно в восемь часов"
 шӑп PART ; ! "как раз", "точь-в-точь"
 ахӑр PART ; ! "наверно", "может быть"
-!-тӑр/тĕр PART ; ! "наверно", "может быть"	! FIXME
+!-тӑр/тӗр PART ; ! "наверно", "может быть"	! FIXME
 тен PART ; ! "возможно"
 
 LEXICON Conjunctions
@@ -1308,7 +1317,6 @@ LEXICON Nouns
 артист:артист N1 ; ! ""
 археологи:археологи N1 ; ! ""
 архив:архив N1 ; ! ""
-архитектура:архитектура N1 ; ! ""
 арча:арча N1 ; ! ""
 арҫын:арҫын N1 ; ! ""
 арӑм:арӑм N1 ; ! ""
@@ -1694,7 +1702,6 @@ LEXICON Nouns
 каналнзаци:каналнзаци N1 ; ! ""
 канаш:канаш N1 ; ! ""
 кандидат:кандидат N1 ; ! ""
-кандидатура:кандидатура N1 ; ! ""
 каникул:каникул N1 ; ! ""
 канлӗх:канлӗх N1 ; ! ""
 кантра:кантра N1 ; ! ""
@@ -1709,7 +1716,6 @@ LEXICON Nouns
 капитализм:капитализм N1 ; ! ""
 капитан:капитан N1 ; ! ""
 капкӑн:капкӑн N1 ; ! ""
-карикатура:карикатура N1 ; ! ""
 карланкӑ:карланкӑ N1 ; ! ""
 карт:карт N1 ; ! ""
 карта:карта N1 ; ! ""
@@ -1821,7 +1827,6 @@ LEXICON Nouns
 кукуруза:кукуруза N1 ; ! ""
 куланай:куланай N1 ; ! ""
 культ:культ N1 ; ! ""
-культура:культура N1 ; ! ""
 кулюкка:кулюкка N1 ; ! ""
 кулӑ:кулӑ N1 ; ! ""
 купон:купон N1 ; ! ""
@@ -1955,7 +1960,13 @@ LEXICON Nouns
 лини:лини N1 ; ! ""
 лирика:лирика N1 ; ! ""
 листовка:листовка N1 ; ! ""
-литература:литератур{ӑ%}%{RUS%} N1 ; ! ""
+скульптура:скульптур%{ӑ%}%{RUS%} N1 ; ! ""
+температура:температур%{ӑ%}%{RUS%} N1 ; ! ""
+архитектура:архитектур%{ӑ%}%{RUS%} N1 ; ! ""
+кандидатура:кандидатур%{ӑ%}%{RUS%} N1 ; ! ""
+карикатура:карикатур%{ӑ%}%{RUS%} N1 ; ! ""
+культура:культур%{ӑ%}%{RUS%} N1 ; ! ""
+литература:литератур%{ӑ%}%{RUS%} N1 ; ! ""
 литр:литр N1 ; ! ""
 лифчик:лифчик N1 ; ! ""
 личность:личность N1 ; ! ""
@@ -2490,7 +2501,6 @@ LEXICON Nouns
 скандал:скандал N1 ; ! ""
 скелет:скелет N1 ; ! ""
 склад:склад N1 ; ! ""
-скульптура:скульптура N1 ; ! ""
 слива:слива N1 ; ! ""
 слон:слон N1 ; ! ""
 служащи:служащи N1 ; ! ""
@@ -2652,7 +2662,6 @@ LEXICON Nouns
 телей:телей N1 ; ! ""
 телефон:телефон N1 ; ! ""
 тема:тема N1 ; ! ""
-температура:температура N1 ; ! ""
 тенкел:тенкел N1 ; ! ""
 тенкӗ:тенкӗ N1 ; ! ""
 тенор:тенор N1 ; ! ""
@@ -3501,6 +3510,25 @@ LEXICON Nouns
 
 компьютер:компьютер N1 ; ! ""
 конкурс:конкурс N1 ; ! ""
+редактор:редактор N1 ; ! ""
+автор:автор N1 ; ! ""
+композитор:композитор N1 ; ! ""
+император:император  N1 ; ! ""
+доктор:доктор N1 ; ! ""
+администратор:администратор N1 ; ! ""
+прожектор:прожектор N1 ; ! ""
+ректор:ректор N1 ; ! ""
+оператор:оператор N1 ; ! ""
+архитектор:архитектор N1 ; ! ""
+тӗпдиректор:тӗпдиректор N1 ; ! ""
+корректор:корректор N1 ; ! ""
+инструктор:инструктор N1 ; ! ""
+гендиректор:гендиректор N1 ; ! ""
+фактор:фактор N1 ; ! ""
+экватор:экватор N1 ; ! ""
+турбогенератор:турбогенератор N1 ; ! ""
+
+тракторист:тракторист N1 ; ! ""
 
 LEXICON ProperNames
 
@@ -3634,6 +3662,55 @@ LEXICON ProperNames
 Саша:Саша NP-ANT-F-RUS ;
 Женя:Женя NP-ANT-M-RUS ;
 Женя:Женя NP-ANT-F-RUS ;
+
+Алёна:Алёна NP-ANT-F-RUS ; ! ""
+Альбина:Альбина NP-ANT-F-RUS ; ! ""
+Ангелина:Ангелина NP-ANT-F-RUS ; ! ""
+Анжела:Анжела NP-ANT-F-RUS ; ! ""
+Аня:Аня NP-ANT-F-RUS ; ! ""
+Варвара:Варвара NP-ANT-F-RUS ; ! ""
+Вероника:Вероника NP-ANT-F-RUS ; ! ""
+Дарья:Дарья NP-ANT-F-RUS ; ! ""
+Елизавета:Елизавета NP-ANT-F-RUS ; ! ""
+Лена:Лена NP-ANT-F-RUS ; ! ""
+Люба:Люба NP-ANT-F-RUS ; ! ""
+Любовь:Любовь NP-ANT-F-RUS ; ! ""
+Люда:Люда NP-ANT-F-RUS ; ! ""
+Людовь:Людовь NP-ANT-F-RUS ; ! ""
+Маргарита:Маргарита NP-ANT-F-RUS ; ! ""
+Надя:Надя NP-ANT-F-RUS ; ! ""
+Ольга:Ольга NP-ANT-F-RUS ; ! ""
+Полина:Полина NP-ANT-F-RUS ; ! ""
+Сильвия:Сильвия NP-ANT-F-RUS ; ! ""
+
+
+Эктор:Эктор NP-ANT-M-RUS ; ! ""
+Антон:Антон NP-ANT-M-RUS ; ! ""
+Аркадий:Аркадий NP-ANT-M-RUS ; ! ""
+Артем:Артем NP-ANT-M-RUS ; ! ""
+Артур:Артур NP-ANT-M-RUS ; ! ""
+Ататолий:Ататолий NP-ANT-M-RUS ; ! ""
+Вадим:Вадим NP-ANT-M-RUS ; ! ""
+Владислав:Владислав NP-ANT-M-RUS ; ! ""
+Генадий:Генадий NP-ANT-M-RUS ; ! ""
+Герман:Герман NP-ANT-M-RUS ; ! ""
+Данил:Данил NP-ANT-M-RUS ; ! ""
+Дима:Дима NP-ANT-M-RUS ; ! ""
+Иосиф:Иосиф NP-ANT-M-RUS ; ! ""
+Камиль:Камиль NP-ANT-M-RUS ; ! ""
+Коля:Коля NP-ANT-M-RUS ; ! ""
+Костя:Костя NP-ANT-M-RUS ; ! ""
+Марсель:Марсель NP-ANT-M-RUS ; ! ""
+Мухамет:Мухамет NP-ANT-M-RUS ; ! ""
+Павел:Павел NP-ANT-M-RUS ; ! ""
+Порфирий:Порфирий NP-ANT-M-RUS ; ! ""
+Ранис:Ранис NP-ANT-M-RUS ; ! ""
+Рафаель:Рафаель NP-ANT-M-RUS ; ! ""
+Рашид:Рашид NP-ANT-M-RUS ; ! ""
+Спиридон:Спиридон NP-ANT-M-RUS ; ! ""
+Станислав:Станислав NP-ANT-M-RUS ; ! ""
+Стас:Стас NP-ANT-M-RUS ; ! ""
+Степан:Степан NP-ANT-M-RUS ; ! ""
 
 
 
@@ -7159,6 +7236,7 @@ LEXICON Interjections
 паллах:паллах INTERJ ; ! ""
 тавтапуҫ:тавтапуҫ INTERJ ; ! ""
 салам:салам INTERJ ; ! ""
+ҫук:ҫук INTERJ ; ! ""
 
 
 LEXICON Postpositions 
@@ -7167,7 +7245,25 @@ LEXICON Postpositions
 тӳнтерлӗшӗ POST ; ! ""
 яхăн:яхăн POST ; ! ""
 
-! Aquestes postposicions apareixen en el Krüger com a "posposicions invariables"
+! Aquests noms funcionen com a posposicions
+аяк:аяк N2 ; ! "side"
+ум:ум N2 ; ! "front, before"
+варӑ:варӑ N2 ; ! "midst"
+ай:ай N2 ; ! "underpart, underside"
+ҫи:ҫи N2 ; ! "surface"
+ен:ен N2 ; ! "side"
+тӑрӑ:тӑрӑ N2 ; ! "upon"
+хыҫ:хыҫ N2 ; ! "rear, behind"
+хӗр:хӗр N2 ; ! "edge"
+пат:пат N2 ; ! "direction, towards"
+ҫум:ҫум N2 ; ! "along"
+хушӑ:хушӑ N2 ; ! "between, internal"
+хӗрри:хӗрри N2 ; ! "front one side"
+ӑш:ӑш N2 ; ! "interior, inside"
+тӑрри:тӑрри N2 ; ! "upon"
+ҫывӑх:ҫывӑх N2 ; ! "vicinity, near"
+
+! Aquestes posposicions apareixen en el Krüger com a "posposicions invariables"
 валли:валли POST ; ! "for"
 пирки:пирки POST ; ! "by virtue of"
 пек:пек POST ; ! "like"
