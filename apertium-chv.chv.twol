@@ -155,8 +155,8 @@ Vx:Vy <=> _ [ %{RUS%}: :Cns ]/[ %>: | %{b%}: | %{w%}: | %{н%}: ] ;
 "No ь before a harmonised front vowel"
 ь:0 <=> _ [ :е | :ӗ | :у | :ӳ ]/[ :0 ] ;
         except
-            т: _ %>: %{dup%}: %{ӗ%}: ;
-            д: _ %>: %{dup%}: %{ӗ%}: ;
+            т: _ %>: %{dup%}: %{в%}: %{ӗ%}: ;
+            д: _ %>: %{dup%}: %{в%}: %{ӗ%}: ;
             _ е: %{RUS%}: ;    ! to avoid conflicting with ье (and ь:й) in Russian loans
 
 !!!!! Gemination rules !!!!!
@@ -215,23 +215,23 @@ Vx:0 <=> Glasnye Soglasnye _ %{w%}: ;
 !	matched ;
 
 "т > ч in px3sp"
-Ct:ч <=> _ %>: %{dup%}: %{ӗ%}: ;
+Ct:ч <=> _ %>: %{dup%}: %{в%}: %{ӗ%}: ;
 	where Ct in ( т д ) ;
 
 "ть > ч in px3sp (1): тетрадь > тетраче"
-Cd:ч <=> _ ь: %>: %{dup%}: %{ӗ%}: ;
+Cd:ч <=> _ ь: %>: %{dup%}: %{в%}: %{ӗ%}: ;
 	where Cd in ( т д ) ;
 
 "ть > ч in px3sp (1): тетрадь > тетраче"
-ь:0 <=> [ т: | д: ] _ %>: %{dup%}: %{ӗ%}: ;
+ь:0 <=> [ т: | д: ] _ %>: %{dup%}: %{в%}: %{ӗ%}: ;
 
 
 "чӗлхе%>%{dup%}%{ӗ%} > чӗлхи (1)"
-AE:0 <=> _ %>: %{dup%}: %{ӗ%}: ;
+AE:0 <=> _ %>: %{dup%}: %{в%}: %{ӗ%}: ;
 	where AE in ( ӑ а е ӗ ) ;
 
 "чӗлхе%>%{dup%}%{ӗ%} > чӗлхи (2)"
-%{ӗ%}:и <=> AEVow: %>: %{dup%}: _ ;
+%{ӗ%}:и <=> AEVow: %>: %{dup%}: %{в%}: _ ;
 
 !!!!! FIXME: The following two rules need to be rethought.  For now they're causing issues so have been disabled.
 !
@@ -249,12 +249,12 @@ AE:0 <=> _ %>: %{dup%}: %{ӗ%}: ;
 AE:0 <=> _ %>: %{dup%}: ;
 	except
 		_ %>: %{dup%}: %{У%}: ;
-		_ %>: %{dup%}: %{ӗ%}: ;
+		_ %>: %{dup%}: %{в%}: %{ӗ%}: ;
 	where AE in ( ӑ ӗ ) ;
 
 "px3sp -ӗ > 0 in dative"
-%{ӗ%}:0 <=> %{dup%}: _ %{н%}: %{w%}: ;
-	except AEVow: %>: %{dup%}: _ ;
+%{ӗ%}:0 <=> %{dup%}: %{в%}: _ %{н%}: %{w%}: ;
+	except AEVow: %>: %{dup%}: %{в%}: _ ;
 !%<px3sp%>:%>%{dup%}%{ӗ%}%{н%} POS-INFL ;
 !%<dat%>:%{w%}%>%{н%}%{А%} COP ;
 
@@ -321,7 +321,7 @@ Va:я <=> [ :BackVow :Soglasnye* %{й%}: ]/[ %>: | %{н%}: | %{b%}: | %{w%}: ]  
 !а:я <=> %{й%}: %>: _ ;
 !        except
 !                   _ %>: %{У%}: ;
-!                   _ %>: %{ӗ%}: ;
+!                   _ %>: %{в%}: %{ӗ%}: ;
 !                   _ %>: %{А%}: ;
 
 !"й>{У} = >ю"
@@ -463,11 +463,11 @@ Vx:0 <=> _ %>: %{dup%}: %{У%}: ;
         where Vx in ( %{ӑ%} %{Ӗ%} ) ;
 
 !"Delete vowels before {ӗ} (Russian loans 1)"
-!Vx:0 <=> _ %>: %{ӗ%}: ;
+!Vx:0 <=> _ %>: %{в%}: %{ӗ%}: ;
 !        where Vx in ( %{ӑ%} %{Ӗ%} ) ;
 
 "Delete vowels before {У} (Russian loans 2)"
-Vx:0 <=> _ %>: %{dup%}: %{ӗ%}: ;
+Vx:0 <=> _ %>: %{dup%}: %{в%}: %{ӗ%}: ;
         where Vx in ( %{ӑ%} %{Ӗ%} ) ;
 
 "Delete ӗ/ӑ in stem before adjective substantivation"
@@ -593,3 +593,6 @@ Cx:0 <=> _ Cy %{RUS%}:* %>: ;
                 Cy in Soglasnye
                 matched ;
 
+"# ҫын # > ҫынӑ"
+! ҫын behaves as its old form ҫынӑ, but has lost the final ӑ in the non-marked form
+ӑ:0 <=> .#. ҫ ы н _ .#. ;
