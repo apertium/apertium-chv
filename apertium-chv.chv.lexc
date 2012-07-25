@@ -179,8 +179,8 @@ Multichar_Symbols
 
 
 LEXICON Root
-!Regexp ; 
 
+!Regexp ; 
 Particles ; ! :(
 Punctuation ;
 Pronouns ;
@@ -195,8 +195,6 @@ Verbs ;
 Postpositions ;
 Interjections ;
 
-!Test ;
-
 LEXICON K0
 
 # ;
@@ -207,12 +205,12 @@ LEXICON K0
 LEXICON K 
 
 K0 ;
-%<intens%%>:%{%А}х K0 ;	! усилительный: вӑлах тунӑ, 'он же сделал'
+%<part%>:%>%{А%}х K0 ;	! усилительный: вӑлах тунӑ, 'он же сделал'
 
 LEXICON K2
 
 K ;
-%+сам%<part%>:с%{А%}М K ;	! килсем, 'пожалуйста, подойди'
+%+сам%<part%>:%>с%{А%}М K ;	! килсем, 'пожалуйста, подойди'
 
 LEXICON COP
 
@@ -3878,6 +3876,7 @@ LEXICON Nouns
 тракторист:тракторист N1 ; ! ""
 департамент:департамент N1 ; ! ""
 
+колхоз:колхоз N1 ; ! ""
 
 
 
