@@ -48,14 +48,16 @@ Multichar_Symbols
 %<caus%>           ! Causative:
 %<pass%>           ! Passive:
 
-%<pers%>           !
-%<ind%>            !
-%<dem%>            !
-%<qnt%>            !
-%<itg%>            !
-%<ref%>            !
+%<pers%>           ! Personal
+%<ind%>            ! Indefinite
+%<dem%>            ! Demonstrative
+%<qnt%>            ! Quantitative
+%<pos%>            ! Possessive
+%<recip%>          ! Reciprocal
+%<itg%>            ! Interrogative
+%<ref%>            ! Reflexive
 %<qst%>            !
-%<neg%>
+%<neg%>            ! Negative
 
 %<comp%>           ! Сравнительный · Comparative
 
@@ -165,6 +167,7 @@ Multichar_Symbols
 %{w%}              ! Holds a place for в in у/ӳ > ӑв/ӗв or for consonant gemination
 %{dup%}            ! indicates that the previous consonant must be duplicated
 %{dup2%}           ! indicates that the next consonant must be duplicated (in affixes after vowel or voiced consonant)
+%{del%}            ! indicates that the previous ӑ/ӗ must be deleted
 %{RUS%}
 
 %%
@@ -194,13 +197,17 @@ Interjections ;
 
 !Test ;
 
-LEXICON K 
+LEXICON K0
 
+# ;
 %+и%<qst%>:%-и # ;	! FIXME: -и, -ши, -шим ('ли'); -им, -и-мӗн ('разве', 'что ли') - according to Н.А. Андреев, 1961, с. 625
 %+ха%<part%>:%-ха # ;	! també a мӗншӗн-ха
 %+ши%<part%>:%-ши # ;
-%+ах%<part%>:%-%{%А}х # ;	! усилительный: вӑлах тунӑ, 'он же сделал'
-# ;
+
+LEXICON K 
+
+K0 ;
+%<intens%%>:%{%А}х K0 ;	! усилительный: вӑлах тунӑ, 'он же сделал'
 
 LEXICON K2
 
@@ -210,7 +217,7 @@ K ;
 LEXICON COP
 
 # ;
-%+ӗ%<cop%>%<past%>:%>%{ч%}чӗ K;		! FIXME: %{dup2%} seria més general i hauria de funcionar
+%+ӗ%<cop%>%<past%>:%>%{ч%}чӗ K;		! FIXME: %{dup2%} seria més general i segurament funcionaria
 !%<freq%>:серен K ;
 K ;
 
@@ -237,17 +244,31 @@ LEXICON CASE-NONOMGENDAT
 %<loc%>:%>%{Р%}%{А%} COP ;
 %<abl%>:%>%{Р%}%{А%}н COP ;				! автан·ран, кофӗ·рен 
 %<abl%>:%>%{Т%}%{А%}н COP ;	! Dir/LR		! автан·тан, кофӗ·рен
-CASE-NONOMGENDAT-SUPERREGULAR ;
-%+ри%<post%>%<attr%>:%>%{Р%}и COP ;
-%+ри%<post%>%<subst%>:%>%{Р%}и SUBST2 ;
-%+рани%<post%>%<attr%>:%>%{Р%}%{А%}ни COP ;
-%+рани%<post%>%<subst%>:%>%{Р%}%{А%}ни SUBST2 ;
-!%+сӐри%<post%>%<attr%>:%>с%{Ӑ%}ри COP ;		! No resulta gens productiu (però possible segons l'Edik Lebedev)
-!%+сӐри%<post%>%<subst%>:%>с%{Ӑ%}ри SUBST2 ;		! No resulta gens productiu (però possible segons l'Edik Lebedev)
-!%+шӐни%<post%>%<attr%>:%>ш%{Ӑ%}ни COP ;		! No resulta gens productiu (però possible segons l'Edik Lebedev)
-!%+шӐни%<post%>%<subst%>:%>ш%{Ӑ%}ни SUBST2 ;		! No resulta gens productiu (però possible segons l'Edik Lebedev)
+CASE-NONOMGENDAT-SUPERREGULAR-COP ;
 
-LEXICON CASE-NONOMGENDAT-SUPERREGULAR
+! падеж + паларту аффикс
+%+ри%<post%>%<attr%>:%>%{Р%}%>и COP ;			! варманти, урамри
+%+ри%<post%>%<subst%>:%>%{Р%}%>и SUBST_NOPOS ;
+%+рани%<post%>%<attr%>:%>%{Р%}%{А%}н%>и COP ;
+%+рани%<post%>%<subst%>:%>%{Р%}%{А%}н%>и SUBST_NOPOS ;
+%+рани%<post%>%<attr%>:%>%{Т%}%{А%}н%>и COP ;		! Dir/LR
+%+рани%<post%>%<subst%>:%>%{Т%}%{А%}н%>и SUBST_NOPOS ;	! Dir/LR
+%+сӐри%<post%>%<attr%>:%>с%{Ӑ%}р%>ри COP ;
+%+сӐри%<post%>%<subst%>:%>с%{Ӑ%}р%>ри SUBST_NOPOS ;
+%+шӐни%<post%>%<attr%>:%>ш%{Ӑ%}н%>ни COP ;		! миршӗнни
+%+шӐни%<post%>%<subst%>:%>ш%{Ӑ%}н%>ни SUBST_NOPOS ;
+%+рАскер%<post%>%<attr%>:%>%{Р%}%{А%}%>скер COP ;	! вармантаскер
+%+рАскер%<post%>%<subst%>:%>%{Р%}%{А%}%>скер SUBST_NOPOS ;
+%+ранскер%<post%>%<attr%>:%>%{Р%}%{А%}н%>скер COP ;
+%+ранскер%<post%>%<subst%>:%>%{Р%}%{А%}н%>скер SUBST_NOPOS ;
+%+ранскер%<post%>%<attr%>:%>%{Т%}%{А%}н%>скер COP ;		! Dir/LR
+%+ранскер%<post%>%<subst%>:%>%{Т%}%{А%}н%>скер SUBST_NOPOS ;	! Dir/LR
+%+сӐрскер%<post%>%<attr%>:%>с%{Ӑ%}р%>скер COP ;
+%+сӐрскер%<post%>%<subst%>:%>с%{Ӑ%}р%>скер SUBST_NOPOS ;
+%+шӐнскер%<post%>%<attr%>:%>ш%{Ӑ%}н%>скер COP ;
+%+шӐнскер%<post%>%<subst%>:%>ш%{Ӑ%}н%>скер SUBST_NOPOS ;
+
+LEXICON CASE-NONOMGENDAT-SUPERREGULAR-COP
 
 %<ins%>:%>п%{А%} COP ;
 %<ins%>:%>п%{А%}л%{А%} COP ;	! Dir/LR 		! литературная форма
@@ -263,6 +284,14 @@ LEXICON CASE-NONOMGENDAT-SUPERREGULAR-K
 %<ben%>:%>ш%{Ӑ%}н K ;
 %<all%>:%{w%}%>алла K ;
 
+LEXICON CASE-NONOMGENDAT-SUPERREGULAR
+
+%<ins%>:%>п%{А%} # ;
+%<ins%>:%>п%{А%}л%{А%} # ;	! Dir/LR 		! литературная форма
+%<abe%>:%>с%{Ӑ%}р # ;
+%<ben%>:%>ш%{Ӑ%}н # ;
+%<all%>:%{w%}%>алла # ;
+
 LEXICON CASE
 
 CASE-NOM ;
@@ -271,10 +300,10 @@ CASE-NONOM ;
 LEXICON CASE-ADJ	! case endings after substantivation suffix
  
 %<nom%>: K ;
-%<gen%>:%>н K ;
-%<dat%>:%>не K ;
-%<loc%>:%>нче K ;
-%<abl%>:%>нчен K ;
+%<gen%>:%>%{Ӑ%}н K ;
+%<dat%>:%>н%{А%} K ;
+%<loc%>:%>нч%{А%} K ;
+%<abl%>:%>нч%{А%}н K ;
 CASE-NONOMGENDAT-SUPERREGULAR-K ;
 
 LEXICON POS-INFL ! After possession
@@ -291,17 +320,19 @@ LEXICON POS-NUM             	! Posession for numerals
 
 LEXICON POS		! Possession
 
-! FIXME: %{dup%} should be before %> and not after (pro forma)
 %<px1sg%>:%>%{dup%}%{Ӑ%}м POS-INFL ;
 %<px2sg%>:%>%{dup%}%{У%}%{н2%} POS-INFL ;
 %<px3sp%>:%>%{dup%}%{в%}%{ӗ%}%{н%} POS-INFL ;
 %<px1pl%>:%>%{dup%}%{Ӑ%}м%>%{Ӑ%}р POS-INFL ;
 %<px2pl%>:%>%{dup%}%{Ӑ%}р POS-INFL ;
-! %<px1sg%>:%{dup%}%>%{Ӑ%}м POS-INFL ;
-! %<px2sg%>:%{dup%}%>%{У%}%{н2%} POS-INFL ;
-! %<px3sp%>:%{dup%}%>%{в%}%{ӗ%}%{н%} POS-INFL ;
-! %<px1pl%>:%{dup%}%>%{Ӑ%}м%>%{Ӑ%}р POS-INFL ;
-! %<px2pl%>:%{dup%}%>%{Ӑ%}р POS-INFL ;
+
+LEXICON POS-SG  	! Possession without plural (e.g. after np.top)
+
+%<px1sg%>:%>%{dup%}%{Ӑ%}м CASE ;
+%<px2sg%>:%>%{dup%}%{У%}%{н2%} CASE ;
+%<px3sp%>:%>%{dup%}%{в%}%{ӗ%}%{н%} CASE ;
+%<px1pl%>:%>%{dup%}%{Ӑ%}м%>%{Ӑ%}р CASE ;
+%<px2pl%>:%>%{dup%}%{Ӑ%}р CASE ;
 
 LEXICON SUBST_NOPOS  ! Nominal inflection without POS
 
@@ -314,6 +345,11 @@ LEXICON SUBST2  ! Nominal inflection (e.g. after n)
 SUBST_NOPOS ;
 POS ;
 
+LEXICON SUBST2-SG  ! Nominal inflection without plural (e.g. after np.top)
+
+CASE ;
+POS-SG ;
+
 LEXICON SUBST  ! Nominal inflection (e.g. after n)
 
 SUBST2 ;
@@ -322,12 +358,16 @@ SUBST2 ;
 
 %+хи%<post%>:%>хи # ;			!!! FIXME - только отдельные слова!!! turc = ki		! Деривативный аффикс (n > adj)
 %+хи%<post%>%<subst%>:%>хи SUBST2 ;			!!! FIXME - только отдельные слова!!! turc = ki
-%+сӑр%<post%>:%>с%{Ӑ%}р COP ;		! Деривативный аффикс (n > adj: без-...-ный)		(el que passa és que pot ser interessant de tenir-lo perquè probablement hi haurà ambigüitat amb el cas -с%{Ӑ%}р i farem anàlisis dolentes)
-%+сӑр%<post%>%<subst%>:%>с%{Ӑ%}р%>ри SUBST2 ; !  Needs -ри to become a noun (??)
+!%+сӑр%<post%>:%>с%{Ӑ%}р COP ;		! Деривативный аффикс (n > adj: без-...-ный)		(el que passa és que pot ser interessant de tenir-lo perquè probablement hi haurà ambigüitat amb el cas -с%{Ӑ%}р i farem anàlisis dolentes)
+!%+сӑр%<post%>%<subst%>:%>с%{Ӑ%}р%>ри SUBST2 ; !  Needs -ри to become a noun (??)
 %+лӑх%<post%>%<attr%>:%>л%{Ӑ%}х COP ;		! Деривативный аффикс (часто как -ость на русском языке)
 %+лӑх%<post%>%<subst%>:%>л%{Ӑ%}х SUBST2 ;	! Деривативный аффикс
-%+лӑ%<post%>%<attr%>:%>л%{Ӑ%} COP ;		! The function of adjectives may also be performed by the extremely common suffix –lă/-lĕ.
+%+лӑ%<post%>%<attr%>:%>л%{Ӑ%} COP ;		! The function of adjectives may also be performed by the extremely common suffix –lӑ/-lӗ.
 !%+лӑ%<post%>%<subst%>:%>л%{Ӑ%} SUBST2 ;	! 
+
+LEXICON SUBST-SG  ! Nominal inflection without plural (e.g. after np.top)
+
+SUBST2-SG ;
 
 LEXICON STR
 %<str%>:%{А%}х # ;			!!! эпӗх, илемлех, йываҫах, пилекех, ахалех (ахаль, adv), куратӑпах, кӗнекехче, кӗнекехче-и = kitap mıydı, кӗнекехче-ха, кӗнекехче-ши rus же
@@ -337,7 +377,7 @@ LEXICON NUM-SUBST  ! Nominal inflection num.subst
 
 CASE ;
 %<pl%>:%>се%{М%} CASE ;
-POS-NUM
+POS-NUM ;
 
 LEXICON ADJ-SUBST-NOPOS  ! Nominal inflection adj.subst without POS
 
@@ -395,7 +435,7 @@ LEXICON N-ANNE
 
 LEXICON NP-TOP 
 
-%<np%>%<top%>: SUBST ; 
+%<np%>%<top%>: SUBST-SG ; 
 
 LEXICON NP-ANT-M-RUS 
 
@@ -489,9 +529,14 @@ LEXICON PRON-ADV
 %<prn%>%<adv%>: CASE ; 
 
 
+LEXICON PRON-NEG
+
+%<prn%>%<neg%>: CASE ; 
+
+
 LEXICON PRON-IND
 
-%<prn%>%<ind%>%<nom%>: # ; 
+%<prn%>%<ind%>: CASE ; 
 
 
 LEXICON PRON-ITG
@@ -503,16 +548,6 @@ LEXICON PRON-ITG
 LEXICON PRON-DEM-PL
 
 %<prn%>%<dem%>%<pl%>:%>се%{М%} CASE ; 
-
-LEXICON PRON-DEM-NONOMSG
-
-%<prn%>%<dem%>: CASE-NONOM ; 
-PRON-DEM-PL ;
-
-LEXICON PRON-DEM-NONOMGENDATSG
-
-%<prn%>%<dem%>: CASE-NONOMGENDAT ; 
-PRON-DEM-PL ;
 
 LEXICON PRON-DEM
 
@@ -543,28 +578,55 @@ LEXICON DET-QNT
 
 %<det%>%<qnt%>: # ;
 
+LEXICON DET-POS
+
+%<det%>%<pos%>: # ;
+%<det%>%<pos%>%<subst%>:%>%{dup%}%{и%} ADJ-SUBST-NOPOS ;
+
 LEXICON DIGITLEX
 
 %<num%>: # ;
 %<num%>%<percent%>:%>%% # ; 
 %<num%>%<ord%>:%>%-мӗш # ;
-%<num%>%<ord%>%<subst%>:%>%-мӗш SUBST2 ;
+%<num%>%<ord%>%<subst%>:%>%-мӗш NUM-ORD ;
 
 
 LEXICON NUM-OPR
 
 %<num%>: # ;
+%<num%>%<coll%>: NUM-OPR-COLL ;
+
+! Collective forms based on the short forms of the numbers
+LEXICON NUM-OPR-COLL
+
+%<px1pl%>:%{del%}%>с%{Ӑ%}м%>%{Ӑ%}р POS-INFL ;		! "мы двое/оба, мы трое/втроём..."
+%<px2pl%>:%{del%}%>с%{Ӑ%}р POS-INFL ;			! "вы двое/оба, вы трое/втроём..."
+
+! Collective forms based on the full forms of the numbers
+LEXICON NUM-SUB-COLL
+
+:%{Ӑ%}н # ;
+:%{Ӑ%}н CASE ;			! FIXME: In Н.А. Андреев, 1961, с. 612, speaks about "некоторые падежи" - plural forms have not been found in the corpora
+%<px3sp%>:%>шӗ POS-INFL ;	! "(они) оба/двое из них, (они) трое/трое из них..."	! FIXME: In Н.А. Андреев, 1961, с. 612, it's written ш(ӗ) without any explanation. Examples end in -шӗ
 
 LEXICON NUM-SUB
 
 %<num%>%<subst%>: NUM-SUBST ;
-%<num%>%<ord%>:%>м%{Ӑ%}ш  CASE ;
-%<num%>%<ord%>:%>се%{М%} CASE ; 
-%<num%>%<coll%>:%>%{Ӑ%}н # ;
+%<num%>%<ord%>:%>мӗш  NUM-ORD ;
+%<num%>%<coll%>: NUM-SUB-COLL ;
+
+LEXICON NUM-ORD
+
+# ;
+CASE ;
+%<pl%>:%>се%{М%} CASE ; 
+%<px3sp%>:%>%{dup%}%{в%}%{ӗ%}%{н%} POS-INFL ;	! Возможно только 3 лицо
 
 LEXICON NUM-DIST
+
 %<num%>%<dist%>:%>ш%{А%}р # ;
-%<num%>%<dist%>%<coll%>:%>ш%{А%}р%{Ӑ%}н # ;
+%<num%>%<dist%>:%>ш%{А%}р CASE ;	! FIXME: In Н.А. Андреев, 1961, с. 612, speaks about "некоторые падежи" - plural forms have not been found in the corpora (but in fact, also икшере, nor икшерте have not been found)
+%<num%>%<dist%>%<coll%>:%>ш%{А%}р%{Ӑ%}н # ;	! In this form case seems not to be added (E. Lebedev)
 
 LEXICON ADV-ITG
 
@@ -573,7 +635,7 @@ LEXICON ADV-ITG
 LEXICON ADV
 
 %<adv%>: K ;
-%<adv%>%<intens%>:%{А%}х K ;
+!%<adv%>%<intens%>:%{А%}х K ;
 %<adv%>%<attr%>: # ;
 %<adv%>%<subst%>: SUBST ; ! туху, перлелеь сулклах, пирке  только отдельные слова (mirarà si els adverbis típics tenen tots 4 casos)
 !-и
@@ -591,12 +653,12 @@ LEXICON ПУР_ҪУК
 LEXICON A1
 
 %<adj%>: COP ;
-%<adj%>%<intens%>:%{А%}х COP ;				! FIXME: Ах va abans o després de чӗ?
+!%<adj%>%<intens%>:%{А%}х COP ;				! Nota: va abans de (ч)чӗ
 ! адвербиализация
 %<adj%>%<advl%>: # ;
-%<adj%>%<advl%>%<intens%>:%{А%}х K ;
+!%<adj%>%<advl%>%<intens%>:%{А%}х K ;
 ! субстантивация
-%<adj%>%<subst%>:%>%{dup%}%{и%} ADJ-SUBST-NOPOS ; 
+%<adj%>%<subst%>:%>%{dup%}%{и%} ADJ-SUBST-NOPOS ;	! VERIFY: нумаййи
 %<adj%>%<subst%>: ADJ-SUBST ; 				! Dir/LR
 %<adj%>%<sker%>:%>скер ADJ-SUBST ; 
 ! сравнение
@@ -731,6 +793,7 @@ LEXICON V-COMMON
 %<ger9%>:%>с%{А%}н STR ; 
 %<ger10%>:%>{А%} # ; 
 %<ger11%>:%>иччен STR ; 
+%<ger11%>%<subst%>:%>иччен%>х%{и%} ADJ-SUBST-NOPOS ;	! Паларту аффикс (Павлов 2005:8)
 %<ger12%>:%>н%{Ӑ%}ҫемӗн # ; 
 %<ger13%>:%>н%{Ӑ%}ранпа STR ;                  ! Turkish -dan beri
 %<ger14%>:%>м%{А%}ссерен STR ;  
@@ -814,11 +877,12 @@ LEXICON Particles
 веҫ:веҫ PART ; ! "вон, вон там" веҫ унта выртать, "кинга [он(а)?] лежить вон там"
 
 лап PART ; ! "именно", "ровно": лапах кӗрсе лачӗ, "плотно засел"
-лӑп PART ; ! "именно", "ровно": лӑп сакӑр сехетре çитрӗмӗр, "мы приехали рожно в восемь часов"
+лӑп PART ; ! "именно", "ровно": лӑп сакӑр сехетре ҫитрӗмӗр, "мы приехали рожно в восемь часов"
 шӑп PART ; ! "как раз", "точь-в-точь"
 ахӑр PART ; ! "наверно", "может быть"
 !-тӑр/тӗр PART ; ! "наверно", "может быть"	! FIXME
 тен PART ; ! "возможно"
+нихак PART ; ! "кажется"
 
 LEXICON Conjunctions
 
@@ -871,6 +935,18 @@ LEXICON Pronouns
 ҫак%<prn%>%<dem%>%<ben%>:ҫакӑншӑн #;
 ҫак:ҫак PRON-DEM-PL ; ! ""
 
+ҫав%<prn%>%<dem%>%<nom%>:ҫав #;
+ҫав%<prn%>%<dem%>%<nom%>:ҫавӑ #;	! Dir/LR
+ҫав%<prn%>%<dem%>%<gen%>:ҫавӑн #;
+ҫав%<prn%>%<dem%>%<dat%>:ҫавна #;
+ҫав%<prn%>%<dem%>%<loc%>:ҫавӑнта #;	! loc and abl do not change т > п
+ҫав%<prn%>%<dem%>%<abl%>:ҫавӑнтан #;
+ҫав%<prn%>%<dem%>%<ins%>:ҫавӑнпа #;
+ҫав%<prn%>%<dem%>%<ins%>:ҫавӑнпала #;  	! Dir/LR
+ҫав%<prn%>%<dem%>%<abe%>:ҫавӑнсӑр #;
+ҫав%<prn%>%<dem%>%<ben%>:ҫавӑншӑн #;
+ҫав:ҫав PRON-DEM-PL ; ! ""
+
 леш%<prn%>%<dem%>%<nom%>:леш #;
 леш%<prn%>%<dem%>%<nom%>:лешӗ #;	! Dir/LR
 леш%<prn%>%<dem%>%<gen%>:лешӗн #;
@@ -895,14 +971,11 @@ LEXICON Pronouns
 хай%<prn%>%<dem%>%<ben%>:хайхиншӗн #;
 хай:хайхи PRON-DEM-PL ; ! ""
 
-ҫав:ҫав PRON-DEM ; ! ""				!!!!! CONTROL!! (PROBABLY NOT!)
-ҫавӑ:ҫав PRON-DEM ; ! "" ! Dir/LR
+хам:хам PRON-REFL ; ! "я сам"
+хамӑр:хамӑр PRON-REFL ; ! "мы сами"
+хавӑр:хавӑр PRON-REFL ; ! "вы сами"
 
-хам:хам PRON-REFL ; ! ""
-хамӑр:хамӑр PRON-REFL ; ! ""
-хавӑр:хавӑр PRON-REFL ; ! ""
-
-ху%<prn%>%<ref%>%<nom%>:ху #;
+ху%<prn%>%<ref%>%<nom%>:ху #;		! "ты сам"
 ху%<prn%>%<ref%>%<gen%>:хӑвӑн #;
 ху%<prn%>%<ref%>%<dat%>:хӑвна #;
 ху%<prn%>%<ref%>%<loc%>:хӑвӑнта #;
@@ -918,7 +991,7 @@ LEXICON Pronouns
 ху%<prn%>%<ref%>%<ben%>:хӑвшӑн #;	! Dir/LR
 ху%<prn%>%<ref%>%<ben%>:хушӑн #;	! Dir/LR
 
-хӑй%<prn%>%<ref%>%<nom%>:хӑй #;
+хӑй%<prn%>%<ref%>%<nom%>:хӑй #;		! "он сам"
 хӑй%<prn%>%<ref%>%<gen%>:хӑйӗн #;
 хӑй%<prn%>%<ref%>%<dat%>:хӑйне #;
 хӑй%<prn%>%<ref%>%<loc%>:хӑйӗнче #;
@@ -929,7 +1002,7 @@ LEXICON Pronouns
 хӑй%<prn%>%<ref%>%<ben%>:хӑйӗншӗн #;
 хӑй%<prn%>%<ref%>%<ben%>:хӑйшӗн #;	! Dir/LR
 
-хӑйсем%<prn%>%<ref%>%<nom%>:хӑйсем #;
+хӑйсем%<prn%>%<ref%>%<nom%>:хӑйсем #;	! "они сами"
 хӑйсем%<prn%>%<ref%>%<gen%>:хӑйсен #;
 хӑйсем%<prn%>%<ref%>%<dat%>:хӑйсене #;
 хӑйсем%<prn%>%<ref%>%<loc%>:хӑйсенче #;
@@ -939,25 +1012,216 @@ LEXICON Pronouns
 хӑйсем%<prn%>%<ref%>%<abe%>:хӑйсемсӗр #;
 хӑйсем%<prn%>%<ref%>%<ben%>:хӑйсемшӗн #;
 
-кам:кам PRON-ITG ; ! ""
-мӗн:мӗн PRON-ITG ; ! ""			! FIXME: No segueix el paradigma: мӗнре/мӗнрен en comptes de l'estàndard *мӗнте/*мӗнтен
+кам:кам PRON-ITG ;				! "кто"
 
-хӑш%<prn%>%<itg%>%<nom%>:хӑш #;
-хӑш%<prn%>%<itg%>%<nom%>:хӑшӗ #;	! Dir/LR
+мӗн%<prn%>%<itg%>%<nom%>:мӗн #;			! "что"
+мӗн%<prn%>%<itg%>%<gen%>:мӗнӗн #;
+мӗн%<prn%>%<itg%>%<dat%>:мӗне #;
+мӗн%<prn%>%<itg%>%<loc%>:мӗнре #;
+мӗн%<prn%>%<itg%>%<abl%>:мӗнрен #;
+мӗн%<prn%>%<itg%>:мӗн CASE-NONOMGENDAT-SUPERREGULAR ;
+мӗн%<prn%>%<itg%>%<pl%>:мӗн%>се%{М%} CASE ; 
+мӗн%<prn%>%<itg%>%<pl%>%<gen%>:мӗн%>се%>нӗн #;	! Источник: Сергеев-Андреева, с. 92
+
+хӑш%<prn%>%<itg%>%<nom%>:хӑш #;			! "который"
+хӑш%<prn%>%<itg%>%<nom%>:хӑшӗ #;		! Dir/LR
 хӑш%<prn%>%<itg%>%<gen%>:хӑшӗн #;
 хӑш%<prn%>%<itg%>%<dat%>:хӑшне #;
 хӑш%<prn%>%<itg%>%<loc%>:хӑшӗнче #;
 хӑш%<prn%>%<itg%>%<abl%>:хӑшӗнчен #;
-хӑш%<prn%>%<itg%>%<ins%>:хӑшӗмпе #;
-хӑш%<prn%>%<dem%>%<ins%>:хӑшӗмпеле #;   	! Dir/LR
-хӑш%<prn%>%<itg%>%<abe%>:хӑшӗмсӗр #;
-хӑш%<prn%>%<itg%>%<ben%>:хӑшӗмшӗн #;
+хӑш%<prn%>%<itg%>:хӑш CASE-NONOMGENDAT-SUPERREGULAR ;
 хӑш%<prn%>%<itg%>%<pl%>:хӑшӗ%>се%{М%} CASE ;
+хӑш%<prn%>%<itg%>%<pl%>%<gen%>:хӑшӗ%>се%>нӗн #;	! Источник: Сергеев-Андреева, с. 92
+хӑш%<prn%>%<itg%>%<px1pl%>%<nom%>:хӑшӑмӑр #;	! "который из нас"
+хӑш%<prn%>%<itg%>%<px2pl%>%<nom%>:хӑшӑр #;	! "который из вас"
 
-нимӗн% те:нимӗн% те PRON-IND ; ! ""
+миҫемӗш%<prn%>%<itg%>%<nom%>:миҫемӗш #;			! "который" (eo: kioma?)
+миҫемӗш%<prn%>%<itg%>%<nom%>:миҫемӗшӗ #;		! Dir/LR
+миҫемӗш%<prn%>%<itg%>%<gen%>:миҫемӗшӗн #;
+миҫемӗш%<prn%>%<itg%>%<dat%>:миҫемӗшне #;
+миҫемӗш%<prn%>%<itg%>%<loc%>:миҫемӗшӗнче #;
+миҫемӗш%<prn%>%<itg%>%<abl%>:миҫемӗшӗнчен #;
+миҫемӗш%<prn%>%<itg%>:миҫемӗш CASE-NONOMGENDAT-SUPERREGULAR ;
+миҫемӗш%<prn%>%<itg%>%<pl%>:миҫемӗшӗ%>се%{М%} CASE ;
+
+хӑйсем%<prn%>%<ref%>:хӑйсе%{М%} CASE #;
+
+никам:никам PRON-NEG ; 					! "никто"
+
+ним%<prn%>%<neg%>%<nom%>:ним #;				! "ничто, ничего"
+ним%<prn%>%<neg%>%<gen%>:нимӗн #;
+ним%<prn%>%<neg%>%<dat%>:ниме #;
+ним%<prn%>%<neg%>%<loc%>:нимре #;
+ним%<prn%>%<neg%>%<abl%>:нимрен #;
+ним%<prn%>%<neg%>:ним CASE-NONOMGENDAT-SUPERREGULAR ;
+ним%<prn%>%<neg%>%<pl%>:ним%>се%{М%} CASE ; 
+ним%<prn%>%<neg%>%<nom%>:нимӗн #;			! Dir/LR
+ним%<prn%>%<neg%>%<gen%>:нимӗнӗн #;			! Dir/LR
+ним%<prn%>%<neg%>%<dat%>:нимӗне #;			! Dir/LR
+ним%<prn%>%<neg%>%<loc%>:нимӗнре #;			! Dir/LR
+ним%<prn%>%<neg%>%<abl%>:нимӗнрен #;			! Dir/LR
+ним%<prn%>%<neg%>:нимӗн CASE-NONOMGENDAT-SUPERREGULAR ;	! Dir/LR
+нимӗн%<prn%>%<neg%>%<pl%>:нимӗн%>се%{М%} CASE ; 
+
+нихӑш%<prn%>%<neg%>%<nom%>:нихӑш #;			! "никто"
+нихӑш%<prn%>%<neg%>%<nom%>:нихӑшӗ #;			! Dir/LR
+нихӑш%<prn%>%<neg%>%<gen%>:нихӑшӗн #;
+нихӑш%<prn%>%<neg%>%<dat%>:нихӑшне #;
+нихӑш%<prn%>%<neg%>%<loc%>:нихӑшӗнче #;
+нихӑш%<prn%>%<neg%>%<abl%>:нихӑшӗнчен #;
+нихӑш%<prn%>%<neg%>:нихӑш CASE-NONOMGENDAT-SUPERREGULAR ;
+нихӑш%<prn%>%<neg%>%<pl%>:нихӑшӗ%>се%{М%} CASE ;
+нихӑш%<prn%>%<neg%>%<px1pl%>%<nom%>:нихӑшӑмӑр #;	! "никто из нас"
+нихӑш%<prn%>%<neg%>%<px2pl%>%<nom%>:нихӑшӑр #;		! "никто из вас"
+
+нимскер:нимскер PRON-NEG ; 				! "ничто, ничего"
+нимскерле:нимскерле PRON-NEG ; 				! "никакой"
+нименле:нименле PRON-NEG ; 				! "никакой"
+нименле:нимле PRON-NEG ; 				! Dir/LR
+
+!пур%<prn%>%<ind%>%<nom%>:пур #;				! "каждый, всякий"	! FIXME: casos?
+пур%<prn%>%<ind%>%<px1pl%>%<nom%>:пур%>сӑм%>ар POS-INFL ;	! "все мы" (Сергеев-Андреева, с. 94)
+пур%<prn%>%<ind%>%<px2pl%>%<nom%>:пур%>сар POS-INFL ;		! "все вы" (Сергеев-Андреева, с. 94)
+
+пурте%<prn%>%<qnt%>%<nom%>:пурте #;			! "всё"
+пурте%<prn%>%<qnt%>%<gen%>:пурин% те #;
+пурте%<prn%>%<qnt%>%<dat%>:пурне% те #;
+пурте%<prn%>%<qnt%>%<loc%>:пуринче% те #;
+пурте%<prn%>%<qnt%>%<abl%>:пуринчен% те #;
+пурте%<prn%>%<qnt%>%<ins%>:пуринпе% те #;
+пурте%<prn%>%<qnt%>%<abe%>:пуринсӗр% те #;
+пурте%<prn%>%<qnt%>%<ben%>:пуриншӗр% те #;
+! FIXME: El plural no es troba en el corpus (пурсе*)
+
+кашни%<prn%>%<qnt%>%<nom%>:кашни #;			! "каждый" (Сеергеев-Андреева, с. 94)
+кашни%<prn%>%<qnt%>%<gen%>:кашнин #;
+кашни%<prn%>%<qnt%>%<dat%>:кашнине #;
+кашни%<prn%>%<qnt%>%<loc%>:кашнинче #;
+кашни%<prn%>%<qnt%>%<abl%>:кашнинчен #;
+кашни%<prn%>%<qnt%>:кашнин CASE-NONOMGENDAT-SUPERREGULAR ;
+кашни%<prn%>%<qnt%>%<pl%>:кашни%>се%{М%} CASE ; 
+
+ытти%<prn%>%<ind%>%<nom%>:ытти #;			! "прочий" (Сеергеев-Андреева, с. 94)
+ытти%<prn%>%<ind%>%<gen%>:ыттин #;
+ытти%<prn%>%<ind%>%<dat%>:ыттине #;
+ытти%<prn%>%<ind%>%<loc%>:ыттинче #;
+ытти%<prn%>%<ind%>%<abl%>:ыттинчен #;
+ытти%<prn%>%<ind%>:ыттин CASE-NONOMGENDAT-SUPERREGULAR ;
+ытти%<prn%>%<ind%>%<pl%>:ытти%>се%{М%} CASE ; 
+
+пӗри%<prn%>%<ind%>%<nom%>:пӗри #;			! "один из ных"
+пӗри%<prn%>%<ind%>%<gen%>:пӗрин #;
+пӗри%<prn%>%<ind%>%<dat%>:пӗрне #;
+пӗри%<prn%>%<ind%>%<loc%>:пӗринче #;
+пӗри%<prn%>%<ind%>%<abl%>:пӗринчен #;
+пӗри%<prn%>%<ind%>:пӗрин CASE-NONOMGENDAT-SUPERREGULAR ;
+пӗри%<prn%>%<ind%>%<pl%>:пӗри%>се%{М%} CASE ; 
+
+тепри%<prn%>%<ind%>%<nom%>:тепри #;			! "другой из ных"
+тепри%<prn%>%<ind%>%<gen%>:теприн #;
+тепри%<prn%>%<ind%>%<dat%>:теприне #;
+тепри%<prn%>%<ind%>%<loc%>:тепринче #;
+тепри%<prn%>%<ind%>%<abl%>:тепринчен #;
+тепри%<prn%>%<ind%>:теприн CASE-NONOMGENDAT-SUPERREGULAR ;
+тепри%<prn%>%<ind%>%<pl%>:тепри%>се%{М%} CASE ; 
+
+пӗр-пӗри%<prn%>%<recip%>%<nom%>:пӗр-пӗри #;		! "один-другой"
+пӗр-пӗри%<prn%>%<recip%>%<gen%>:пӗр-пӗрин #;
+пӗр-пӗри%<prn%>%<recip%>%<dat%>:пӗр-пӗрне #;
+пӗр-пӗри%<prn%>%<recip%>%<loc%>:пӗр-пӗринче #;
+пӗр-пӗри%<prn%>%<recip%>%<abl%>:пӗр-пӗринчен #;
+пӗр-пӗри%<prn%>%<recip%>:пӗр-пӗрин CASE-NONOMGENDAT-SUPERREGULAR ;
+пӗр-пӗри%<prn%>%<recip%>%<pl%>:пӗр-пӗри%>се%{М%} CASE ; 
+
+хӑш%<prn%>%<ind%>%<nom%>:хӑш #;			! "некоторый"
+хӑш%<prn%>%<ind%>%<nom%>:хӑшӗ #;		! Dir/LR
+хӑш%<prn%>%<ind%>%<gen%>:хӑшӗн #;
+хӑш%<prn%>%<ind%>%<dat%>:хӑшне #;
+хӑш%<prn%>%<ind%>%<loc%>:хӑшӗнче #;
+хӑш%<prn%>%<ind%>%<abl%>:хӑшӗнчен #;
+хӑш%<prn%>%<ind%>:хӑш CASE-NONOMGENDAT-SUPERREGULAR ;
+хӑш%<prn%>%<ind%>%<pl%>:хӑшӗ%>се%{М%} CASE ;
+хӑш%<prn%>%<ind%>%<px1pl%>%<nom%>:хӑшӑмӑр #;	! "некоторый из нас"
+хӑш%<prn%>%<ind%>%<px2pl%>%<nom%>:хӑшӑр #;	! "некоторый из вас"
+
+хӑшӗ-хӑш%<prn%>%<ind%>%<nom%>:хӑшӗ-хӑш #;		! "некоторый"
+хӑшӗ-хӑш%<prn%>%<ind%>%<nom%>:хӑшӗ-хӑшӗ #;		! Dir/LR
+хӑшӗ-хӑш%<prn%>%<ind%>%<gen%>:хӑшӗ-хӑшӗн #;
+хӑшӗ-хӑш%<prn%>%<ind%>%<dat%>:хӑшӗ-хӑшне #;
+хӑшӗ-хӑш%<prn%>%<ind%>%<loc%>:хӑшӗ-хӑшӗнче #;
+хӑшӗ-хӑш%<prn%>%<ind%>%<abl%>:хӑшӗ-хӑшӗнчен #;
+хӑшӗ-хӑш%<prn%>%<ind%>:хӑшӗ-хӑш CASE-NONOMGENDAT-SUPERREGULAR ;
+хӑшӗ-хӑш%<prn%>%<ind%>%<pl%>:хӑшӗ-хӑшӗ%>се%{М%} CASE ;
+хӑшӗ-хӑш%<prn%>%<ind%>%<nom%>:хӑш-хӑш #;		! Dir/LR
+хӑшӗ-хӑш%<prn%>%<ind%>%<nom%>:хӑш-хӑшӗ #;		! Dir/LR
+хӑшӗ-хӑш%<prn%>%<ind%>%<gen%>:хӑш-хӑшӗн #;		! Dir/LR
+хӑшӗ-хӑш%<prn%>%<ind%>%<dat%>:хӑш-хӑшне #;		! Dir/LR
+хӑшӗ-хӑш%<prn%>%<ind%>%<loc%>:хӑш-хӑшӗнче #;		! Dir/LR
+хӑшӗ-хӑш%<prn%>%<ind%>%<abl%>:хӑш-хӑшӗнчен #;		! Dir/LR
+хӑшӗ-хӑш%<prn%>%<ind%>:хӑш-хӑш CASE-NONOMGENDAT-SUPERREGULAR ;		! Dir/LR
+хӑшӗ-хӑш%<prn%>%<ind%>%<pl%>:хӑш-хӑшӗ%>се%{М%} CASE ;	! Dir/LR
+
+хӑш-пӗр%<prn%>%<ind%>%<nom%>:хӑш-пӗр #;			! "некоторый"
+хӑш-пӗр%<prn%>%<ind%>%<nom%>:хӑш-пӗри #;		! Dir/LR
+хӑш-пӗр%<prn%>%<ind%>%<gen%>:хӑш-пӗрин #;
+хӑш-пӗр%<prn%>%<ind%>%<dat%>:хӑш-пӗрне #;
+хӑш-пӗр%<prn%>%<ind%>%<loc%>:хӑш-пӗринче #;
+хӑш-пӗр%<prn%>%<ind%>%<abl%>:хӑш-пӗринчен #;
+хӑш-пӗр%<prn%>%<ind%>:хӑш-пӗрин CASE-NONOMGENDAT-SUPERREGULAR ;
+хӑш-пӗр%<prn%>%<ind%>%<pl%>:хӑш-пӗри%>се%{М%} CASE ; 
+хӑш-пӗр%<prn%>%<ind%>%<nom%>:хӑшӗ-пӗр #;		! Dir/LR
+хӑш-пӗр%<prn%>%<ind%>%<nom%>:хӑшӗ-пӗри #;		! Dir/LR
+хӑш-пӗр%<prn%>%<ind%>%<gen%>:хӑшӗ-пӗрин #;		! Dir/LR
+хӑш-пӗр%<prn%>%<ind%>%<dat%>:хӑшӗ-пӗрне #;		! Dir/LR
+хӑш-пӗр%<prn%>%<ind%>%<loc%>:хӑшӗ-пӗринче #;		! Dir/LR
+хӑш-пӗр%<prn%>%<ind%>%<abl%>:хӑшӗ-пӗринчен #;		! Dir/LR
+хӑш-пӗр%<prn%>%<ind%>:хӑшӗ-пӗрин CASE-NONOMGENDAT-SUPERREGULAR ;	! Dir/LR
+хӑш-пӗр%<prn%>%<ind%>%<pl%>:хӑшӗ-пӗри%>се%{М%} CASE ; 	! Dir/LR
+
+тахӑш%<prn%>%<ind%>%<nom%>:тахӑш #;		! "неизвестно какой"
+тахӑш%<prn%>%<ind%>%<gen%>:тахӑшӗн #;
+тахӑш%<prn%>%<ind%>%<dat%>:тахӑшне #;
+тахӑш%<prn%>%<ind%>%<loc%>:тахӑшӗнче #;
+тахӑш%<prn%>%<ind%>%<abl%>:тахӑшӗнчен #;
+тахӑш%<prn%>%<ind%>:тахӑш CASE-NONOMGENDAT-SUPERREGULAR ;
+тахӑш%<prn%>%<ind%>%<pl%>:тахӑш%>се%{М%} CASE ;
+тахӑш%<prn%>%<ind%>%<px3sp%>%<nom%>:тахӑш%>%{н%} POS-INFL #;	! "неизвестно какой из них"	! (на базе словаря Сироткина и Сергеев-Андреева, с. 94)
+
+такам:такам PRON-IND ; 					! "некто, кто-то"
+
+тем%<prn%>%<neg%>%<nom%>:тем #;				! "нечто, что-то"
+тем%<prn%>%<neg%>%<gen%>:темӗн #;
+тем%<prn%>%<neg%>%<dat%>:теме #;
+тем%<prn%>%<neg%>%<loc%>:темре #;
+тем%<prn%>%<neg%>%<abl%>:темрен #;
+тем%<prn%>%<neg%>:тем CASE-NONOMGENDAT-SUPERREGULAR ;
+тем%<prn%>%<neg%>%<pl%>:тем%>се%{М%} CASE ; 
+тем%<prn%>%<neg%>%<nom%>:темӗн #;			! Dir/LR
+тем%<prn%>%<neg%>%<gen%>:темӗнӗн #;			! Dir/LR
+тем%<prn%>%<neg%>%<dat%>:темӗне #;			! Dir/LR
+тем%<prn%>%<neg%>%<loc%>:темӗнре #;			! Dir/LR
+тем%<prn%>%<neg%>%<abl%>:темӗнрен #;			! Dir/LR
+тем%<prn%>%<neg%>:темӗн CASE-NONOMGENDAT-SUPERREGULAR ;	! Dir/LR
+темӗн%<prn%>%<neg%>%<pl%>:темӗн%>се%{М%} CASE ; 
+
+темиҫе%<prn%>%<ind%>%<nom%>:темиҫе #;			! "другой из ных"
+темиҫе%<prn%>%<ind%>%<gen%>:темиҫен #;
+темиҫе%<prn%>%<ind%>%<dat%>:темиҫене #;
+темиҫе%<prn%>%<ind%>%<loc%>:темиҫенче #;
+темиҫе%<prn%>%<ind%>%<abl%>:темиҫенчен #;
+темиҫе%<prn%>%<ind%>:темиҫен CASE-NONOMGENDAT-SUPERREGULAR ;
+темиҫе%<prn%>%<ind%>%<pl%>:темиҫе%>се%{М%} CASE ; 
+
 
 ҫавӑнти:ҫавӑнти PRON-ADV ; ! ""
 кун:кун PRON-ADV ; ! ""
+ниҫта:ниҫта PRON-ADV ; 					! "нигде", "никуда"
+ниҫталла:ниҫталла PRON-ADV ;				! "нигде", "никуда"
+ниҫти:ниҫти PRON-ADV ;					! "нигде", "никуда"
+ниҫтан:ниҫтан PRON-ADV ; 				! "ниоткуда", "никак"
+нихҫан:нихҫан PRON-ADV ;				! "никакой"
+нихҫан:нихак PRON-ADV ;					! "никакой"
+нихҫанхичен:нихҫанхичен PRON-ADV ;			! "как никогда"
 
 PRON-PERS ;
 
@@ -965,27 +1229,86 @@ LEXICON Determiners
 
 ! пӗр DET-IND ; ! "un"
 пӗр%-пӗр:пӗр%-пӗр DET-IND ; ! ""
-нихӑш:нихӑш DET-IND ; ! ""
+нихӑш:нихӑш DET-IND ; ! ""				! VERIFY det or prn
 леш:леш DET-DEM ; ! ""
-ку:ку DET-DEM ; ! ""
 кашни:кашни DET-QNT ; ! ""
 пӗтӗм:пӗтӗм DET-QNT ; ! ""
 урӑх:урӑх DET-IND ; ! ""
+
+! FIXME: "указательные местоимения" (Иванов 1961) - склоняются ли?
+ку:ку DET-DEM ; ! "этот"
+ҫак:ҫак DET-DEM ; ! "этот"
+ҫак:ҫакӑ DET-DEM ; ! "этот"		! Dir/LR
+ҫав:ҫав DET-DEM ; ! "вон этот"
+ҫав:ҫавӑ DET-DEM ; ! "вон этот"		! Dir/LR
+леш:леш DET-DEM ; ! "тот"
+леш:лешӗ DET-DEM ; ! "тот"		! Dir/LR
+хай:хай DET-DEM ; ! "тот, упомянутый"
+хай:хайхи DET-DEM ; ! "тот, упомянутый"	! Dir/LR
+апла:апла DET-DEM ; ! "такой"
+капла:капла DET-DEM ; ! "такой"
+ҫапла:ҫапла DET-DEM ; ! "такой"
+
+ман:ман DET-POS ; ! "мой"
+ман:манӑн DET-POS ; ! "мой"		! Dir/LR
+хам:хам DET-POS ; ! "мой, свой"
+хам:ханӑн DET-POS ; ! "мой, свой"	! Dir/LR
+сан:сан DET-POS ; ! "твой"
+сан:санӑн DET-POS ; ! "твой"		! Dir/LR
+ху:ху DET-POS ; ! "твой, свой"
+ху:хӑвӑн DET-POS ; ! "твой, свой"	! Dir/LR
+ун:ун DET-POS ; ! "его"
+ун:унӑн DET-POS ; ! "его"		! Dir/LR
+хай:хай DET-POS ; ! "его, свой"
+хай:хайӗн DET-POS ; ! "его, свой"	! Dir/LR
+пирӗн:пирӗн DET-POS ; ! "наш"
+хамӑр:хамӑр DET-POS ; ! "наш, свой"
+хамӑр:ханӑрӑн DET-POS ; ! "наш, свой"	! Dir/LR
+сирӗн:сирӗн DET-POS ; ! "ваш"
+хӑвӑр:хӑвӑр DET-POS ; ! "ваш, свой"
+хӑвӑр:хӑвӑрӑн DET-POS ; ! "ваш, свой"	! Dir/LR
+вӗсен:вӗсен DET-POS ; ! "их"
+вӗсен:вӗсенӗн DET-POS ; ! "их"		! Dir/LR
+хайсен:хайсен DET-POS ; ! "их, свой"
+хайсен:хайсенӗн DET-POS ; ! "их, свой"	! Dir/LR
 
 LEXICON Numerals
 
 пӗрре:пӗр NUM-OPR ;
 иккӗ:икӗ NUM-OPR ;
+иккӗ:ик NUM-OPR ;		! Dir/LR
 виҫҫӗ:виҫӗ NUM-OPR ;
+виҫҫӗ:виҫ NUM-OPR ;		! Dir/LR
 тӑваттӑ:тӑватӑ NUM-OPR ;
+тӑваттӑ:тӑват NUM-OPR ;		! Dir/LR
 пиллӗк:пилӗк NUM-OPR ;
 улттӑ:ултӑ NUM-OPR ;
+улттӑ:улт NUM-OPR ;		! Dir/LR
 ҫиччӗ:ҫичӗ NUM-OPR ;
 саккӑр:сакӑр NUM-OPR ;
 тӑххӑр:тӑхӑр NUM-OPR ;
 вуннӑ:вунӑ NUM-OPR ;
+вуннӑ:вун NUM-OPR ;		! Dir/LR
+вунпӗрре:вунпӗр NUM-OPR ;
+вуниккӗ:вуникӗ NUM-OPR ;
+вуниккӗ:вуник NUM-OPR ;		! Dir/LR
+вунвиҫҫӗ:вунвиҫӗ NUM-OPR ;
+вунвиҫҫӗ:вунвиҫ NUM-OPR ;	! Dir/LR
+вунтӑваттӑ:вунтӑватӑ NUM-OPR ;
+вунтӑваттӑ:вунтӑват NUM-OPR ;	! Dir/LR
+вунпиллӗк:вунпилӗк NUM-OPR ;
+вунулттӑ:вунултӑ NUM-OPR ;
+вунулттӑ:вунулт NUM-OPR ;	! Dir/LR
+вунҫиччӗ:вунҫичӗ NUM-OPR ;
+вунсаккӑр:вунсакӑр NUM-OPR ;
+вунтӑххӑр:вунтӑхӑр NUM-OPR ;
+аллӑ:алӑ  NUM-OPR ;
+аллӑ:ал  NUM-OPR ;		! Dir/LR
+сакӑрвуннӑ:сакӑрвун  NUM-OPR ;
+тӑхӑрвуннӑ:тӑхӑрвун  NUM-OPR ;
 
 пӗрре:пӗрре NUM-SUB ;
+пӗрре%<num%>%<ord%>:пӗр%>мӗш  NUM-ORD ;		! Dir/LR	! This form is incorrect according to the grammars, but it's used in the corpora
 иккӗ:иккӗ NUM-SUB ;
 виҫҫӗ:виҫҫӗ NUM-SUB ;
 тӑваттӑ:тӑваттӑ NUM-SUB ;
@@ -995,6 +1318,15 @@ LEXICON Numerals
 саккӑр:саккӑр NUM-SUB ;
 тӑххӑр:тӑххӑр NUM-SUB ;
 вуннӑ:вуннӑ NUM-SUB ;
+вунпӗрре:вунпӗрре NUM-SUB ;
+вуниккӗ:вуниккӗ NUM-SUB ;
+вунвиҫҫӗ:вунвиҫҫӗ NUM-SUB ;
+вунтӑваттӑ:вунтӑваттӑ NUM-SUB ;
+вунпиллӗк:вунпиллӗк NUM-SUB ;
+вунулттӑ:вунулттӑ NUM-SUB ;
+вунҫиччӗ:вунҫиччӗ NUM-SUB ;
+вунсаккӑр:вунсаккӑр NUM-SUB ;
+вунтӑххӑр:вунтӑххӑр NUM-SUB ;
 ҫирӗм:ҫирӗм  NUM-SUB ;
 вӑтӑр:вӑтӑр  NUM-SUB ;
 хӗрӗх:хӗрӗх  NUM-SUB ;
@@ -1004,8 +1336,18 @@ LEXICON Numerals
 сакӑрвуннӑ:сакӑрвуннӑ  NUM-SUB ;
 тӑхӑрвуннӑ:тӑхӑрвуннӑ  NUM-SUB ;
 ҫӗр:ҫӗр  NUM-SUB ;
+икҫӗр:икҫӗр  NUM-SUB ;
+виҫҫӗр:виҫҫӗр  NUM-SUB ;
+тӑвӑтҫӗр:тӑвӑтҫӗр  NUM-SUB ;
+пилӗкҫӗр:пилӗкҫӗр  NUM-SUB ;
+ултҫӗр:ултҫӗр  NUM-SUB ;
+ҫичҫӗр:ҫичҫӗр  NUM-SUB ;
+сакӑрҫӗр:сакӑрҫӗр  NUM-SUB ;
+тӑхӑрҫӗр:тӑхӑрҫӗр  NUM-SUB ;
+ҫӗр:ҫӗр  NUM-SUB ;
 пин:пин  NUM-SUB ;
 миллион:миллион  NUM-SUB ;
+мельюн:мельюн  NUM-SUB ;		! Дегтярёв
 миллиард:миллиард  NUM-SUB ; 
 
 пӗрре:пӗр NUM-DIST ;
@@ -1089,6 +1431,8 @@ LEXICON Nouns
 платье:платье%{RUS%} N1 ; ! "dress"
 няня:няня%{RUS%} N1 ;
 аллея:аллея%{RUS%} N1 ;
+австрали:австрали N1 ; ! ""
+австри:австри N1 ; ! ""
 
 ял:ял  N1 ; ! "poble" 
 ӗҫ:ӗҫ  N1 ; ! "treball" 
@@ -1748,6 +2092,7 @@ LEXICON Nouns
 квитанци:квитанци N1 ; ! ""
 кенгуру:кенгуру%{RUS%} N1 ; ! ""
 кролик:кролик%{RUS%} N1 ; ! ""
+местоимени:местоимени%{RUS%} N1 ; ! ""
 кепка:кепка N1 ; ! ""
 кермен:кермен N1 ; ! ""
 кивҫен:кивҫен N1 ; ! ""
@@ -2040,6 +2385,7 @@ LEXICON Nouns
 минерал:минерал N1 ; ! ""
 министерство:министерство N1 ; ! ""
 министр:министр N1 ; ! ""
+премьер-министр:премьер-министр N1 ; ! ""
 минтер:минтер N1 ; ! ""
 минут:минут N1 ; ! ""
 мирлештер% екен:мирлештер% екен N1 ; ! ""
@@ -3537,6 +3883,7 @@ LEXICON Nouns
 
 
 ! Algunes nacionalitats, cal mirar -lA (-la, -le)
+! Què fer amb австри, австрали? Tenen també l'"adverb" по-австрийски, по-авалийски?
 
 вырӑс:вырӑс N3 ; ! "rus"
 чӑваш:чӑваш N3 ; ! "txuvаix"
@@ -3568,6 +3915,9 @@ LEXICON Nouns
 удмурт:удмурт N3 ; ! ""
 мӑкшӑ:мӑкшӑ N3 ; ! ""
 ирҫе:ирҫе N3 ; ! ""
+мордва:мордва N3 ; ! ""
+ҫармӑс:ҫармӑс N3 ; ! "txeremís (=mari)"
+мари:мари N3 ; ! ""
 венгр:венгр N3 ; ! ""
 
 LEXICON ProperNames
@@ -3692,6 +4042,26 @@ LEXICON ProperNames
 Ҫӗмӗрле:Ҫӗмӗрле NP-TOP ; ! ""
 Улатӑр:Улатӑр NP-TOP ; ! ""
 Ҫӗнӗ% Шупашкар:Ҫӗнӗ% Шупашкар NP-TOP ; ! ""
+Вӑрмар NP-TOP ;
+Вӑрнар NP-TOP ;
+Елчӗк NP-TOP ;
+Етӗрне NP-TOP ;
+Йӗпреҫ NP-TOP ;
+Канаш NP-TOP ;
+Комсомольски NP-TOP ;
+Красноармейски NP-TOP ;
+Куславкка NP-TOP ;
+Муркаш NP-TOP ;
+Патӑрьел NP-TOP ;
+Пӑрачкав% Сӗнтĕрвăрри NP-TOP ;
+Ҫӗмĕрле NP-TOP ;
+Ҫӗрпӳ NP-TOP ;
+Тӑвай NP-TOP ;
+Улатӑр NP-TOP ;
+Хӗрлĕ Чутай NP-TOP ;
+Шӑмăршă NP-TOP ;
+Шупашкар NP-TOP ;
+Элӗк NP-TOP ;
 
 Ахмет:Ахмет NP-ANT-M-RUS ;
 !Анна:Анн%{ӑ%}  NP-ANT-F-RUS ;
@@ -4720,7 +5090,8 @@ LEXICON Adjectives
 пысӑк:пысӑк A-ХИТРЕ ;  ! ""
 шӑрӑх:шӑрӑх A-ХИТРЕ ;  ! ""
 хитре:хитре A-ХИТРЕ ;  ! ""
-аван:аван A-АВАН ;  ! ""
+!аван:аван A-АВАН ;  ! ""
+аван:аван A1 ;  ! ""
 лайӑх:лайӑх A-ЙЫВӐР ; ! "хороший"
 пӗчӗк:пӗчӗк A-ХИТРЕ ; ! "маленький"
 хавас:хавас A-ХИТРЕ ; ! "радостный"
@@ -4760,11 +5131,8 @@ LEXICON Adjectives
 коммунизмла:коммунизмла A-АВАН ; ! ""
 сарлака:сарлака A-АВАН ; ! ""
 абсолютнӑй:абсолютнӑй A-АВАН ; ! ""
-аван:аван A-АВАН ; ! ""
 авӑнчӑк:авӑнчӑк A-АВАН ; ! ""
 авмака:авмака A-АВАН ; ! ""
-австрали:австрали A-АВАН ; ! ""
-австри:австри A-АВАН ; ! ""
 автоматикӑлла:автоматикӑлла A-АВАН ; ! ""
 агрессиллӗ:агрессиллӗ A-АВАН ; ! ""
 айӑпланакан:айӑпланакан A-АВАН ; ! ""
@@ -5344,10 +5712,18 @@ LEXICON Adverbs
 и%<qst%>:и # ;
 
 ! FIXME: Are thse really just мӗн + cases ?  / derivations ?
-ӑҫта:ӑҫта ADV-ITG ; ! ""
 мӗскер:мӗскер ADV-ITG ; ! ""
-мӗнле:мӗнле ADV-ITG ; ! ""
-мӗншӗн:мӗншӗн ADV-ITG ; ! ""	! FIXME мӗншӗн = мӗн.шӗн
+мӗнле:мӗнле ADV-ITG ; ! "как, какой"
+епле:епле ADV-ITG ; ! "как, какой"
+мӗншӗн:мӗншӗн ADV-ITG ; ! "почему"	! FIXME мӗншӗн = мӗн.шӗн
+
+миҫе:миҫе ADV-ITG ; ! "сколько (по числу)"	! FIXME Can it be declined? (в корпусе: миҫере)
+мӗн% чул:мӗн% чул ADV-ITG ; ! "сколько (по количесту)"	! FIXME Can it be declined?
+мӗн% чухлӗ:мӗн% чухлӗ ADV-ITG ; ! "сколько (по количесту)"	! FIXME Can it be declined?
+
+ӑҫта:ӑҫта ADV-ITG ; ! "где, куда"
+хӑҫан:хӑҫан ADV-ITG ; ! "когда"
+ма:ма ADV-ITG ; ! "почему"
 
 ан:ан ADV ; ! ""	! "не"		! PART segons les gramàtiques txuvaixes
 анчах:анчах ADV ; 	! "сейчас, только"	! PART segons les gramàtiques txuvaixes

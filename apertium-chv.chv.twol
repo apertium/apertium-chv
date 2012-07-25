@@ -13,7 +13,7 @@ Alphabet
 
  %>:0 %{н%}:0 %{н2%}:0 %{w%}:0 %{в%}:0
 
- %{dup%}:0 %{dup2%}:0
+ %{dup%}:0 %{dup2%}:0 %{del%}:0
 
  %{RUS%}:0
 
@@ -26,7 +26,7 @@ Sets
 
 Cns = б в г д ж з к л м н п р с ҫ т ф х ц ч ш щ й
       Б В Г Д Ж З К Л М Н П Р С Ҫ Т Ф Х Ц Ч Ш Щ Й
-      %{й%} %{dup%} ;
+      %{й%} %{dup%} %{del%} ;
 ! no ь, Ь, ъ, Ъ (as the first ones rule in vowel harmony)
 
 SurVow = а ӑ е ё ӗ о у ӳ ы э ю я
@@ -166,6 +166,7 @@ Vx:Vy <=> _ [ %{RUS%}: :Cns ]/[ %>: | %{b%}: | %{w%}: | %{н%}: ] ;
                C2 _ [ :Glasnye ]/[ %>: | :0 ] ;
                C2 _ %{Ӑ%}:0 ;
                Glasnye C2 [ ӑ: | ӗ: ] %>: _ ;
+               Glasnye C2 %>: _ %{и%}: ;			! аван>ни (substantivisation)
         except
                _ [ %{У%}: %{н2%}:н ]/[ %>: | :0 ] ;
 
@@ -206,6 +207,10 @@ Vx:0 <=> Glasnye Soglasnye _ %{w%}: ;
 	 Glasnye р т _ %{w%}: ;
          where Vx in ( ӗ ӑ ) ;
 
+"Delete ӗ/ӑ in stem before {del}"
+Vx:0 <=> _ %{del%}: %>: ;
+         where Vx in ( ӗ ӑ ) ;
+
 !!!!! Random Consonant Rules !!!!!
 
 !"Consonant duplication"
@@ -218,8 +223,16 @@ Vx:0 <=> Glasnye Soglasnye _ %{w%}: ;
 Ct:ч <=> _ %>: %{dup%}: %{в%}: %{ӗ%}: ;
 	where Ct in ( т д ) ;
 
+"сть > ҫ in px3sp (1): власть > влаҫӗ"
+Cd:ҫ <=> с: _ ь: %>: %{dup%}: %{в%}: %{ӗ%}: ;
+	where Cd in ( т д ) ;
+
+"сть > ҫ in px3sp (2): власть > влаҫӗ"
+с:0 <=> _ [ т: | д: ] ь: %>: %{dup%}: %{в%}: %{ӗ%}: ;
+
 "ть > ч in px3sp (1): тетрадь > тетраче"
 Cd:ч <=> _ ь: %>: %{dup%}: %{в%}: %{ӗ%}: ;
+	except с: _ ;
 	where Cd in ( т д ) ;
 
 "ть > ч in px3sp (1): тетрадь > тетраче"
@@ -233,17 +246,10 @@ AE:0 <=> _ %>: %{dup%}: %{в%}: %{ӗ%}: ;
 "чӗлхе%>%{dup%}%{ӗ%} > чӗлхи (2)"
 %{ӗ%}:и <=> AEVow: %>: %{dup%}: %{в%}: _ ;
 
-!!!!! FIXME: The following two rules need to be rethought.  For now they're causing issues so have been disabled.
-!
-!! regla per evitar la cacofonia de dues vocals seguides
-!"радио%>%{dup%}%{ӗ%} > радиовӗ"
-!0:в <=> о: %>: %{dup%}: _ %{ӗ%}: ;
-!
-!! regla per evitar la cacofonia de dues vocals seguides
-!"й insertion"
-!0:й <=> и [ %{w%}: ]* %>: [ :0 ]* _ [ :ӗ | ӳ ] ;
-!	except
-!	и [ %{w%}: ]* %>: [ :0 ]* %>: [ :0 ]* _ [ :ӗ | ӳ ] ;	! no a dos %> de distància
+"радио%>%{dup%}%{ӗ%} > радиовӗ"
+%{в%}:в <=>        о: %>: %{dup%}: _ %{ӗ%}: ;
+          у: %{RUS%}: %>: %{dup%}: _ %{ӗ%}: ;		! Бакувӗ
+
 
 "-ӑ, -ӗ > 0 in px1sg, px1pl, px2pl: йытӑ·тӑм > йыт·тӑм"
 AE:0 <=> _ %>: %{dup%}: ;
