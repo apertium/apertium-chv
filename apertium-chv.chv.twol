@@ -125,6 +125,7 @@ Rules
                                           :Soglasnye ӗ:0 %>: _ ;  ! чик{ː}ӗ>{ӑ}н:чиккӗн
             except
                              :Glasnye/[ %>: | :0 ] _ ;  ! deletes
+                                                   _ %{RUS%}: %>: [ %{У%}: | %{Ӗ%}: | %{Ӑ%}: ] ; ! deletes
                               %{М%}: [ %>: | :0 ]* _ н: .#. ;
 !JNWTMP                                        %{Ӑ%}:и/:0 _ н: .#. ;
                                  %{У%}: %{н2%}:/:0 _ н: .#. ;
@@ -134,6 +135,7 @@ Rules
      [ %{Ь%}: :Soglasnye* ]/[ %>: | [ :0 - ӗ:0 ] ] _ ;
        \ӗ: %{RUS%}:/[ [ :0 - ӗ:0 ] | :Soglasnye* ] _ ;
 !JNWTMPWTF                           :Soglasnye/[ :0 - ӗ:0 ] _ ;
+                                                   _ (%{RUS%}:) .#. ; ! avoid conflict with "Final unstressed а in Russian loans"
 
 !!! JNW TEMP
 !"Vowel harmony for archiphoneme {Ӑdel}"
@@ -481,6 +483,9 @@ AE:0 <=> _ %{Ӗ%}:и/[ :0 - [ %{А%}:0 | ӗ: ] ] ;
 "Лишный ч исчезается после согласных"
 %{ч%}:0 <=> :Soglasnye/[ %>: | :0 ] _ ;
         except :Sonornye/[ %>: | :0 ] _ ;
+
+"Delete {ӑ} before a vowel"
+%{ӑ%}:0 <=> _ %{RUS%}: %>: [ %{У%}: | %{Ӗ%}: | %{Ӑ%}: ] ;
 
 "Delete {ӑ} after a vowel"
 %{ӑ%}:0 <=> :Glasnye/[ %>: | :0 ] _ ;
@@ -907,7 +912,7 @@ Cx:0 <=> _ Cy %{RUS%}: %>: ;
 %{А%}:я <=>  [ :BackVow й: ]/[ %>: | :0 ] _ ;		! сарай>а = сарая
              [ й: %{RUS%}: ]/[ %>: | :0 ] _ ;		! герой>а = героя
          except
-          SurVow й: ӑ: %{w%}: %>: %{н%}:  _ ;		! вӑйӑ>а = вӑййа
+   SurVow й: %{ː%}: ӑ: %{w%}: %>: %{н%}:  _ ;		! вӑйӑ>а = вӑййа
                                %{Тарах%}: _ р ;
                          %{ТарахAnaliz%}: _ р ;
 
@@ -930,17 +935,18 @@ Cx:0 <=> _ Cy %{RUS%}: %>: ;
 
 !!!!! JNW TEMP
 !! Rules for correcting orthography to the words we changed in lexc
-!"Final unstressed а in Russian loans"
-!%{ӑ%}:а <=> _ (%{RUS%}:) .#. ;
-!! below contexts COMBINED above:
-!!            _ .#. ; 
-!!            _ %{RUS%}: .#. ;
-!	except
-!          [ й: | %{ъ%}: ] _ ;
-!! below contexts COMBINED above:
-!!          [ й: | %{ъ%}: ] _ .#. ;
-!!          [ й: | %{ъ%}: ] _ %{RUS%}: .#. ;
-!
+"Final unstressed а in Russian loans"
+%{ӑ%}:а <=> _ (%{RUS%}:) .#. ;
+! below contexts COMBINED above:
+!            _ .#. ; 
+!            _ %{RUS%}: .#. ;
+	except
+          :Glasnye/[ %>: | :0 ] _ ;  ! avoid conflict with "Delete {ӑ} after a vowel"
+          [ й: | %{ъ%}: ] _ ;
+! below contexts COMBINED above:
+!          [ й: | %{ъ%}: ] _ .#. ;
+!          [ й: | %{ъ%}: ] _ %{RUS%}: .#. ;
+
 !"Final unstressed е in Russian loans"
 !%{Ӗ%}:е <=> _ (%{RUS%}:) .#. ;
 !! below contexts COMBINED above:
