@@ -1,6 +1,8 @@
 prefix=@prefix@
 exec_prefix=${prefix}
 libdir=@libdir@
+dir=@libdir@/apertium/apertium-chv
+srcdir=@datarootdir@/apertium/apertium-chv
 
 Name: apertium-chv
 Description: Finite-state morphological transducer and constraint grammar for Chuvash
