@@ -5,10 +5,10 @@
 /Makefile.am -text
 /NEWS -text
 /README -text
-/apertium-chv-0.1.pc.in -text
 /apertium-chv.chv.lexc -text
 /apertium-chv.chv.rlx -text
 /apertium-chv.chv.twol -text
+/apertium-chv.pc.in -text
 /autogen.sh -text
 /configure.ac -text
 dev/countstems.sh -text

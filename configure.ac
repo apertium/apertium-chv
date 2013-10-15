@@ -109,4 +109,4 @@ fi
 
 
 
-AC_OUTPUT([Makefile apertium-chv-0.1.pc])
+AC_OUTPUT([Makefile apertium-chv.pc])
