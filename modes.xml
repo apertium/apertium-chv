@@ -1,48 +1,48 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <modes>
 
-  <mode name="kaz-twol">
+  <mode name="chv-twol">
     <pipeline>
       <program name="hfst-strings2fst -S"/>
       <program name="hfst-compose-intersect">
-        <file name=".deps/kaz.twol.hfst"/>
+        <file name=".deps/chv.twol.hfst"/>
       </program>
       <program name="hfst-fst2strings"/>
     </pipeline>
   </mode>
 
-  <mode name="kaz-morph">
+  <mode name="chv-morph">
     <pipeline>
       <program name="hfst-proc -w">
-        <file name="kaz.automorf.hfst"/>
+        <file name="chv.automorf.hfst"/>
       </program>
     </pipeline>
   </mode>
 
-  <mode name="kaz-lexc">
+  <mode name="chv-lexc">
     <pipeline>
       <program name="hfst-proc -g">
-        <file name=".deps/kaz.lexc.hfst"/>
+        <file name=".deps/chv.lexc.hfst"/>
       </program>
     </pipeline>
   </mode>
 
 
-  <mode name="kaz-gener">
+  <mode name="chv-gener">
     <pipeline>
       <program name="hfst-proc -g">
-        <file name="kaz.autogen.hfst"/>
+        <file name="chv.autogen.hfst"/>
       </program>
     </pipeline>
   </mode>
 
-  <mode name="kaz-disam">
+  <mode name="chv-disam">
     <pipeline>
       <program name="hfst-proc -w">
-        <file name="kaz.automorf.hfst"/>
+        <file name="chv.automorf.hfst"/>
       </program>
       <program name="cg-proc -w">
-        <file name="kaz.rlx.bin"/>
+        <file name="chv.rlx.bin"/>
       </program>
     </pipeline>
   </mode>
