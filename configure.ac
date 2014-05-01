@@ -88,6 +88,6 @@ then
 fi
 
 
-
+AP_MKINCLUDE
 
 AC_OUTPUT([Makefile apertium-chv.pc])
