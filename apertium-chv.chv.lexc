@@ -1,4 +1,4 @@
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!:!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! N1 ;
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 !!  М О Р Ф О Л О Г И Ч Е С К И Й · Т Р А Н С Д У К Т О Р · Д Л Я · Ч У В А Ш С К О Г О · Я З Ы К А  !!
 !!            M O R P H O L O G I C A L · T R A N S D U C E R · F O R · C H U V A S H                !!
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
@@ -148,7 +148,7 @@ Multichar_Symbols
 %<advf%>           ! The form of "image of action" (this form have the function of adv, but it's noun)
 %<presn%>          ! Form of "presence"
 %<term%>           ! "until"
-%<str%>            ! "Strengthening" 
+%<emph%>            ! "Strengthening" 
 
 
 %{ӑ%}      ! Archiphoneme 'ӑ' ('ӑ' or 'ӗ'). It deletes the previous а, е (formerly {Ӑ}
@@ -252,7 +252,7 @@ K1bis ;
 LEXICON K 
 
 K1 ;
-%<str%>:%>%{а%}х K1 ;	! усилительный: вӑлах тунӑ, 'он же сделал'
+%+ах%<emph%>:%>%{а%}х K1 ;	! усилительный: вӑлах тунӑ, 'он же сделал'
 			! FIXME: no s'analitza хӗрӗхсенчех (vol хӗрӗхсенчеех)
 			! эпӗх, илемлех, йываҫах, пилекех, ахалех (ахаль, adv), куратӑпах, кӗнекехче, кӗнекехче-и = kitap mıydı, кӗнекехче-ха, кӗнекехче-ши rus же
 
@@ -265,7 +265,7 @@ LEXICON COP
 
 # ;
 %+ӗ%<cop%>%<past%>:%>%{ч%}чӗ K1;
-%<str%>%+ӗ%<cop%>%<past%>:%>%{А%}х%>%{ч%}чӗ K1;
+%+ах%<emph%>%+ӗ%<cop%>%<past%>:%>%{А%}х%>%{ч%}чӗ K1;
 !%<freq%>:серен K ;
 K ;
 
@@ -299,10 +299,13 @@ CASE-PSEUDOPOST ;
 
 LEXICON CASE-PSEUDOPOST
 
+%<loc%>%<attr%>:%>%{Р%}%>%{dup%}%{и%} COP ;				! варманти, урамри
+%<loc%>%<subst%>:%>%{Р%}%>%{dup%}%{и%} ADJ-SUBST-NOPOS ;
+
 ! падеж + палӑрту аффикс
-%+ри%<post%>%<attr%>:%>%{Р%}%>%{dup%}%{и%} COP ;				! варманти, урамри
-										! FIXME: ансамбльти, Кремльтисем, Фестивальти
-%+ри%<post%>%<subst_и%>:%>%{Р%}%>%{dup%}%{и%} ADJ-SUBST-NOPOS ;
+
+!%+ри%<post%>%<attr%>:%>%{Р%}%>%{dup%}%{и%} COP ;				! варманти, урамри
+!%+ри%<post%>%<subst_и%>:%>%{Р%}%>%{dup%}%{и%} ADJ-SUBST-NOPOS ;
 %+рани%<post%>%<attr%>:%>%{Р%}%{А%}н%>и COP ;					! VERIFY: duplication?
 %+рани%<post%>%<subst_и%>:%>%{Р%}%{А%}н%>и ADJ-SUBST-NOPOS ;			! VERIFY: duplication?
 %+рани%<post%>%<attr%>:%>%{Т%}%{А%}н%>и COP ;			! Dir/LR	! VERIFY: duplication?
@@ -423,8 +426,10 @@ LEXICON SUBST  ! Nominal inflection (e.g. after n)
 
 SUBST2 ;
 
-%+хи%<post%>:%>хи # ;			!!! FIXME: только отдельные слова!!! turc = ki		! Деривативный аффикс (n > adj)
+%<loc%>%<subst%>:%>хи # ; 
+!%+хи%<post%>:%>хи # ;			!!! FIXME: только отдельные слова!!! turc = ki		! Деривативный аффикс (n > adj)
 %+хи%<post%>%<subst_хи%>:%>хи SUBST2 ;			!!! FIXME - только отдельные слова!!! turc = ki
+
 !%+сӑр%<post%>:%>с%{Ӑ%}р COP ;		! Деривативный аффикс (n > adj: без-...-ный)		(el que passa és que pot ser interessant de tenir-lo perquè probablement hi haurà ambigüitat amb el cas -с%{Ӑ%}р i farem anàlisis dolentes)
 !%+сӑр%<post%>%<subst_и%>:%>с%{Ӑ%}р%>ри SUBST2 ; ! Needs -ри to become a noun (??)
 %+лӑх%<post%>%<attr%>:%>л%{Ӑ%}х COP ;		! Деривативный аффикс (часто как -ость на русском языке)
@@ -1216,7 +1221,7 @@ LEXICON ПУР_ҪУК
 
 %<adj%>: COP ;
 %<adj%>%<advf%>:%>%{Ӑ%}н COP ; 
-%<adj%>%<str%>:%>%{А%}х COP ;
+%<adj%>+ах%<emph%>:%>%{А%}х COP ;
 
 LEXICON A1		! momentàniament
 
