@@ -84,19 +84,19 @@ Multichar_Symbols
 %<iv%>             ! 
 %<tv%>             ! 
 
-%<gna9%>           ! Verbal adverb:   -с{А}               = 
+%<gna_perf%>           ! Verbal adverb:   -с{А}               = 
                    ! Negative form:   -м{А}с{Ӑ}р
 
 %<ger1%>           ! Gerund:          -м{А}               = "Infinitive"
 %<ger2%>           ! Gerund:          -м{А}шк{Ӑ}н         = "Infinitive"
-%<ger3%>           ! Gerund:          -н{Ӑ}               = Past participle
+%<ger_past%>       ! Gerund:          -н{Ӑ}               = Past participle
                    ! Negative form:   -м{А}н (as for the present participle -{А}к{А}н)
 %<ger5%>           ! Gerund:          -{А}к{А}н           = Present participle
                    ! Negative form:   -м{А}н (as for the past participle -н{Ӑ})
 %<ger6%>           ! Gerund:          -{А}н               = Present participle (FIXME: In Андреев 1961, с. 621, it's said it is "скоращенная форма" presenta participle -{А}к{А}н; Оксана says "unproductive participle forms")
-%<ger8%>           ! Gerund:          -{А}с               = Future participle
+%<ger_fut%>           ! Gerund:          -{А}с               = Future participle
 %<ger9%>           ! Gerund:          -с{А}н
-%<gna8%>           ! Gerund:          -с{А}сс{Ӑ}н       ! It seems to be a fully equivalent form of -с{А}н
+%<gna_after%>           ! Gerund:          -с{А}сс{Ӑ}н       ! It seems to be a fully equivalent form of -с{А}н
 %<ger11%>          ! Gerund:          -иччен
 %<ger12%>          ! Gerund:          -нӑҫемӗн
 %<ger14%>          ! Gerund:          -м{А}ссерен
@@ -113,7 +113,7 @@ Multichar_Symbols
 !%<inf%>            ! Инфинитив
 %<ifi%>            ! 
 %<pres%>           ! Настоящее время
-%<evid%>           ! Прошедшее очевидное время
+%<past%>           ! Прошедшее очевидное время
 %<past%>           ! Прошедшее неочевидное время
 %<pmp%>            ! Давнопрошедшее очевидное время
 %<pih%>            ! Прошедшее многократное время
@@ -426,9 +426,10 @@ LEXICON SUBST  ! Nominal inflection (e.g. after n)
 
 SUBST2 ;
 
-%<loc%>%<subst%>:%>хи # ; 
+%<loc%>%<attr%>:%>хи # ; 
+%<loc%>%<subst%>:%>хи SUBST2 ; 
 !%+хи%<post%>:%>хи # ;			!!! FIXME: только отдельные слова!!! turc = ki		! Деривативный аффикс (n > adj)
-%+хи%<post%>%<subst_хи%>:%>хи SUBST2 ;			!!! FIXME - только отдельные слова!!! turc = ki
+!%+хи%<post%>%<subst_хи%>:%>хи SUBST2 ;			!!! FIXME - только отдельные слова!!! turc = ki
 
 !%+сӑр%<post%>:%>с%{Ӑ%}р COP ;		! Деривативный аффикс (n > adj: без-...-ный)		(el que passa és que pot ser interessant de tenir-lo perquè probablement hi haurà ambigüitat amb el cas -с%{Ӑ%}р i farem anàlisis dolentes)
 !%+сӑр%<post%>%<subst_и%>:%>с%{Ӑ%}р%>ри SUBST2 ; ! Needs -ри to become a noun (??)
@@ -1373,10 +1374,10 @@ LEXICON V-PERS-IMP2
 
 %<p1%>%<sg%>:%>%{а%}м K2 ;
 %<p2%>%<sg%>:%> K2 ;
-%<p3%>%<sg%>:%>т%{Ӑ%}р K2 ;
+!%<p3%>%<sg%>:%>т%{Ӑ%}р K2 ;
 %<p1%>%<pl%>:%>%{а%}р K2 ;
 %<p2%>%<pl%>:%>%{Ӑ%}р K2 ;
-%<p3%>%<pl%>:%>чч%{Ӑ%}р K2 ;		! FIXME: %{ч%}ч%{Ӑ%}р ? (e.g. in a verb stem finishing in -т)
+!%<p3%>%<pl%>:%>чч%{Ӑ%}р K2 ;		! FIXME: %{ч%}ч%{Ӑ%}р ? (e.g. in a verb stem finishing in -т)
 
 LEXICON V-PERS-IMP
 
@@ -1450,8 +1451,8 @@ LEXICON V-COMMON-BASE
 %<imp%>:%{w2%} V-PERS-IMP ;
 %<pres%>:%{w2%}%>%{а%}т V-PERS-PRES ;
 %<neg%>%<pres%>:%>м%{А%}с%>т V-PERS-PRES ;
-%<evid%>:%>%{Р2%} V-PERS-EVID ;
-%<neg%>%<evid%>:%>м%{А%}%>р V-PERS-EVID ;
+%<past%>:%>%{Р2%} V-PERS-EVID ;
+%<neg%>%<past%>:%>м%{А%}%>р V-PERS-EVID ;
 %<pih%>:%{w2%}%>%{а%}%{dup2%}т V-PERS-PIH ;
 %<neg%>%<pih%>:%>м%{А%}с%>т V-PERS-PIH-NEG ;
 %<pmp%>:%> V-PERS-PMP ;
@@ -1465,33 +1466,36 @@ LEXICON V-COMMON-BASE
 
 %<ger1%>:%>м%{А%} K ;
 %<ger2%>:%>м%{А%}шк%{Ӑ%}н K ;
-%<ger3%>:%>н%{Ӑ%} COP ;
-%<ger3%>%<subst%>:%>н%{Ӑ%} SUBST ;				! A banda del <ben> (i lògicament de <nom>) no he vist cap altre cas al corpus
+!%<ger_past%>:%>н%{Ӑ%} COP ;
+%<ger_past%>:%>н%{Ӑ%} SUBST ;				! A banda del <ben> (i lògicament de <nom>) no he vist cap altre cas al corpus
 								! Amb <neg>, tbé <abl>, <ins>
-%<ger3%>%<subst%>%<abl_ins%>:%>н%{Ӑ%}%>р%{А%}нп%{А%} COP ;	! Turkish -dan beri
-%<ger3%>%<subst_и%>:%>н%>%{dup%}и ADJ-SUBST-NOPOS ;
-%<ger3%>%<subst_скер%>:%>н%{Ӑ%}%>скер SUBST ;
-%<neg%>%<ger3%>:%>м%{А%}н COP ;
-%<neg%>%<ger3%>%<subst%>:%>м%{А%}н SUBST ;
-%<neg%>%<ger3%>%<subst%>%<abl_ins%>:%>м%{А%}н%>р%{А%}нп%{А%} COP ;
-%<neg%>%<ger3%>%<subst_и%>:%>м%{А%}нн%>и ADJ-SUBST-NOPOS ;
+%<ger_past%>%<subst%>%<abl_ins%>:%>н%{Ӑ%}%>р%{А%}нп%{А%} COP ;	! Turkish -dan beri
+!%<ger_past%>%<subst_и%>:%>н%>%{dup%}и ADJ-SUBST-NOPOS ;
+%<ger_past%>:%>н%>%{dup%}и ADJ-SUBST-NOPOS ; ! <ger_*> is <subst> by default
+%<ger_past%>%<subst_скер%>:%>н%{Ӑ%}%>скер SUBST ;
+%<neg%>%<ger_past%>:%>м%{А%}н COP ;
+%<neg%>%<ger_past%>%<subst%>:%>м%{А%}н SUBST ;
+%<neg%>%<ger_past%>%<subst%>%<abl_ins%>:%>м%{А%}н%>р%{А%}нп%{А%} COP ;
+%<neg%>%<ger_past%>%<subst_и%>:%>м%{А%}нн%>и ADJ-SUBST-NOPOS ;
 %<ger5%>:%>%{а%}к%{А%}н COP ;
 %<ger5%>%<subst%>:%>%{а%}к%{А%}н SUBST ;
 %<ger5%>%<subst_и%>:%>%{а%}к%{А%}нн%>и ADJ-SUBST-NOPOS ;
 %<ger5%>%<subst_скер%>:%>%{а%}к%{А%}н%>скер SUBST ;
-%<neg%>%<ger5%>:%>м%{А%}н COP ;		! It is the same form as %<neg%>%<ger3%>
+%<neg%>%<ger5%>:%>м%{А%}н COP ;		! It is the same form as %<neg%>%<ger_past%>
 %<neg%>%<ger5%>%<subst%>:%>м%{А%}н SUBST ;
 %<neg%>%<ger5%>%<subst%>%<abl_ins%>:%>м%{А%}н%>р%{А%}нп%{А%} COP ;
 %<neg%>%<ger5%>%<subst_и%>:%>м%{А%}нн%>и ADJ-SUBST-NOPOS ;
 %<neg%>%<ger5%>%<subst_скер%>:%>м%{А%}н%>скер SUBST ;
 %<ger6%>:%>{а%}н # ;			! It comes always toghether with an antonymic verb
-%<ger8%>:%>{а%}с COP ;			! Future participle		! VERIFY: Future participle but may have -(ч)чӗ
+!%<ger_fut%>:%>{а%}с COP ;			! Future participle		! VERIFY: Future participle but may have -(ч)чӗ
+%<gpr_fut%>:%>{а%}с COP ;			! Future participle		! VERIFY: Future participle but may have -(ч)чӗ
 									! FIXME: It can have person affix (in this case с is duplicated), see Andree's textbook, p. 254
-%<ger8%>%<subst_и%>:%>{а%}с%>%{dup%}и ADJ-SUBST ;
-%<ger8%>%<subst_скер%>:%>{а%}с%>скер SUBST ;
-%<gna9%>:%>с%{А%} COP ;
-%<neg%>%<gna9%>:%>м%{А%}%>с%{Ӑ%} COP ;
-%<gna8%>:%>с%{А%}сс%{Ӑ%}н COP ; 	! VERIFY: Si gna8 és com gna9, segurament també tindrà neg	! VERIFY: Falta informació de l'Анна Семёновна
+!%<ger_fut%>%<subst_и%>:%>{а%}с%>%{dup%}и ADJ-SUBST ;
+%<ger_fut%>:%>{а%}с%>%{dup%}и ADJ-SUBST ;
+%<ger_fut%>%<subst_скер%>:%>{а%}с%>скер SUBST ;
+%<gna_perf%>:%>с%{А%} COP ;
+%<neg%>%<gna_perf%>:%>м%{А%}%>с%{Ӑ%} COP ;
+%<gna_after%>:%>с%{А%}сс%{Ӑ%}н COP ; 	! VERIFY: Si gna8 és com gna9, segurament també tindrà neg	! VERIFY: Falta informació de l'Анна Семёновна
 					! corpus: кайсассӑнах i molts altres -ах, però res més que aquest afix
 %<ger9%>:%>с%{А%}н COP ; 
 %<neg%>%<ger9%>:%>м%{А%}%>с%{А%}н COP ; 
@@ -1557,7 +1561,6 @@ LEXICON Particles
 
 чи:чи PART ; 
 чӑн:чӑн PART ; 
-мар:мар PART ; ! "no, not, not any"	! FIXME: Н.А. Андреев ho classifica com ан, que hem posat com a ADV
 !ах:ах PART ; ! "же"			! És un sufix i l'he posat a K (veure Н.А. Андреев, 1961, с. 625)
 !ах:ех PART ; ! "же" ! Dir/LR
 ак:ак PART ; ! "here, вот"
@@ -1593,6 +1596,7 @@ LEXICON Others
 и%<qst%>:и # ;
 пур:пур ПУР_ҪУК ;
 ҫук:ҫук ПУР_ҪУК ;
+ӗ%<cop%>%<neg%>%<p3%>%<sg%>:мар # ; ! "no, not, not any"	! FIXME: Н.А. Андреев ho classifica com ан, que hem posat com a ADV
 
 LEXICON Conjunctions
 
@@ -9881,6 +9885,7 @@ LEXICON Adverbs
 кашни% кун:кашни% кун ADV_CMPØ_ХИ1_ХИСКЕР1_И1_СКЕР1_COP1_ABL1_ABLINS1_INSØ ;
 кӑшт:кӑшт ADV ;
 кая:кая ADV ; ! "назад"
+каярахпа%<adv%>:каярахпа # ; ! "" ! Use/MT
 кӗлт:кӗлт ADV ;
 кӗҫӗр:кӗҫӗр ADV_CMPØ_ХИ1_ХИСКЕРØ_ИØ_СКЕРØ_COP1_ABLØ_ABLINS1_INSØ ;
 килти:килти ADV ;
@@ -11018,7 +11023,8 @@ LEXICON Verbs
 пыр:пы%{р%} V-TV ;
 пысӑкланни:пысӑкланни V-TV ;
 пысӑклан:пысӑклан V-TV ;
-пытан:пытан V-TV ;
+!пытан:пытан V-TV ;
+пытан:пытан V-IV ; 
 пытарӑн:пытарӑн V-TV ;
 пытар:пытар V-TV ;
 расхутла:расхутла V-TV ;
