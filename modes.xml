@@ -38,10 +38,11 @@
 
   <mode name="chv-disam">
     <pipeline>
-      <program name="hfst-proc -w">
-        <file name="chv.automorf.hfst"/>
+      <program name="lt-proc -w">
+        <file name="chv.automorf.bin"/>
       </program>
-      <program name="cg-proc -w">
+      <program name="cg-conv -a -l"/>
+      <program name="vislcg3 --trace --grammar">
         <file name="chv.rlx.bin"/>
       </program>
     </pipeline>

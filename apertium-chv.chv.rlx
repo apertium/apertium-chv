@@ -1,5 +1,6 @@
 DELIMITERS = "<.>" "<!>" "<?>" "<...>" "<¶>" ;
 SOFT-DELIMITERS = "<,>" ;
+SUBREADINGS = LTR ; 
 
 SETS
 
@@ -7,6 +8,10 @@ LIST N = n ;
 LIST Prop = np ;
 LIST CC = cnjcoo ;
 LIST Dat = dat ; 
+
+LIST Imper = imp ; 
+LIST Excl = ("!") ; 
+LIST Ha = ("ха") ; 
 
 LIST Func = subst attr advl ; 
 
@@ -18,3 +23,5 @@ REMOVE Func ;
 
 
 REMOVE Dat IF (0 Prop) (1 CC) (2 Prop) (NOT 2 Dat);
+
+SELECT Imper IF (0/* Ha) (1* Excl) ; 

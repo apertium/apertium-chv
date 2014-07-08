@@ -177,6 +177,7 @@ Multichar_Symbols
 %{й%}              ! Final й of the stem in Russian loans ending with ий, which falls in all derived forms
 !%{а%}              ! Archiphoneme '{а}' ('a' or 'e') or nothing		! probably it should be reinterpreted as Аdel, along with Ӑdel (with a slight different meaning than it has now)
 !%{ӗ%}              ! Archiphoneme 'ӗ' for px3sp (conditionates the previous consonant)
+%{ӗ%}              ! Archiphoneme 'ӗ' for px3sp (conditionates the previous consonant) ! WAS COMMENTED OUT
 %{в%}              ! Infix 'в' for px3sp (appearing in words with final -о and a few other cases)
 %{ь%}              ! 3p sg suffix: вула·т·ь - пӗл·ӗт·
 %{Р%}              ! р%{А%}/т%{А%}/ч%{А%}, р%{А%}н/т%{А%}н/ч%{А%}н
@@ -390,7 +391,8 @@ LEXICON POS		! Possession
 !%<px2pl%>:%>%{dup%}%{Ӑ%}р POS-INFL ;
 %<px1sg%>:%>%{ӑ%}м POS-INFL ;
 %<px2sg%>:%>%{У%}%{н%} POS-INFL ;
-%<px3sp%>:%>%{Ӗ%}%{н%} POS-INFL ;
+!%<px3sp%>:%>%{Ӗ%}%{н%} POS-INFL ; ! -- something is seriously messed up with %{Ӗ%}, was getting умнчи/умнчӑи/умӗнчи/умӗнчӑи/ум<Ӗ>нчи/ум<Ӗ>нчӑи
+%<px3sp%>:%>%{ӗ%}%{н%} POS-INFL ;
 %<px1pl%>:%>%{ӑ%}м%>%{Ӑ%}р POS-INFL ;
 %<px2pl%>:%>%{Ӑ%}р POS-INFL ;
 
