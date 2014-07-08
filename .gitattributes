@@ -9,6 +9,7 @@
 /apertium-chv.chv.rlx -text
 /apertium-chv.chv.twol -text
 /apertium-chv.pc.in -text
+/apertium-chv.post-chv.dix -text
 /autogen.sh -text
 /configure.ac -text
 dev/countstems.sh -text
