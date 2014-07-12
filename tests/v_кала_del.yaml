@@ -1,0 +1,32 @@
+Config:
+  hfst:
+    App: hfst-optimised-lookup
+    Gen: ../chv.autogen.hfst
+    Morph: ../chv.automorf.hfst
+
+Tests:
+  "The verb кала":
+    кала<v><tv><imp><p1><sg> : калам
+    кала<v><tv><imp><p2><sg> : кала
+    кала<v><tv><imp><p3><sg> : калатӑр
+    кала<v><tv><imp><p1><pl> : калар
+    кала<v><tv><imp><p2><pl> : калӑр
+    кала<v><tv><imp><p3><pl> : калаччӑр
+    кала<v><tv><fut><p1><sg> : калӑп
+    кала<v><tv><fut><p2><sg> : калӑн
+    кала<v><tv><fut><p3><sg> : калӗ
+    кала<v><tv><fut><p1><pl> : калӑпӑр
+    кала<v><tv><fut><p2><pl> : калӑр
+    кала<v><tv><fut><p3><pl> : калӗҫ
+    кала<v><tv><cond><p1><sg> : калӑттӑм
+    кала<v><tv><cond><p2><sg> : калӑттӑн
+    кала<v><tv><cond><p3><sg> : калӗччӗ
+    кала<v><tv><cond><p1><pl> : калӑттӑмӑр
+    кала<v><tv><cond><p2><pl> : калӑттӑр
+    кала<v><tv><cond><p3><pl> : калӗччӗҫ
+    кала<v><tv><opt><p1><sg> : калӑпин
+    кала<v><tv><opt><p2><sg> : калӑсӑн
+    кала<v><tv><opt><p3><sg> : калин
+    кала<v><tv><opt><p1><pl> : калӑпӑрин
+    кала<v><tv><opt><p2><pl> : калӑсӑр
+    кала<v><tv><opt><p3><pl> : калӗҫин

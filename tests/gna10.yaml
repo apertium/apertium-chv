@@ -1,0 +1,11 @@
+Config:
+  hfst:
+    App: hfst-optimised-lookup
+    Gen: ../chv.autogen.hfst
+    Morph: ../chv.automorf.hfst
+
+Tests:
+
+  "The gna10 verb form":
+    кил<v><iv><gna10> :  килсессӗн 
+    кай<v><iv><gna10> :  кайсассӑн 

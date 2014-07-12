@@ -1,0 +1,14 @@
+Config:
+  hfst:
+    App: hfst-optimised-lookup
+    Gen: ../chv.autogen.hfst
+    Morph: ../chv.automorf.hfst
+
+Tests:
+
+  "For some reason {а} in the present tense suffix doesn't fall in verbs like вула (ending in а)":
+    шыра<v><tv><pres><p3><sg> : шырать
+    вула<v><tv><pres><p1><sg> : вулатӑп
+    ӗҫле<v><iv><pres><p1><sg> : ӗҫлетӗп
+    пул<v><iv><pres><p1><sg> : пулатӑп
+    ил<v><iv><pres><p1><sg> : илетӗп

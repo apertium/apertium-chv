@@ -1,0 +1,220 @@
+Config:
+  hfst:
+    App: hfst-optimised-lookup
+    Gen: ../chv.autogen.hfst
+    Morph: ../chv.automorf.hfst
+
+Tests:
+
+  "The noun ывӑл (ends with consonant)":
+    ывӑл<n><nom> : ывӑл
+    ывӑл<n><gen> : ывӑлӑн
+    ывӑл<n><dat> : ывӑла
+    ывӑл<n><loc> : ывӑлра   # check!
+    ывӑл<n><abl> : ывӑлран  # check!
+    ывӑл<n><ins> : ывӑлпа
+    ывӑл<n><abe> : ывӑлсӑр
+    ывӑл<n><term> : ывӑлшӑн
+    ывӑл<n><px1sg><nom> : ывӑлӑм
+    ывӑл<n><px1sg><gen> : ывӑлӑмӑн
+    ывӑл<n><px1sg><dat> : ывӑлӑма
+    ывӑл<n><px1sg><loc> : ывӑлӑмра
+    ывӑл<n><px1sg><abl> : ывӑлӑмран
+    ывӑл<n><px1sg><ins> : ывӑлӑмпа
+    ывӑл<n><px1sg><abe> : ывӑлӑмсӑр
+    ывӑл<n><px1sg><term> : ывӑлӑмшӑн
+    ывӑл<n><px2sg><nom> : ывӑлу
+    ывӑл<n><px2sg><gen> : ывӑлун
+    #ывӑл<n><px2sg><gen> : ывӑлунӑн  # check that is okay alternative
+    ывӑл<n><px2sg><dat> : ывӑлна
+    ывӑл<n><px2sg><loc> : ывӑлунта
+    ывӑл<n><px2sg><abl> : ывӑлунтан
+    ывӑл<n><px2sg><ins> : ывӑлупа
+    ывӑл<n><px2sg><abe> : ывӑлусӑр
+    ывӑл<n><px2sg><term> : ывӑлушӑн
+
+
+  "The noun ача (ends with vowel)":
+    ача<n><nom> : ача
+    ача<n><gen> : ачан
+    ача<n><dat> : ачана
+    ача<n><loc> : ачара
+    ача<n><abl> : ачаран
+    ача<n><ins> : ачапа
+    ача<n><abe> : ачасӑр
+    ача<n><term> : ачашӑн
+    ача<n><px1sg><nom> : ачам
+    ача<n><px1sg><gen> : ачамӑн
+    ача<n><px1sg><dat> : ачама
+    ача<n><px1sg><loc> : ачамра
+    ача<n><px1sg><abl> : ачамран
+    ача<n><px1sg><ins> : ачампа
+    ача<n><px1sg><abe> : ачамсӑр
+    ача<n><px1sg><term> : ачамшӑн
+    ача<n><px2sg><nom> : ачу
+    ача<n><px2sg><gen> : ачунӑн  # check!
+    ача<n><px2sg><dat> : ачуна
+    ача<n><px2sg><loc> : ачунта
+    ача<n><px2sg><abl> : ачунтан
+    ача<n><px2sg><ins> : ачупа
+    ача<n><px2sg><abe> : ачусӑр
+    ача<n><px2sg><term> : ачушӑн
+
+  "The noun ҫын (has geminate consonant)":
+    ҫын<n><nom> : ҫын
+    ҫын<n><gen> : ҫыннӑн
+    ҫын<n><dat> : ҫынна
+    ҫын<n><loc> : ҫынра
+    ҫын<n><abl> : ҫынран
+    ҫын<n><ins> : ҫынпа
+    ҫын<n><abe> : ҫынсӑр
+    ҫын<n><term> : ҫыншӑн
+    ҫын<n><px1sg><nom> : ҫыннӑм
+    ҫын<n><px1sg><gen> : ҫыннӑмӑн
+    ҫын<n><px1sg><dat> : ҫыннӑма
+    ҫын<n><px1sg><loc> : ҫыннӑмра
+    ҫын<n><px1sg><abl> : ҫыннӑмран
+    ҫын<n><px1sg><ins> : ҫыннӑмпа
+    ҫын<n><px1sg><abe> : ҫыннӑмсӑр
+    ҫын<n><px1sg><term> : ҫыннӑмшӑн
+    ҫын<n><px2sg><nom> : ҫынну
+    ҫын<n><px2sg><gen> : ҫыннун
+    ҫын<n><px2sg><dat> : ҫынуна
+    ҫын<n><px2sg><loc> : ҫынунта
+    ҫын<n><px2sg><abl> : ҫынунтан
+    ҫын<n><px2sg><ins> : ҫыннупа
+    ҫын<n><px2sg><abe> : ҫыннусӑр
+    ҫын<n><px2sg><term> : ҫыннушӑн
+    ҫын<n><px3sp><nom> : ҫынни
+    ҫын<n><px3sp><gen> : ҫыннин
+    ҫын<n><px3sp><dat> : ҫыннине
+    ҫын<n><px3sp><loc> : ҫыннинче
+    ҫын<n><px3sp><abl> : ҫыннинчен
+    ҫын<n><px3sp><ins> : ҫыннипе
+    ҫын<n><px3sp><abe> : ҫыннисӗр
+    ҫын<n><px3sp><term> : ҫыннишӗн
+    ҫын<n><px1pl><nom> : ҫыннӑмӑр
+    ҫын<n><px1pl><gen> : ҫыннӑмӑрӑн
+    ҫын<n><px1pl><dat> : ҫыннӑмӑра
+    ҫын<n><px1pl><loc> : ҫыннӑмӑрта
+    ҫын<n><px1pl><abl> : ҫыннӑмӑртан
+    ҫын<n><px1pl><ins> : ҫыннӑмӑрпа
+    ҫын<n><px1pl><abe> : ҫыннӑмӑрсӑр
+    ҫын<n><px1pl><term> : ҫыннӑмӑршӑн
+    ҫын<n><px2pl><nom> : ҫыннӑр
+    ҫын<n><px2pl><gen> : ҫыннӑрӑн
+    ҫын<n><px2pl><dat> : ҫыннӑра
+    ҫын<n><px2pl><loc> : ҫыннӑрта
+    ҫын<n><px2pl><abl> : ҫыннӑртан
+    ҫын<n><px2pl><ins> : ҫыннӑрпа
+    ҫын<n><px2pl><abe> : ҫыннӑрсӑр
+    ҫын<n><px2pl><term> : ҫыннӑршӑн
+    ҫын<n><pl><nom> : ҫынсем
+    ҫын<n><pl><gen> : ҫынсен
+    ҫын<n><pl><dat> : ҫынсене
+    ҫын<n><pl><loc> : ҫынсенче
+    ҫын<n><pl><abl> : ҫынсенчен
+    ҫын<n><pl><ins> : ҫынсемпе
+    ҫын<n><pl><abe> : ҫынсемсӗр
+    ҫын<n><pl><term> : ҫынсемшӗн
+    ҫын<n><px1sg><pl><nom> : ҫыннӑмсем
+    ҫын<n><px1sg><pl><gen> : ҫыннӑмсен
+    ҫын<n><px1sg><pl><dat> : ҫыннӑмсене
+    ҫын<n><px1sg><pl><loc> : ҫыннӑмсенче
+    ҫын<n><px1sg><pl><abl> : ҫыннӑмсенчен
+    ҫын<n><px1sg><pl><ins> : ҫыннӑмсемпе
+    ҫын<n><px1sg><pl><abe> : ҫынӑмсемсӗр  # check!
+    ҫын<n><px1sg><pl><term> : ҫыннӑмсемшӗн
+    ҫын<n><px2sg><pl><nom> : ҫыннусем
+    ҫын<n><px2sg><pl><gen> : ҫыннусен
+    ҫын<n><px2sg><pl><dat> : ҫыннусене
+    ҫын<n><px2sg><pl><loc> : ҫыннусенче
+    ҫын<n><px2sg><pl><abl> : ҫыннусенчен
+    ҫын<n><px2sg><pl><ins> : ҫыннусемпе
+    ҫын<n><px2sg><pl><abe> : ҫыннусемсӗр
+    ҫын<n><px2sg><pl><term> : ҫыннусемшӗн
+    ҫын<n><px3sp><pl><nom> : ҫыннисем
+    ҫын<n><px3sp><pl><gen> : ҫыннисен
+    ҫын<n><px3sp><pl><dat> : ҫыннисене
+    ҫын<n><px3sp><pl><loc> : ҫыннисенче
+    ҫын<n><px3sp><pl><abl> : ҫыннисенчен
+    ҫын<n><px3sp><pl><ins> : ҫыннисемпе
+    ҫын<n><px3sp><pl><abe> : ҫыннисемсӗр
+    ҫын<n><px3sp><pl><term> : ҫыннисемшӗн
+    ҫын<n><px1pl><pl><nom> : ҫыннӑмӑрсем
+    ҫын<n><px1pl><pl><gen> : ҫыннӑмӑрсен
+    ҫын<n><px1pl><pl><dat> : ҫыннӑмӑрсене
+    ҫын<n><px1pl><pl><loc> : ҫыннӑмӑрсенче
+    ҫын<n><px1pl><pl><abl> : ҫыннӑмӑрсенчен
+    ҫын<n><px1pl><pl><ins> : ҫыннӑмӑрсемпе
+    ҫын<n><px1pl><pl><abe> : ҫыннӑмӑрсемсӗр
+    ҫын<n><px1pl><pl><term> : ҫыннӑмӑрсемшӗн
+    ҫын<n><px2pl><pl><nom> : ҫыннӑрсем
+    ҫын<n><px2pl><pl><gen> : ҫыннӑрсен
+    ҫын<n><px2pl><pl><dat> : ҫыннӑрсене
+    ҫын<n><px2pl><pl><loc> : ҫыннӑрсенче
+    ҫын<n><px2pl><pl><abl> : ҫыннӑрсенчен
+    ҫын<n><px2pl><pl><ins> : ҫыннӑрсемпе
+    ҫын<n><px2pl><pl><abe> : ҫыннӑрсемсӗр
+    ҫын<n><px2pl><pl><term> : ҫыннӑрсемшӗн
+
+
+  "The noun сӑвӑ (has geminate consonant and ends in short vowel)":
+    сӑвӑ<n><nom> : сӑвӑ
+    сӑвӑ<n><gen> : сӑввӑн
+    сӑвӑ<n><dat> : сӑвва
+    сӑвӑ<n><loc> : сӑвӑра
+    сӑвӑ<n><abl> : сӑвӑран
+    сӑвӑ<n><ins> : сӑвӑпа
+    сӑвӑ<n><abe> : сӑвӑсӑр
+    сӑвӑ<n><term> : сӑвӑшӑн
+    сӑвӑ<n><px1sg><nom> : сӑввӑм
+    сӑвӑ<n><px1sg><gen> : сӑввӑмӑн
+    сӑвӑ<n><px1sg><dat> : сӑввӑма
+    сӑвӑ<n><px1sg><loc> : сӑввӑмра
+    сӑвӑ<n><px1sg><abl> : сӑввӑмран
+    сӑвӑ<n><px1sg><ins> : сӑввӑмпа
+    сӑвӑ<n><px1sg><abe> : сӑввӑмсӑр
+    сӑвӑ<n><px1sg><term> : сӑввӑмшӑн
+    сӑвӑ<n><px2sg><nom> : сӑвву
+    сӑвӑ<n><px2sg><gen> : сӑввун
+    сӑвӑ<n><px2sg><dat> : сӑввӑва
+    сӑвӑ<n><px2sg><loc> : сӑввура
+    сӑвӑ<n><px2sg><abl> : сӑввуран
+    сӑвӑ<n><px2sg><ins> : сӑввупа
+    сӑвӑ<n><px2sg><abe> : сӑввусӑр
+    сӑвӑ<n><px2sg><term> : сӑввушӑн
+    сӑвӑ<n><px3sp><nom> : сӑвви
+    сӑвӑ<n><px3sp><gen> : сӑввийӗн
+    сӑвӑ<n><px3sp><gen> : сӑввин
+    сӑвӑ<n><px3sp><dat> : сӑввнне
+    сӑвӑ<n><px3sp><loc> : сӑввинче
+    сӑвӑ<n><px3sp><abl> : сӑввинчен
+    сӑвӑ<n><px3sp><ins> : сӑввипе
+    сӑвӑ<n><px3sp><abe> : сӑввисӗр
+    сӑвӑ<n><px3sp><term> : сӑввишӗн
+    сӑвӑ<n><px1pl><nom> : сӑввӑмӑр
+    сӑвӑ<n><px1pl><gen> : сӑввӑмӑрӑн
+    сӑвӑ<n><px1pl><dat> : сӑввӑмӑра
+    сӑвӑ<n><px1pl><loc> : сӑввӑмӑрта
+    сӑвӑ<n><px1pl><abl> : сӑввӑмӑртан
+    сӑвӑ<n><px1pl><ins> : сӑввӑмӑрпа
+    сӑвӑ<n><px1pl><abe> : сӑввӑмӑрсӑр
+    сӑвӑ<n><px1pl><term> : сӑввӑмӑршӑн
+    сӑвӑ<n><px2pl><nom> : сӑввӑр
+    сӑвӑ<n><px2pl><gen> : сӑввӑрӑн
+    сӑвӑ<n><px2pl><dat> : сӑввӑра
+    сӑвӑ<n><px2pl><loc> : сӑввӑрта
+    сӑвӑ<n><px2pl><abl> : сӑввӑтан
+    сӑвӑ<n><px2pl><ins> : сӑввӑрпа
+    сӑвӑ<n><px2pl><abe> : сӑввӑрсӑр
+    сӑвӑ<n><px2pl><term> : сӑввӑршӑн
+    сӑвӑ<n><pl><nom> : сӑвӑсем
+    сӑвӑ<n><pl><gen> : сӑвӑсен
+    сӑвӑ<n><pl><dat> : сӑвӑсене
+    сӑвӑ<n><pl><loc> : сӑвӑсенче
+    сӑвӑ<n><pl><abl> : сӑвӑсенчен
+    сӑвӑ<n><pl><ins> : сӑвӑсемпе
+    сӑвӑ<n><pl><abe> : сӑвӑсемсӗр
+    сӑвӑ<n><pl><term> : сӑвӑсемшӗн
+    #FIXME: add plural+possessive forms

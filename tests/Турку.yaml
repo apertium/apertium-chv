@@ -1,0 +1,57 @@
+Config:
+  hfst:
+    App: hfst-optimised-lookup
+    Gen: ../chv.autogen.hfst
+    Morph: ../chv.automorf.hfst
+
+Tests:
+
+  "Сӑмах Турку":
+    Турку<np><top><nom> :  Турку 
+    Турку<np><top><gen> :  Туркӑн 
+    Турку<np><top><dat> :  Туркӑна 
+    Турку<np><top><loc> :  Туркӑра 
+    Турку<np><top><abl> :  Туркӑран 
+    Турку<np><top><ins> :  Туркӑпа 
+    Турку<np><top><abe> :  Туркӑсӑр 
+    Турку<np><top><ben> :  Туркӑшӑн
+    Турку<np><top><px1sg><nom> :  Туркӑм 
+    Турку<np><top><px1sg><gen> :  Туркӑмӑн 
+    Турку<np><top><px1sg><dat> :  Туркӑма 
+    Турку<np><top><px1sg><loc> :  Туркӑмра 
+    Турку<np><top><px1sg><abl> :  Туркӑмран 
+    Турку<np><top><px1sg><ins> :  Туркӑмпа 
+    Турку<np><top><px1sg><abe> :  Туркӑмсӑр 
+    Турку<np><top><px1sg><ben> :  Туркӑмшӑн
+    Турку<np><top><px2sg><nom> :  Турку 
+    Турку<np><top><px2sg><gen> :  Туркун 
+    Турку<np><top><px2sg><dat> :  Туркуна 
+    Турку<np><top><px2sg><loc> :  Туркунта 
+    Турку<np><top><px2sg><abl> :  Туркунтан 
+    Турку<np><top><px2sg><ins> :  Туркупа 
+    Турку<np><top><px2sg><abe> :  Туркусӑр 
+    Турку<np><top><px2sg><ben> :  Туркушӑн
+    Турку<np><top><px3sp><nom> :  Турки 
+    Турку<np><top><px3sp><gen> :  Туркин 
+    Турку<np><top><px3sp><dat> :  Туркине 
+    Турку<np><top><px3sp><loc> :  Туркинче 
+    Турку<np><top><px3sp><abl> :  Туркинчен 
+    Турку<np><top><px3sp><ins> :  Туркипе 
+    Турку<np><top><px3sp><abe> :  Туркисӗр 
+    Турку<np><top><px3sp><ben> :  Туркишӗн
+    Турку<np><top><px1pl><nom> :  Туркӑмӑр 
+    Турку<np><top><px1pl><gen> :  Туркӑмӑрӑн 
+    Турку<np><top><px1pl><dat> :  Туркӑмӑра 
+    Турку<np><top><px1pl><loc> :  Туркӑмӑрта 
+    Турку<np><top><px1pl><abl> :  Туркӑмӑртан 
+    Турку<np><top><px1pl><ins> :  Туркӑмӑрпа 
+    Турку<np><top><px1pl><abe> :  Туркӑмӑрсӑр 
+    Турку<np><top><px1pl><ben> :  Туркӑмӑршӑн
+    Турку<np><top><px2pl><nom> :  Туркӑр 
+    Турку<np><top><px2pl><gen> :  Туркӑрӑн 
+    Турку<np><top><px2pl><dat> :  Туркӑра 
+    Турку<np><top><px2pl><loc> :  Туркӑрта 
+    Турку<np><top><px2pl><abl> :  Туркӑртан 
+    Турку<np><top><px2pl><ins> :  Туркӑрпа 
+    Турку<np><top><px2pl><abe> :  Туркӑрсӑр 
+    Турку<np><top><px2pl><ben> :  Туркӑршӑн

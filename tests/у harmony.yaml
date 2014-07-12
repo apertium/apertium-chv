@@ -1,0 +1,22 @@
+Config:
+  hfst:
+    App: hfst-optimised-lookup
+    Gen: ../chv.autogen.hfst
+    Morph: ../chv.automorf.hfst
+
+Tests:
+
+  "Regular У harmony":
+    ял<n><px2sg><nom> : ялу
+    ывӑл<n><px2sg><nom> : ывӑлу
+    тӗн<n><px2sg><nom> : тӗнӳ
+    ҫерем<n><px2sg><nom> : ҫеремӳ
+
+  "У harmony for words ending in vowels":
+    кӗсье<n><px2sg><nom> : кӗсйӳ
+    анне<n><px2sg><nom> : аннӳ
+    училище<n><px2sg><dat> : училищӳне
+
+  "У harmony for words ending in ь":
+    супӑнь<n><px2sg><nom> : супанӳ
+    тетрадь<n><px2sg><nom> : тетрадӳ

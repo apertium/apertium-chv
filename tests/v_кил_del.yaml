@@ -1,0 +1,32 @@
+Config:
+  hfst:
+    App: hfst-optimised-lookup
+    Gen: ../chv.autogen.hfst
+    Morph: ../chv.automorf.hfst
+
+Tests:
+  "The verb кил":
+    кил<v><iv><imp><p1><sg> : килем
+    кил<v><iv><imp><p2><sg> : кил
+    кил<v><iv><imp><p3><sg> : килтӗр
+    кил<v><iv><imp><p1><pl> : килер
+    кил<v><iv><imp><p2><pl> : килӗр
+    кил<v><iv><imp><p3><pl> : килччӗр
+    кил<v><iv><fut><p1><sg> : килӗп
+    кил<v><iv><fut><p2><sg> : килӗн
+    кил<v><iv><fut><p3><sg> : килӗ
+    кил<v><iv><fut><p1><pl> : килӗпӗр
+    кил<v><iv><fut><p2><pl> : килӗр
+    кил<v><iv><fut><p3><pl> : килӗҫ
+    кил<v><iv><cond><p1><sg> : килӗттӗм
+    кил<v><iv><cond><p2><sg> : килӗттӗн
+    кил<v><iv><cond><p3><sg> : килӗччӗ
+    кил<v><iv><cond><p1><pl> : килӗттӗмӗр
+    кил<v><iv><cond><p2><pl> : килӗттӗр
+    кил<v><iv><cond><p3><pl> : килӗччӗҫ
+    кил<v><iv><opt><p1><sg> : килӗпин
+    кил<v><iv><opt><p2><sg> : килӗсӗн
+    кил<v><iv><opt><p3><sg> : килин
+    кил<v><iv><opt><p1><pl> : килӗпӗрин
+    кил<v><iv><opt><p2><pl> : килӗсӗр
+    кил<v><iv><opt><p3><pl> : килӗҫин

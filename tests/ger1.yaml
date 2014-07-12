@@ -1,0 +1,17 @@
+Config:
+  hfst:
+    App: hfst-optimised-lookup
+    Gen: ../chv.autogen.hfst
+    Morph: ../chv.automorf.hfst
+
+Tests:
+
+  "Fall of м in ger1 (%>м%{А%}), but м does not fall e.g. in <neg><pres> (%>м%{А%}с%>т)":
+    вула<v><tv><ger1> : вулама
+    ӗҫле<v><iv><ger1> : ӗҫлеме
+    пул<v><iv><ger1> : пулма
+    ил<v><iv><ger1> : илме
+    вула<v><tv><neg><pres><p3><sg> : вуламасть
+    ӗҫле<v><iv><neg><pres><p3><sg> : ӗҫлемест
+    пул<v><iv><neg><pres><p3><sg> : пулмасть
+    ил<v><iv><neg><pres><p3><sg> : илмест
