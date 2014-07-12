@@ -84,7 +84,7 @@ Multichar_Symbols
 %<iv%>             ! 
 %<tv%>             ! 
 
-%<gna_perf%>           ! Verbal adverb:   -с{А}               = 
+%<gna_perf%>       ! Verbal adverb:   -с{А}               = 
                    ! Negative form:   -м{А}с{Ӑ}р
 
 %<ger1%>           ! Gerund:          -м{А}               = "Infinitive"
@@ -95,8 +95,8 @@ Multichar_Symbols
                    ! Negative form:   -м{А}н (as for the past participle -н{Ӑ})
 %<ger6%>           ! Gerund:          -{А}н               = Present participle (FIXME: In Андреев 1961, с. 621, it's said it is "скоращенная форма" presenta participle -{А}к{А}н; Оксана says "unproductive participle forms")
 %<ger_fut%>           ! Gerund:          -{А}с               = Future participle
-%<ger9%>           ! Gerund:          -с{А}н
-%<gna_after%>           ! Gerund:          -с{А}сс{Ӑ}н       ! It seems to be a fully equivalent form of -с{А}н
+!%<gna_after%>           ! Gerund:          -с{А}н
+%<gna_after%>      ! Gerund:          -с{А}сс{Ӑ}н       ! It seems to be a fully equivalent form of -с{А}н
 %<ger11%>          ! Gerund:          -иччен
 %<ger12%>          ! Gerund:          -нӑҫемӗн
 %<ger14%>          ! Gerund:          -м{А}ссерен
@@ -107,6 +107,8 @@ Multichar_Symbols
 %<partpl3%>        ! Participle       -и
 %<partpl4%>        ! Participle       -м{А}л{Ӑ}х
 ! FIXME: пӑх·масӑр, тух·масӑр (не выходя). Имеют и усилительные формы пӑх·масӑр·ха, тух·масӑр·ха
+
+%<prc_vol%>        ! 
 
 %<oblig%>          ! -м{А}лл{А}
 
@@ -239,7 +241,7 @@ Others ;
 LEXICON K1bis
 
 # ;
-%+ха%<part%>:%-ха # ;		! килмест-и-ха, мар-и-ха, эсӗ-и-ха
+%+ха%<emph%>:%-ха # ;		! килмест-и-ха, мар-и-ха, эсӗ-и-ха
 
 LEXICON K1
 
@@ -1495,12 +1497,15 @@ LEXICON V-COMMON-BASE
 !%<ger_fut%>%<subst_и%>:%>{а%}с%>%{dup%}и ADJ-SUBST ;
 %<ger_fut%>:%>{а%}с%>%{dup%}и ADJ-SUBST ;
 %<ger_fut%>%<subst_скер%>:%>{а%}с%>скер SUBST ;
+
+%<prc_vol%>:%>сш%{Ӑ%}н # ; ! Не знаем форму, но это работает для текста рассказа
+
 %<gna_perf%>:%>с%{А%} COP ;
 %<neg%>%<gna_perf%>:%>м%{А%}%>с%{Ӑ%} COP ;
 %<gna_after%>:%>с%{А%}сс%{Ӑ%}н COP ; 	! VERIFY: Si gna8 és com gna9, segurament també tindrà neg	! VERIFY: Falta informació de l'Анна Семёновна
 					! corpus: кайсассӑнах i molts altres -ах, però res més que aquest afix
-%<ger9%>:%>с%{А%}н COP ; 
-%<neg%>%<ger9%>:%>м%{А%}%>с%{А%}н COP ; 
+%<gna_after%>:%>с%{А%}н COP ; 
+%<neg%>%<gna_after%>:%>м%{А%}%>с%{А%}н COP ; 
 %<ger11%>:%>иччен K ; 		! Future participle
 %<ger11%>%<subst_хи%>:%>иччен%>хи ADJ-SUBST-NOPOS ;	! Палӑрту аффикс (Павлов 2005:8)	! Анна Семёновна предупреждает, что не всегда возможно добавить этот аффикс
 %<neg%>%<ger11%>:%>м%>иччен K ; 				! Future participle
@@ -1608,6 +1613,7 @@ LEXICON Conjunctions
 ни CC ; 
 то CC ; 
 анчах CC ;
+ҫапах:ҫапах CC ; ! "но"
 анчах% та CC ;	! FIXME: Check
 ҫapax% та CC ;
 е CC ;
@@ -2183,6 +2189,8 @@ LEXICON Numerals
 
 LEXICON Nouns
 
+чӗрчун:чӗрчун N1 ;
+чӗрчун:чӗр% чун N1 ; ! Dir/LR
 кӑрлач:кӑрлач N1 ;
 нарӑс:нарӑс N1 ;
 пуш:пуш N1 ;
@@ -4663,7 +4671,6 @@ LEXICON Nouns
 хысак:хысак N1 ;
 хыҫал:хыҫал N1 ;
 хысна:хысна N1 ;
-хыҫ:хыҫ N1 ;
 хыткукар:хыткукар N1 ;
 цемент:цемент N-RUS-RUS ;
 цензура:цензур N-RUS-А ;
@@ -5452,7 +5459,6 @@ LEXICON Nouns
 хыпаланчӑк:хыпаланчӑк N1 ;
 хыркӑн:хыркӑн N1 ;
 хыр:хыр N1 ;
-хыҫ:хыҫ N1 ;
 центнер:центнер N-RUS-RUS ;
 чаппан:чаппан N1 ;
 чарак:чарак N1 ;
@@ -9200,7 +9206,6 @@ LEXICON Adjectives
 тӗшмӗшлӗ:тӗшмӗшлӗ ADJ_COMP1_ADVØ_ИØ_СКЕР1 ;
 тивӗҫлӗ:тивӗҫлӗ ADJ_COMPØ_ADV1_ИØ_СКЕР1 ;
 тикӗс:тикӗс ADJ_COMPØ_ADV1_ИØ_СКЕР1 ;
-тимлӗн:тимлӗн A1 ;
 тимлӗ:тимлӗ ADJ_COMPØ_ADV1_ИØ_СКЕР1 ;
 тимсӗр:тимсӗр ADJ_COMPØ_ADVØ_ИØ_СКЕР1 ;
 тинкерӳллӗ:тинкерӳллӗ ADJ_COMPØ_ADV1_ИØ_СКЕР1 ;
@@ -9851,6 +9856,10 @@ LEXICON Adverbs-ITG
 
 LEXICON Adverbs
 
+ҫапла% вара:ҫапла% вара ADV ; ! Use/MT
+нихӑҫан:нихӑҫан ADV ; ! "никогда"
+тимлӗн:тимлӗн ADV ; ! из слова 'тимлӗ'
+кӑшт:кӑшт ADV ;
 авал:авал ADV ;
 ытла:ытла ADV ;
 авалтанпа:авалтанпа ADV_CMP1_ХИØ_ХИСКЕРØ_ИØ_СКЕРØ_COPØ_ABLØ_ABLINSØ_INSØ ;
@@ -10194,7 +10203,8 @@ LEXICON Verbs
 асту:асту V-TV ;
 аталан:аталан V-TV ;
 ат:ат V-TV ;
-аташ:аташ V-TV ;
+!аташ:аташ V-TV ;
+аташ:аташ V-IV ; ! WAS TV
 ӑттар:ӑттар V-TV ;
 ахӑлтат:ахӑлтат V-TV ;
 ахӑр:ахӑр V-TV ;
@@ -10393,7 +10403,8 @@ LEXICON Verbs
 илӗр:илӗр V-TV ;
 илӗрт:илӗрт V-TV ;
 илӗх:илӗх V-TV ;
-ил:ил V-IV ;
+!ил:ил V-IV ; ! CANVIAT 
+ил:ил V-TV ;
 иллюстрациле:иллюстрациле V-TV ;
 илсе% кай:илсе% кай V-TV ;
 илтеле:илтеле V-TV ;
@@ -11461,7 +11472,8 @@ LEXICON Verbs
 тӑртан:тӑртан V-TV ;
 тӑртӑн:тӑртӑн V-TV ;
 тар:та%{р%} V-TV ;
-тӑр:тӑр V-TV ;
+!тӑр:тӑр V-TV ; ! WAS TV
+тӑр:тӑр V-IV ;
 тархасла:тархасла V-TV ;
 тасал:тасал V-TV ;
 тӑсал:тӑсал V-TV ;
@@ -12772,6 +12784,7 @@ LEXICON Postpositions
 пат:пат POST ;
 ҫинчен:ҫинчен POST ;
 ҫинче:ҫинче POST ;
+ҫине:ҫине POST ; ! "на"
 ҫинчи:ҫинчи POST ;
 хыҫҫӑн:хыҫҫӑн POST ;
 
@@ -12782,7 +12795,7 @@ LEXICON Postpositions
 ай:ай N2 ; ! "underpart, underside"
 ҫи:ҫи N2 ; ! "surface"
 тӑрӑ:тӑрӑ N2 ; ! "upon"
-хыҫ:хыҫ N2 ; ! "rear, behind"
+хыҫ:хыҫ%{ː%} N2 ; ! "rear, behind"
 хӗр:хӗр N2 ; ! "edge"
 пат:пат N2 ; ! "direction, towards"
 ҫум:ҫум N2 ; ! "along"

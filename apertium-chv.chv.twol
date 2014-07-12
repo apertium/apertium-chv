@@ -879,9 +879,11 @@ Cx:0 <=> _ Cy %{RUS%}: %>: ;
 "шыраать > шырать"
 !%{а%}:0 <=> :SurVow %>: _ ;		! WARNING!!!: There's a cataclysm if this is changed to: %{а%}:0 <=> :SurVow/[ %>: | :0 ] _ ;
 %{а%}:0 <=> :SurVow [ %{w2%}: ]* %>: _ ;	! WARNING!!!: There's a cataclysm if this is changed to: %{а%}:0 <=> :SurVow/[ %>: | :0 ] _ ;
+            :SurVow [ %{w%}: ]* %>: _ ;  ! WARNING!!! I made this up
 	except %{RUS%}: %>: _ ;		! We make explicit that this rule does not deal with Russian words, as the compiler asks for that
             [ у: | ӳ: ] [ %{w2%}: ] %>: _ ;
 ! шыра>{а}т>{ь}:шырать
+! йӗри-тавра{w}>{а}лла:йӗри-тавралла
 
 "3.pl: килетҫҫӗ > килеҫҫӗ, килместҫҫӗ > килмеҫҫӗ"
 т:0 <=> _ %>: ҫ ҫ ӗ: ;
