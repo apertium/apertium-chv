@@ -14,6 +14,7 @@
 /configure.ac -text
 dev/countstems.sh -text
 dev/editdist.py -text
+dev/spellrelax.twol -text
 /modes.xml -text
 speller/editdist.default.txt -text
 speller/index.xml -text
