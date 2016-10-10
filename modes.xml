@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <modes>
 
-  <mode name="chv-twol">
+  <mode name="chv-twol" install="yes">
     <pipeline>
       <program name="hfst-strings2fst -S"/>
       <program name="hfst-compose-intersect">
@@ -11,7 +11,7 @@
     </pipeline>
   </mode>
 
-  <mode name="chv-morph">
+  <mode name="chv-morph" install="yes">
     <pipeline>
       <program name="hfst-proc -w">
         <file name="chv.automorf.hfst"/>
@@ -19,7 +19,7 @@
     </pipeline>
   </mode>
 
-  <mode name="chv-lexc">
+  <mode name="chv-lexc" install="yes">
     <pipeline>
       <program name="hfst-proc -g">
         <file name=".deps/chv.lexc.hfst"/>
@@ -28,7 +28,7 @@
   </mode>
 
 
-  <mode name="chv-gener">
+  <mode name="chv-gener" install="yes">
     <pipeline>
       <program name="hfst-proc -g">
         <file name="chv.autogen.hfst"/>
@@ -36,7 +36,7 @@
     </pipeline>
   </mode>
 
-  <mode name="chv-disam">
+  <mode name="chv-disam" install="yes">
     <pipeline>
       <program name="lt-proc -w">
         <file name="chv.automorf.bin"/>
