@@ -1,7 +1,8 @@
 AC_PREREQ(2.52)
 
-AC_INIT([apertium-chv], [0.1.0], [francis.tyers@gmail.com])
-AM_INIT_AUTOMAKE([apertium-chv], [0.1.0], no-define)
+AC_INIT([Apertium Chuvash], [0.1.0], [francis.tyers@gmail.com], [apertium-chv], [http://wiki.apertium.org/wiki/Apertium-chv])
+AM_INIT_AUTOMAKE
+
 AC_PROG_LN_S
 AC_PROG_AWK
 
@@ -20,74 +21,20 @@ AS_IF([test x$hfstospell = xyes], [
 AM_CONDITIONAL([HAVE_HFSTOSPELL], [test x$hfstospell = xyes])
 
 
-m4_define([required_apertium_version], [3.3.0])
+m4_define([required_apertium_version], [3.4.0])
 PKG_CHECK_MODULES(APERTIUM,   apertium >= required_apertium_version)
-                          
 
-#AC_DEFUN([PKG_CHECK_HFST], [
-#  HFST_VER=0
-#  PKG_CHECK_MODULES(HFST, hfst-3.2 >= 3.2.0,
-#  [
-#      HFST_VER=32
-#  ],
-#  [
-#      PKG_CHECK_MODULES(HFST, hfst-3.1 >= 3.1.0,
-#      [
-#          HFST_VER=31
-#      ],
-#      [
-#          PKG_CHECK_MODULES(HFST, hfst-3.0 >= 3.0.0,
-#          [
-#              HFST_VER=30
-#          ])
-#      ])
-#  ])
-#  AC_SUBST(HFST_VER)
-#])
-#                          
-#PKG_CHECK_HFST
+AC_PATH_PROG([HFSTLEXC], [hfst-lexc], [false], [$PATH$PATH_SEPARATOR$with_hfst_lexc/bin])
+AS_IF([test x$HFSTLEXC = xfalse], [AC_MSG_ERROR([You don't have hfst-lexc installed])])
 
-AC_PATH_PROG(HFSTLEXC, hfst-lexc, no)
-if test x$ac_cv_path_HFSTLEXC = x
-then
-  AC_MSG_ERROR([You don't have hfst-lexc installed.])
-fi
-if test x$ac_cv_path_HFSTLEXC = xno
-then
-  AC_MSG_ERROR([You don't have hfst-lexc installed.])
-fi
+AC_PATH_PROG([HFSTTWOLC], [hfst-twolc], [false], [$PATH$PATH_SEPARATOR$with_hfst_twolc/bin])
+AS_IF([test x$HFSTTWOLC = xfalse], [AC_MSG_ERROR([You don't have hfst-twolc installed])])
 
-AC_PATH_PROG(HFSTTWOL, hfst-twolc, no)
-if test x$ac_cv_path_HFSTTWOL = x
-then
-  AC_MSG_ERROR([You don't have hfst-twolc installed.])
-fi
-if test x$ac_cv_path_HFSTTWOL = xno
-then
-  AC_MSG_ERROR([You don't have hfst-twolc installed.])
-fi
-
-AC_PATH_PROG(CGCOMP, cg-comp, no)
-if test x$ac_cv_path_CGCOMP = x
-then
-  AC_MSG_ERROR([You don't have cg-comp installed.])
-fi
-if test x$ac_cv_path_CGPROC = xno
-then
-  AC_MSG_ERROR([You don't have cg-comp installed.])
-fi
-
-AC_PATH_PROG(PKG_CONFIG, pkg-config, no)
-if test x$ac_cv_path_PKG_CONFIG = x
-then
-  AC_MSG_ERROR([You don't have pkg-config installed.])
-fi
-if test x$ac_cv_path_PKG_CONFIG = xno
-then
-  AC_MSG_ERROR([You don't have pkg-config installed.])
-fi
+AC_PATH_PROG([CGCOMP], [cg-comp], [false], [$PATH$PATH_SEPARATOR$with_cg_comp/bin])
+AS_IF([test x$CGCOMP = xfalse], [AC_MSG_ERROR([You don't have cg-comp installed])])
 
 
 AP_MKINCLUDE
 
 AC_OUTPUT([Makefile apertium-chv.pc])
+
