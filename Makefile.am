@@ -10,6 +10,7 @@ BASENAME=apertium-$(LANG1)
 TARGETS_COMMON =			\
 	$(LANG1).automorf.hfst		\
 	$(LANG1).automorf.bin		\
+	$(LANG1).autopgen.bin		\
 	$(LANG1).automorf.att.gz	\
 	$(LANG1).autogen.hfst		\
 	$(LANG1).autogen.bin		\
@@ -67,6 +68,9 @@ $(LANG1).autogen.bin: $(LANG1).autogen.att.gz .deps/.d
 $(LANG1).automorf.bin: $(LANG1).automorf.att.gz .deps/.d
 	zcat < $< > .deps/$(LANG1).automorf.att
 	lt-comp lr .deps/$(LANG1).automorf.att $@
+
+$(LANG1).autopgen.bin: $(BASENAME).post-$(LANG1).dix .deps/.d
+	lt-comp lr $< $@
 
 ###############################################################################
 ## Debugging transducers (for testvoc)

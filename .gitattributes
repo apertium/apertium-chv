@@ -11,6 +11,7 @@
 /apertium-chv.pc.in -text
 /apertium-chv.post-chv.dix -text
 /autogen.sh -text
+/chv.prob -text
 /configure.ac -text
 dev/countstems.sh -text
 dev/editdist.py -text
