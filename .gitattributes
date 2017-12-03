@@ -13,6 +13,8 @@
 /autogen.sh -text
 /chv.prob -text
 /configure.ac -text
+dev/apertium-chv.chv.lexc-r73928 -text
+dev/apertium-chv.chv.twol-r73928 -text
 dev/countstems.sh -text
 dev/editdist.py -text
 dev/spellrelax.twol -text
@@ -101,3 +103,4 @@ tests/хӗв.yaml -text
 tests/чикӗ.yaml -text
 tests/чӗрӗп.yaml -text
 tests/шӑши.yaml -text
+texts/spravočnik.txt -text

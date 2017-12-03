@@ -1,0 +1,1078 @@
+Alphabet
+  а ӑ е ё ӗ и о у ӳ ы э ю я б в г д ж з к л м н п р с ҫ т ф х ц ч ш щ й ь ъ
+ 
+  А Ӑ Е Ё Ӗ И О У Ӳ Ы Э Ю Я Б В Г Д Ж З К Л М Н П Р С Ҫ Т Ф Х Ц Ч Ш Щ Й Ь Ъ
+
+ %{Ӑ%}:ӑ %{Ӑdel%}:ӑ %{ӑ%}:ӑ 
+
+ %{ӗ%}:ӗ %{ӗdel%}:ӗ %{Ӗ%}:ӗ
+
+ %{А%}:а %{а%}:а
+ 
+ %{ь%}:ь %{ч%}:ч %{о%}:о
+ 
+ %{И%}:и %{У%}:у
+ 
+ %{Р%}:р %{Р2%}:р %{М%}:м %{Т%}:р
+
+ %{и%}:и %{и2%}:и %{иdel%}:и
+
+ %{й%}:0 %{Ь%}:0 %{ъ%}:ь %{н2%}:0 %{w%}:0 %{w2%}:0 %{в%}:0
+
+ %>:0 %{н%}:0
+
+ %{р%}:р
+
+ %{Тарах%}:0 %{ТарахAnaliz%}:0
+
+ %{dup%}:0 %{dup2%}:0 %{dup3%}:0 %{nodup%}:0 %{del%}:0 %{ː%}:0 %{ːno3%}:0
+
+ %{RUS%}:0 %{block%}:0
+
+ %+ %- 
+ % 
+
+;
+
+Sets
+
+Cns = б в г д ж з к л м н п р с ҫ т ф х ц ч ш щ й
+      Б В Г Д Ж З К Л М Н П Р С Ҫ Т Ф Х Ц Ч Ш Щ Й ;
+! no ь, Ь, ъ, Ъ (as the first ones rule in vowel harmony)
+
+SurVow = а ӑ е ё ӗ о у ӳ ы э ю я
+         А Ӑ Е Ё Ӗ О У Ӳ Ы Э Ю Я ;
+
+SurVow2 = а ӑ е ӗ о у ӳ ы э 			! no composed vowels я, ю, ё
+          А Ӑ Е Ӗ О У Ӳ Ы Э ;
+
+!FrontVow = и ӳ е э ӗ И Ӳ Е Э Ӗ ь Ь %{ӗ%} ;	! ь causes front vowels
+FrontVow = И и Ӳ ӳ Е е Э э Ӗ ӗ ;
+BackVow =  ы у а ӑ я ю Ы У А Ӑ Я Ю о О ё Ё ;	! Russian о and ё act as back vowels
+!FleetingVow = ӗ ӑ Ӗ Ӑ %{ӗ%} ;
+! BackNonFleetingVow = BackVow - FleetingVow ;
+
+!AEVow = а А е Е ӑ Ӑ ӗ Ӗ %{ӑ%} %{Ӗ%} %{Ӑ%} ;	! %{Ӑ%} is necessary for some verbal forms
+AEVow = а А е Е ӑ Ӑ ӗ Ӗ %{ӑ%} %{Ӗ%} ;	! %{Ӑ%} is necessary for some verbal forms
+
+Soglasnye = Б В Г Д Ж Й З К Л М Н П Р С Ҫ Т Ф Х Ц Ч Ш Щ 
+            б в г д ж й з к л м н п р с ҫ т ф х ц ч ш щ ; 
+
+Sonornye = Б В Г Д Ж Й З Л М Н Р
+           б в г д ж й з л м н р ; 
+
+SoglasnyeBezР = Б В Г Д Ж Й З К Л М Н П С Ҫ Т Ф Х Ц Ч Ш Щ 
+                б в г д ж й з к л м н п с ҫ т ф х ц ч ш щ ; 
+
+SoglasnyeBezЙЛН = Б В Г Д Ж З К М П Р С Ҫ Т Ф Х Ц Ч Ш Щ 
+                  б в г д ж з к м п р с ҫ т ф х ц ч ш щ ; 
+
+! Gluxye = Soglasnye - Sonornye ;
+
+Glasnye = а ӑ е ё ӗ и о у ӳ ы э ю я
+          А Ӑ Е Ё Ӗ И О У Ӳ Ы Э Ю Я ;
+
+GlasnyeNoУӲ = а ӑ е ё ӗ и о ы э я
+              А Ӑ Е Ё Ӗ И О Ы Э Я ;
+
+
+
+Rules
+
+!"Vowel harmony for archiphoneme {Ӑ}"
+!%{Ӑ%}:ӗ  <=>  FrontVow [ Cns ]* %>:* [ :Cns* [ %{Ӑ%}: | %{А%}: | %{У%}: ]* :Cns* %>:* ]* :Cns* _ ;
+
+!"Vowel harmony for archiphoneme {А}"
+!%{А%}:е  <=>  FrontVow [ Cns ] * %>:* [ :Cns* [ %{Ӑ%}: | %{А%}: | %{У%}: ]* :Cns* %>:* ]* :Cns* _ ;
+!	except .#. :Cns :е %>: _ ;
+
+!"Remove archiphoneme in short stems"
+!%{А%}:0 <=> .#. :Cns :е %>: _ ;
+
+!"Remove stem final vowel 'a' before archiphoneme in suffix which realises as 'a'"
+!а:0 <=>  _ %>: %{А%}:а ;
+
+!!!!! Vowel harmony !!!!!
+
+!"Vowel harmony for archiphoneme {У}"
+!%{У%}:ӳ  <=>  FrontVow [ Cns ]* %>:* [ :Cns* [ %{Ӑ%}: | %{А%}: | %{У%}: ]* :Cns* %>:* ]* :Cns* _ ;
+!	except
+!                                 %{RUS%}: %>: ;	! {RUS} blocks front vowel harmony
+
+"Vowel harmony for archiphoneme {Ӑ}"
+%{Ӑ%}:ӗ <=> [ :FrontVow :Soglasnye* ]/[ %>: | :0 ] _ ;
+                [ :BackVow ь:/:Soglasnye* ]/[ :0 ] _ ;
+!                     [ %{ӗ%}:/:Soglasnye* ]/[ :0 ] _ ;
+!                  [ %{ӗdel%}:/:Soglasnye* ]/[ :0 ] _ ;
+            except
+                             :Glasnye/[ %>: | :0 ] _ ;
+                              %{М%}: [ %>: | :0 ]* _ н: .#. ;
+!                                        %{Ӑ%}:и/:0 _ н: .#. ;
+                                 %{У%}: %{н2%}:/:0 _ н: .#. ;
+                                          %{dup%}: _ %>: [ %{Ӑ%}: | %{н%}: | %{У%}: ] ;
+!              [ %{dup%}: - %{dup%}:0 ] %{Ӑ%}:0 %>: _ %{н%}: ;
+!                      [ %{dup%}: - %{dup%}:0 ] %>: _ %{н%}: ;
+!!JWNTMP            [ %{dup%}: - %{dup%}:0 ] (%{Ӑ%}:0) %>: _ %{н%}: ;
+!                 [ %{dup%}: - %{dup%}:0 ]/[ %>: ] _ %{н%}: ;
+!                         [ %{dup%}: - %{dup%}:0 ] _ ;
+                                          %{dup%}: _ [ %>: | :0 ] :Soglasnye ;
+               [ %{Ь%}: :Soglasnye* ]/[ %>: | :0 ] _ ;
+       \ӗ: %{RUS%}:/[ [ :0 - ӗ:0 ] | :Soglasnye* ] _ ;
+
+"Vowel harmony for archiphoneme {ӑ}"
+%{ӑ%}:ӗ <=> [ :FrontVow :Soglasnye* ]/[ %>: | [ :0 - ӗ:0 ] ] _ ;
+                [ :BackVow ь:/:Soglasnye* ]/[ [ :0 - ӗ:0 ] ] _ ;
+                                          :Soglasnye ӗ:0 %>: _ ;  ! чик{ː}ӗ>{ӑ}н:чиккӗн
+            except
+                             :Glasnye/[ %>: | :0 ] _ ;  ! deletes
+                                                   _ %{RUS%}: %>: [ %{У%}: | %{Ӗ%}: | %{Ӑ%}: ] ; ! deletes
+                              %{М%}: [ %>: | :0 ]* _ н: .#. ;
+!JNWTMP                                        %{Ӑ%}:и/:0 _ н: .#. ;
+                                 %{У%}: %{н2%}:/:0 _ н: .#. ;
+                                          %{dup%}: _ %>: [ %{Ӑ%}: | %{н%}: | %{У%}: ] ;
+!!JNWTMP            [ %{dup%}: - %{dup%}:0 ] (%{Ӑ%}:0) %>: _ %{н%}: ;
+                                          %{dup%}: _ [ %>: | :0 ] :Soglasnye ;
+     [ %{Ь%}: :Soglasnye* ]/[ %>: | [ :0 - ӗ:0 ] ] _ ;
+       \ӗ: %{RUS%}:/[ [ :0 - ӗ:0 ] | :Soglasnye* ] _ ;
+!JNWTMPWTF                           :Soglasnye/[ :0 - ӗ:0 ] _ ;
+                                                   _ (%{RUS%}:) .#. ; ! avoid conflict with "Final unstressed а in Russian loans"
+
+!!! JNW TEMP
+!"Vowel harmony for archiphoneme {Ӑdel}"
+!%{Ӑdel%}:ӗ <=> [ :FrontVow :Soglasnye* ]/[ %>: | :0 ] _ ;
+!              [ FrontVow:0 :Soglasnye* ]/[ %>: | :0 ] _ ;		! кӗсье<n><px2pl><nom> = кӗсьӗр
+!                   [ :BackVow ь:/:Soglasnye* ]/[ :0 ] _ ;
+!!                       [ %{ӗ%}:/:Soglasnye* ]/[ :0 ] _ ;
+!!                    [ %{ӗdel%}:/:Soglasnye* ]/[ :0 ] _ ;
+!            except
+!                 [ %{Ь%}: :Soglasnye* ]/[ %>: | :0 ] _ ;
+!                       %{RUS%}:/[ :0 | :Soglasnye* ] _ ;
+
+"Vowel harmony for archiphoneme {А}"
+%{А%}:е <=> [ :FrontVow :Soglasnye* ]/[ %>: | :0 ] _ ;
+           [ FrontVow:0 :Soglasnye* ]/[ %>: | :0 ] _ ;		! кӗнеке<n><px2sg><dat>: кӗнекӳне
+!             [ %{Ӗ%}:0 :Soglasnye* ]/[ %>: | :0 ] _ ;		! училище<n><px2sg><dat>: училищӳне
+                [ :BackVow ь:/:Soglasnye* ]/[ :0 ] _ ;
+!                     [ %{ӗ%}:/:Soglasnye* ]/[ :0 ] _ ;
+!                  [ %{ӗdel%}:/:Soglasnye* ]/[ :0 ] _ ;
+                     ӗ:0 :Soglasnye*/[ :0 - ӗ:0 ]* _ ;
+!              [ %{ӗ%}:0 :Soglasnye* ]/[  %>: :0 ] _ ;		! хыҫ<n><px3sp><dat> = хыҫ·н·е
+!               %{ӗ%}:0 %{н%}: %{w%}%: %>: %{н%}%: _ ;		! хыҫ<n><px3sp><dat> = хыҫ·н·е
+!%<px3sp%>:%>%{dup%}%{ӗ%}%{н%} POS-INFL ;
+!%<dat%>:%{w%}%>%{н%}%{А%} COP ;
+        except 
+	            [ %{Ь%}: :Soglasnye* ]/[ %>: | :0 ] _ ;
+                      [ :BackVow й: ]/[ %>: | :0 ] _ ;		! сарай>а = сарая
+                      [ й: %{RUS%}: ]/[ %>: | :0 ] _ ;		! герой>а = героя
+!                    :SoglasnyeBezР %>:* %{Тарах%}: _ р ;	! FIXME: This can't solve a strange rule conflict
+!                          :Glasnye %>:* %{Тарах%}: _ р ;
+                                   %>: %{Тарах%}:0 _ р ;   ! Maybe this'll fix the conflict?
+            :SoglasnyeBezЙЛН %>:* %{ТарахAnaliz%}: _ р ;	! FIXME: This can't solve a strange rule conflict
+                    :Glasnye %>:* %{ТарахAnaliz%}: _ р ;
+       \ӗ: %{RUS%}: %{w%}:* %>: [ :Soglasnye* ]/[ :0 - ӗ:0 ] _ ;	! {RUS} blocks front vowel harmony, (except with final ӗ?)
+
+"Vowel harmony for archiphoneme {a}"
+%{а%}:е <=> [ :FrontVow :Soglasnye* [ :Soglasnye | й:0 ] ]/[ %>: | [ :0 - й:0 ] ] _ ;
+!            [ :FrontVow :Soglasnye* :Soglasnye ]/[ %>: | :0 ] _ ;
+!                   [ :FrontVow :Soglasnye* й:0 ]/[ %>: | :0 ] _ ;	! кил<v><iv><abil><pres><p1><sg>: килеетеп
+!  COMBINED above
+                [ :BackVow ь:/:Soglasnye* :Soglasnye ]/[ :0 ] _ ;
+                                          [ :и ]/[ %>: | :0 ] _ ;	! ҫи<v><iv><pres><p1><sg>: ҫиетӗп (e = /йэ/)
+	except
+                              [ :BackVow й: ]/[ %>: | :0 ] _ ; ! сарай>а = сарая
+                             [ \:ӗ %{RUS%}: ]/[ %>: | :0 ] _ ; ! герой>а = героя, политик%{ӑ%}>ах = политиках
+
+"Reduction of unstressed vowels in Russian loans"
+Vx:Vy <=> _ [ %{RUS%}: :Cns ]/[ %>:0 | %{Ь%}: | %{w%}: | %{н%}: ] ;
+		except _ %{RUS%}:* %>: %{dup%}: %{в%}: ӗ: ;
+          where Vx in ( е а я )
+                Vy in ( ӗ ӑ ь )
+                matched ;
+
+"Unstressed vowels after ь in Russian loans"
+%{RUS%}:Vy <=> Vx:ь/%>: _ :Cns/[ %>: | %{Ь%}: | %{w%}: | %{н%}: ] ;
+               where Vx in ( я )
+                     Vy in ( ӑ )
+                     matched ;
+
+!!!!JNW TEMP
+!"Vowel harmony for archiphoneme {У}"
+!%{У%}:ӳ <=>       [ :FrontVow :Soglasnye* ]/[ %>: | [ :0 - е:0 ] ] _ ;
+!!                        [ е:0 :Soglasnye* ]/[ %>: | [ :0 - е:0 ] ] _ ;		! кӗсье<n><px2sg><nom> = кӗсье>{dup}{У}{н2} = кӗсйӳ (seems to be innecessary, but there is a double generation: кӗсйӳ/кӗсьу)
+!!                        [ ӗ:0 :Soglasnye* ]/[ %>: | [ :0 ] _ ;		! анне<n><px2sg><nom> = анӗ>{dup}{У}{н2} = аннӳ
+!!                    [ %{Ӗ%}:0 :Soglasnye* ]/[ %>: |:0 ] _ ;		! училище<n><px2sg><dat> = училищ{Ӗ}>{dup}{У}{н2}{w}>{н}{А} = училищӳне
+!!          These three have been condensed into the following:
+!                  [ е:0 | ӗ:0 | %{Ӗ%}:0 ] [ :Soglasnye* ]/[ %>: | [ :0 - [ е:0 | ӗ:0 | %{Ӗ%}:0 ] ] ] _ ;
+!    [ :BackVow :Soglasnye* ь: :Soglasnye* ]/[ %>: |:0 ] _ ;		! супӑнь<n><px2sg><nom> = супӑнь>{dup}{У}{н2} = супанӳ, тетрадь<n><px2sg><nom> = тетрадь>{dup}{У}{н2} = тетрадӳ
+!            except
+!                 ! _ [ %{н%}: %{w%}:0 %{н%}: %{А%}: ]/[ %>: | :0 ] .#. ;
+!                 _ %{н2%}: %{w%}:0 %>: %{н%}: %{А%}: .#. ;
+!		[ :BackVow й: :0* ]/[ %>: | :0 ] _ ;			! сарай>у = сараю
+!!      [ :FrontVow :Soglasnye* ]/[ %>: | :0 ] _ %{w%}:в %>: %{н%}: %{А%}: ;
+!            [ :FrontVow :Soglasnye* ]/[ %>: | :0 - [ е:0 | ӗ:0 | %{Ӗ%}:0 ] ] _ %{w%}:в %>: %{н%}: %{А%}: ;
+!          [ :BackVow ь:/:Soglasnye* ]/[ %>: | :0 - [ е:0 | ӗ:0 | %{Ӗ%}:0 ] ] _ [ %{w%}:в [ %{А%}: | %{Ӑ%}: ] ]/[ %>: | :0 ];
+!                          \:ӗ %{RUS%}: [ %>: | :0 ]* _  ;			! {RUS} blocks front vowel harmony
+
+"Vowel harmony for archiphoneme {У}"
+%{У%}:ӳ <=> [ :FrontVow :Soglasnye* ]/[ %>: | [ :0 - е:0 ] ] _ ;
+                                                 ь:0/[ %>: ] _ ;   ! июнь>{У}{н}:июнӳ
+        except
+        ! contexts below taken straight from й>{У} rule
+!            [ :BackVow й: :0* ]/[ %>: | :0 ] _ ;	! сарай>у = сараю
+!       [ :BackVow й: %{RUS%}: ]/[ %>: | :0 ] _ ;	! герой>у = герою
+        [ й: %{ӑ%}: %{RUS%}:  ]/[ %>: | :0 ] _ ;	! аллей%{ӑ%}%{RUS%}>у = аллею
+    [ %{ъ%}: %{ӑ%}: %{RUS%}:  ]/[ %>: | :0 ] _ ;	! Жен%{ъ%}%{ӑ%}%{RUS%}>у = Женю
+
+
+"ь in the stem to й before и/е in affix (orthographic incompatibility)"
+ь:й <=>         _ :0* %>: [ :и ]/[ %>: | :0 ] ;				! плать{Ӗ}>%{dup%}%{в%}%{ӗ%}%{н%}: платйи
+                _ е:0 :0* %>: [ :и | :ӗ | :ӳ ]/[ %>: | :0 ] ;		! кӗсье<n><px2sg><nom> = кӗсйӳ, кӗсье<n><px2pl><nom> = кӗсйӗр, кӗсье<n><px3sp> = кесйи
+                _ %{Ӗ%}:0 :0* %>: [ :ӗ | :ӳ ]/[ %>: | :0 ] ;		! платье<n><dat> = плать{Ӗ}%{w%}%>%{н%}%{А%}: платйӗне
+	except
+          Cns:  _ :0* %>: [ :е ]/[ %>: | :0 ] ;				! супӑнь<n><dat>: супӑне, тетрадь<n><dat>: тетраде
+          Cns:  _ :0* %>: [ %>: | :0 ]* Cns: :FrontVow/[ %>: | :0 ] ;	! июль<n><px3sp><dat> = июль>{dup}{в}{ӗ}{н}{w}>{н}{А} = июлне
+    [ т: | д: ] _ %{RUS%}:* %>: %{dup%}: %{в%}: ӗ: ;		! "ть > ч in px3sp (2): тетрадь > тетраче"
+с: [ т: | д: ]* _ %{RUS%}:* %{w%}:* %>: ;				! власть > влаҫ, ересь > ереҫ in all composites
+!          Cns: _ %{RUS%}: %>: ;					! to avoid conflict with Final ь in Russian loans
+
+"No ь before a harmonised front vowel which is not и, е"
+ь:0 <=>        _ :0* %>: [ :ӗ | :ӳ ]/[ %>: | :0 ] ;			! супӑнь<n><px2sg><nom> = супӑнь>{dup}{У}{н2} = супанӳ, тетрадь<n><px2sg><nom> = тетрадь>{dup}{У}{н2} = тетрадӳ
+         Cns:  _ :0* %>: [ :е ]/[ %>: | :0 ] ;				! супӑнь<n><dat>: супӑне, тетрадь<n><dat>: тетраде
+        except
+!            т: _ %{RUS%}:* %>: %{dup%}: %{в%}: %{ӗ%}: ;			! ҫурть<n><px3sp><nom> = ҫурчӗ
+!            д: _ %{RUS%}:* %>: %{dup%}: %{в%}: %{ӗ%}: ;			! тетрадь<n><px3sp><nom> = тетрадӗ
+!   COMBINED below:
+!   [ д: | т: ] _ %{RUS%}:* %>: %{dup%}: %{в%}: %{ӗ%}: ;
+   [ д: | т: ] _ %{RUS%}:* %>: [ :0 - %{ӗ%}:0 ] %{ӗ%}: ;
+
+с: [ т: | д: ]*  _ %{RUS%}:* %{w%}:* %>: ;				! власть > влаҫ, ересь > ереҫ in all composites
+               _ е: %{RUS%}: ;    					! to avoid conflict with ье (and ь:й) in Russian loans
+!         Cns: _ %{RUS%}: %>: ;						! to avoid conflict with Final ь in Russian loans
+               _ е:0 :0* %>: [ :и | :ӗ | :ӳ ]/[ %>: | :0 ] ;		! кӗсье<n><px2sg><nom> = кӗсйӳ, кӗсье<n><px2pl><nom> = кӗсйӗр, кӗсье<n><px3sp> = кесйи
+!               _ %{Ӗ%}:0 :0* %>: [ :ӗ | :ӳ ]/[ %>: | :0 ] ;		! платьӖ}%{w%}%>%{н%}%{А%}: платйӗне
+!               _ %{Ӗ%}:0 :0* %>: [ :и ]/[ %>: | :0 ] ;			! плать{Ӗ}>%{dup%}%{в%}%{ӗ%}%{н%}: платйи
+!   COMBINED below:
+               _ %{Ӗ%}:0 :0* %>: [ :ӗ | :ӳ | :и ]/[ %>: | :0 ] ;
+
+!!!!! Gemination rules !!!!!
+
+!JNW TEMP
+!"{dup} > previous cons before vowel-initial suffix"
+!%{dup%}:C1 <=> C2 _ %>: %{Ӑ%}: %{н%}: ;
+!               C2 _ [ :Glasnye ]/[ %>: | :0 ] ;
+!               C2 _ %{Ӑ%}:0 ;							! сӑвӑ<px1pl><nom> = сӑввӑмӑр
+!!              C2 _ %{Ӑdel%}:0 ;						! сӑвӑ<px2pl><nom> = сӑввӑр
+!               :Glasnye C2 %>: _ %{и%}: ;					! аван>ни (substantivisation)
+!        except
+!!  FIXME: do the following rules do something different?
+!               :Glasnye C2 %{nodup%}:* [ ӑ: | ӗ: ] %>: _ ;
+!               :Glasnye C2 %{nodup%}: [ ӑ: | ӗ: ] %>: _ %{в%}: %{ӗ%}: ;		! %{nodup%} blocks duplication in px3sp
+!        where  C2 in Soglasnye
+!               C1 in Soglasnye
+!               matched ;
+
+"{ː} > previous consonant before vowel-initial suffix"
+%{ː%}:C1 <=> C2 _ ( AEVow: ) %>: [ %{ӑ%}: | %{Ӑ%}: | ӗ: | %{У%}: | %{А%}: | %{Ӗ%}: ]/[ :0 ] ;
+         where C2 in Soglasnye
+               C1 in Soglasnye
+               matched ;
+
+"{ːno3} > previous consonant before vowel-initial suffix except px3sp"
+%{ːno3%}:C1 <=> C2 _ ( AEVow: ) [ %{Ӑ%}: | %{ӑ%}: | ӗ: | %{У%}: | %{А%}: | %{Ӗ%} ]/[ :0 ] ;
+            except
+                  _ ( AEVow: ) %>: %{Ӗ%}: %{н%}: ;
+            where C2 in Soglasnye
+                  C1 in Soglasnye
+                  matched ;
+
+!JNW TEMP
+!"{dup} > т is in пуртӑ"
+!%{dup%}:т <=>  .#. п у р т ӑ: %>: _ ;
+!! пуртӑ is an exception
+
+!JNW TEMP
+!"3px suffix is и immediately after {dup} is realised"
+!%{Ӑ%}:и <=> [ %{dup%}:Cns ] %>:0 _ %{н%}: ;
+!    [ %{dup%}:Cns ] %{Ӑ%}:0 %>:0 _ %{н%}: ;
+
+!"{Ӑ} deletes immediately after {dup} when {dup} is realised"
+!%{Ӑ%}:0 <=> %{dup%}: _ %>: [ %{Ӑ%}: | %{н%}: | %{У%}: ] ;
+!            %{dup%}: _ [ %>: | :0 ]* :Soglasnye ;
+!         [ %{dup%}: - %{dup%}:0 ] _ ;
+!            except
+!    [ %{dup%}: - %{dup%}:0 ]/[ %>: ] _ %{н%}: ;
+
+!JNW TEMP
+!"{Ӑ} deletes before a vowel-initial case suffix, triggering {dup} to duplicate"
+!%{Ӑ%}:0 <=> %{dup%}: _ %>: [ %{Ӑ%}: | %{н%}: | %{У%}: ] ;
+!!                    _ %>: :0 %{ӗ%} ;			! кил>%>н%{Ӑ%}>%{dup%}%{в%}%{ӗ%}%{н%} (кил%<ger3%>%<subst%>%<px3sp%>): килни	VERIFY forms
+!!                    _ %>: :0 %{У%} ;			! кил>%>н%{Ӑ%}>%{dup%}%{У%}%{н2%} (кил%<ger3%>%<subst%>%<px2sg%>): килнӳ	VERIFY forms
+!           except
+!    [ %{dup%}: - %{dup%}:0 ]/[ %>: ] _ %{н%}: ;
+
+!JNW TEMP
+!"{w} > previous cons in genitive and dative for stems ending in ӑ/ӗ (1)"
+!%{w%}:C1 <=> Glasnye C2 [ ӑ: | ӗ: ] _ ;
+!! FIXME: You can't have sets in the following:
+!        where  C2 in Soglasnye
+!               C1 in Soglasnye
+!               matched ;
+!! пулӑ<n><gen> = пуллӑн, пулӑ<n><dat> = пулла
+
+!JNW TEMP
+!"{w} > previous cons in genitive and dative for stems ending in ӑ/ӗ (пурта)"
+!%{w%}:т <=> .#. п у р т ӑ: _ ;
+!! пуртӑ is an exception
+!! пуртӑ<n><gen> = пурттӑн, пуртӑ<n><dat> = пуртта
+
+
+!!JNW TEMP
+!"Delete ӗ/ӑ in stem before genitive and dative ӗ/ӑ when consonant gemination"
+!Vx:0 <=> :Glasnye :Soglasnye _ %{w%}: ;
+!	         .#. п у р т _ %{w%}: ;
+!	except 
+!         _ [ %{Ӑdel%}: | %{ӗdel%}: | %{иdel%}: ]/[ :0 - [ %{Ӑdel%}: | %{ӗdel%}: | %{иdel%}: ] ];
+!!   the following contexts were COMBINED above
+!!          _ %{Ӑdel%}:/[ :0 ] ;
+!!          _ %{ӗdel%}:/[ :0 ] ;
+!!          _ %{иdel%}:/[ :0 ] ;
+!         where Vx in ( ӗ ӑ ) ;
+!! пуртӑ is an exception
+
+!JNW TEMP
+!"Delete ӗ/ӑ in stem before {del}"
+!Vx:0 <=> _ %{del%}: %>: ;
+!         where Vx in ( ӗ ӑ ) ;
+
+"Delete ӑ/ӗ in stem after gemination"
+Vx:0 <=> %{ː%}:Soglasnye _ ;
+     except
+!         _ %{Ӗ%}:и/[ :0 - %{Ӑ%}:0 ] ; ! avoid conflict with rule where it'll delete anyway
+         _ %{Ӗ%}:и/[ :0 ] ; ! avoid conflict with rule where it'll delete anyway
+         _ %{RUS%}:* %>: [ [ %{А%}: | ӗ: | %{Ӑ%}: | %{У%}: | %{И%}: ] - :0 ] ; ! avoid conflict where they'll delete anyway
+         _ %{Ӑ%}:/[ %>: | :0 ] ; ! avoid conflict with deletion before {Ӑ}
+         _ %{RUS%}:0 .#. ;  ! avoid conflict with deletion in Russian words
+			_ .#. ; ! except at the end of a word!
+     where Vx in ( ӗ ӑ ) ;
+
+!!!!! Random Consonant Rules !!!!!
+
+"Consonant duplication (dup2)"
+%{dup2%}:C1 <=> :Glasnye [ %>: | :0 ]* _ C2 [ %>: | :0 ]* :Glasnye ;
+	where C2 in Cns
+	      C1 in Cns
+	matched ;
+! ыранччен, пӗрремӗшччен
+
+"Consonant duplication (dup3)"
+%{dup3%}:C1 <=> [ :Glasnye | Sonornye | [ [ л | н ] ь ] ] [ %>: | :0 ]* _ C2 [ %>: | :0 ]* :Glasnye ;
+! the following contexts were COMBINED above
+!                           :Glasnye [ %>: | :0 ]* _ C2 [ %>: | :0 ]* :Glasnye ;
+!                           Sonornye [ %>: | :0 ]* _ C2 [ %>: | :0 ]* :Glasnye ;
+!                       [ л | н ]  ь [ %>: | :0 ]* _ C2 [ %>: | :0 ]* :Glasnye ;
+! FIXME: sets can't be used like this:
+	where C2 in Cns
+	      C1 in Cns
+	matched ;
+! ыранччен, чылайччен 
+! пӗрремӗшччен (existing in the chuvash.org corpus) is a spelling mistake and illogical
+
+"т > ч in px3sp"
+Ct:ч <=> _ %{RUS%}:* %>: %{dup%}: %{в%}: %{Ӗ%}: ;
+	except
+         _ %{RUS%}:* %>: %{dup%}: %{в%}: %{Ӗ%}:0 ;	! университет<n><px3sp><dat> = университет>{dup}{в}{ӗ}{н}{w}>{н}{А} = университетне
+         _ %{RUS%}:* %>: %{dup%}: %{в%}: %{Ӗ%}: %{н%}: %>: %{Р%}: %{А%}: ;	! университет<n><px3sp><loc> = университет>{dup}{в}{ӗ}{н}>{Р}{А} = университетӗнче
+         									! университет<n><px3sp><abl> = университет>{dup}{в}{ӗ}{н}>{Р}{А}н = университетӗнчен
+	where Ct in ( т д ) ;
+
+"сть > ҫ in all composites (1): власть > влаҫӗ"
+Cd:ҫ <=> с: _ ь: %{RUS%}:* %{w%}:* %>: ;
+	where Cd in ( т д ) ;
+
+"сть > ҫ in all composites (2): власть > влаҫӗ"
+с:0 <=> _ [ т: | д: ] ь: %{RUS%}:* %{w%}:* %>: ;
+
+"сь > ҫ in all composites: ересь > ереҫ"
+с:ҫ <=> _ ь: %{RUS%}:* %{w%}:* %>: ;
+
+"с(т)ь > ҫ in all composites: власть > влаҫӗ, ересь > ереҫ"
+ь:0 <=> с: [ т: | д: ]* _ %{RUS%}:* %{w%}:* %>: ;
+
+
+"ть > ч in px3sp (1): тетрадь > тетраче"
+Cd:ч <=> _ ь: %{RUS%}:* %>: %{dup%}: %{в%}: %{Ӗ%}: ;
+	except
+		   с: _ ь: %{RUS%}:* >: ;			! власть > влаҫ in all composites
+	where Cd in ( т д ) ;
+
+"ть > ч in px3sp (2): тетрадь > тетраче"
+ь:0 <=> [ т: | д: ] _ %{RUS%}:* %>: %{dup%}: %{в%}: %{Ӗ%} ;
+	except
+	   с: [ т: | д: ]* _ %{RUS%}:* >: ;			! власть > влаҫ, ересь > ереҫ in all composites
+
+!JNW TEMP
+!"чӗлхе%>%{dup%}%{ӗ%} > чӗлхи (1)"
+!AE:0 <=> _ %{RUS%}:* %>: %{dup%}: %{в%}: %{ӗ%}: ;
+!	where AE in ( ӑ а е ӗ о ) ;
+
+!JNW TEMP
+!"чӗлхе%>%{dup%}%{ӗ%} > чӗлхи (2)"
+!%{ӗ%}:и <=> AEVow: %{RUS%}:* %>: %{dup%}: %{в%}: _ ;
+!                о: %{RUS%}:* %>: %{dup%}: %{в%}: _ ;	! правительстви
+
+"%{Ӗ%} > и ~after unstressed vowels (for px3)"
+%{Ӗ%}:и <=> [ AEVow: | о: ]/[ :0 ] _ ;       ! need better context for о
+            [ %{ː%}: | %{ːnodup%} ] %>: _ ;  ! йӗп{ː}>{ӗ}{н}:йӗппи
+                                             ! (ут{ːno3}ӑ>{ӗ}{н}:ути)
+
+"Delete ӑ/ӗ before ӗ:и (for px3)"
+AE:0 <=> _ %{Ӗ%}:и/[ :0 - [ %{А%}:0 | ӗ: ] ] ;
+         except
+         _ в:0 ;     ! avoid conflict with ӑв/ӗв→у/ӳ
+         where AE in ( ӑ а е ӗ о ) ;
+
+"{в} surfaces as в"
+%{в%}:в <=>    %{о%}: %>: %{dup%}: _ ӗ: ;		! радиовӗ, киновӗ, киловӗ, быровӗ, деловӗ
+          у: %{RUS%}: %>: %{dup%}: _ ӗ: ;		! Бакувӗ
+                 ю:й %>: %{dup%}:ӑ _ ӗ: %{н%}: ; ! хӑю>{dup}{в}{ӗ}{н}:хӑйӑвӗ
+!!!"ради%{о%}%>%{dup%}%{ӗ%} > радиовӗ"
+
+"{в} > epenthetic й in px3sp for stems ending in и (except dative)"
+%{в%}:й <=> [ и: | %{и2%}: ] %{й%}:0* %{RUS%}:* %>: %{dup%}: _ ӗ: ;	! шӑши·йӗ, информаци·йӗ, Золотницки·йӗ
+	except                                               _ ӗ: %{н%}: %{w%}: %>: %{н%}: %{А%}: ;	! except dative
+!%<px3sp%>:%>%{dup%}%{в%}%{ӗ%}%{н%} POS-INFL ;
+!%<dat%>:%{w%}%>%{н%}%{А%} COP ;
+
+"{dup} > epenthetic й in px1sg, px2sg, px1pl, px2pl for stems ending in и"
+%{dup%}:й <=> [ и: | %{и2%}: ] %{й%}:0* %{RUS%}:* %>: _ [ %{Ӑ%}: | %{ӑ%}: ] ;	! шӑши<n><px1sg><nom> = шӑши·йӗм, шӑши<n><px1pl><nom> = шӑши·йӗмӗр
+									! информаци·йӗм, информаци·йӗмӗр, Золотницки·йӗм, Золотницки·йӗмӗр
+!              [ и: | %{и2%}: ] %{й%}:0* %{RUS%}:* %>: _ %{Ӑdel%}: ;	! шӑши<n><px2pl><nom> = шӑши·йӗр, информаци·йӗр, Золотницки·йӗр
+!              [ и: | %{и2%}: ] %{й%}:0* %{RUS%}:* %>: _ %{У%}: ;	! шӑши<n><px2sg><nom> = шӑши·йӳ, информаци·йӳ.Золотницки·йӳ
+!  the above contexts COMBINED below:
+              [ и: | %{и2%}: ] %{й%}:0* %{RUS%}:* %>: _ [ %{У%}: | %{Ӑdel%}: ] ;
+
+
+!JNW TEMP
+!"-ӑ, -ӗ > 0 in px1sg, px1pl, px2pl: йытӑ·тӑм > йыт·тӑм"
+!AE:0 <=> _ %>: %{dup%}: ;
+!	except
+!!		_ %>: %{dup%}: %{У%}: ;
+!!		_ %>: %{dup%}: %{в%}: %{ӗ%}: ;
+!! the above contexts COMBINED below:
+!      _ %>: %{dup%}: [ %{У%}: | [ %{в%}: %{ӗ%}: ] ] ;
+!                _ %{Ӑdel%}:/[ %>: | :0 ] ;
+!	where AE in ( ӑ ӗ ) ;
+
+!!! JNW TEMP
+!"px3sp -ӗ > 0 in dative"
+!ӗ:0 <=> %{dup%}: %{в%}: _ %{н%}: %{w%}: %>: %{н%}: %{А%}: ;
+!	except AEVow: %{RUS%}:* %>: %{dup%}: %{в%}: _ ;		! 17.08.12 - I have uncommented this line, as it generated lots of # forms
+!                   о: %{RUS%}:* %>: %{dup%}: %{в%}: _ ;		! правительстви
+!!!%<px3sp%>:%>%{dup%}%{ӗ%}%{н%} POS-INFL ;
+!!!%<dat%>:%{w%}%>%{н%}%{А%} COP ;
+
+!"allative: чӗлхе>елле > чӗлхе>лле"
+!%{А%}:0 <=> AEVow: %>: _ л л %{А%}: ;
+!	where AE in ( а е ) ;
+
+!FIXME: Doesn't work
+!"челхе·{А}х > челхех"
+!%{А%}:0 <=> Vow: %>: _ ;
+!	where Vow in ( Glasnye %{А%} );
+
+"Лишный ч исчезается после согласных"
+%{ч%}:0 <=> :Soglasnye/[ %>: | :0 ] _ ;
+        except :Sonornye/[ %>: | :0 ] _ ;
+
+"Delete {ӑ} before a vowel"
+%{ӑ%}:0 <=> _ %{RUS%}: %>: [ %{У%}: | %{Ӗ%}: | %{Ӑ%}: ] ;
+
+"Delete {ӑ} after a vowel"
+%{ӑ%}:0 <=> :Glasnye/[ %>: | :0 ] _ ;
+            except
+!!  [ ӳ: | у: ]/[ %>: | :0 | :в ]* _ ;
+! This doesn't seem right ...  what was it supposed to do?
+   [ ӳ: | у: ]/[ %>: | :0 ] :в [ %>: | :0 ]* _ ;
+                                    :Cns/:0* _ ;
+                %{У%}: %{н2%}:/:0 _ н: .#. ;
+                         %{dup%}: _ %>: [ %{Ӑ%}: | %{ӑ%}: | %{н%}: | %{У%}: ] ;
+             %{М%}: [ %>: | :0 ]* _ н: .#. ;	! to avoid conflict with "Delete ӗ/ӑ part of -Ӑн after plural М and px3 и and px2sg {У}"
+                       %{Ӗ%}:и/:0 _ н: .#. ;	! to avoid conflict with "Delete ӗ/ӑ part of -Ӑн after plural М and px3 и and px2sg {У}"
+                %{У%}: %{н2%}:/:0 _ н: .#. ;	! to avoid conflict with "Delete ӗ/ӑ part of -Ӑн after plural М and px3 и and px2sg {У}"
+! ӳхӗ>{ӑ}н:ӳхӗн
+! ача>{ӑ}н:ачан 
+! пӗлӗв>{ӑ}н:пӗлӗвӗн
+! тӑв>{ӑ}н:тӑвӑн
+! хӑйӑв>{ӑ}н:хӑйӑвӑн
+!!!!! JNW TMP
+!"Delete vowels before {Ӑ}"
+!Vx:0 <=> _ %{Ӑ%}:/[ %>: | [ :0 - ӗ:0 ] ] ;
+!                  ! лаша<px2pl> = лаш·ӑр
+!                  ! кӗнекe<px2pl> = кӗнек·ӗр
+!                  ! дело<px2pl> = дел·ӑр
+!                  ! сӑвӑ<px2pl> = сӑвв·ӑр
+!						! училище<n><px2pl><nom> = училищ{Ӗ}>{dup}{Ӑdel}р = училищӗр
+!						! кала<v><tv><fut><p1><sg> = калӑп
+!	except			! Conflicts with other rules which also delete the vowel
+!               _ %>: %{dup%}:* %{У%}: ;
+!               _ %{del%}: %>: ;
+!               _ %{w%}: [ %>: | :0 ]* %{А%}: .#. ;
+!!               _ %{RUS%}:* %>: %{dup%}: %{в%}: %{ӗ%}: ;
+!!               _ %{RUS%}:* %>: %{dup%}: %{У%}: ;
+!! the above contexts COMBINED below
+!               _ %{RUS%}:* %>: %{dup%}: [ %{У%}: | [ %{в%}: ӗ: ] ] ;
+!	where Vx in ( а е о ӑ ӗ %{Ӗ%} ) ;
+!
+!"Delete vowels before ӗ"
+!Vx:0 <=> _ ӗ:/[ :0 ] ;		! кала<v><tv><fut><p3><sg> = калӗ
+!	except			! Conflicts with other rules which also delete the vowel
+!! FIXME: can these following two contexts be combined?
+!               _ %>: %{dup%}:* %{У%}: ;
+!               _ %>: %{dup%}: ;
+!               _ %{del%}: %>: ;
+!               _ %{w%}: [ %>: | :0 ]* %{А%}: .#. ;
+!               _ %{RUS%}:* %>: %{dup%}: %{в%}: ӗ: ;
+!	where Vx in ( а е о ӑ ӗ ) ;
+
+!!!! JNWTMP
+!"Delete given vowel previous to {иdel}"
+!Vx:0 <=> _ %{иdel%}:/[ :0 ] ;		! кала<v><tv><opt><p3><sg> = калин
+!	except			! Conflicts with other rules which also delete the vowel
+!! FIXME: can these following two contexts be combined?
+!               _ %>: %{dup%}: ;
+!               _ %>: %{dup%}:* %{У%}: ;
+!               _ %{del%}: %>: ;
+!               _ %{w%}: [ %>: | :0 ]* %{А%}: .#. ;
+!               _ %{RUS%}:* %>: %{dup%}: %{в%}: ӗ: ;
+!	where Vx in ( а е о ӑ ӗ ) ;
+
+
+!!!!! Phonology for dative alternations !!!!!
+
+"Delete ӗ/ӑ in stem before dative е/а"
+Vx:0 <=> _ %{w%}: [ %>: | :0 ]* %{А%}: .#. ;
+         except
+!                             _ %>: %{У%}: ;
+!                             _ %>: %{dup%}: %{У%}: ;
+! these two contexts COMBINED below:
+                             _ %>: (%{dup%}:) %{У%}: ;
+                             _ %{Ӑdel%}:/[ %>: | :0 ] ;
+                         %>: _ ; 
+         :Glasnye :Soglasnye _ %{w%}: ;
+                 .#. п у р т _ %{w%}: ;
+             %{ː%}:Soglasnye _ ;           !JNW TEMPorarily avoid conflict
+         where Vx in ( ӗ ӑ ) ;
+! ӳхӗ>{н}{А}:ӳхе
+! ача>{н}{А}:ачана
+! ам>ӑш>ӗ{w}>{н}{А}:амӑшӗ
+
+! VERIFY: .#. seems odd as some suffixes may be added, e.g. -Ах
+"н surfaces after vowels (in dative)"
+%{н%}:н <=>            :Glasnye/[ %>: | :0 ] _ %{А%}: ;	! кӗнеке<n><dat> = кӗнекене
+                            ӗ:0/[ %>: | :0 ] _ %{А%}: ;	! уй%>%{dup%}%{в%}%{ӗ%}%{н%}%{w%}%>%{н%}%{А%}: уйне (уй%<px3sp%>%<dat%>)
+! CHECK: These following two rules should be unnecessary
+!                        %{ӗ%}:и/[ %>: | :0 ] _ %{А%}: ;	! истори%>%{dup%}%{в%}%{ӗ%}%{н%}%{w%}%>%{н%}%{А%}: историне (истори%<px3sp%>%<dat%>)
+                        				! литератур%{ӑ%}%>%{dup%}%{в%}%{ӗ%}%{н%}%{w%}%>%{н%}%{А%}: литературине (литератарура%<px3sp%>%<dat%>)
+!                        %{Ӑ%}:и/[ %>: | :0 ] _ %{А%}: ;
+! ывӑл>{У}{н}>{н}{А}:ывӑлна
+                                             _ [ %{Р%}: | %{Т%}: ] /[ %>: | :0 ] ;
+            except
+!                                    %{У%}:0 _ [ %{н%}:н %{А%}: ]/[ %>: | :0 ] .#. ;
+!          [ у: | ӳ: | %{У%}: ]/[ %>: | :0 ] _ %{А%}: ;
+!                    [ %{У%}: ]/[ %>: | :0 ] _ %{А%}: ;
+   [ ӳ: | у: ]/[ %>: | :0 ] :в [ %>: | :0 ]* _ ;
+                    [ ӑ: | ӗ: ]/[ %>: | [ :0 - %{RUS%}:0 ] ] _ %{А%}: ;
+             и %{й%}:* %{RUS%}:* %{w%}:  %>: _ %{А%}: ;		! шӑши<n><dat> = шӑшие (epenthesis: й) - only dat, not px3sp.dat
+								! Золотницкий<n><dat> (и{й}) = Золотницкие
+!       %{и2%}: %{й%}:* %{RUS%}:* %{w%}:  %>: _ %{А%}: ;		! Золотницкий<n><dat> ({и2}{й}) = Золотницки
+!                   й:0 %{RUS%}:* %{w%}:  %>: _ %{А%}: ;		! май<n><dat> = мая, чей<n><dat> = чее
+! the above two contexts COMBINED below:
+       [ [ й:0 ] | [ %{и2%}: %{й%}:* ] ] %{RUS%}:* %{w%}:  %>: _ %{А%}: ;
+
+                               ю: %{w%}: %>: _ ;
+! истори{w}>{н}{А}
+! ача{w}>{н}{А}:ачана
+! ӳхӗ>{н}{А}:ӳхе
+! ту{w}>{н}{А}:тӑва
+! пул>ни{w}>{н}{А}:пулнине
+! чей{w}>{н}{А}:чее
+!!! ту{w}>{Ӑ}н:тӑвӑн
+
+"н2 surfaces when followed by dat, loc, abl"  ! , gen
+%{н2%}:н <=> %{У%}: _ [ %>: | :0 ]* [ %{Р%}: | %{Т%}: | %{н%}: ] ;  ! | %{Ӑ%}:
+
+!"Delete й in чей>е"
+!й:0 <=> _ %{w%}: %>: %{н%}: %{А%}: ;
+
+
+!!!!! px2sg and px3sg case phonology !!!!!
+
+!!!! "in the dative-accusative, the -u characteristic of the 2nd p. sg. drops entirely, leaving only the ending -na/-ne, except when following a vowel that's been deleted"
+
+!"н does not surface at the end of words (in px2sg and px3sg)"
+!%{н%}:0 <=> _ .#. ;
+!! ывӑл>{У}{н}:ывӑлу
+
+!"н does not surface after consonants"
+!%{н%}:0 <=> S
+
+!"{н} surfaces before {Р} (and makes it т!) in dat and abl"
+!%{н%}:н <=> _ [ %{Р%}: | %{Т%}: ] /[ %>: | :0 ] ;
+
+!"{н} surfaces after {н}:0 (in dat)"
+!%{н%}:н <=> %{н%}:0/[ %>: ] _ ;
+
+! VERIFY: .#. seems odd as some suffixes may be added, e.g. -Ах
+"{У} deletes before {н}{А} when a vowel wasn't deleted in the stem (px2sg before dat)"
+%{У%}:0 <=> _ %{н2%}: %{w%}:0 %>: %{н%}: %{А%}: .#. ;
+            except
+                       Glasnye:0/[ %{RUS%}: | %>: | %{dup%}: ] _ ;
+                       %{dup%}:0/[ %>: ] _ ;
+								! to avoid conflict with "й>{У} = >ю"
+                       [ :BackVow й: :0* ]/[ %>: | :0 ] _ ;	! сарай>у = сараю	! FIXME: This exception causes "сара·ю·на", which is good, but not the prefered option (maybe <=> has to be changed and two rules, => and <=, have to be written)
+!                           [ й: %{RUS%}: ]/[ %>: | :0 ] _ ;	! герой>у = герою	! FIXME: This exception causes "геро·ю·на", which is good, but not the prefered option (maybe <=> has to be changed and two rules, => and <=, have to be written)
+!                   [ й: %{ӑ%}: %{RUS%}:  ]/[ %>: | :0 ] _ ;	! аллей%{ӑ%}%{RUS%}>у = аллею
+!               [ %{ъ%}: %{ӑ%}: %{RUS%}:  ]/[ %>: | :0 ] _ ;	! Жен%{ъ%}%{ӑ%}%{RUS%}>у = Женю
+! above three contexts COMBINED below:
+     [ [ й: | %{ъ%}: ] (%{ӑ%}:) %{RUS%}: ]/[ %>: | :0 ] _ ;
+
+! ывӑл>{У}{н}>{н}{А}:ывӑлна
+! ача>{У}{н}>{н}{А}:ачуна
+! ҫын{dup}>{У}{н}>{н}{А}:ҫынуна
+
+!!!!! JNW TEMP
+!"Delete vowels before {У} (1)"
+!Vx:0 <=> _ %>: %{У%}: ;
+!        where Vx in Glasnye ;
+!
+!"Delete vowels before {У} (2)"
+!Vx:0 <=>       _ %>: %{dup%}: %{У%}: ;
+!        except _ %>: %{dup%}:й ;	! информаци<n><px2sg><nom>: информаци>{dup}{У}{н2}: информацийӳ
+!        where Vx in GlasnyeNoУӲ ;
+!
+!"Delete у before {У} (Russian loans)"
+!у:0 <=> _ %{RUS%}: %>: %{dup%}: %{У%}: ;	! кенгуру<n><px2sg><nom> = кенгуру{RUS}>{dup}{У}{н2} = кенгур·у
+
+!"Delete vowels before {У} (Russian loans 1)"
+!Vx:0 <=> _ %{RUS%}:* %>: %{У%}: ;
+!        where Vx in ( %{ӑ%} %{Ӗ%} ) ;
+
+!!!! JNW TEMP
+!"Delete vowels before {У} (Russian loans 2)"
+!Vx:0 <=> _ %{RUS%}:* %>: %{dup%}: %{У%}: ;
+!        where Vx in ( %{ӑ%} %{Ӗ%} ) ;
+
+!"Delete vowels before {ӗ} (Russian loans 1)"
+!Vx:0 <=> _ %{RUS%}:* %>: %{в%}: %{ӗ%}: ;
+!        where Vx in ( %{ӑ%} %{Ӗ%} ) ;
+
+!!!! JNW TEMP
+!"Delete vowels before {ӗ} (Russian loans 2)"
+!Vx:0 <=> _ %{RUS%}:* %>: %{dup%}: %{в%}: %{ӗ%}: ;
+!        where Vx in ( %{ӑ%} %{Ӗ%} ) ;
+
+!!!! JNW TEMP TEMP!!!!
+!"Delete vowels before vowel-initial endings"
+!Vx:0 <=> _ %{RUS%}:* [ %{У%}: | ӗ: ]/[ %>: ] ;
+!     where Vx in ( %{ӑ%} %{Ӗ%} Glasnye ) ;
+
+"Delete vowels before certain vowel-initial endings"
+Vx:0 <=> _ %{RUS%}:* %>: [ [ %{А%}: | ӗ: | %{Ӑ%}: | %{У%}: | %{И%}: ] - :0 ] ;
+     except
+         %>: _ %{н%}: ;
+     where Vx in ( Glasnye ) ;
+
+"Delete ӗ/ӑ in stem before adjective substantivation"
+Vx:0 <=> _ %>: %{и%}: ;
+         where Vx in ( ӗ ӑ ) ;
+
+!!!!! Phonology for Plural forms !!!!!
+
+"Delete ӗ/ӑ part of -Ӑн after plural М and px3 и and px2sg {У}"
+%{ӑ%}:0 <=> %{М%}: [ %>: | :0 ]* _ н: .#. ;
+            %{Ӗ%}:и/:0 _ н: .#. ;
+     %{У%}: %{н2%}:/:0 _ н: .#. ;
+! ӳхӗ>се{М}>{ӑ}н:ӳхӗсен
+
+"Delete н part of -Ӑн after plural М"
+н:0 <=>            %{М%}: [ %>: | :0 ]* %{ӑ%}:0 _ .#. ;
+! ӳхӗ>се{М}>{ӑ}н:ӳхӗсен
+! ывӑлун
+
+!"Delete {н2} before genitive after px2sg {У}"
+!%{н2%}:0 <=> %{У%}: _ [ %>: | :0 ]* %{Ӑ%}:0 н: .#. ;
+
+"Change plural М to н before dative"
+%{М%}:н <=> _ [ %>: | :0 ]* %{А%}: .#. ;
+! ӳхӗ>се{М}>{Ӑ}:ӳхӗсене
+
+"Change plural М to н in genitive"
+%{М%}:н <=> _ [ %>: | :0 ]* %{ӑ%}:0 н:0 .#. ;
+! ӳхӗ>се{М}>{ӑ}н:ӳхӗсен
+! ӳхӗ>се{М}:ӳхӗсем
+
+"%{М%} становится н до RA"
+%{М%}:н <=> _ %>: [ %{Р%}: | %{Т%}: ] ;
+! ӳхӗ>се{М}>{Р}{А}н:ӳхӗсенчен
+
+
+!!!!! Phonology for у/ӳ > ӑв/ӗв before vowels !!!!!
+
+!!!! JNW TEMP
+!"ӳ and у to ӗ and ӑ when a vowel follows"
+!Vx:Vy <=> _ [ %{w%}:в | %{w2%}:в ] ;
+!! below two contexts COMBINED above
+!!          _ %{w%}:в ;                     ! %>: :0 :Glasnye ;
+!!          _ %{w2%}:в ;                    ! %>: :0 :Glasnye ;
+!          _ %>: %{dup%}: ;
+!          where Vx in ( ӳ у )
+!                Vy in ( ӗ ӑ )
+!          matched ;
+
+!"{У} to ӗ if front vowels and a vowel follows"
+!%{У%}:ӗ <=> [ :FrontVow :Soglasnye* ]/[ %>: | :0 ] _ %{w%}:в %>: %{н%}: %{А%}: ;
+!!                [ :BackVow ь:/:Soglasnye* ] _ %{w%}: [ %>: | :0 ]* :Glasnye ;
+!!                [ :BackVow ь:/:Soglasnye* ]/[ %>: | :0 ] _ :0* %{w%}: [ %>: | :0 ]* :Glasnye ;
+!                [ :BackVow ь:/:Soglasnye* ]/[ %>: | :0 ] _ [ %{w%}: [ %{А%}: | %{Ӑ%}: ] ]/[ %>: | :0 ];
+!! супань>{dup}{У}{н2}{w}>{н}{А} = супанӗве
+!
+!"в surfaces in у/ӳ > ӑв/ӗв before vowel (1)"	! genitive and dative
+!!%{w%}:в <=> [ у: | ӳ: | %{У%}: ] _ [ %>: | :0 ]* :Glasnye ;
+!%{w%}:в <=> [ у: | ӳ: ] _ [ %>: | :0 ]* [ %{А%}: | %{Ӑ%}: ] ;
+!            %{У%}: :0* _ [ %>: | :0 ]* [ %{А%}: | %{Ӑ%}: ] ;
+!
+!!!!! JNW TEMP
+!"в surfaces in у/ӳ > ӑв/ӗв before vowel (2)"
+!%{dup%}:в <=> [ ӳ: | у: ] %>: _ ;
+
+! THIS RULE HAS BEEN COMMENTED, AND IT SEEMS NOT TO APPLY ANYWHERE (CORPUS DIXIT). In fact, {У} should not become, in principle, ӗ
+!"{У} to ӗ if front vowels and a vowel follows"
+!%{У%}:ӗ <=> [ :FrontVow :Soglasnye* ]/[ %>: | :0 ] _ %{w%}:в %>: %{н%}: %{А%}: ;
+!          [ :BackVow ь:/:Soglasnye* ]/[ %>: | :0 ] _ [ %{w%}:в [ %{А%}: | %{Ӑ%}: ] ]/[ %>: | :0 ];
+!	except [ :BackVow й: :0* ]/[ %>: | :0 ] _ ;		! сарай>у = сараю
+!          [ й: %{ӑ%}: %{RUS%}:  ]/[ %>: | :0 ] _ ;		! аллей%{ӑ%}%{RUS%}>у = аллею
+!
+!"в surfaces in у/ӳ > ӑв/ӗв before a vowel (1)"
+!%{w%}:в <=> [ у: | ӳ: ] _ :Glasnye/[ %>: | :0 ] ;
+!		! The next forms have to be explicit, otherwise both forms у/ӳ and ӑв/ӗв are generated
+!		! (The upper rule says that в is generated if it is in front of a vowel, but %{Ӑ%}:ӑ only if в is generated)
+!            [ у: | ӳ: ] _  %{Ӑ%}:/[ %>: | :0 ] ;			! пӳ<n><gen> = пӳ{w}>{Ӑ}н = пӗвӗн
+!
+!"в surfaces in у/ӳ > ӑв/ӗв before a vowel (2)"
+!%{w2%}:в <=> [ у: | ӳ: ] _ :Glasnye/[ %>: | :0 ] ;
+!		! The next forms have to be explicit, otherwise both forms у/ӳ and ӑв/ӗв are generated
+!		! (The upper rule says that в is generated if it is in front of a vowel, but %{Ӑ%}:ӑ only if в is generated)
+!             [ у: | ӳ: ] _  %{Ӑ%}:/[ %>: | :0 ] ;			! ^пу<v><tv><imp><p2><pl>$ = пу{w2}>{Ӑdel}р = пӑвӑр
+
+"й surfaces in иӗ > ийӗ"
+%{w2%}:й <=> :и _ [ :ӗ | :и ]/[ %>: | :0 ] ;
+! below two contexts COMBINED above:
+!             :и _ :ӗ/[ %>: | :0 ] ; ! ҫи<v><tv><fut><p1><sg> = ҫийӗп
+!             :и _ :и/[ %>: | :0 ] ; ! ҫи<v><tv><opt><p3><sg> = ҫийин
+
+"р falls in front of т, м"
+%{р%}:0 <=> _ [ %{Р2%}: | :т | :м ]/[ %>: | :0 ] ;
+! кӳр<v><iv><evid><p1><sg> = кӳтӗм
+! кӳр<v><iv><neg><pres><p1><sg> = кӳместӗп
+
+!!!!! {R} phonology !!!!!
+
+"{Р} становится т после р" 
+%{Р%}:т <=> [ р | л | %{н2%}:н ] %{RUS%}:* %>: _ ;
+	except _ %>: :ӗ ;
+
+!!!! JNW TEMP
+!"{Р} становится ч после р и перед ӗ: пӗтертӗ > пӗтерчӗ" 
+!%{Р%}:ч <=> [ р | л | %{н2%}:н ] %{RUS%}:* %>: _ %>: :ӗ ;
+
+"{Р} становится ч после множественного числа и {н}" 
+%{Р%}:ч <=> [ %{М%}:н | %{н%}:н | ] %>: _ ;
+! below two contexts COMBINED above:
+!            %{М%}:н %>: _ ;
+!            %{н%}:н %>: _ ;
+
+"{Р2} становится т после л н р " 
+%{Р2%}:т <=> [ р | л | н | %{р%}: ] %>: _ ;
+               [ л | н ] ь %>: _ ;		! июльте, июньте
+	except
+             _ %>: :ӗ ҫ* .#. ;
+             _ %>: :ӗ ҫ* %>: ;
+
+"{Р2} становится ч после л н р и перед 3 sg/pl: пӗтертӗ > пӗтерчӗ" 
+%{Р2%}:ч <=> [ р | л | н | %{р%}: ] %>: _ %>: :ӗ ҫ* .#. ;
+             [ р | л | н | %{р%}: ] %>: _ %>: :ӗ ҫ* %>: ;
+
+"{Т} становится т после р" 
+%{Т%}:т <=> [ р | %{н2%}:н ] %>: _ ;
+
+!!!! JNW TEMP
+!"{Т} бывает т после л, ль, н, нь в РА/РАн (анализировать, но не генерировать)" 
+!%{Т%}:т <=> [ л | [ л ь ] | н | [ н ь ] ]/[ %>: | %{w%}: ] _ %{А%}: ;
+!! ял>{Р}{А}н:ялран(/ялтан)
+!! ял>{Р}{А}:ялра
+
+"{Т} становится т"
+%{Т%}:т <=> [ [ л | н ] ь* ]/[ %>: | %{w%}: ] _ %{А%}: ;
+                  ! ял>{Р}{А}:ялра
+                  ! ял>{Р}{А}н:ялран(/ялтан)
+            [ р | %{н2%}:н ] %>: _ ;
+            %{У%}: %{н%}:н %>: _ ;
+                  ! чик{ː}ӗ>{У}{н}>{Т}{А}:чиккӳнте
+
+!! "{Р} бывает т после л, ль, н в РАн (анализировать)"              
+!! %{Р%}:т <=> [ л | [ л ь ] | н ]/[ :0 ] _ %{А%}: н ;           
+
+"{Т} становится ч после множественного числа и {н}" 
+%{Т%}:ч <=> [ %{М%}:н | %{н%}:н ] %>: _ ;
+! below contexts COMBINED above:
+!            %{М%}:н %>: _ ;
+!            %{н%}:н %>: _ ;
+        except
+            %{У%}: %{н%}:н %>: _ ;      ! чик{ː}ӗ>{У}{н}>{Т}{А}:чиккӳнте
+
+!"Initial т in causative drops in front of another т"
+!т:0 <=> т %>: _ %{А%}: р: ; 
+
+"Simplification of the stem ending in Russian words finishing in double consonant" ! last consonant of words like класс and металл delete in all but the base form)
+Cx:0 <=> _ Cy %{RUS%}: %>: ;
+         except
+         _ в: ;                  ! avoid conflict with ӑв/ӗв words
+         _ й: ;                  ! avoid conflict with й deletion
+         where Cx in Soglasnye
+               Cy in Soglasnye
+         matched ;
+
+!!!!! JNW TEMP
+!!!! "Exceptions" (maybe a paradigm will have to be created if quite more are found)
+!"# ҫын # > ҫынӑ"
+!! ҫын behaves as its old form ҫынӑ, but has lost the final ӑ in the non-marked form
+!ӑ:0 <=> .#. ҫ ы н _ .#. ;
+!        .#. ҫ ы н _ %>: с е %{М%}: ;	! also in the plural forms without person affix
+!
+!
+!"# йӗп # > йӗпӗ"
+!! ҫын behaves as йӗпӗ, but has lost the final ӗ in the non-marked form
+!ӗ:0 <=> .#. й ӗ п _ .#. ;
+!        .#. й ӗ п _ %>: с е %{М%}: ;	! also in the plural forms without person affix
+!        _ %{RUS%}: %>: %{dup%}: %{У%}: ;
+
+"ӗ → е at the end of Russian words"
+ӗ:е <=> _ %{RUS%}:0 .#. ;
+
+"ӑ → а at the end of Russian words"
+ӑ:а <=> _ %{RUS%}:0 .#. ;
+
+!!! Сравнение
+"-тарах 1 (ӑшӑрах)"
+%{А%}:0 <=> %>: %{Тарах%}:0 _ р ;
+     except
+	                  р %>: %{Тарах%}: _ р ;
+        [ й | л | н ] %>: %{ТарахAnaliz%}: _ р ;
+
+"+тарах 1 (йывӑртарах)"
+%{Тарах%}:т <=> р %>: _ ;
+
+"+тарах 2 (нумайтарах)"
+%{ТарахAnaliz%}:т <=> [ й | л | н ] %>: _ ;
+
+!!! Глаголы
+"шыраать > шырать"
+!%{а%}:0 <=> :SurVow %>: _ ;		! WARNING!!!: There's a cataclysm if this is changed to: %{а%}:0 <=> :SurVow/[ %>: | :0 ] _ ;
+%{а%}:0 <=> :SurVow [ %{w2%}: ]* %>: _ ;	! WARNING!!!: There's a cataclysm if this is changed to: %{а%}:0 <=> :SurVow/[ %>: | :0 ] _ ;
+            :SurVow [ %{w%}: ]* %>: _ ;  ! WARNING!!! I made this up
+	except %{RUS%}: %>: _ ;		! We make explicit that this rule does not deal with Russian words, as the compiler asks for that
+            [ у: | ӳ: ] [ %{w2%}: ] %>: _ ;
+! шыра>{а}т>{ь}:шырать
+! йӗри-тавра{w}>{а}лла:йӗри-тавралла
+
+"3.pl: килетҫҫӗ > килеҫҫӗ, килместҫҫӗ > килмеҫҫӗ"
+т:0 <=> _ %>: ҫ ҫ ӗ: ;
+
+"3.neg.pl: килеҫҫӗ, килместҫҫӗ > килмеҫҫӗ"
+с:0 <=> _ %>: т: %>: ҫ ҫ ӗ: ;
+
+
+!!! Orthography
+
+!"Remove soft sign if e is already palatalised"
+!%{ь%}:0 <=>        %{А%}:е т %>: _ ;
+!                        :е т %>: _ ;
+!        :е :0* %>: %{а%}:0 т %>: _ ; ! итле>{а}т>{ь}:итлет
+!                  :е с %>: т %>: _ ;
+!                 %{А%}:е с т %>: _ ; ! ил>{а}{й}>м{А}ст>{ь}:илеймест
+!             %{А%}:е с %>: т %>: _ ;
+!!!! Couldn't you just make this shorter with something like this?
+!!!!  :е [ :с | :т | %>: | :0 ]* _ .#. ;
+
+"Remove soft sign if e is already palatalised"
+%{ь%}:0 <=> :е [ :с | :т | %>: | :0 ]* _ .#. ;
+
+!"а to я"
+!%{а%}:я <=> й:/[ %>: | %{Ь%}: | %{RUS%}: ] _ ;
+
+"A stuff to я after й (1)"
+%{А%}:я <=>  [ :BackVow й: ]/[ %>: | :0 ] _ ;		! сарай>а = сарая
+             [ й: %{RUS%}: ]/[ %>: | :0 ] _ ;		! герой>а = героя
+         except
+   SurVow й: %{ː%}: ӑ: %{w%}: %>: %{н%}:  _ ;		! вӑйӑ>а = вӑййа
+                               %{Тарах%}: _ р ;
+                         %{ТарахAnaliz%}: _ р ;
+
+"A stuff to я after й (2)"
+%{а%}:я <=>  [ :BackVow й: ]/[ %>: | :0 ] _ ;		! сарай>а = сарая
+             [ й: %{RUS%}: ]/[ %>: | :0 ] _ ;		! герой>а = героя
+         except
+          SurVow й: ӑ: %{w%}: %>: %{н%}:  _ ;		! вӑйӑ>а = вӑййа
+                               %{Тарах%}: _ р ;
+                         %{ТарахAnaliz%}: _ р ;
+                 :SurVow [ %{w2%}: ]* %>: _ ;		! Silly, but the compiler asks for this exception because of rule "шыраать > шырать"
+
+"й>{У} = >ю (1)"
+%{У%}:ю <=> [ :BackVow й: :0* ]/[ %>: | :0 ] _ ;	! сарай>у = сараю
+       [ :BackVow й: %{RUS%}: ]/[ %>: | :0 ] _ ;	! герой>у = герою
+        [ й: %{ӑ%}: %{RUS%}:  ]/[ %>: | :0 ] _ ;	! аллей%{ӑ%}%{RUS%}>у = аллею
+    [ %{ъ%}: %{ӑ%}: %{RUS%}:  ]/[ %>: | :0 ] _ ;	! Жен%{ъ%}%{ӑ%}%{RUS%}>у = Женю
+	except :BackVow й: ӑ: %>: %{dup%}: _ ;		! вӑйӑ>у = вӑййу
+
+
+!!!!! JNW TEMP
+!! Rules for correcting orthography to the words we changed in lexc
+"Final unstressed а in Russian loans"
+%{ӑ%}:а <=> _ (%{RUS%}:) .#. ;
+! below contexts COMBINED above:
+!            _ .#. ; 
+!            _ %{RUS%}: .#. ;
+	except
+          :Glasnye/[ %>: | :0 ] _ ;  ! avoid conflict with "Delete {ӑ} after a vowel"
+          [ й: | %{ъ%}: ] _ ;
+! below contexts COMBINED above:
+!          [ й: | %{ъ%}: ] _ .#. ;
+!          [ й: | %{ъ%}: ] _ %{RUS%}: .#. ;
+
+!"Final unstressed е in Russian loans"
+!%{Ӗ%}:е <=> _ (%{RUS%}:) .#. ;
+!! below contexts COMBINED above:
+!!            _ .#. ; 
+!!            _ %{RUS%}: .#. ;
+!
+!"Final й in Russian loans finishing in ий (lost in derivate forms)"
+!%{й%}:й <=> _ (%{RUS%}:) .#. ;
+!!            _ .#. ; 
+!!            _ %{RUS%}: .#. ;
+
+!!!! JNW TEMP
+!"й+ю,я,е = ю,я,е"
+!й:0 <=> _ [ %>: | :0 ]* [ :ю | :я | :е ] ;	! сарай>у = сараю, сарай>а = сарая, чей>е = чее
+!	_ %{ӑ%}: %{RUS%}: .#. ;			! аллей%{ӑ%}%{RUS%}
+
+"%{ъ%}+ю,я = ю,я"
+%{ъ%}:0 <=> _ :0* [ :ю | :я ] ;		! Жен%{ъ%}%{ӑ%}>у = Женю
+					! мен%{ъ%}у = меню
+            _ %{ӑ%}:я ;
+!            _ %{ӑ%}:я .#. ;
+
+"%{ъ%}+и (1)"
+%{ъ%}:0 <=> _ [ %>: | :0 ]* :и ;	! Жен%{ъ%}%{ӑ%}>%{ӗ%} = Жени
+	except
+!         ь: _ [ %>: | :0 ]* :и ;	! Наталь%{ъ%}%{ӑ%}>%{ӗ%} = Наталйи
+! SIMPLIFIED as:
+          ь: _ ;
+                                  
+"%{ъ%}+и (2)"
+%{ъ%}:0 <=> ь: _ [ %>: | :0 ]* :и ;	! Наталь%{ъ%}%{ӑ%}>%{ӗ%} = Наталйи
+            :н _ [ %>: | :0 ]* %{ӑ%}: ;     ! Ван{ъ}{ӑ}{RUS}>{ӑ}н = Ванӑн
+
+"%{ъ%}+у"
+у:ю  <=> %{ъ%}: _ %{RUS%}: ;				! мен%{ъ%}у%{RUS%}  = меню
+	except  _ %{RUS%}: %>: %{dup%}: %{У%}: ;	! кенгуру<n><px2sg><nom> = кенгуру{RUS}>{dup}{У}{н2} = кенгур·у
+!                _ %{w%}:в ;		! меню<n><gen> = меньӑвӑн
+!                _ %{w2%}:в ;
+
+! Check me
+"%{ъ%}%{ӑ%} to я word-finally"
+%{ӑ%}:я <=> %{ъ%}: _ (:0) .#. ;
+
+"ьь=ь"
+ь:0 <=> _ %{ъ%}:ь ;			! Наталь%{ъ%}%{ӑ%}%{w%}%>%{Ӑ%}н = Натальӑн
+
+!!!! JNW TEMP
+!"аллей{ӑ} > аллея"
+!%{ӑ%}:я <=> [ й: | %{ъ%}: ] _ %{RUS%}:* .#. ;
+!! below contexts COMBINED above:
+!!                й: _ %{RUS%}:* .#. ;
+!!            %{ъ%}: _ %{RUS%}:* .#. ;		! Жен%{ъ%}{ӑ}
+
+!!!! JNW TEMP
+!"аллей{ӑ}·ах > аллейах"
+!%{ӑ%}:0 <=>  _ %{RUS%}: %>: [ %{а%}: | %{Ӑdel%}: ]/[ %>: | :0 ] ;
+!! below contexts COMBINED above:
+!!             _ %{RUS%}: %>: %{а%}:/[ %>: | :0 ] ;
+!!             _ %{RUS%}: %>: %{Ӑdel%}:/[ %>: | :0 ] ;
+!	except    _ %{RUS%}:* %>: %{dup%}: [ [ %{в%}: ӗ: ] | [ %{У%}: ] ] ;
+!! below contexts COMBINED above:
+!!               _ %{RUS%}:* %>: %{dup%}: %{в%}: %{ӗ%}: ;
+!!               _ %{RUS%}:* %>: %{dup%}: %{У%}: ;
+
+
+
+!!!!! JNW TEMP
+!"ю → й in юV → йӑвV"
+!ю:й <=> _ %{w%}: %>: [ %{Ӑ%}: | %{А%}: | %{У%}: | %{ӗ%}: ] ;
+!        _ %>: %{dup%}: (%{в%}:) [ %{Ӑ%}: | %{А%}: | %{У%}: | %{ӗ%}: ] ;
+!
+!"{w} → ӑ in юV → йӑвV"
+!%{w%}:ӑ <=> ю:й _ %>: [ %{Ӑ%}: | %{А%}: | %{У%}: | %{ӗ%}: ] ;
+!
+!"%> → ӑ in юV → йӑвV"
+!%>:ӑ <=> ю:й _ %{dup%}: [ %{Ӑ%}: | %{А%}: | %{У%}: | %{ӗ%}: ] ;
+!!!! хӑю<n><px1sg><nom> → хӑю>{dup}{Ӑ}м → хӑйӑвӑм
+!
+!"%> → в in юV → йӑвV"
+!%>:в <=> ю:й %{w%}:ӑ _ [ %{Ӑ%}: | %{А%}: | %{У%}: ] ;
+!
+!"{dup} → в in юV → йӑвV"
+!%{dup%}:в <=> ю:й %>:ӑ _ [ %{Ӑ%}: | %{А%}: | %{У%}: ] ;
+!!!! хӑю<n><px1sg><nom> → хӑю>{dup}{Ӑ}м → хӑйӑвӑм
+!!!! хӑю<n><px2sg><nom> → хӑю>{dup}{У}{н2} → хӑйӑву
+!
+!"{dup} → ӑ in юV → йӑвV"
+!%{dup%}:ӑ <=> ю:й %>: _ %{в%}: %{ӗ%}: %{н%}: ;
+!!!! хӑю<n><px3sg><nom> → хӑю>{dup}{в}{ӗ}{н} → хӑйӑвӗ
+
+
+!!!!! Orthography tricks !!!!!
+
+"й deletion"  !!  "in words ending in ий if not followed by a vowel" / "before yoticised vowels"
+й:0 <=> :и _ .#. ;                          ! шӑший:шӑши
+!        :и _ [ :Soglasnye | %{ӑ%}: ]/:0 ;   ! шӑший:%{Т%}%{А%}:шӑшире
+        :и _ [ :Soglasnye ]/:0 ;   ! шӑший:%{Т%}%{А%}:шӑшире
+         _ [ %>: | :0 ]* [ :ю | :я | :е ] ; ! сарай>у = сараю, сарай>а = сарая, чей>е = чее
+        except
+        _ ӑ:ю в:0 ;  ! avoid conflict with йӑв:ю
+
+
+!!!! ӗв/ӑв ~ ӳ/у alternations !!!!!
+
+"в deletion in words ending in ӑв/ӗв"
+в:0 <=> [ ӗ: | ӑ: ] _ .#. ;
+        [ ӗ: | ӑ: ] _ :Soglasnye/:0 ;
+    except
+        _ %{block%}:0 ;     ! хӗв{block}:хӗв, хӗв{block}>{Т}{А}:хӗвре
+        _ %{RUS%}:0 ;       ! avoid conflict with Russian stem simplification, e.g. сс:с and лл:л
+
+"ӗ/ӑ to ӳ/у in words ending in ӑв/ӗв"
+Vx:Vy <=> _ в:0 ;
+      except
+         _ :SurVow/:0 ;      ! avoid conflict with ӑ/ӗ dropping before vowels
+         %{ː%}:Soglasnye _ ; ! avoid conflict with ӑ/ӗ deletion after gemination
+         _ %{Ӗ%}:и/:0 ;      ! avoid conflict with ӑ/ӗ deletion before {Ӗ}:и
+         й: _ ;              ! to get ю
+      where Vx in ( ӗ ӑ )
+            Vy in ( ӳ у )
+      matched ;
+
+"ӑ to ю in йӑв to ю"
+ӑ:ю <=> й: _ в:0 ;
+
+"й deletion in йӑв to ю"
+й:0 <=> _ ӑ:ю в:0 ;
