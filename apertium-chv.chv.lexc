@@ -26,7 +26,7 @@ Multichar_Symbols
 %<subst_и%>        ! acts as a noun - Субстативные через палӑрту аффиксӗ и
 %<subst_скер%>           ! acts as a noun - Палӑрту аффиксӗ 2
 %<subst_хи%>       ! acts as a noun - Субстативные		! VERIFY!!
-%<attr_хи%>        ! acts as an adjective			! VERIFY!!
+%<attr%>        ! acts as an adjective			! VERIFY!!
 
 %<np%>             ! Имя собственное
 %<ant%>            ! 
@@ -949,12 +949,12 @@ LEXICON ADV_CMP1
 ! VERIFY: хи-adverbs seem to be (at least) adverbs too
 LEXICON ADV_ХИ1
 
-%<adv%>%<attr_хи%>:%>хи K ;			! VERIFY tag
+%<adv%>%<attr%>:%>хи K ;			! VERIFY tag
 %<adv%>%<subst_хи%>:%>хи SUBST ;		! VERIFY tag
 
 LEXICON ADV_ХИСКЕР1
 
-%<adv%>%<attr_хи%>%<subst_скер%>:%>хи%>скер SUBST ;
+%<adv%>%<attr%>%<subst_скер%>:%>хи%>скер SUBST ;
 
 LEXICON ADV_И1
 

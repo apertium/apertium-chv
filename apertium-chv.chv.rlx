@@ -26,7 +26,9 @@ LIST Ger = ger ger_past ger6 ;
 
 LIST Pres = pres ; 
 
-LIST Func = subst attr advl ; 
+LIST Func = subst attr advl subst_хи ; 
+
+LIST Attr = attr ;
 
 SECTION
 
@@ -52,3 +54,5 @@ REMOVE (ger17) IF (1C Pres);
 "<Тен>" REMOVE Ger ; # IF (-1 BOS); 
 
 REMOVE Caus IF (0 Pul OR Pultar) ;
+
+SELECT Attr;
