@@ -1,0 +1,32 @@
+
+
+''Япала ячӗ''/''Noun''<br/>
+[http://ilazki.thinkgeek.co.uk/~spectre/txuvaix/cv-tr/index.php?q=Турку Турккӑлла куҫарни/Turkish translation]<br/>
+[http://samah.chv.su/cgi-bin/s.cgi?a=s&word=Турку Вырӑсла куҫарни/Russian translation]
+
+{|class=wikitable
+|-
+!colspan=9|'''Singular'''
+|-
+!  Person  !!  Tеп<br/>Absolutive<br>''Мӗн?''  !!  Камӑнлӑх<br/>Genitive<br>''Мӗнӗн?''  !!  Пару<br/>Dative<br>''Мӗне?''  !!  Вырӑн<br/>Locative<br>''Мӗнре?''  !!  Туху<br/>Ablative<br>''Мӗнрен?''  !!  Пӗрлелӗх<br/>Instrumental<br>''Мӗнпе?''  !!  Ҫуклӑх<br/>Privative<br>''Мӗнсӗр?''  !!  Пирке<br/>Final<br>''Мӗншӗн?''
+|-
+| - || Турку || Туркӑ·н || Туркӑ·на || Туркӑ·ра || Туркӑ·ран || Туркӑ·па || Туркӑ·сӑр || Туркӑ·шӑн
+|-
+| 1 sg || Туркӑ·м || Туркӑ·м·ӑн || Туркӑ·м·а || Туркӑ·м·ра || Туркӑ·м·ран || Туркӑ·м·па || Туркӑ·м·сӑр || Туркӑ·м·шӑн 
+|-
+| 2 sg || Турк·у || Турк·у·н || Турк·у·на || Турк·у·нта || Турк·у·нтан || Турк·у·па || Турк·у·сӑр || Турк·у·шӑн 
+|-
+| 3 || Турк·и || Турк·ин || Турк·и·не || Турк·и·нче || Турк·и·нчен || Турк·и·пе || Турк·и·сӗр || Турк·и·шӗн
+|-
+| 1 pl || Туркӑ·м·ӑр || Туркӑ·м·ӑр·ӑн || Туркӑ·м·ӑр·а || Туркӑ·м·ӑр·та || Туркӑ·м·ӑр·тан || Туркӑ·м·ӑр·па || Туркӑ·м·ӑр·сӑр || Туркӑ·м·ӑр·шӑн 
+|-
+| 2 pl || Туркӑ·р || Туркӑ·р·ӑн || Туркӑ·р·а || Туркӑ·р·та || Туркӑ·р·тан || Туркӑ·р·па || Туркӑ·р·сӑр || Туркӑ·р·шӑн 
+|-
+|}
+
+<small>
+Aquest és un material de treball subjecte a revisió que pot contenir errors.<br/>
+This page is a work in progress, may contain errors and is subject to revision at any time. 
+</small>
+
+[[Category:Сӑмахсар]]
