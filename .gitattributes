@@ -8,6 +8,7 @@
 /apertium-chv.chv.lexc -text
 /apertium-chv.chv.rlx -text
 /apertium-chv.chv.twol -text
+/apertium-chv.chv.udx -text
 /apertium-chv.pc.in -text
 /apertium-chv.post-chv.dix -text
 /autogen.sh -text

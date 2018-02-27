@@ -15,15 +15,15 @@ for line in sys.stdin.readlines():
 		num = '<pl>';
 		continue
 
-	if line.count('1c.1х./1sg.') > 0 or line.count('1 sg') > 0: 
+	if line.count('1c.1х./1sg.') > 0 or line.count('1 sg') > 0 or line.count('1c.1х./1sg.') > 0: 
 		pos = '<px1sg>';
-	if line.count('2c.2х./2sg.') > 0 or line.count('2 sg') > 0: 
+	if line.count('2c.2х./2sg.') > 0 or line.count('2 sg') > 0 or line.count('2c.1х./2sg.') > 0 :  
 		pos = '<px2sg>';
 	if line.count('3<') > 0 or line.count('3 ') > 0: 
 		pos = '<px3sp>';
 	if line.count('1c.нум.х./1pl.') > 0 or line.count('1 pl') > 0: 
 		pos = '<px1pl>';
-	if line.count('2c.нум.х./2pl.') > 0 or line.count('1 pl') > 0: 
+	if line.count('2c.нум.х./2pl.') > 0 or line.count('2 pl') > 0: 
 		pos = '<px2pl>';
 	if line.count('| - ||') > 0:
 		pos = ''
@@ -44,5 +44,5 @@ for line in sys.stdin.readlines():
 				if form.count('<br />') > 0:
 					forms = form.split('<br />')
 				for j in forms: 
-					print(lem + cat + num + pos + padež[i] + ':' + j.strip())
+					print(lem + cat + pos + num + padež[i] + ':' + j.strip())
 
