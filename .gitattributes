@@ -18,6 +18,7 @@ dev/apertium-chv.chv.lexc-r73928 -text
 dev/apertium-chv.chv.twol-r73928 -text
 dev/countstems.sh -text
 dev/editdist.py -text
+dev/numerals.foma -text
 dev/spellrelax.twol -text
 dev/wiki/chv.txt -text
 dev/wiki/proc.py -text
