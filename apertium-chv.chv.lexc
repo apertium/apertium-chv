@@ -102,6 +102,11 @@ LEXICON N
 
 %<n%>:                               SUBST ;
 
+LEXICON N-COMPOUND-PX
+
+%<n%>: POSS ;
+%<n%>%<pl%>:%>се%{м%} POSS ;
+
 LEXICON POSS-ANNE 
 
 :нне                                 PLURAL ;
@@ -271,6 +276,7 @@ LEXICON Nouns
 училище:училищ%{е%}                  N ;          ! "" ! учи́лище
 шоссе:шоссе                          N ;          ! "" ! шоссе́
 дата:дата                            N ;          ! 
+асамат% кĕперĕ:асамат% кĕпер         N-COMPOUND-PX ; ! "радуга"
 
 LEXICON Proper
 
