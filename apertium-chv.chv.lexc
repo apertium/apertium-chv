@@ -3,7 +3,7 @@ Multichar_Symbols
 
 %<n%>                                ! Имя существительное нарицательное
 %<np%>                               ! Имя существительное собственное
- %<top%>                       !geo
+%<top%>                       !geo
 %<num%>				     ! Имя числительное
 %<post%>				     ! Послеслоги(?)
 %<cnjcoo%>				     ! Союзы 
@@ -121,7 +121,7 @@ LEXICON NP
 
 LEXICON NP-TOP
 
-%<top%>:                              SUBST ;!"geo"
+%<np%>%<top%>:                              SUBST ;!"geo"
 
 LEXICON N
 
