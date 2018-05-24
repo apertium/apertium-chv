@@ -8,7 +8,8 @@ Multichar_Symbols
 %<cnjcoo%>				     ! Союзы 
 %<adj%>				     !Прилагательные     
 %<adv%>				     !Наречия
-%<prn%>				     !Местоимения  
+!%<prn%>				     !Местоимения  
+!%<pers%>
 
 %<pl%>                               ! Множественное число
 
@@ -71,7 +72,7 @@ Nouns ;
 Proper ;
 Punctuation ;
 Numerals ;
-Propernames ;
+!Pronouns ;
 Determiners ;
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
@@ -219,9 +220,9 @@ LEXICON ADV
 
 %<adv%>:	#;
 
-LEXICON PRN
+!LEXICON PRN
 
-%<prn%>:	#;
+!%<prn%>:ӗ	PERS;! "%<prn%>:	#;"
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
@@ -3386,13 +3387,13 @@ LEXICON Numerals
 триллион:триллион                    NUM ;!""
 триллиард:триллиард                    NUM ;!""
 
-LEXICON Propernames 
+!LEXICON Pronouns 
 
-эпӗ:эпӗ                   PRN ;!""
-эсӗ:эсӗ                    PRN ;!""
-вӑл:вӑл                    PRN ;!""
-эсир:эсир                    PRN ;!""
-вӗсем:вӗсем                    PRN ;!""
+!эпӗ:эп                   PRN ;!""
+!эсӗ:эс                    PRN ;!""
+!вӑл:в                    PRN ;!""
+!эсир:эсир                    PRN ;!""
+!вӗсем:вӗсем                    PRN ;!""
 
 LEXICON Determiners
 
