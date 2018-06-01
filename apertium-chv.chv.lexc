@@ -198,7 +198,7 @@ LEXICON N-TU
 LEXICON N-ĔŞ 
 
 %<n%>:                               SUBST ;
-%<n%>%<px2sp%>%<dat%>:%>н%{A%}    K "weight: 1.0" ;
+%<n%>%<px2sg%>%<dat%>:%>н%{A%}    K "weight: 1.0" ;
 
 LEXICON NP-ZOLOTNICKIJ
 
