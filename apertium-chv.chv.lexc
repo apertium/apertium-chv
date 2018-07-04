@@ -10,7 +10,8 @@ Multichar_Symbols
 
 %<post%>				     ! Послеслоги(?)
 
-%<cnjcoo%>				     ! Союзы 
+%<cnjcoo%>				     ! Союзы сочинительные
+%<cnjsub%>				     ! Союзы подчинительные
 
 %<adj%>				     !Прилагательные   
 
@@ -264,6 +265,9 @@ LEXICON CNJCOO
 
 %<cnjcoo%>:	#;
 
+LEXICON CNJSUB
+
+%<cnjsub%>:	#;
 
 LEXICON ADJ
 
@@ -471,7 +475,8 @@ LEXICON Conjunction
 эхер:эхер                               CNJCOO;!""
 ытах:ытах                               CNJCOO;!""
 енчен:енчен                               CNJCOO;!""
-пулсан:пулсан                               CNJCOO;!"":                               CNJCOO;!""
+пулсан:пулсан                               CNJCOO;!""
+ешлӗ:ешлӗ CNJSUB ; ! ""
 
 LEXICON Adjectives 
 
