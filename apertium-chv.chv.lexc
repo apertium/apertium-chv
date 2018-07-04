@@ -20,6 +20,7 @@ Multichar_Symbols
 %<prn%>				     !Местоимения  
 %<pers%>
 %<dem%>
+%<abbr%>
 
 %<v%>				     !Глаголы
 %<iv%>
@@ -105,6 +106,7 @@ Punctuation ;
 Numerals ;
 Pronouns ;
 Determiners ;
+Abbreviations ;
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
@@ -112,9 +114,8 @@ LEXICON K
 
 # ; 
 
-LEXICON CASE 
+LEXICON CASE-NONOM
 
-%<nom%>:                             K ;
 %<gen%>:%>%{Ă%}н                     K ;
 %<dat%>:%>%{N%}%{A%}                 K ; 
 %<loc%>:%>%{T%}%{A%}                 K ; 
@@ -122,6 +123,11 @@ LEXICON CASE
 %<ins%>:%>п%{A%}                     K ;
 %<abe%>:%>с%{Ă%}р                    K ;
 %<ter%>:%>ш%{Ă%}н                    K ; 
+
+LEXICON CASE 
+
+%<nom%>:                             K ;
+CASE-NONOM ;
 
 LEXICON PLURAL
 
@@ -422,11 +428,16 @@ LEXICON V-TV
 %<v%>%<tv%>:	V-TPART;
 %<v%>%<tv%>:	V-TGERU;
 
+LEXICON ABBR
+
+%<abbr%>: # ;
+%<abbr%>: CASE-NONOM ;
 
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 LEXICON Postposition
+
 пуҫне:пуҫне                               POST;!""
 витӗр:витӗр                               POST;!""
 хыҫҫӑн:хыҫҫӑн                               POST;!""
@@ -1823,7 +1834,6 @@ LEXICON Nouns
 агентство:агентств%{о}            N;!""
 федераци:федераци%{й%}            N-ĔŞ ;!""
 система:систем%{а%}            N;!""
-км:км            N-ĔŞ ;!""
 километр:километр            N-ĔŞ ;!""
 округ:округ            N-ĔŞ;!""
 участок:участок            N-ĔŞ;!""  !<RED>
@@ -5551,6 +5561,15 @@ LEXICON Determiners
 
 ҫак:ҫак DET-DEM ; ! ""
 
+!=====================!
+ LEXICON Abbreviations
+!=====================!
+
+км:км ABBR ;  ! "km"
+км²:км² ABBR ;  ! "km²"
+км²:км2 ABBR ; ! "km²" Dir/LR
+км³:км³ ABBR ;  ! "km³"
+км³:км3 ABBR ;  ! "km³" Dir/LR
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
