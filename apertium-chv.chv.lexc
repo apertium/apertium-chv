@@ -28,6 +28,8 @@ Multichar_Symbols
 %<que%>                  !Вопросительные
 %<negprn%>               !Отрицательные
 %<ind%>                  !Неопределенные
+
+%<attr%>
  
 %<abbr%>                 !Аббревиатура
 
@@ -43,6 +45,8 @@ Multichar_Symbols
 %<past%>				     !"прошедшее простое"
 %<pascon%>				     !"прошедшее ..."
 %<futu%>				     !"будущее "
+
+%<ger_past%>
 
 %<pl%>                               !Множественное число
 %<sg%>                               !Единственное
@@ -168,6 +172,7 @@ LEXICON NP
 LEXICON NP-TOP
 
 %<np%>%<top%>:                              SUBST ;!"geo"
+%<np%>%<top%>%<attr%>: # ; 
 
 LEXICON NP-ANT-F
 
@@ -452,9 +457,10 @@ LEXICON V-TGERU
 LEXICON V-GER 
 
 ! Эпӗ чӑваш чӗлхине вӗренме юрататӑп.
-%<ger%>:м%{A%} # ; 
-! 
-%<ger_past%>:н%{A%} # ;
+%<ger%>:%>м%{A%} # ; 
+! Эпӗ эсӗ кӗнекене вуланине пӗлетӗп.
+%<ger_past%>:%>н%{A%} # ;
+%<ger_past%>%<px3sp%>%<dat%>:%>н%{A%}%>%{и%}%{н%}%>%{N%}%{A%} # ;
 
 ! Эсӗ килессине пӗлетӗп.
 %<ger_fut%>:%{A%}с # ;
@@ -468,6 +474,7 @@ LEXICON V-IV
 %<v%>%<iv%>:    V-TFUTU;
 %<v%>%<iv%>:    V-TPART;
 %<v%>%<iv%>:    V-TGERU;
+%<v%>%<iv%>:    V-GER ;
 
 LEXICON V-TV
 
@@ -477,6 +484,7 @@ LEXICON V-TV
 %<v%>%<tv%>:	V-TFUTU;
 %<v%>%<tv%>:	V-TPART;
 %<v%>%<tv%>:	V-TGERU;
+%<v%>%<tv%>:    V-GER ;
 
 LEXICON ABBR
 
@@ -3827,6 +3835,7 @@ LEXICON Verbs
 тух:тух                  V-IV;!""
 ҫурал:ҫурал                  V-TV;!""
 кӗр:кӗр                  V-IV;!""
+вула:вула              V-TV ; !""
 
 LEXICON Proper 
 
