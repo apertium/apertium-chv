@@ -56,6 +56,9 @@ Multichar_Symbols
 %<p2%>
 %<p3%>
 
+%<iter%>
+%<abil%>
+
 %<gpr_past%>
 %<gpr_pres%>
 %<gpr_fut%>
@@ -378,19 +381,7 @@ LEXICON V-TPAST
 %<neg%>%<past%>%<p2%>%<pl%>:%>м%{A%}ст%{Ă%}р                         #;!""
 %<neg%>%<past%>%<p3%>%<sg%>:%>м%{A%}стч%{Ă%}                         #;!""
 %<neg%>%<past%>%<p3%>%<pl%>:%>м%{A%}стчӗҫ                            #;!""
-!----------bottom need to check--------
-%<neg%>%<past%>%<p1%>%<sg%>:%>%{A%}йм%{A%}ст%{Ă%}п                         #;!""
-%<neg%>%<past%>%<p1%>%<sg%>:%>йм%{A%}ст%{Ă%}п                              #;!""
-%<neg%>%<past%>%<p1%>%<pl%>:%>%{A%}йм%{A%}ст%{Ă%}п%{Ă%}р                   #;!""
-%<neg%>%<past%>%<p1%>%<pl%>:%>йм%{A%}ст%{Ă%}п%{Ă%}р                        #;!""
-%<neg%>%<past%>%<p2%>%<sg%>:%>%{A%}йм%{A%}ст%{Ă%}н                         #;!""
-%<neg%>%<past%>%<p2%>%<sg%>:%>йм%{A%}ст%{Ă%}н                              #;!""
-%<neg%>%<past%>%<p2%>%<pl%>:%>%{A%}йм%{A%}ст%{Ă%}р                         #;!""
-%<neg%>%<past%>%<p2%>%<pl%>:%>йм%{A%}ст%{Ă%}р                              #;!""
-%<neg%>%<past%>%<p3%>%<sg%>:%>%{A%}йм%{A%}сть                              #;!""
-%<neg%>%<past%>%<p3%>%<sg%>:%>йм%{A%}сть                                   #;!""
-%<neg%>%<past%>%<p3%>%<pl%>:%>%{A%}йм%{A%}ҫҫӗ                              #;!""
-%<neg%>%<past%>%<p3%>%<pl%>:%>йм%{A%}ҫҫӗ                                   #;!""
+
 
 LEXICON V-PERS-FUT
 
@@ -477,19 +468,30 @@ LEXICON V-COMMON
 
 %<imp%>%<p2%>%<sg%>: # ;
 
+LEXICON V-ABIL 
+
+%<abil%>:%>%{A%}й         V-COMMON ;
+                          V-COMMON ; 
+
+LEXICON V-ITER
+
+%<iter%>:%>к%{A%}л%{A%}   V-ABIL ;
+                          V-ABIL ;
+
 LEXICON V-DER
 
-%<coop%>:%>%{Ă%}ш V-COMMON ;
+%<coop%>:%>%{Ă%}ш         V-ITER ;
+%<pass%>:%>%{Ă%}%{L%}     V-ITER ;
  
 LEXICON V-IV
 
-%<v%>%<iv%>:    V-COMMON ; 
-%<v%>%<iv%>:    V-DER ; 
+%<v%>%<iv%>:              V-ITER ; 
+%<v%>%<iv%>:              V-DER ; 
 
 LEXICON V-TV
 
-%<v%>%<tv%>:    V-COMMON ; 
-%<v%>%<tv%>:    V-DER ; 
+%<v%>%<tv%>:              V-ITER ; 
+%<v%>%<tv%>:              V-DER ; 
 
 LEXICON ABBR
 
