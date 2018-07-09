@@ -140,8 +140,8 @@ LEXICON CASE-NONOM
 %<loc%>:%>%{T%}%{A%}                 K ; 
 %<abl%>:%>%{T%}%{A%}н                K ; 
 %<ins%>:%>п%{A%}                     K ;
-%<abe%>:%>с%{Ă%}р                    K ;
 %<ter%>:%>ш%{Ă%}н                    K ; 
+%+сӑр%<post%>:%>с%{Ă%}р                    K ;
 
 LEXICON CASE 
 
