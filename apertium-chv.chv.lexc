@@ -59,6 +59,7 @@ Multichar_Symbols
 
 %<subst%>
 %<attr%>
+%<advl%>
 
 %<iter%>                             ! 
 %<abil%>                             ! 
@@ -364,11 +365,13 @@ LEXICON CNJSUB
 LEXICON A1
 
 %<adj%>:	K;
+%<adj%>%<advl%>:	K; ! Dir/RL
 
 LEXICON A2
 
 %<adj%>:	#;
 %<adj%>%<subst%>:	SUBST ;
+%<adj%>%<advl%>:	K; ! Dir/RL
 
 LEXICON ADV
 
@@ -842,6 +845,8 @@ LEXICON Adjectives
 лӑпкӑ:лӑпкӑ            A1;!""
 лапра:лапра            A1;!""
 лапраллӑ:лапраллӑ            A1;!""
+натурӑллӑ:натурӑллӑ            A1;!""
+экономикаллӑ:экономикаллӑ     A1;!""
 лаптак:лаптак            A1;!""
 лапчӑк:лапчӑк            A1;!""
 леш:леш            A1;!""
@@ -5528,6 +5533,7 @@ LEXICON Proper
 
 Абаза:Абаза                  NP-TOP; !""
 Абакан:Абакан                  NP-TOP; !""
+Арабат:Арабат                 NP-TOP ; 
 Абдулино:Абдулино                  NP-TOP; !""
 Абинск:Абинск                  NP-TOP; !""
 Арктика:Арктик%{а%}                NP-TOP; ! ""
@@ -22540,7 +22546,7 @@ LEXICON Pronouns
 кусем%<prn%>%<dem%>%<pl%>%<ter%>:кусемшӗн # ;!"для этих" 
 !------------DONE(!)-----------------------------
 ҫак%<prn%>%<dem%>%<nom%>:ҫак  # ;!"этот" 
-ҫак%<prn%>%<dem%>%<nom%>:ҫакӑ  # ;!"этот" 
+ҫак%<prn%>%<dem%>%<nom%>:ҫакӑ  # ;!"этот"  ! Dir/LR
 ҫак%<prn%>%<dem%>%<gen%>:ҫакӑн # ;!"этого" 
 ҫак%<prn%>%<dem%>%<dat%>:ҫакна # ;!"этому"
 ҫак%<prn%>%<dem%>%<loc%>:ҫакӑнта # ;!"в этом" 
@@ -23005,7 +23011,7 @@ KZ:KZ ABBR ; !""
 %/%<sent%>:%/ # ;
 
 ! Temporary numeral lexicon
-<[%0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9]+>  DIGITLEX ; ! Use/Circ
+<[%0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | %, ]+>  DIGITLEX ; ! Use/Circ
 
 LEXICON DIGITLEX
 
