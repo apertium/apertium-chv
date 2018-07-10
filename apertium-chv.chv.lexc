@@ -60,6 +60,14 @@ Multichar_Symbols
 %<abil%>                             ! 
 
 %<ger_past%>
+%<ger_fut%>                         !
+
+%<gna_impf%>
+%<gna_cond%>
+%<gna_when%>
+%<gna_each%>                         !
+%<gna_izza%>                         !
+%<gna_until%>                         !
 
 %<gpr_past%>                         ! 
 %<gpr_pres%>                         ! 
@@ -213,6 +221,7 @@ LEXICON NP-PAT-VICH
 LEXICON N
 
 %<n%>:                               SUBST ;
+%<n%>%<attr%>:                       #;
 
 LEXICON N-COMPOUND-PX
 
@@ -261,7 +270,9 @@ LEXICON N-ATTEANNE
 LEXICON N-VLAÇ
 
 %<n%>:ҫ                              SUBST ;
+%<n%>%<attr%>:ҫ                      # ;
 %<n%>%<nom%>:сть                     # "weight: 1.0" ; 
+%<n%>%<attr%>:сть                    # "weight: 1.0" ;
 %<n%>%<px2sg%>%<dat%>:ҫ%>н%{A%}      K "weight: 1.0" ; 
 !%<n%>%<px3sp%>%<dat%>:ҫ%>%{Ă%}      K "weight: 1.0" ; 
 
@@ -269,6 +280,7 @@ LEXICON N-VLAÇ
 LEXICON N-SUPĂN
 
 %<n%>:                               SUBST ;
+%<n%>%<attr%>:                       # ;
 %<n%>%<loc%>:%>р%{A%}                K "weight: 1.0" ; 
 %<n%>%<abl%>:%>р%{A%}н               K "weight: 1.0" ; 
 %<n%>%<px2sg%>%<dat%>:%>н%{A%}       K "weight: 1.0" ; 
@@ -276,16 +288,19 @@ LEXICON N-SUPĂN
 LEXICON N-RADIO
 
 %<n%>:%{в%}%{☭%}                     SUBST ;
+%<n%>%<attr%>:                       # ;
 
 LEXICON N-TU
 
 %<n%>:%{в%}                          SUBST ;
+%<n%>%<attr%>:                       # ;
 %<n%>%<px2sg%>%<dat%>:%{в%}%>н%{A%}  K "weight: 1.0" ; 
 %<n%>%<px2sg%>%<dat%>:%{в%}%>н%{A%}  K "weight: 1.0" ; 
 
 LEXICON N-ĔŞ 
 
 %<n%>:                               SUBST ;
+%<n%>%<attr%>:                       # ;
 %<n%>%<px2sg%>%<dat%>:%>н%{A%}    K "weight: 1.0" ;
 %<n%>%<px3sp%>%<dat%>:%{ă%}%>н%{A%}    K;
 
@@ -294,9 +309,11 @@ LEXICON NP-ZOLOTNICKIJ
 %<np%>:%{й%}                         SUBST ;
 %<np%>%<nom%>:й                      K "weight: -1.0" ;
 
- LEXICON DET-DEM
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
- %<det%>%<dem%>: K ;
+LEXICON DET-DEM
+
+%<det%>%<dem%>: K ;
 
 LEXICON NUM-ORD
 
@@ -533,6 +550,7 @@ LEXICON Postposition
 
 пуҫне:пуҫне                               POST;!""
 витӗр:витӗр                               POST;!""
+айӑккипе:айӑккипе                         POST;!""
 хыҫҫӑн:хыҫҫӑн                               POST;!""
 урлӑ:урлӑ                               POST;!""
 ҫине:ҫине                               POST;!""
@@ -558,6 +576,7 @@ LEXICON Postposition
 яхӑн:яхӑн                               POST;!""
 унсӑр:унсӑр                               POST;!""
 ҫитменнине:ҫитменнине                               POST;!"":                               POST;!""
+ҫитиччен:ҫитиччен                         POST ; ! ""
 таран:таран                               POST;!""
 
 LEXICON Conjunction
@@ -4350,7 +4369,6 @@ LEXICON Nouns
 зебра:зебра  N ; ! ""
 земство:земство  N ; ! ""
 значок:значок N-ĔŞ ; ! ""
-зона:зона  N ; ! ""
 зоопарк:зоопарк N-ĔŞ ; ! ""
 зоотехник:зоотехник%{ъ%}  N ; ! ""
 идеал:идеал N-ĔŞ ; ! ""
@@ -5457,6 +5475,9 @@ LEXICON Verbs
 ирттер:ирттер      V-TV ; ! "" ! Der/Caus
 хутшӑн:хутшӑн      V-IV ; ! "включиться" ! Der/Pass
 кӑтарт:кӑтарт      V-TV ; ! "" ! Der/Caus
+ирт:ирт            V-TV ; ! "проходить"
+кас:кас            V-TV ; ! ""
+уйӑр:уйӑр          V-TV ; ! "разделить"
 
 LEXICON Proper 
 
@@ -5474,10 +5495,6 @@ LEXICON Proper
 Дима:Дим%{а%}                        NP ; ! ""
 Дмитрий:Дмитрий                        NP ; ! ""
 Иван:Иван                        NP ; ! ""
-
-ОКАТО:ОКАТО                        ABBR ; ! ""
-АО:АО                        ABBR ; ! ""
-
 
 Турку:Турку                          NP ; ! ""
 Шупашкар:Шупашкар                    NP-TOP ; ! ""
@@ -22785,6 +22802,12 @@ LEXICON Determiners
  LEXICON Abbreviations
 !=====================!
 
+
+ОКАТО:ОКАТО                        ABBR ; ! ""
+АО:АО                        ABBR ; ! ""
+
+мм:мм ABBR ;  ! "km"
+ҫм:ҫм ABBR ;  ! "km"
 км:км ABBR ;  ! "km"
 км²:км² ABBR ;  ! "km²"
 км²:км2 ABBR ; ! "km²" Dir/LR

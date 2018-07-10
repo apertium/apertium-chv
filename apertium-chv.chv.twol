@@ -86,6 +86,7 @@ Rules
 
 "Yot deletes before following yotised consonant"
 й:0 <=> _ %>: [ %{U%}:ю | %{A%}:я ] ;
+        _ %>: %{A%}: т %{ԁ%}: ; 
 
 !@ у й:0 >:0 {U}:ю {н}:0
 
@@ -109,6 +110,8 @@ Rules
                                                            %{T%}: _ %>: %{х%}:0 ; ! loc.attr
 
 !@ ч е й:0 >:0 {N}:0 {A}:е
+
+!@ к а й:0 >:0 {A}:я т:т {ԁ}:ь
 
 "Back vowel harmony for unyotised {A}"
 %{A%}:а <=> [ UnderBack: | BackVow ] [ :Cns | :0 ]* %>: [ :Cns | :0 ]*  _ ; 
