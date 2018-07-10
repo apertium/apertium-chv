@@ -407,6 +407,7 @@ LEXICON V-TFUTU
 LEXICON V-GPR
 
 %<gpr_past%>:%>н%{Ă%}                  #;!""
+%<gpr_past%>%<subst%>:%>н%{Ă%}                  SUBST ;!""
 %<neg%>%<gpr_past%>:%>м%{A%}н                 #;!""
 %<gpr_pres%>:%>%{A%}к%{A%}н            #; !""
 %<gpr_pres%>%<subst%>:%>%{A%}к%{A%}н            SUBST;!""
@@ -448,6 +449,7 @@ LEXICON V-GER
 
 ! Эсӗ килессине пӗлетӗп.
 %<ger_fut%>:%>%{A%}с # ;
+%<ger_fut%>%<subst%>:%>%{A%}с%{ː%}%>%{и%}%{н%} PLURAL ;
 
 ! кураять
 ! кураймасть
