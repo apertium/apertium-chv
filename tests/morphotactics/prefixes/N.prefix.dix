@@ -3,13 +3,11 @@
 <dictionary>
   <alphabet></alphabet>
   <sdefs>
-    <sdef n="n" 	c="Noun"/> 
+    <sdef n="n" 	c="Noun | Сущесвительное"/> 
   </sdefs>
-
+  
   <section id="main" type="standard">
-
-<e>       <p><l>мәктәп<s n="n"/></l>                      <r></r></p></e>
-
+    <e><p><l>пахча<s n="n"/></l><r></r></p></e>
   </section>
 
 </dictionary>
