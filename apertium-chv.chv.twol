@@ -562,6 +562,11 @@ Cx:ч <=> [ %{н%}:н | %{м%}:н ]  %>: _ ;
 
 !@ к л а с с:0 >:0 {и}:ӗ {н}:н >:0 {T}:ч {A}:е
 
+"Passive {L} becomes н after -л"
+%{L%}:н <=> :л %>: %{Ă%}: _ ; 
+
+!@ у й ӑ р >:0 {Ă}:ӑ {L}:н >:0 {A}:а т {ԁ}:ь
+
 "Palatalisation of stem final -/t/ in possessive"
 Cx:ч <=> \Cx _ (ь: ) [ :0 ]* %>: %{и%}:ӗ ;        ! doesn't apply when duplicated
      where Cx in ( т д ) ; 
