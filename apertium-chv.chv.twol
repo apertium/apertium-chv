@@ -288,6 +288,13 @@ Vx:0 <=> _ %>: %{N%}: %{A%}:  ; ! dative
 
 !@ п у л {ː}:л ӑ:0 >:0 {ă}:ӑ м
 
+"Stem vowel deletion by verb suffixes beginning with {A}"
+Vx:0 <=> _ %>: [ %{A%}: :с | %{A%}: к %{A%}: н | %{A%}: т | %{A%}: ҫ ]  ; 
+     where 
+           Vx in ( е а ) ; 
+
+!@ х а т ĕ р л е:0 >:0 {A}:е с {ː}:с >:0 {и}:и {н}:0 
+
 "Stem vowel deletion before possessive"
 Vx:0 <=> _ %>: %{и%}: ; ! possessive
          _ %>: %{Ă%}: ; ! genitive
