@@ -109,14 +109,15 @@ Rules
 
 "Back vowel harmony for unyotised {A}"
 %{A%}:а <=> [ UnderBack: | BackVow ] [ :Cns | :0 ]* %>: [ :Cns | :0 ]*  _ ; 
-                                         [ ArchiBack: | UnderBack: ] %>: [ :Cns | :0 ]*  _ ; 
-              :BackVow [ :Cns | :0 ]* %>: [ :Cns | :0 ]* _ ;
+                        [ ArchiBack: | UnderBack: ] %>: [ :Cns | :0 ]*  _ ; 
+                             :BackVow [ :Cns | :0 ]* %>: [ :Cns | :0 ]* _ ;
+                                               :BackVow [ :Cns | :0 ]*  _ ;
       except 
           [ UnderFront: | FrontVow ] [ :Cns | [ :0 - ArchiBack: - UnderBack: ] ]* %>: [ :Cns | :0 ]*  _ ; 
                                    [ д | н | л ] ь: %>: [ :Cns | :0 ]*  _ ;
                                                 й:0 %>: [ :Cns | :0 ]*  _ ; 
                                               %{и%}: [ :Cns | :0 ]* _ ;
-                                                          _ %>: %{и%}: %{н%}: %>: %{N%}: %{A%}: ; ! ger
+                                                          _ %>: %{и%}: %{н%}: %>: [ %{N%}: %{A%}: | :Cns ] ; ! ger
 
 !@ б а р о к к {о}:ӑ >:0 {N}:н {A}:а
 
@@ -128,8 +129,14 @@ Rules
 
 !@ в у л а >:0 н {A}:0 >:0 {и}:и {н}:н >:0 {N}:0 {A}:е
 
+! к у р >:0 {A}:а к {A}:а н
+
 "Archiphoneme {A} deletes in certain verb forms with possessive"
-%{A%}:0 <=> _ %>: %{и%}: %{н%}: %>: %{N%}: %{A%}: ; 
+%{A%}:0 <=> _ %>: %{и%}: %{н%}: %>: [ %{N%}: %{A%}: | :Cns ] ; 
+
+!@ к у р >:0 н {A}:0 >:0 {и}:и {н}:0 >:0 с е {м}:м
+
+!@ к у р >:0 н {A}:0 >:0 {и}:и {н}:н >:0 {N}:0 {A}:е
 
 "Back vowel harmony for {Ă}"
 %{Ă%}:ӑ <=> [ UnderBack: | BackVow ] [ :Cns | :0 ]* %>: [ :Cns | :0 ]*  _ ; 
@@ -550,7 +557,7 @@ Cx:ч <=> \Cx _ (ь: ) [ :0 ]* %>: %{и%}:ӗ ;        ! doesn't apply when dupli
 !@ р а д и о {в}:в {☭}:0 >:0 {и}:ӗ {н}:0 >:0 с е {м}:0 >:0 {Ă}:0 н
 
 "Orthographic detail soft sign in back vowel verbs"
-%{ԁ%}:ь <=> :BackVow :т _ ; 
+%{ԁ%}:ь <=> :BackVow [ :т | :с :т ] _ ; 
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 !!	тухья<n><dat>	тухь{й}я>{N}{A}	тухьяна	тухьйӑна	тухьяна
