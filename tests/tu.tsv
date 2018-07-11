@@ -1,0 +1,79 @@
+_	ту<v><tv><imp><p2><sg>	ту
+
+_	тӑв<v><tv><pres><p1><pl>	тӑватпӑр
+_	тӑв<v><tv><pres><p1><sg>	тӑватӑп
+_	тӑв<v><tv><pres><p2><pl>	тӑватӑр
+_	тӑв<v><tv><pres><p2><sg>	тӑватӑн
+_	тӑв<v><tv><pres><p3><sg>	тӑвать
+_	тӑв<v><tv><pres><p3><pl>	тӑваҫҫӗ
+>	тӑв<v><tv><pres><p2><sg>	тӑван
+
+_	ту<v><tv><past><p1><pl>	турӑмӑр
+_	ту<v><tv><past><p1><sg>	турӑм
+_	ту<v><tv><past><p2><pl>	турӑр
+_	ту<v><tv><past><p2><sg>	турӑн
+_	ту<v><tv><past><p3><pl>	турӗҫ
+_	ту<v><tv><past><p3><sg>	турӗ
+
+_	ту<v><tv><fut><p1><pl>	тӑвӑпӑр
+_	ту<v><tv><fut><p1><sg>	тӑвӑп
+_	ту<v><tv><fut><p2><pl>	тӑвӑр
+_	ту<v><tv><fut><p2><sg>	тӑвӑн
+_	ту<v><tv><fut><p3><pl>	тӑвӗҫ
+_	ту<v><tv><fut><p3><sg>	тӑвӗ
+
+_	ту<v><tv><neg><past><p1><pl>	тумарӑмӑр
+_	ту<v><tv><neg><past><p1><sg>	тумарӑм
+_	ту<v><tv><neg><past><p2><pl>	тумарӑр
+_	ту<v><tv><neg><past><p2><sg>	тумарӑн
+_	ту<v><tv><neg><past><p3><pl>	тумарӗҫ
+_	ту<v><tv><neg><past><p3><sg>	тумарӗ
+
+_	ту<v><tv><ger>	тума
+_	ту<v><tv><gna_each>	тумассерен
+_	ту<v><tv><gna_izza>	тунӑранпа
+_	ту<v><tv><gna_when>	тунӑҫем
+_	ту<v><tv><gna_when>	тунӑҫемӗн
+_	ту<v><tv><gna_impf>	туса
+_	ту<v><tv><gna_cond>	тусан
+
+_	ту<v><tv><ger_fut>	тӑвас
+_	ту<v><tv><ger_fut><px3sp><nom>	тӑвасси
+
+_	ту<v><tv><pass><imp><p2><sg>	тӑвӑн
+
+_	ту<v><tv><pass><pres><p1><pl>	тӑвӑнатпӑр
+_	ту<v><tv><pass><pres><p1><sg>	тӑвӑнатӑп
+_	ту<v><tv><pass><pres><p2><pl>	тӑвӑнатӑр
+_	ту<v><tv><pass><pres><p2><sg>	тӑвӑнатӑн
+_	ту<v><tv><pass><pres><p3><sg>	тӑвӑнать
+_	ту<v><tv><pass><pres><p3><pl>	тӑвӑнаҫҫӗ
+>	ту<v><tv><pass><pres><p2><sg>	тӑвӑнан
+
+_	ту<v><tv><pass><neg><pres><p1><pl>	тӑвӑнмастпӑр
+_	ту<v><tv><pass><neg><pres><p1><sg>	тӑвӑнмастӑп
+_	ту<v><tv><pass><neg><pres><p2><pl>	тӑвӑнмастӑр
+_	ту<v><tv><pass><neg><pres><p2><sg>	тӑвӑнмастӑн
+_	ту<v><tv><pass><neg><pres><p3><sg>	тӑвӑнмасть
+_	ту<v><tv><pass><neg><pres><p3><pl>	тӑвӑнмаҫҫӗ
+
+_	ту<v><tv><pass><fut><p1><pl>	тӑвӑнӑпӑр
+_	ту<v><tv><pass><fut><p1><sg>	тӑвӑнӑп
+_	ту<v><tv><pass><fut><p2><pl>	тӑвӑнӑр
+_	ту<v><tv><pass><fut><p2><sg>	тӑвӑнӑн
+_	ту<v><tv><pass><fut><p3><pl>	тӑвӑнӗҫ
+_	ту<v><tv><pass><fut><p3><sg>	тӑвӑнӗ
+
+_	ту<v><tv><pass><ger>	тӑвӑнма
+
+_	ту<v><tv><pass><gna_each>	тӑвӑнмассерен
+_	ту<v><tv><pass><gna_izza>	тӑвӑннӑранпа
+_	ту<v><tv><pass><gna_when>	тӑвӑннӑҫем
+_	ту<v><tv><pass><gna_when>	тӑвӑннӑҫемӗн
+_	ту<v><tv><pass><gna_impf>	тӑвӑнса
+_	ту<v><tv><pass><gna_cond>	тӑвӑнсан
+
+_	ту<v><tv><pass><ger_fut>	тӑвӑнас
+_	ту<v><tv><pass><ger_fut><px3sp><nom>	тӑвӑнасси
+
+

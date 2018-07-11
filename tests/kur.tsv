@@ -1,0 +1,79 @@
+_	кур<v><tv><imp><p2><sg>	кур
+
+_	кур<v><tv><pres><p1><pl>	куратпӑр
+_	кур<v><tv><pres><p1><sg>	куратӑп
+_	кур<v><tv><pres><p2><pl>	куратӑр
+_	кур<v><tv><pres><p2><sg>	куратӑн
+_	кур<v><tv><pres><p3><sg>	курать
+_	кур<v><tv><pres><p3><pl>	кураҫҫӗ
+>	кур<v><tv><pres><p2><sg>	куран
+
+_	кур<v><tv><past><p1><pl>	куртӑмӑр
+_	кур<v><tv><past><p1><sg>	куртӑм
+_	кур<v><tv><past><p2><pl>	куртӑр
+_	кур<v><tv><past><p2><sg>	куртӑн
+_	кур<v><tv><past><p3><pl>	курчӗҫ
+_	кур<v><tv><past><p3><sg>	курчӗ
+
+_	кур<v><tv><fut><p1><pl>	курӑпӑр
+_	кур<v><tv><fut><p1><sg>	курӑп
+_	кур<v><tv><fut><p2><pl>	курӑр
+_	кур<v><tv><fut><p2><sg>	курӑн
+_	кур<v><tv><fut><p3><pl>	курӗҫ
+_	кур<v><tv><fut><p3><sg>	курӗ
+
+_	кур<v><tv><neg><past><p1><pl>	курмарӑмӑр
+_	кур<v><tv><neg><past><p1><sg>	курмарӑм
+_	кур<v><tv><neg><past><p2><pl>	курмарӑр
+_	кур<v><tv><neg><past><p2><sg>	курмарӑн
+_	кур<v><tv><neg><past><p3><pl>	курмарӗҫ
+_	кур<v><tv><neg><past><p3><sg>	курмарӗ
+
+_	кур<v><tv><ger>	курма
+_	кур<v><tv><gna_each>	курмассерен
+_	кур<v><tv><gna_izza>	курнӑранпа
+_	кур<v><tv><gna_when>	курнӑҫем
+_	кур<v><tv><gna_when>	курнӑҫемӗн
+_	кур<v><tv><gna_impf>	курса
+_	кур<v><tv><gna_cond>	курсан
+
+_	кур<v><tv><ger_fut>	курас
+_	кур<v><tv><ger_fut><px3sp><nom>	курасси
+
+_	кур<v><tv><pass><imp><p2><sg>	курӑн
+
+_	кур<v><tv><pass><pres><p1><pl>	курӑнатпӑр
+_	кур<v><tv><pass><pres><p1><sg>	курӑнатӑп
+_	кур<v><tv><pass><pres><p2><pl>	курӑнатӑр
+_	кур<v><tv><pass><pres><p2><sg>	курӑнатӑн
+_	кур<v><tv><pass><pres><p3><sg>	курӑнать
+_	кур<v><tv><pass><pres><p3><pl>	курӑнаҫҫӗ
+>	кур<v><tv><pass><pres><p2><sg>	курӑнан
+
+_	кур<v><tv><pass><neg><pres><p1><pl>	курӑнмастпӑр
+_	кур<v><tv><pass><neg><pres><p1><sg>	курӑнмастӑп
+_	кур<v><tv><pass><neg><pres><p2><pl>	курӑнмастӑр
+_	кур<v><tv><pass><neg><pres><p2><sg>	курӑнмастӑн
+_	кур<v><tv><pass><neg><pres><p3><sg>	курӑнмасть
+_	кур<v><tv><pass><neg><pres><p3><pl>	курӑнмаҫҫӗ
+
+_	кур<v><tv><pass><fut><p1><pl>	курӑнӑпӑр
+_	кур<v><tv><pass><fut><p1><sg>	курӑнӑп
+_	кур<v><tv><pass><fut><p2><pl>	курӑнӑр
+_	кур<v><tv><pass><fut><p2><sg>	курӑнӑн
+_	кур<v><tv><pass><fut><p3><pl>	курӑнӗҫ
+_	кур<v><tv><pass><fut><p3><sg>	курӑнӗ
+
+_	кур<v><tv><pass><ger>	курӑнма
+
+_	кур<v><tv><pass><gna_each>	курӑнмассерен
+_	кур<v><tv><pass><gna_izza>	курӑннӑранпа
+_	кур<v><tv><pass><gna_when>	курӑннӑҫем
+_	кур<v><tv><pass><gna_when>	курӑннӑҫемӗн
+_	кур<v><tv><pass><gna_impf>	курӑнса
+_	кур<v><tv><pass><gna_cond>	курӑнсан
+
+_	кур<v><tv><pass><ger_fut>	курӑнас
+_	кур<v><tv><pass><ger_fut><px3sp><nom>	курӑнасси
+
+

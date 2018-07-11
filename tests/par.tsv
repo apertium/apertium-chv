@@ -1,0 +1,79 @@
+_	пар<v><tv><imp><p2><sg>	пар
+
+_	пар<v><tv><pres><p1><pl>	паратпӑр
+_	пар<v><tv><pres><p1><sg>	паратӑп
+_	пар<v><tv><pres><p2><pl>	паратӑр
+_	пар<v><tv><pres><p2><sg>	паратӑн
+_	пар<v><tv><pres><p3><sg>	парать
+_	пар<v><tv><pres><p3><pl>	параҫҫӗ
+>	пар<v><tv><pres><p2><sg>	паран
+
+_	пар<v><tv><past><p1><pl>	патӑмӑр
+_	пар<v><tv><past><p1><sg>	патӑм
+_	пар<v><tv><past><p2><pl>	патӑр
+_	пар<v><tv><past><p2><sg>	патӑн
+_	пар<v><tv><past><p3><pl>	пачӗҫ
+_	пар<v><tv><past><p3><sg>	пачӗ
+
+_	пар<v><tv><fut><p1><pl>	парӑпӑр
+_	пар<v><tv><fut><p1><sg>	парӑп
+_	пар<v><tv><fut><p2><pl>	парӑр
+_	пар<v><tv><fut><p2><sg>	парӑн
+_	пар<v><tv><fut><p3><pl>	парӗҫ
+_	пар<v><tv><fut><p3><sg>	парӗ
+
+_	пар<v><tv><neg><past><p1><pl>	памарӑмӑр
+_	пар<v><tv><neg><past><p1><sg>	памарӑм
+_	пар<v><tv><neg><past><p2><pl>	памарӑр
+_	пар<v><tv><neg><past><p2><sg>	памарӑн
+_	пар<v><tv><neg><past><p3><pl>	памарӗҫ
+_	пар<v><tv><neg><past><p3><sg>	памарӗ
+
+_	пар<v><tv><ger>	пама
+_	пар<v><tv><gna_each>	памассерен
+_	пар<v><tv><gna_izza>	панӑранпа
+_	пар<v><tv><gna_when>	панӑҫем
+_	пар<v><tv><gna_when>	панӑҫемӗн
+_	пар<v><tv><gna_impf>	парса
+_	пар<v><tv><gna_cond>	парсан
+
+_	пар<v><tv><ger_fut>	парас
+_	пар<v><tv><ger_fut><px3sp><nom>	парасси
+
+_	пар<v><tv><pass><imp><p2><sg>	парӑн
+
+_	пар<v><tv><pass><pres><p1><pl>	парӑнатпӑр
+_	пар<v><tv><pass><pres><p1><sg>	парӑнатӑп
+_	пар<v><tv><pass><pres><p2><pl>	парӑнатӑр
+_	пар<v><tv><pass><pres><p2><sg>	парӑнатӑн
+_	пар<v><tv><pass><pres><p3><sg>	парӑнать
+_	пар<v><tv><pass><pres><p3><pl>	парӑнаҫҫӗ
+>	пар<v><tv><pass><pres><p2><sg>	парӑнан
+
+_	пар<v><tv><pass><neg><pres><p1><pl>	парӑнмастпӑр
+_	пар<v><tv><pass><neg><pres><p1><sg>	парӑнмастӑп
+_	пар<v><tv><pass><neg><pres><p2><pl>	парӑнмастӑр
+_	пар<v><tv><pass><neg><pres><p2><sg>	парӑнмастӑн
+_	пар<v><tv><pass><neg><pres><p3><sg>	парӑнмасть
+_	пар<v><tv><pass><neg><pres><p3><pl>	парӑнмаҫҫӗ
+
+_	пар<v><tv><pass><fut><p1><pl>	парӑнӑпӑр
+_	пар<v><tv><pass><fut><p1><sg>	парӑнӑп
+_	пар<v><tv><pass><fut><p2><pl>	парӑнӑр
+_	пар<v><tv><pass><fut><p2><sg>	парӑнӑн
+_	пар<v><tv><pass><fut><p3><pl>	парӑнӗҫ
+_	пар<v><tv><pass><fut><p3><sg>	парӑнӗ
+
+_	пар<v><tv><pass><ger>	парӑнма
+
+_	пар<v><tv><pass><gna_each>	парӑнмассерен
+_	пар<v><tv><pass><gna_izza>	парӑннӑранпа
+_	пар<v><tv><pass><gna_when>	парӑннӑҫем
+_	пар<v><tv><pass><gna_when>	парӑннӑҫемӗн
+_	пар<v><tv><pass><gna_impf>	парӑнса
+_	пар<v><tv><pass><gna_cond>	парӑнсан
+
+_	пар<v><tv><pass><ger_fut>	парӑнас
+_	пар<v><tv><pass><ger_fut><px3sp><nom>	парӑнасси
+
+
