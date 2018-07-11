@@ -377,6 +377,10 @@ LEXICON ADV
 
 %<adv%>:	#;
 
+LEXICON ADV-ITG
+
+%<adv%>%<itg%>:	#;
+
 LEXICON ABBR
 
 %<abbr%>: # ;
@@ -1510,6 +1514,10 @@ LEXICON Adjectives
 
 LEXICON Adverbs
 
+ӑҫталла:ӑҫталла            ADV-ITG;!""
+ӑҫта:ӑҫта            ADV-ITG;!""
+ӑҫтан:ӑҫтан            ADV-ITG;!""
+
 авӑ:авӑ            ADV;!""
 авал:авал            ADV;!""
 авалтан:авалтан            ADV;!""
@@ -1527,9 +1535,6 @@ LEXICON Adverbs
 ӑравасӑр:ӑравасӑр            ADV;!""
 ӑрасна:ӑрасна            ADV;!""
 ассӑн:ассӑн            ADV;!""
-ӑҫта:ӑҫта            ADV;!""
-ӑҫталла:ӑҫталла            ADV;!""
-ӑҫтан:ӑҫтан            ADV;!""
 ахаль:ахаль            ADV;!""
 ахӑр:ахӑр            ADV;!""
 ахӑртнех:ахӑртнех            ADV;!""
