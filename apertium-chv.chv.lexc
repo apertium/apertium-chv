@@ -423,6 +423,15 @@ LEXICON V-TPRES
 %<neg%>%<pres%>:%>м%{A%}ст                 V-PERS-PRES-REG ;!""
 %<neg%>%<pres%>%<p3%>%<pl%>:%>м%{A%}ҫҫӗ    #;!""
 
+LEXICON V-PERS-DUR
+
+%<p1%>%<sg%>:тт%{Ă%}м                         #;!""
+%<p1%>%<pl%>:тт%{Ă%}м%{Ă%}р                   #;!""
+%<p2%>%<sg%>:тт%{Ă%}н                         #;!""
+%<p2%>%<pl%>:тт%{Ă%}р                         #;!""
+%<p3%>%<sg%>:тчӗ                         #;!""
+%<p3%>%<pl%>:тчӗҫ                             #;!""
+
 LEXICON V-TPAST
 
 %<past%>:%>%{T%}                     V-PERS-PAST ;!""
@@ -431,19 +440,8 @@ LEXICON V-TPAST
 %<past%>%<evid%>:%>н%{Ă%}                 #;!""
 %<neg%>%<past%>%<evid%>:%>м%{A%}н                 #;!""
 
-%<dur%>%<p1%>%<sg%>:%>%{A%}тт%{Ă%}м                         #;!""
-%<dur%>%<p1%>%<pl%>:%>%{A%}тт%{Ă%}м%{Ă%}р                   #;!""
-%<dur%>%<p2%>%<sg%>:%>%{A%}тт%{Ă%}н                         #;!""
-%<dur%>%<p2%>%<pl%>:%>%{A%}тт%{Ă%}р                         #;!""
-%<dur%>%<p3%>%<sg%>:%>%{A%}тчӗ                         #;!""
-%<dur%>%<p3%>%<pl%>:%>%{A%}тчӗҫ                             #;!""
-
-%<neg%>%<dur%>%<p1%>%<sg%>:%>м%{A%}ст%{Ă%}м                         #;!""
-%<neg%>%<dur%>%<p1%>%<pl%>:%>м%{A%}ст%{Ă%}м%{Ă%}р                   #;!""
-%<neg%>%<dur%>%<p2%>%<sg%>:%>м%{A%}ст%{Ă%}н                         #;!""
-%<neg%>%<dur%>%<p2%>%<pl%>:%>м%{A%}ст%{Ă%}р                         #;!""
-%<neg%>%<dur%>%<p3%>%<sg%>:%>м%{A%}стчӗ                         #;!""
-%<neg%>%<dur%>%<p3%>%<pl%>:%>м%{A%}стчӗҫ                             #;!""
+%<dur%>:%>%{A%}                         V-PERS-DUR;!""
+%<neg%>%<dur%>:%>м%{A%}с                         V-PERS-DUR;!""
 
 LEXICON V-PERS-FUT
 
@@ -522,16 +520,25 @@ LEXICON V-GER
 ! Рим республики  ненавидимый враг и Пуниских войн перед Карфагена последний значимы глава.    
 ! враг, которого ненавидит Римская республика
 
-LEXICON V-COMMON 
+LEXICON V-NONFIN
 
-   V-TPRES;
-   V-TPAST;
-   V-TFUTU;
    V-GPR;
    V-GNA;
    V-GER ;
 
 %<imp%>%<p2%>%<sg%>: # ;
+
+LEXICON V-FIN
+
+   V-TPRES;
+   V-TPAST;
+   V-TFUTU;
+
+LEXICON V-COMMON 
+
+%<neg%>:%>м%{A%} V-NONFIN ;
+V-NONFIN ; 
+V-FIN ; 
 
 LEXICON V-ABIL 
 
@@ -22857,13 +22864,17 @@ LEXICON Determiners
 ОКАТО:ОКАТО                        ABBR ; ! ""
 АО:АО                        ABBR ; ! ""
 
-мм:мм ABBR ;  ! "km"
-ҫм:ҫм ABBR ;  ! "km"
+мм:мм ABBR ;  ! ""
+мм²:мм² ABBR ;  ! ""
+мм²:мм2 ABBR ;  ! "" ! Dir/LR
+ҫм:ҫм ABBR ;  ! ""
+ҫм²:ҫм² ABBR ;  ! ""  
+ҫм²:ҫм2 ABBR ;  ! "" ! Dir/LR
 км:км ABBR ;  ! "km"
 км²:км² ABBR ;  ! "km²"
-км²:км2 ABBR ; ! "km²" Dir/LR
+км²:км2 ABBR ; ! "km²" ! Dir/LR
 км³:км³ ABBR ;  ! "km³"
-км³:км3 ABBR ;  ! "km³" Dir/LR
+км³:км3 ABBR ;  ! "km³" ! Dir/LR
 BAE:BAE ABBR ; !""
 BG:BG ABBR ; !""
 CEZ:CEZ ABBR ; !""
