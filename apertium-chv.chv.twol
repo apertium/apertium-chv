@@ -160,7 +160,7 @@ Rules
                                               ! [ %{и%}: | %{U%}: ] [ :Cns | :0 ]* _ ;
                                                %{и%}: [ :Cns | :0 ]* _ ;
                                                %{U%}: [ :Cns | :0 ]* %>: _ н ; ! genitive after px2sg takes front
-                                                                 Vow >: _ %{L%}: ;  ! pass
+                                                                 Vow >: _ [ %{L%}: | ҫ ] ;  ! pass
                                                       Vow [ :0 ]* %>: _ н ; ! genitive, deletes
 !@ м и н и с т е р с т в {а}:0 >:0 {Ă}:ӑ н
 
@@ -264,7 +264,7 @@ Vx:0 <=> :Vow [ :0 ]* %>: _  ;
 
 "Vowel deletion for {Ă} in genitive"
 %{Ă%}:0 <=> [ Vow | %{и%}: | %{U%}: ] [ :0 ]* %>: _ н ;
-                                           Vow >: _ %{L%}: ;  ! pass
+                                           Vow >: _ [ %{L%}: | ҫ ] ;  ! pass
 
 !@ р а д и о {в}:0 {☭}:0 >:0 {Ă}:0 н
 
