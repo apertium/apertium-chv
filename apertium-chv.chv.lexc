@@ -317,7 +317,7 @@ LEXICON N-ĔŞ
 %<n%>:                               SUBST ;
 %<n%>%<attr%>:                       # ;
 %<n%>%<px2sg%>%<dat%>:%>н%{A%}    K "weight: 1.0" ;
-%<n%>%<px3sp%>%<dat%>:%{ă%}%>н%{A%}    K;
+%<n%>%<px3sp%>%<dat%>:%{ă%}%>н%{A%}    K "weight: 1.0" ;
 
 LEXICON NP-ZOLOTNICKIJ
 
