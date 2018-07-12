@@ -589,7 +589,11 @@ Cx:ч <=> [ %{н%}:н | %{м%}:н ]  %>: _ ;
 
 "Palatalisation of stem final -/t/ in possessive"
 Cx:ч <=> \Cx _ (ь: ) [ :0 ]* %>: %{и%}:ӗ ;        ! doesn't apply when duplicated
+     except
+             _ (ь: ) [ :0 ]* %>: %{и%}:ӗ %{н%}:н %>: :ч ;  ! университетӗнче
      where Cx in ( т д ) ; 
+
+!@ у н и в е р с и т е т {ъ}:0 >:0 {и}:ӗ {н}:н >:0 {T}:ч {A}:е 
 
 "Realisation of plural {м}"
 %{м%}:м <=> _ .#. ;           ! Nominative
