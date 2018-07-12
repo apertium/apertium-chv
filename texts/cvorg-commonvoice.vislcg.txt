@@ -1,0 +1,526 @@
+# sent_id = cvorg-commonvoice.vislcg.txt: cvorg-commonvoice.vislcg.txt:1
+# text = Нумай пулмасть Mozilla браузера хатӗрлекенсем ҫӗнӗ хатӗре хута янӑ — унӑн ячӗ «Common Voice».
+# text[rus] =
+# labels = incomplete
+"<Нумай>"
+	"нумай" adj 
+"<пулмасть>"
+	"пул" v iv neg pres p3 sg @cop
+"<Mozilla>"
+	"Mozilla" np al nom @compound #3->4
+"<браузера>"
+	"браузер" n dat @obj #4->5
+"<хатӗрлекенсем>"
+	"хатӗрле" v tv gpr_pres subst pl nom @nsubj #5->9
+"<ҫӗнӗ>"
+	"ҫӗнӗ" adj @amod #6->7
+"<хатӗре>"
+	"хатӗр" n dat @obj #7->9
+"<хута>"
+	"хут" n dat @obl #8->9
+"<янӑ>"
+	"яр" v tv past evid @root #9->0
+"<—>"
+	"—" guio @punct #10->14
+"<унӑн>"
+	"вӑл" prn pers p3 sg gen @nmod:poss #11->12
+"<ячӗ>"
+	"ят" n px3sp nom @nsubj #12->14
+"<«>"
+	"«" lquot @punct #13->14
+"<Common>"
+	"Common" np al @parataxis #14->9
+"<Voice>"
+	"Voice" np al @foreign #15->14
+"<»>"
+	"»" rquot @punct #16->14
+"<.>"
+	"." sent @punct #17->9
+
+# sent_id = cvorg-commonvoice.vislcg.txt:2
+# text = Тӗллевӗ ҫав тери пархатарлӑ — тӗрлӗ халӑхсен сассисене пухса вӑл базӑпа усӑ курса тӗрле программӑсене сасӑлама май туса парасси.
+# text[rus] =
+# labels = incomplete
+"<Тӗллевӗ>"
+	"тӗллев" n px3sp nom @nsubj #1->4
+"<ҫав>"
+	"ҫавӑ" prn dem nom @obl #2->4
+"<тери>"
+	"тери" post @case #3->2
+"<пархатарлӑ>"
+	"пархатарлӑ" adj @root #4->0
+"<—>"
+	"—" guio @punct #5->
+"<тӗрлӗ>"
+	"тӗрлӗ" adj @amod #6->7
+"<халӑхсен>"
+	"халӑх" n pl gen @nmod:poss #7->8
+"<сассисене>"
+	"сасӑ" n px3sp pl dat @obj #8->9
+"<пухса>"
+	"пух" v tv gna_impf @advcl #9->
+"<вӑл>"
+	"вӑл" prn pers p3 sg nom @nsubj #10->
+"<базӑпа>"
+	"база" n ins
+"<усӑ>"
+	"усӑ" n nom
+;	"усӑ" n attr REMOVE:36
+"<курса>"
+	"кур" v tv gna_impf
+	"кур" v iv gna_impf
+	"курс" n dat
+"<тӗрлӗ>"
+	"тӗрлӗ" adj @amod
+"<программӑсене>"
+	"программа" n pl dat @obj
+"<сасӑлама>"
+	"сасӑла" v tv ger
+"<май>"
+	"май" n nom
+;	"май" n attr REMOVE:36
+"<туса>"
+	"ту" v tv gna_impf
+	"ту" v iv gna_impf
+	"тус" n dat
+"<парасси>"
+	"пар" v tv ger_fut px3sp nom
+	"пар" v iv ger_fut px3sp nom
+;	"пар" v tv gpr_fut subst px3sp nom REMOVE:36
+;	"пар" v iv gpr_fut subst px3sp nom REMOVE:36
+"<.>"
+	"." sent
+
+# sent_id = cvorg-commonvoice.vislcg.txt:3
+# text = Пухӑннӑ сасӑсемпе кашни программҫӑ усӑ курма пултарӗ.
+# text[rus] =
+# labels = incomplete
+"<Пухӑннӑ>"
+	"пухӑн" v iv gpr_past @acl #1->2
+"<сасӑсемпе>"
+	"сасӑ" n pl ins @obl #2->
+"<кашни>"
+	"кашни" det ind @det
+"<программҫӑ>"
+	"*программҫӑ"
+"<усӑ>"
+	"усӑ" n nom @obj #5->6
+"<курма>"
+	"кур" v tv ger @ccomp #6->7
+"<пултарӗ>"
+	"пултар" v tv fut p3 sg @root #7->0
+"<.>"
+	"." sent @punct #8->7
+
+# sent_id = cvorg-commonvoice.vislcg.txt:4
+# text = Ытти чӗлхесемпе пӗрлех ку хатӗрте чӑваш чӗлхи валли те вырӑн
+# text[rus] =
+# labels =
+"<Ытти>"
+	"ытти" adj @amod #1->2
+"<чӗлхесемпе>"
+	"чӗлхе" n pl ins @obl #2->11
+"<пӗрлех>"
+	"пӗрлех" post @case #3->2
+"<ку>"
+	"ку" det dem @det #4->5
+"<хатӗрте>"
+	"хатӗр" n loc @obl #5->11
+"<чӑваш>"
+	"чӑваш" n nom @compound:poss #6->7
+"<чӗлхи>"
+	"чӗлхе" n px3sp nom @obl #7->11
+"<валли>"
+	"валли" post @case #8->7
+"<те>"
+	"те" adv @advmod #9->11
+"<вырӑн>"
+	"вырӑн" n nom @dep #10->11
+"<тупӑннӑ>"
+	"тупӑн" v tv past evid @root #11->0
+"<.>"
+	"." sent @punct #12->11
+
+# sent_id = cvorg-commonvoice.vislcg.txt:5
+# text = 
+# text[rus] =
+# labels = incomplete
+"<«>"
+	"«" lquot
+"<Хавал>"
+	"хавал" n attr 
+"<»>"
+	"»" rquot
+"<ушкӑн>"
+	"ушкӑн" n nom
+"<асӑрханӑ>"
+	"асӑрха" v tv gpr_past
+	"асӑрха" v iv gpr_past
+	"асӑрха" v tv past evid
+	"асӑрха" v iv past evid
+;	"асӑрха" v tv gpr_past subst nom REMOVE:36
+;	"асӑрха" v iv gpr_past subst nom REMOVE:36
+;	"асӑрха" v tv gpr_past subst px2sg nom REMOVE:36
+;	"асӑрха" v iv gpr_past subst px2sg nom REMOVE:36
+"<тӑрӑх>"
+	"тӑрӑх" post
+	"тӑрӑх" adv
+	"тӑрӑх" n nom
+;	"тӑрӑх" n attr REMOVE:36
+"<Раҫҫейри>"
+	"Раҫҫей" np top loc attr @amod
+"<чӗлхесене>"
+	"чӗлхе" n pl dat
+"<илес>"
+	"ил" v tv gpr_fut
+	"ил" v tv ger_fut
+	"ил" v iv gpr_fut
+	"ил" v iv ger_fut
+;	"ил" v tv gpr_fut subst nom REMOVE:36
+;	"ил" v iv gpr_fut subst nom REMOVE:36
+"<пулсан>"
+	"пул" v iv gna_cond
+"<виҫӗ>"
+	"виҫӗ" num
+"<чӗлхе>"
+	"чӗлхе" n nom
+"<ҫеҫ>"
+	"ҫеҫ" adv
+"<хальлӗхе>"
+	"хальлӗхе" adv
+"<кӗме>"
+	"кӗр" v iv ger
+	"кӗр" v iv neg imp p2 sg
+"<пултарнӑ>"
+	"пултар" v tv gpr_past
+	"пултар" v tv past evid
+;	"пултар" v tv gpr_past subst nom REMOVE:36
+;	"пултар" v tv gpr_past subst px2sg nom REMOVE:36
+"<—>"
+	"—" guio
+"<чӑваш>"
+	"чӑваш" n nom @conj
+"<,>"
+	"," cm @punct
+"<вырӑс>"
+	"вырӑс" n nom  @conj
+"<тата>"
+	"тата" cnjcoo @cc
+"<тутар>"
+	"тутар" n nom @nmod:poss
+"<чӗлхисем>"
+	"чӗлхе" n px3sp pl nom @parataxis
+"<.>"
+	"." sent @punct
+
+# sent_id = cvorg-commonvoice.vislcg.txt:6
+# text = Common Voice туллин ӗҫлесе кайтӑр тесен пухмачра пин ытла ҫырса пин илнӗ сасӑ кирлӗ — пӗчӗккисен те, аслисен те, ваттисен те.
+# text[rus] =
+# labels = incomplete
+"<Common>"
+	"Common" np al @nsubj
+"<Voice>"
+	"Voice" np al @foreign
+"<туллин>"
+	"тулӑ" adv @advmod
+"<ӗҫлесе>"
+	"ӗҫле" v tv gna_impf
+"<кайтӑр>"
+	"*кайтӑр"
+"<тесен>"
+	"те" v tv gna_cond
+	"те" v iv gna_cond
+"<пухмачра>"
+	"пухмач" n loc @obl
+"<пин>"
+	"пин" num 
+"<ытла>"
+	"ытла" adj
+	"ытла" adv
+"<ҫырса>"
+	"ҫыр" v tv gna_impf
+"<илнӗ>"
+	"ил" v tv gpr_past
+	"ил" v iv gpr_past
+"<сасӑ>"
+	"сасӑ" n nom @nsubj
+"<кирлӗ>"
+	"кирлӗ" adj @root
+"<—>"
+	"—" guio @punct
+"<пӗчӗккисен>"
+	"пӗчӗккӗ" adj subst px3sp pl gen @parataxis
+"<те>"
+	"те" cnjcoo @cc
+"<,>"
+	"," cm @punct
+"<аслисен>"
+	"аслӑ" adj subst px3sp pl gen @conj
+"<те>"
+	"те" cnjcoo @cc
+"<,>"
+	"," cm @punct
+"<ваттисен>"
+	"ватӑ" n px3sp pl gen @conj
+"<те>"
+	"те" cnjcoo @cc
+"<.>"
+	"." sent @punct
+
+# sent_id = cvorg-commonvoice.vislcg.txt:7
+# text = 
+# text[rus] =
+# labels = incomplete
+"<Литература>"
+	"литература" n nom @nmod:poss #1->2
+"<чӗлхипе>"
+	"чӗлхе" n px3sp ins @obl #2->3
+"<калаҫакансен>"
+	"калаҫ" v tv gpr_pres subst pl gen @acl #3->4
+"<сассисем>"
+	"сасӑ" n px3sp pl nom @nsubj #4->6
+"<те>"
+	"те" adv @advmod #5->6
+"<кирлӗ>"
+	"кирлӗ" adj @root #6->0
+"<,>"
+	"," cm @punct
+"<вырӑнти>"
+	"вырӑн" n loc attr SELECT:58
+;	"вырӑн" n loc subst nom SELECT:58
+"<калаҫуллисен>"
+	"*калаҫуллисен"
+"<те>"
+	"те" cnjcoo
+	"те" adv
+	"те" v tv imp p2 sg
+	"те" v iv imp p2 sg
+"<—>"
+	"—" guio
+"<турисен>"
+	"тура" n px3sp pl gen
+;	"турӑ" adj subst px3sp pl gen REMOVE:36
+;	"ту" n loc subst pl gen REMOVE:36
+;	"ту" adj subst loc subst pl gen REMOVE:36
+"<,>"
+	"," cm
+"<анат>"
+	"анат" adj
+"<енчисемпе>"
+	"ен" n loc subst pl ins
+"<анатрисен>"
+	"анат" n loc subst pl gen
+	"анатри" adj subst pl gen
+"<.>"
+	"." sent
+
+# sent_id = cvorg-commonvoice.vislcg.txt:8
+# text = 
+# text[rus] =
+# labels = incomplete
+"<Ку>"
+	"ку" det dem @det
+"<проекта>"
+	"проект" n dat
+"<пурнӑҫ>"
+	"пурнӑҫ" n nom
+"<пама>"
+	"пар" v tv ger
+"<кашни>"
+	"кашни" post
+"<ҫын>"
+	"ҫын" n nom
+"<хутшанайрать>"
+	"*хутшанайрать" v iv abil ??? p3 sg
+"<.>"
+	"." sent
+
+# sent_id = cvorg-commonvoice.vislcg.txt:9
+# text = Ҫав шутра — эсир те.
+# text[rus] =
+# labels = incomplete
+"<Ҫав>"
+	"ҫавӑ" det dem @det
+"<шутра>"
+	"шут" n loc 
+"<—>"
+	"—" guio @punct
+"<эсир>"
+	"эсир" prn pers p2 pl nom
+"<те>"
+	"те" adv @advmod
+"<.>"
+	"." sent @punct
+
+# sent_id = cvorg-commonvoice.vislcg.txt:10
+# text = Ятарлӑ каҫӑпа куҫмалла та проект сӗнекен пуплевӗшсене (предложенисене) микрофонпа усӑ курса сасӑламалла.
+# text[rus] =
+# labels = incomplete
+"<Ятарлӑ>"
+	"ятарлӑ" adj @amod #1->2
+"<каҫӑпа>"
+	"каҫӑ" n ins @obl #2->
+"<куҫмалла>"
+	"куҫ" v tv ger_nec
+"<та>"
+	"та" cnjcoo
+"<проект>"
+	"проект" n nom
+"<сӗнекен>"
+	"сӗн" v tv gpr_pres
+	"сӗн" v iv gpr_pres
+"<пуплевӗшсене>"
+	"пуплевӗш" n pl dat @obj
+"<(>"
+	"(" lpar @punct #8->9
+"<предложенисене>"
+	"предложени" n pl dat @appos #9->
+"<)>"
+	")" rpar @punct #10->9
+"<микрофонпа>"
+	"микрофон" n ins @obl #11->13
+"<усӑ>"
+	"усӑ" n nom @obj #12->13
+"<курса>"
+	"кур" v tv gna_impf @advcl #13->14
+"<сасӑламалла>"
+	"сасӑла" v tv ger_nec @root #14->0
+"<.>"
+	"." sent @punct #15->14
+
+# sent_id = cvorg-commonvoice.vislcg.txt:11
+# text = Ку пӗрре те йывӑр ӗҫ мар.
+# text[rus] =
+# labels = incomplete
+"<Ку>"
+	"ку" det dem
+"<пӗрре>"
+	"пӗрре" num
+"<те>"
+	"те" cnjcoo
+	"те" adv
+"<йывӑр>"
+	"йывӑр" adj
+"<ӗҫ>"
+	"ӗҫ" n nom
+"<мар>"
+	"мар" adj @root
+"<.>"
+	"." sent
+
+# sent_id = cvorg-commonvoice.vislcg.txt:12
+# text = Кашни пӗр вунӑ пуплевӗш сасӑласан ҫак сасӑ пуххи самай пуянланса юлӗ.
+# text[rus] =
+# labels =
+"<Кашни>"
+	"кашни" det ind @fixed #1->2
+"<пӗр>"
+	"пӗр" num @det #2->3
+"<вунӑ>"
+	"вунӑ" num @nummod #3->4
+"<пуплевӗш>"
+	"пуплевӗш" n nom @obj #4->5
+"<сасӑласан>"
+	"сасӑла" v tv gna_cond @advcl #5->10
+"<ҫак>"
+	"ҫак" det dem @det #6->8
+"<сасӑ>"
+	"сасӑ" n nom @nmod:poss #7->8
+"<пуххи>"
+	"пухӑ" n px3sp nom @dep #8->10
+"<самай>" 
+	"самай" adv @advmod #9->10
+"<пуянланса>"
+	"пуянлан" v tv gna_impf @advcl #10->11
+"<юлӗ>"
+	"юл" v iv fut p3 sg @root #11->0
+"<.>"
+	"." sent @punct #12->11
+
+# sent_id = cvorg-commonvoice.vislcg.txt:13
+# text = 
+# text[rus] =
+# labels = incomplete
+"<Ку>"
+	"ку" det dem @det
+"<проектпа>"
+	"проект" n ins @obl
+"<тӗплӗнрех>"
+	"*тӗплӗнрех"
+"<«>"
+	"«" lquot @punct
+"<Хавал>"
+	"Хавал" np al nom 
+"<»>"
+	"»" rquot @punct
+"<уйлӑхра>"
+	"уйлӑх" n loc @obl
+"<паллаштарӗҫ>"
+	"паллаштар" v tv fut p3 pl @root
+"<.>"
+	"." sent @punct
+
+# sent_id = cvorg-commonvoice.vislcg.txt:14
+# text = Вӑл яланхи пек кӑҫал та «Сурские зорит» (чӑв. Сӑр шурӑмпуҫӗ) кану базинче иртӗ.
+# text[rus] =
+# labels = incomplete
+"<Вӑл>"
+	"вӑл" prn pers p3 sg nom @nsubj #1->
+"<яланхи>"
+	"яланхи" adj
+;	"яланхи" adj subst nom REMOVE:36
+"<пек>"
+	"пек" post
+"<кӑҫал>"
+	"кӑҫал" adv
+"<та>"
+	"та" cnjcoo
+	"та" adv
+"<«>"
+	"«" lquot @punct #6->7
+"<Сурские>"
+	"Сурские" np al
+"<зорит>"
+	"зорит" np al @foreign #8->7
+"<»>"
+	"»" rquot @punct #9->7
+"<(>"
+	"(" lpar @punct #10->13
+"<чӑв.>"
+	"чӑв." abbr 
+"<Сӑр>"
+	"Сӑр" np top nom @compound:poss #12->13
+"<шурӑмпуҫӗ>"
+	"шурӑмпуҫ" n px3sp nom @appos #13->
+"<)>"
+	")" rpar @punct #14->13
+"<кану>"
+	"кану" n nom @compound:poss #15->16
+"<базинче>"
+	"база" n px3sp loc @obl #16->17
+"<иртӗ>"
+	"ирт" v tv fut p3 sg @root #17->0
+"<.>"
+	"." sent @punct #18->17
+
+# sent_id = cvorg-commonvoice.vislcg.txt:15
+# text = Утӑ уйӑхӗн 8-мӗшӗнче пуҫланӗ те 15-мӗшӗнче вӗҫленӗ.
+# text[rus] = 
+# labels = 
+"<Утӑ>"
+	"утӑ" n nom @compound:poss #1->2
+"<уйӑхӗн>"
+	"уйӑх" n px3sp gen @nmod:poss #2->3
+"<8-мӗшӗнче>"
+	"8" num ord subst px3sp loc @obl #3->4
+"<пуҫланӗ>"
+	"пуҫла" v tv pass fut p3 sg @conj #4->7
+"<те>"
+	"те" cnjcoo @cc #5->7
+"<15-мӗшӗнче>"
+	"15" num ord subst px3sp loc @obl #6->7
+"<вӗҫленӗ>"
+	"вӗҫленӗ" v tv past evid @root #7->0
+"<.>"
+	"." sent @punct #8->7
+
