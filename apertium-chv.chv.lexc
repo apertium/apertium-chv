@@ -201,6 +201,7 @@ LEXICON CASE-NONOM
 %<ins%>:%>п%{A%}                     K ;
 %<ter%>:%>ш%{Ă%}н                    K ; 
 %+сӑр%<post%>:%>с%{Ă%}р                    K ;
+%+ччен%<post%>:%>ччен                    K ;    ! FIXME: Check
 
 LEXICON CASE 
 
