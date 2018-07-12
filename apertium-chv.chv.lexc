@@ -34,7 +34,7 @@ Multichar_Symbols
 %<ind%>                              !Неопределенные
 %<ref%>                              !Неопределенные*
 
-%<attr%>
+%<comp%>                             !
  
 %<abbr%>                             !Аббревиатура
 
@@ -440,8 +440,15 @@ LEXICON A1
 LEXICON A2
 
 %<adj%>:	CLIT-COP ;
-%<adj%>%<subst%>:	SUBST-SKER ;
+%<adj%>:	SUBST-SKER ;
 %<adj%>%<advl%>:	K; ! Dir/RL
+
+%<adj%>%<comp%>:%>р%{A%}х # ; 
+%<adj%>%<comp%>:%>т%{A%}р%{A%}х # "weight: 1.0" ; 
+
+! Stems ending in -V or -C (but not -р, -л, -н) have -рAх
+! Stems ending in -р have -тAрAх
+! Stems ending in -л, -н have -рAх and -тAрAх
 
 LEXICON ADV
 
