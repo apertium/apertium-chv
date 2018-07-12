@@ -339,13 +339,13 @@ Vx:Vy <=> _ %>: [ %{N%}: | %{T%}: | р | п | ш ] ; ! dat,loc,abl,ins,ter
 
 "Consonant shortening before suffix"
 Cx:0 <=> Cx _ [ :0 ]* %>: [ %{N%}: | %{T%}: | р | п | ш ] ; ! dat, loc, abl, ins, ter, dat
-         Cx _ %>: %{и%}:  ; ! Possessive
-         Cx _ %>: с ; ! Plural
-         Cx _ %>: %{Ă%}: н ; ! genitive
-         Cx _ %>: %{ă%}:  ; ! possessive
-         Cx _ %>: %{Ĕ%}:  ; ! possessive
-         Cx _ %>: %{U%}:  ; ! possessive
-         Cx _ %>: н %{A%}:  ; ! optional dative
+         Cx _ ([ %{ь%}: | %{ъ%}: ]) %>: %{и%}:  ; ! Possessive
+         Cx _ ([ %{ь%}: | %{ъ%}: ]) %>: с ; ! Plural
+         Cx _ ([ %{ь%}: | %{ъ%}: ]) %>: %{Ă%}: н ; ! genitive
+         Cx _ ([ %{ь%}: | %{ъ%}: ]) %>: %{ă%}:  ; ! possessive
+         Cx _ ([ %{ь%}: | %{ъ%}: ]) %>: %{Ĕ%}:  ; ! possessive
+         Cx _ ([ %{ь%}: | %{ъ%}: ]) %>: %{U%}:  ; ! possessive
+         Cx _ ([ %{ь%}: | %{ъ%}: ]) %>: н %{A%}:  ; ! optional dative
       except
              .#. а ш _ %>: ;  ! Irregular form of атте
 !                 Cx  _ (ь: ) [ :0 ]* %>: %{и%}: ; ! palatalisation
@@ -360,6 +360,8 @@ Cx:0 <=> Cx _ [ :0 ]* %>: [ %{N%}: | %{T%}: | р | п | ш ] ; ! dat, loc, abl, 
 !@ м е т а л л:0 >:0 {и}:ӗ {н}:0 >:0 ш {Ă}:ӗ н
 
 !@ м е т а л л:0 >:0 {N}:0 {A}:а
+
+!@ к о н г р е с с:0 {ъ}:0 >:0 {Ă}:ӗ н
 
 "Loanwords do not take {в} before some suffixes"
 %{в%}:0 <=> _ %{☭%}: %>: [ %{N%}: | %{T%}: | р | с | ш | п ] ; 
