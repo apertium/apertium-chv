@@ -517,10 +517,13 @@ Vx:ӑ <=> %{й%}: _ (%{в%}: ) %>: %{N%}: %{A%}: ;  ! dative
 "Possessive {и} appears after deleted stem vowels"
 %{и%}:и <=> [ UnderBack: | UnderFront: | Vow:0 | %{A%}:0 ] %>: _ ; 
                                                     %{ː%}: %>: _ ;
+                                            %{A%}:0 %>: %{х%}: _ ;
 
 !@ й ӗ п {ː}:п >:0 {и}:и {н}:н >:0 {N}:0 {A}:е
 
 !@ в у л а >:0 н {A}:0 >:0 {и}:и {н}:н >:0 {N}:0 {A}:е
+
+!@ Т у т а р с т а н >:0 р {A}:0 >:0 {х}:0 {и}:и
 
 "Possessive deletes full stem vowels"
 Vx:0 <=> _ %>: %{и%}: ; 
