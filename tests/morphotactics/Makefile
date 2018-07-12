@@ -4,7 +4,7 @@
 
 LANGUAGE=chv
 
-all: N.txt.gz
+all: N.txt.gz N-ESH.txt.gz
 .deps/.d:
 	test -d .deps || mkdir .deps
 	touch $@
@@ -38,4 +38,4 @@ all: N.txt.gz
 	hfst-compose-intersect -1 .deps/$(LANGUAGE).automorf.hfst -2 $< -o $@
 
 %.txt.gz: .deps/%.hfst
-	hfst-fst2strings -c 1 $< | gzip -c > $@
+	hfst-fst2strings -c 0 $< | gzip -c > $@
