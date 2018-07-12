@@ -547,19 +547,19 @@ LEXICON V-TFUTU
 
 LEXICON V-GPR
 
-%<gpr_past%>:%>н%{Ă%}                  CLIT-COP ;!""
-%<gpr_past%>:%>н%{Ă%}                  SUBST-SKER ;!""
-%<neg%>%<gpr_past%>:%>м%{A%}н                 CLIT-COP;!""
-%<neg%>%<gpr_past%>:%>м%{A%}н                 SUBST;!""
-%<gpr_pres%>:%>%{A%}к%{A%}н            CLIT-COP; !""
-%<gpr_pres%>:%>%{A%}к%{A%}н            SUBST-SKER ;!""
+%<gpr_pres%>:%>%{A%}к%{A%}н           CLIT-COP; !""
+%<gpr_pres%>:%>%{A%}к%{A%}н           SUBST-SKER ;!""
+%<neg%>%<gpr_pres%>:%>м%{A%}н         CLIT-COP;!""
+%<neg%>%<gpr_pres%>:%>м%{A%}н         SUBST;!""
+%<gpr_past%>:%>н%{Ă%}                 CLIT-COP ;!""
+%<gpr_past%>:%>н%{Ă%}                 SUBST-SKER ;!""
+%<neg%>%<gpr_past%>:%>м%{A%}н         CLIT-COP;!""
+%<neg%>%<gpr_past%>:%>м%{A%}н         SUBST;!""
 %<gpr_fut%>:%>%{A%}с                  #;!""
-%<gpr_fut%>:%>%{A%}с%{ː%}                  SUBST-SKER ;!""
-%<neg%>%<gpr_fut%>:%>м%{A%}с                  #;!""
+%<gpr_fut%>:%>%{A%}с%{ː%}             SUBST-SKER ;!""
+%<neg%>%<gpr_fut%>:%>м%{A%}с          #;!""
 %<neg%>%<gpr_fut%>:%>м%{A%}с%{ː%}     SUBST-SKER;!"" 
-%<neg%>%<gpr_fut%>:%>%{A%}с% ҫук                  #;!""
-
-!%<part%>%<fut%>:%>% мар                   #;!""
+%<neg%>%<gpr_fut%>:%>%{A%}с% ҫук      #;!""
 
 LEXICON V-GNA
 
@@ -621,7 +621,6 @@ LEXICON V-OPT
 
 LEXICON V-NONFIN
 
-   V-GPR;
    V-GNA;
    V-GER ;
 
@@ -634,6 +633,7 @@ LEXICON V-FIN
    V-TPAST;
    V-TFUTU;
    V-OPT;
+   V-GPR;        ! Has it's own negative forms
 
 LEXICON V-COMMON 
 
@@ -715,8 +715,8 @@ LEXICON Postposition
 ҫитменнине:ҫитменнине                               POST;!"":                               POST;!""
 ҫитиччен:ҫитиччен                         POST ; ! ""
 таран:таран                               POST;!""
+
 пекех:пекех                               POST; ! "как"
-ччен:ччен                                 POST; ! "до"
 
 LEXICON Conjunction
 
@@ -2555,8 +2555,6 @@ LEXICON Adjectives
 нейтронлӑ:нейтронлӑ A1 ; ! ""
 историллӗ:историллӗ A1 ; ! ""
 муниципаллӑ:муниципаллӑ A1 ; ! ""
-
-континент:континент A1 ; ! ""
 
 LEXICON Adverbs
 
@@ -5298,6 +5296,7 @@ LEXICON Nouns
 академизм:академизм N-ĔŞ ; ! ""
 академик:академик%{ъ%}  N ; ! ""
 акаци:акаци%{й%}  N-INFORMACI ; ! ""
+кириллизаци:кириллизаци%{й%} N-INFORMACI ; ! ""
 аквариум:аквариум N-ĔŞ ; ! ""
 аккумулятор:аккумулятор N-ĔŞ ; ! ""
 акр:акр N-ĔŞ ; ! ""
@@ -7657,7 +7656,6 @@ LEXICON Nouns
 турпатти:турпатти N; ! "в турпатти кунӗ"
 турпат:турпат N-ĔŞ; ! "в турпатти кунӗ; то же, что кӳлепе"
 турман:турман N-ĔŞ; ! "слово с неизвестным значением"
-турат:турат N-ĔŞ; ! "понудительная форма тура II"
 турат:турат N-ĔŞ; ! "ветка\ветвь"
 турантӑ:турантӑ N; ! "дуранда, жмыхи"
 тупӑшлӑх:тупӑшлӑх N-ĔŞ; ! "прибыльность, выгодность, доходность"
