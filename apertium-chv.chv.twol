@@ -106,7 +106,7 @@ Rules
 !@ в ӑ й {ː}:й ӑ:0 >:0 {N}:0 {A}:а
 
 "Back vowel harmony for yotised {A}"
-%{A%}:я <=> [ UnderBack: | BackVow ] [ :Cns | :0 ]* й:0 %>: [ :Cns | :0 ]*  _ ; 
+%{A%}:я <=> [ UnderBack: | BackVow | :BackVow ] [ :Cns | :0 ]* й:0 %>: [ :Cns | :0 ]*  _ ; 
         except 
                                                           _ %>: %{и%}: %{н%}: [ %>: %{N%}: %{A%}: | %>: :Cns | .#. ] ; ! ger
                                                            [ %{T%}: | р ] _ %>: %{х%}:0 ; ! loc.attr
@@ -115,8 +115,10 @@ Rules
 
 !@ к а й:0 >:0 {A}:я т:т {ԁ}:ь
 
+!@ х у т ш ӑ н >:0 {A}:а й:0 >:0 {A}:я т {ԁ}:ь
+
 "Back vowel harmony for unyotised {A}"
-%{A%}:а <=> [ UnderBack: | BackVow ] [ :Cns | :0 ]* %>: [ :Cns | :0 ]*  _ ; 
+%{A%}:а <=> [ UnderBack: | BackVow | :BackVow ] [ :Cns | :0 ]* %>: [ :Cns | :0 ]*  _ ; 
                         [ ArchiBack: | UnderBack: ] %>: [ :Cns | :0 ]*  _ ; 
                              :BackVow [ :Cns | :0 ]* %>: [ :Cns | :0 ]* _ ;
                                                :BackVow [ :Cns | :0 ]*  _ ;
@@ -425,7 +427,7 @@ Vx:Vy <=> _ %{в%}:в %>: [ %{и%}: %{н%}: | %{N%}: %{A%}: | н %{A%}: ] ;
 !@ к ӗ с ь:й е:0 >:0 {и}:и {н}:н >:0 {N}:0 {A}:е
 
 "No yots before yotised vowels and string final"
-%{й%}:0 <=> Vow _ %>: [ :Cns | :0 ]* :YotisedVow ;  
+%{й%}:0 <=> :Vow _ %>: [ :Cns | :0 ]* :YotisedVow ;  
               н _ ( :0) %>: %{и%}: ; 
           Cns ь _ :YotisedVow ;
                 _ :YotisedVow (%{в%}: ) %>: ; 
