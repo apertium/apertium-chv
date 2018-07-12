@@ -17,6 +17,7 @@ Alphabet
  %{в%}:в %{в%}:0
  %{р%}:р %{р%}:0
  %{ч%}:ч %{ч%}:0
+ %{ӗ%}:ӗ
  %{х%}:0 
  %{ъ%}:0 
  %{ь%}:0
@@ -123,9 +124,10 @@ Rules
           [ UnderFront: | FrontVow ] [ :Cns | [ :0 - ArchiBack: - UnderBack: ] ]* %>: [ :Cns | :0 ]*  _ ; 
                                    [ д | н | л ] ь: %>: [ :Cns | :0 ]*  _ ;
                                                 й:0 %>: [ :Cns | :0 ]*  _ ; 
-                                              %{и%}: [ :Cns | :0 ]* _ ;
-                                                          _ %>: %{и%}: %{н%}: [ %>: %{N%}: %{A%}: | %>: :Cns | .#. ] ; ! ger
-                                                           %{T%}: _ %>: %{х%}:0 ; ! loc.attr
+                                                  %{и%}: [ :Cns | :0 ]* _ ;
+                                                                        _ %>: %{и%}: %{н%}: [ %>: %{N%}: %{A%}: | %>: :Cns | .#. ] ; ! ger
+                                                                 %{T%}: _ %>: %{х%}:0 ; ! loc.attr
+                                         ArchiFront: %>: [ :Cns | :0 ]* _ ; 
 
 !@ б а р о к к {о}:ӑ >:0 {N}:н {A}:а
 
@@ -303,8 +305,9 @@ Vx:0 <=> _ %>: %{N%}: %{A%}:  ; ! dative
 
 !@ п у л {ː}:л ӑ:0 >:0 {ă}:ӑ м
 
-"Stem vowel deletion by verb suffixes beginning with {A}"
+"Stem vowel deletion by verb suffixes beginning with {A} or {ӗ}"
 Vx:0 <=> _ %>: [ %{A%}: :с | %{A%}: к %{A%}: н | %{A%}: т | %{A%}: ҫ | %{A%}: й ]  ; 
+         _ %>: %{ӗ%}: ; 
      where 
            Vx in ( е а ) ; 
 
