@@ -1,11 +1,11 @@
 # sent_id = cvorg-commonvoice.vislcg.txt: cvorg-commonvoice.vislcg.txt:1
 # text = Нумай пулмасть Mozilla браузера хатӗрлекенсем ҫӗнӗ хатӗре хута янӑ — унӑн ячӗ «Common Voice».
-# text[rus] =
-# labels = incomplete
+# text[rus] = Недавно разработчики браузера Mozilla выпустили новый инструмент, именуемый как "Common Voice".
+# labels =
 "<Нумай>"
-	"нумай" adj 
+	"нумай" adj @parataxis #1->9
 "<пулмасть>"
-	"пул" v iv neg pres p3 sg @cop
+	"пул" v iv neg pres p3 sg @cop #2->1
 "<Mozilla>"
 	"Mozilla" np al nom @compound #3->4
 "<браузера>"
@@ -39,7 +39,7 @@
 
 # sent_id = cvorg-commonvoice.vislcg.txt:2
 # text = Тӗллевӗ ҫав тери пархатарлӑ — тӗрлӗ халӑхсен сассисене пухса вӑл базӑпа усӑ курса тӗрле программӑсене сасӑлама май туса парасси.
-# text[rus] =
+# text[rus] = Цель до того благотворная — собрать базу голосов разных народов и дать в пользование программистам для озвучки программ.
 # labels = incomplete
 "<Тӗллевӗ>"
 	"тӗллев" n px3sp nom @nsubj #1->4
@@ -65,7 +65,6 @@
 	"база" n ins
 "<усӑ>"
 	"усӑ" n nom
-;	"усӑ" n attr REMOVE:36
 "<курса>"
 	"кур" v tv gna_impf
 	"кур" v iv gna_impf
@@ -93,16 +92,16 @@
 
 # sent_id = cvorg-commonvoice.vislcg.txt:3
 # text = Пухӑннӑ сасӑсемпе кашни программҫӑ усӑ курма пултарӗ.
-# text[rus] =
-# labels = incomplete
+# text[rus] = Собранными голосами сможет свободно воспользоваться любой программист.
+# labels = 
 "<Пухӑннӑ>"
-	"пухӑн" v iv gpr_past @acl #1->2
+	"пухӑн" v tv pass gpr_past @acl #1->2
 "<сасӑсемпе>"
-	"сасӑ" n pl ins @obl #2->
+	"сасӑ" n pl ins @obl #2->6
 "<кашни>"
-	"кашни" det ind @det
+	"кашни" det ind @det #3->4
 "<программҫӑ>"
-	"*программҫӑ"
+	"программҫӑ" n nom @nsubj #4->6
 "<усӑ>"
 	"усӑ" n nom @obj #5->6
 "<курма>"
@@ -113,8 +112,8 @@
 	"." sent @punct #8->7
 
 # sent_id = cvorg-commonvoice.vislcg.txt:4
-# text = Ытти чӗлхесемпе пӗрлех ку хатӗрте чӑваш чӗлхи валли те вырӑн
-# text[rus] =
+# text = Ытти чӗлхесемпе пӗрлех ку хатӗрте чӑваш чӗлхи валли те вырӑн тупӑннӑ.
+# text[rus] = И чувашскому языку нашлось место рядом с другими языками в этом проекте. 
 # labels =
 "<Ытти>"
 	"ытти" adj @amod #1->2
@@ -142,15 +141,15 @@
 	"." sent @punct #12->11
 
 # sent_id = cvorg-commonvoice.vislcg.txt:5
-# text = 
-# text[rus] =
+# text = «Хавал» ушкӑн асӑрханӑ тӑрӑх Раҫҫейри чӗлхесене илес пулсан виҫӗ чӗлхе ҫеҫ хальлӗхе кӗме пултарнӑ — чӑваш, вырӑс тата тутар чӗлхисем.
+# text[rus] = По замечанию группы "Хавал", если взять языки из России, то на данный момент там оказались лишь три языка - чувашский, русский и татарский.
 # labels = incomplete
 "<«>"
-	"«" lquot
+	"«" lquot @punct
 "<Хавал>"
 	"хавал" n attr 
 "<»>"
-	"»" rquot
+	"»" rquot @punct
 "<ушкӑн>"
 	"ушкӑн" n nom
 "<асӑрханӑ>"
@@ -164,40 +163,30 @@
 ;	"асӑрха" v iv gpr_past subst px2sg nom REMOVE:36
 "<тӑрӑх>"
 	"тӑрӑх" post
-	"тӑрӑх" adv
 	"тӑрӑх" n nom
-;	"тӑрӑх" n attr REMOVE:36
 "<Раҫҫейри>"
 	"Раҫҫей" np top loc attr @amod
 "<чӗлхесене>"
-	"чӗлхе" n pl dat
+	"чӗлхе" n pl dat @obj
 "<илес>"
 	"ил" v tv gpr_fut
 	"ил" v tv ger_fut
-	"ил" v iv gpr_fut
-	"ил" v iv ger_fut
-;	"ил" v tv gpr_fut subst nom REMOVE:36
-;	"ил" v iv gpr_fut subst nom REMOVE:36
 "<пулсан>"
 	"пул" v iv gna_cond
 "<виҫӗ>"
-	"виҫӗ" num
+	"виҫӗ" num @nummod
 "<чӗлхе>"
 	"чӗлхе" n nom
 "<ҫеҫ>"
 	"ҫеҫ" adv
 "<хальлӗхе>"
-	"хальлӗхе" adv
+	"хальлӗхе" adv @advmod
 "<кӗме>"
 	"кӗр" v iv ger
-	"кӗр" v iv neg imp p2 sg
 "<пултарнӑ>"
-	"пултар" v tv gpr_past
-	"пултар" v tv past evid
-;	"пултар" v tv gpr_past subst nom REMOVE:36
-;	"пултар" v tv gpr_past subst px2sg nom REMOVE:36
+	"пултар" v tv past evid @root
 "<—>"
-	"—" guio
+	"—" guio @punct
 "<чӑваш>"
 	"чӑваш" n nom @conj
 "<,>"
@@ -215,7 +204,7 @@
 
 # sent_id = cvorg-commonvoice.vislcg.txt:6
 # text = Common Voice туллин ӗҫлесе кайтӑр тесен пухмачра пин ытла ҫырса пин илнӗ сасӑ кирлӗ — пӗчӗккисен те, аслисен те, ваттисен те.
-# text[rus] =
+# text[rus] = Для того чтобы Common Voice заработал в полном объеме в сборник потребуются тысячы записанных голосов - детей, взрослых и пожилых.
 # labels = incomplete
 "<Common>"
 	"Common" np al @nsubj
@@ -226,7 +215,7 @@
 "<ӗҫлесе>"
 	"ӗҫле" v tv gna_impf
 "<кайтӑр>"
-	"*кайтӑр"
+	"кай" v iv imp p3 sg
 "<тесен>"
 	"те" v tv gna_cond
 	"те" v iv gna_cond
@@ -268,8 +257,8 @@
 	"." sent @punct
 
 # sent_id = cvorg-commonvoice.vislcg.txt:7
-# text = 
-# text[rus] =
+# text = Литература чӗлхипе калаҫакансен сассисем те кирлӗ, вырӑнти калаҫуллисен те — турисен, анат енчисемпе анатрисен.
+# text[rus] = Потребуются голоса разговаривающих как на литературном, так и на разговорном языке - на верховом, верхне-низововом и низовом.
 # labels = incomplete
 "<Литература>"
 	"литература" n nom @nmod:poss #1->2
@@ -315,8 +304,8 @@
 	"." sent
 
 # sent_id = cvorg-commonvoice.vislcg.txt:8
-# text = 
-# text[rus] =
+# text = Ку проекта пурӑҫ пама кашни ҫын хутшанайрать.
+# text[rus] = В этом [пурӑҫ] проекте может поучаствовать каждый.
 # labels = incomplete
 "<Ку>"
 	"ку" det dem @det
@@ -337,7 +326,7 @@
 
 # sent_id = cvorg-commonvoice.vislcg.txt:9
 # text = Ҫав шутра — эсир те.
-# text[rus] =
+# text[rus] = В том числе и вы.
 # labels = incomplete
 "<Ҫав>"
 	"ҫавӑ" det dem @det
@@ -354,7 +343,7 @@
 
 # sent_id = cvorg-commonvoice.vislcg.txt:10
 # text = Ятарлӑ каҫӑпа куҫмалла та проект сӗнекен пуплевӗшсене (предложенисене) микрофонпа усӑ курса сасӑламалла.
-# text[rus] =
+# text[rus] = Стоит перейти по специальной ссылке и озвучить в микрофон предложенные проектом преждложения.
 # labels = incomplete
 "<Ятарлӑ>"
 	"ятарлӑ" adj @amod #1->2
@@ -390,7 +379,7 @@
 
 # sent_id = cvorg-commonvoice.vislcg.txt:11
 # text = Ку пӗрре те йывӑр ӗҫ мар.
-# text[rus] =
+# text[rus] = Это вовсе не тяжелая рябота.
 # labels = incomplete
 "<Ку>"
 	"ку" det dem
@@ -400,7 +389,7 @@
 	"те" cnjcoo
 	"те" adv
 "<йывӑр>"
-	"йывӑр" adj
+	"йывӑр" adj @amod
 "<ӗҫ>"
 	"ӗҫ" n nom
 "<мар>"
@@ -410,7 +399,7 @@
 
 # sent_id = cvorg-commonvoice.vislcg.txt:12
 # text = Кашни пӗр вунӑ пуплевӗш сасӑласан ҫак сасӑ пуххи самай пуянланса юлӗ.
-# text[rus] =
+# text[rus] = За каждые десять озвученных предложений [голосовой сборник(?)] намного обогатится.
 # labels =
 "<Кашни>"
 	"кашни" det ind @fixed #1->2
@@ -438,31 +427,31 @@
 	"." sent @punct #12->11
 
 # sent_id = cvorg-commonvoice.vislcg.txt:13
-# text = 
-# text[rus] =
+# text = Ку проектпа тӗплӗнрех «Хавал» уйлӑхра паллаштарӗҫ.
+# text[rus] = С этим проектом вас подробнее познакомят в лагере "Хавал".
 # labels = incomplete
 "<Ку>"
-	"ку" det dem @det
+	"ку" det dem @det #1->2
 "<проектпа>"
-	"проект" n ins @obl
+	"проект" n ins @obl #2->8
 "<тӗплӗнрех>"
-	"*тӗплӗнрех"
+	"тӗплӗн" adv comp @advmod #3->8
 "<«>"
-	"«" lquot @punct
+	"«" lquot @punct #4->5
 "<Хавал>"
-	"Хавал" np al nom 
+	"Хавал" np al nom @compound #5->7
 "<»>"
-	"»" rquot @punct
+	"»" rquot @punct #6->5
 "<уйлӑхра>"
-	"уйлӑх" n loc @obl
+	"уйлӑх" n loc @obl #7->8
 "<паллаштарӗҫ>"
-	"паллаштар" v tv fut p3 pl @root
+	"паллаштар" v tv fut p3 pl @root #8->0
 "<.>"
-	"." sent @punct
+	"." sent @punct #9->8
 
 # sent_id = cvorg-commonvoice.vislcg.txt:14
 # text = Вӑл яланхи пек кӑҫал та «Сурские зорит» (чӑв. Сӑр шурӑмпуҫӗ) кану базинче иртӗ.
-# text[rus] =
+# text[rus] = В этом году он как и всегда пройдет на базе отдыха "Сурские зори".
 # labels = incomplete
 "<Вӑл>"
 	"вӑл" prn pers p3 sg nom @nsubj #1->
@@ -505,7 +494,7 @@
 
 # sent_id = cvorg-commonvoice.vislcg.txt:15
 # text = Утӑ уйӑхӗн 8-мӗшӗнче пуҫланӗ те 15-мӗшӗнче вӗҫленӗ.
-# text[rus] = 
+# text[rus] = Начнется с 8 июля и закончится 15 числа.
 # labels = 
 "<Утӑ>"
 	"утӑ" n nom @compound:poss #1->2
