@@ -269,39 +269,33 @@
 "<сассисем>"
 	"сасӑ" n px3sp pl nom @nsubj #4->6
 "<те>"
-	"те" adv @advmod #5->6
+	"те" adv @cnjcoo #5->4
 "<кирлӗ>"
 	"кирлӗ" adj @root #6->0
 "<,>"
-	"," cm @punct
+	"," cm @punct #7->9
 "<вырӑнти>"
-	"вырӑн" n loc attr SELECT:58
-;	"вырӑн" n loc subst nom SELECT:58
+	"вырӑн" n loc attr @amod #8->9
 "<калаҫуллисен>"
-	"*калаҫуллисен"
+	"калаҫуллӑ" adj subst px3sp pl gen @conj #9->4
 "<те>"
-	"те" cnjcoo
-	"те" adv
-	"те" v tv imp p2 sg
-	"те" v iv imp p2 sg
+	"те" cnjcoo @cc #10->9
 "<—>"
-	"—" guio
+	"—" guio @punct #11->
 "<турисен>"
 	"тура" n px3sp pl gen
 ;	"турӑ" adj subst px3sp pl gen REMOVE:36
 ;	"ту" n loc subst pl gen REMOVE:36
-;	"ту" adj subst loc subst pl gen REMOVE:36
 "<,>"
-	"," cm
+	"," cm @punct #13->
 "<анат>"
-	"анат" adj
+	"анат" adj @amod #14->
 "<енчисемпе>"
 	"ен" n loc subst pl ins
 "<анатрисен>"
 	"анат" n loc subst pl gen
-	"анатри" adj subst pl gen
 "<.>"
-	"." sent
+	"." sent @punct #17->
 
 # sent_id = cvorg-commonvoice.vislcg.txt:8
 # text = Ку проекта пурӑҫ пама кашни ҫын хутшанайрать.
