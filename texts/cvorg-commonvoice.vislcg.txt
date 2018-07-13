@@ -95,7 +95,7 @@
 # text[rus] = Собранными голосами сможет свободно воспользоваться любой программист.
 # labels = 
 "<Пухӑннӑ>"
-	"пухӑн" v iv gpr_past @acl #1->2
+	"пухӑн" v tv pass gpr_past @acl #1->2
 "<сасӑсемпе>"
 	"сасӑ" n pl ins @obl #2->6
 "<кашни>"
@@ -163,20 +163,14 @@
 ;	"асӑрха" v iv gpr_past subst px2sg nom REMOVE:36
 "<тӑрӑх>"
 	"тӑрӑх" post
-	"тӑрӑх" adv
 	"тӑрӑх" n nom
-;	"тӑрӑх" n attr REMOVE:36
 "<Раҫҫейри>"
 	"Раҫҫей" np top loc attr @amod
 "<чӗлхесене>"
-	"чӗлхе" n pl dat
+	"чӗлхе" n pl dat @obj
 "<илес>"
 	"ил" v tv gpr_fut
 	"ил" v tv ger_fut
-	"ил" v iv gpr_fut
-	"ил" v iv ger_fut
-;	"ил" v tv gpr_fut subst nom REMOVE:36
-;	"ил" v iv gpr_fut subst nom REMOVE:36
 "<пулсан>"
 	"пул" v iv gna_cond
 "<виҫӗ>"
@@ -186,7 +180,7 @@
 "<ҫеҫ>"
 	"ҫеҫ" adv
 "<хальлӗхе>"
-	"хальлӗхе" adv
+	"хальлӗхе" adv @advmod
 "<кӗме>"
 	"кӗр" v iv ger
 "<пултарнӑ>"
