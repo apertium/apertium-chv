@@ -403,8 +403,8 @@ LEXICON N-INFORMACI
 
 LEXICON NP-ZOLOTNICKIJ
 
-%<np%>:%{й%}                         NOMINAL ;
-%<np%>%<nom%>:й                      K "weight: -1.0" ;
+%<np%>%<cog%>%<mf%>:%{й%}                         NOMINAL ;
+%<np%>%<cog%>%<mf%>%<nom%>:й                      K "weight: -1.0" ;
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
