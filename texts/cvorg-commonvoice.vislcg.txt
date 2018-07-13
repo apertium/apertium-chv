@@ -437,23 +437,23 @@
 # text[rus] = С этим проектом вас подробнее познакомят в лагере "Хавал".
 # labels = incomplete
 "<Ку>"
-	"ку" det dem @det
+	"ку" det dem @det #1->2
 "<проектпа>"
-	"проект" n ins @obl
+	"проект" n ins @obl #2->8
 "<тӗплӗнрех>"
-	"*тӗплӗнрех"
+	"тӗплӗн" adv comp @advmod #3->8
 "<«>"
-	"«" lquot @punct
+	"«" lquot @punct #4->5
 "<Хавал>"
-	"Хавал" np al nom 
+	"Хавал" np al nom @compound #5->7
 "<»>"
-	"»" rquot @punct
+	"»" rquot @punct #6->5
 "<уйлӑхра>"
-	"уйлӑх" n loc @obl
+	"уйлӑх" n loc @obl #7->8
 "<паллаштарӗҫ>"
-	"паллаштар" v tv fut p3 pl @root
+	"паллаштар" v tv fut p3 pl @root #8->0
 "<.>"
-	"." sent @punct
+	"." sent @punct #9->8
 
 # sent_id = cvorg-commonvoice.vislcg.txt:14
 # text = Вӑл яланхи пек кӑҫал та «Сурские зорит» (чӑв. Сӑр шурӑмпуҫӗ) кану базинче иртӗ.
