@@ -434,7 +434,8 @@ Vx:Vy <=> _ %{в%}:в %>: [ %{и%}: %{н%}: | %{N%}: %{A%}: | н %{A%}: ] ;
                 _ :YotisedVow (%{в%}: ) %>: ; 
                 _ ( :YotisedVow) [ :0 ]* .#. ;
                 _ %>: %{Ă%}: н ; ! genitive
-                _ %>: ш  ; ! ter, ins
+                _ %>:  ш   ; ! ter, ins
+                _ %>:  с %{Ă%}: р   ; ! abe
                 _ :YotisedVow [ :0 ]* %>:  ;
                 _ :YotisedVow %{в%}: ; ! менювӗ
                 _ %>: н ч и ; ! irreg./razg. form

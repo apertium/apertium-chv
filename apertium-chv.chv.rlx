@@ -5,6 +5,7 @@ SUBREADINGS = LTR ;
 SETS
 
 LIST BOS = (>>>) ;
+LIST EOS = (<<<);
 
 LIST N = n ; 
 LIST Prop = np ;
@@ -17,8 +18,12 @@ LIST Imper = imp ;
 LIST Excl = ("!") ; 
 LIST Ha = ("ха") ; 
 
+LIST Px3Sg = px3sg ;
+
 LIST Pul = ("пул") ;
 LIST Pultar = ("пултар") ;
+
+LIST Past/Evid = (past evid) ;
 
 LIST Nom = nom ;
 
@@ -26,7 +31,7 @@ LIST Ger = ger ger_past ger6 ;
 
 LIST Pres = pres ; 
 
-LIST Func = subst attr advl subst_хи ; 
+LIST Func = subst attr advl ;
 
 LIST Attr = attr ;
 
@@ -36,23 +41,13 @@ SECTION
 REMOVE Func ; 
   ## 
 
-
 REMOVE Dat IF (0 Prop) (1 CC) (2 Prop) (NOT 2 Dat);
 
 SELECT Imper IF (0/* Ha) (1* Excl) ; 
 
-REMOVE (px3sp) (-1C (px3sp)); 
-## Argh
-
-REMOVE (ger17) IF (1C Pres); 
-## Argh
-
-"<хыҫҫӑн>" SELECT Post IF (-1 Ger + Nom); 
-
-"<тен>" REMOVE Ger IF (-1C Pres); 
-
-"<Тен>" REMOVE Ger ; # IF (-1 BOS); 
-
 REMOVE Caus IF (0 Pul OR Pultar) ;
 
-SELECT Attr;
+SELECT Past/Evid IF (1 EOS) ;
+
+SELECT Nom IF (0C Nom OR Attr) (1 Px3Sg) ;
+
