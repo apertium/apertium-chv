@@ -104,6 +104,7 @@ Multichar_Symbols
 %<ins%>                              ! Творительный падеж
 %<abe%>                              ! Лишительный падеж
 %<ter%>                              ! Целевой падеж
+%<all%>                              !
 
 %<ord%>				     ! Порядковое числительное
 %<y%>				     ! year
@@ -203,6 +204,7 @@ LEXICON CASE-NONOM
 %<abl%>:%>%{T%}%{A%}н                K ; 
 %<ins%>:%>п%{A%}                     K ;
 %<ter%>:%>ш%{Ă%}н                    K ; 
+%<all%>:%>%{A%}лл%{A%}               K ; 
 %+сӑр%<post%>:%>с%{Ă%}р                    K ;
 %+ччен%<post%>:%>ччен                    K ;    ! FIXME: Check
 
@@ -570,6 +572,8 @@ LEXICON V-TFUTU
 %<neg%>%<fut%>:%>м                    V-PERS-FUT ;!""
 
 LEXICON V-GPR
+
+! FIXME: Here we are missing the -нни forms, which are -{х}{и}
 
 %<gpr_pres%>:%>%{A%}к%{A%}н           CLIT-COP; !""
 %<gpr_pres%>:%>%{A%}к%{A%}н           SUBST-SKER ;!""
