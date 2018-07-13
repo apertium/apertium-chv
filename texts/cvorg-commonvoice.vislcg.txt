@@ -215,7 +215,7 @@
 "<ӗҫлесе>"
 	"ӗҫле" v tv gna_impf
 "<кайтӑр>"
-	"*кайтӑр"
+	"кай" v iv imp p3 sg
 "<тесен>"
 	"те" v tv gna_cond
 	"те" v iv gna_cond
@@ -305,7 +305,7 @@
 
 # sent_id = cvorg-commonvoice.vislcg.txt:8
 # text = Ку проекта пурӑҫ пама кашни ҫын хутшанайрать.
-# text[rus] = В этом [пурăç] проекте может поучаствовать каждый.
+# text[rus] = В этом [пурӑҫ] проекте может поучаствовать каждый.
 # labels = incomplete
 "<Ку>"
 	"ку" det dem @det
