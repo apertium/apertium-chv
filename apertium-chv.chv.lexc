@@ -263,9 +263,9 @@ LEXICON NP-TOP
 
 ! Optional forms, should not be generated
 %<np%>%<top%>%<loc%>:%>р%{A%}                                  # "weight: 1.0" ;     ! Тутарстанра
-%<np%>%<top%>%<loc%>:%>р%{A%}н                                 # "weight: 1.0" ;     ! Тутарстанран
 %<np%>%<top%>%<loc%>%<attr%>:%>р%{A%}%>%{х%}%{и%}              # "weight: 1.0" ;     ! Тутарстанри
 %<np%>%<top%>%<loc%>:%>р%{A%}%>%{х%}%{и%}%{н%}                 SUBST "weight: 1.0" ; ! Тутарстанрисем
+%<np%>%<top%>%<abl%>:%>р%{A%}н                                 # "weight: 1.0" ;     ! Тутарстанран
 
 LEXICON NP-TOP-PX
 
