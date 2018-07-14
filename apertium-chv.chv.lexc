@@ -609,7 +609,7 @@ LEXICON V-GPR
 %<gpr_fut%>:%>%{A%}с%{ː%}             SUBST-SKER ;!""
 %<neg%>%<gpr_fut%>:%>м%{A%}с          #;!""
 %<neg%>%<gpr_fut%>:%>м%{A%}с%{ː%}     SUBST-SKER;!"" 
-%<neg%>%<gpr_fut%>:%>%{A%}с% ҫук      #;!""
+%<neg%>%<gpr_fut%>:%>%{A%}с% ҫук      #;!"" ! Dir/LR
 
 LEXICON V-GNA
 
