@@ -170,420 +170,437 @@ Guesser ;
 
 LEXICON CLIT-GNA 
 
-%+ах%<mod%>:%>%{A%}х # ; 
-
-                     # ;
-
+%+ах%<mod%>:%>%{A%}х                                           # ; 
+                                                               # ;
 LEXICON K
 
-%+и%<qst%>:%-и     # ; 
-%+ха%<mod%>:%>-ха  # ; 
-%+ши%<mod%>:%>-ши  # ; 
-
-                   CLIT-GNA ; 
+%+и%<qst%>:%-и                                                 # ; 
+%+ха%<mod%>:%>-ха                                              # ; 
+%+ши%<mod%>:%>-ши                                              # ; 
+                                                               CLIT-GNA ; 
 
 LEXICON CLIT-POLIT
 
-%+ччӗ%<mod%>:%>ччӗ # ; 
-
-# ;
+%+ччӗ%<mod%>:%>ччӗ                                             # ; 
+                                                               # ;
 
 LEXICON CLIT-COP 
 
-%+ӗ%<cop%>%<ifi%>:%>%{ч%}чӗ K ; 
+%+ӗ%<cop%>%<ifi%>:%>%{ч%}чӗ                                    K ; 
 
-K ;
+                                                               K ;
 
 LEXICON CASE-NONOM
 
-%<gen%>:%>%{Ă%}н                         K ;
-%<gen%>:%>%{Ă%}н%{ː%}%>%{х%}и                 SUBST ;
-%<dat%>:%>%{N%}%{A%}                     K ; 
-%<loc%>:%>%{T%}%{A%}                     K ;  
-%<loc%>%<attr%>:%>%{T%}%{A%}%>%{х%}и    # ;        ! хушшинчи
-%<loc%>:%>%{T%}%{A%}%>%{х%}и    SUBST ;   ! хушшинчисем
-%<abl%>:%>%{T%}%{A%}н                K ; 
-%<ins%>:%>п%{A%}                     K ;
-%<ter%>:%>ш%{Ă%}н                    K ; 
-%<all%>:%>%{A%}лл%{A%}               K ; 
-%+сӑр%<post%>:%>с%{Ă%}р                    K ;
-%+ччен%<post%>:%>ччен                    K ;    ! FIXME: Check
+%<gen%>:%>%{Ă%}н                                               K          ;
+%<gen%>:%>%{Ă%}н%{ː%}%>%{х%}%{и%}%{н%}                         SUBST      ;
+%<dat%>:%>%{N%}%{A%}                                           K          ; 
+%<loc%>:%>%{T%}%{A%}                                           K          ;  
+%<loc%>%<attr%>:%>%{T%}%{A%}%>%{х%}%{и%}                       #          ; ! пӳртри, хушшинчи
+%<loc%>:%>%{T%}%{A%}%>%{х%}%{и%}%{н%}                          SUBST      ; ! пӳртрисем, хушшинчисем
+%<abl%>:%>%{T%}%{A%}н                                          K          ; 
+%<ins%>:%>п%{A%}                                               K          ;
+%<ter%>:%>ш%{Ă%}н                                              K          ; 
+%<all%>:%>%{A%}лл%{A%}                                         K          ; 
+%+сӑр%<post%>:%>с%{Ă%}р                                        K          ;
+%+ччен%<post%>:%>ччен                                          K          ; ! FIXME: Check
 
 LEXICON CASE 
 
-%<nom%>:                             K ;
-CASE-NONOM ;
+%<nom%>:                                                       K ;
+                                                               CASE-NONOM ;
 
 LEXICON PLURAL
 
-                                 CASE ;
-%<pl%>:%>се%{м%}                     CASE ; 
+                                                               CASE ;
+%<pl%>:%>се%{м%}                                               CASE ; 
 
 LEXICON POSS 
 
-                                 PLURAL ;
-%<px1sg%>:%>%{ă%}м                   PLURAL ;
-%<px2sg%>:%>%{U%}%{н%}               PLURAL ;
-%<px3sp%>:%>%{и%}%{н%}               PLURAL ;
-%<px1pl%>:%>%{ă%}м%{Ă%}р             PLURAL ;
-%<px2pl%>:%>%{Ĕ%}р                   PLURAL ;
+                                                               PLURAL ;
+%<px1sg%>:%>%{ă%}м                                             PLURAL ;
+%<px2sg%>:%>%{U%}%{н%}                                         PLURAL ;
+%<px3sp%>:%>%{и%}%{н%}                                         PLURAL ;
+%<px1pl%>:%>%{ă%}м%{Ă%}р                                       PLURAL ;
+%<px2pl%>:%>%{Ĕ%}р                                             PLURAL ;
 
 LEXICON SUBST-SKER
 ! Lexicon for words that can substantivise with
 ! both -скер and possessive
 
-%<subst%>:              POSS ; 
-%+скер%<subst%>:%>скер	PLURAL ;
+! FIXME:
+! -скер can take possessives.
+! шутлаканскерне
+
+%<subst%>:%>%{и%}%{н%}                                         PLURAL ; 
+%+скер%<subst%>:%>скер	                                       POSS ;
 
 LEXICON SUBST 
 ! Substantive lexicon for those words that substantivise
-! with possessives
+! with possessives, e.g. take (pl)-(case)
 
-%<subst%>:              POSS ; 
+%<subst%>:                                                     PLURAL ; 
 
 LEXICON NOMINAL
+! This is the general lexicon for nominals, those words
+! that can take (poss)-(pl)-(case)
 
-POSS ; 
-
-LEXICON NP
-
-%<np%>:                              NOMINAL ;!"names"
+                                                               POSS ; 
 
 LEXICON NP-AL
+! Разные, напр. "Роспотребнадзор"
 
-%<np%>%<al%>:                              NOMINAL ;
+%<np%>%<al%>:                                                  NOMINAL ;
 %<np%>%<al%>%<attr%>: # ; 
 
-
 LEXICON NP-TOP
+! Имена мест, напр. "Тутарстан"
 
-%<np%>%<top%>:                                      NOMINAL ;             ! Тутарстанта
-%<np%>%<top%>%<attr%>:                              # ; 
-%<np%>%<top%>%<loc%>:%>р%{A%}                       # "weight: 1.0" ;     ! Тутарстанра
-%<np%>%<top%>%<loc%>:%>р%{A%}н                      # "weight: 1.0" ;     ! Тутарстанран
-%<np%>%<top%>%<loc%>%<attr%>:%>р%{A%}%>%{х%}%{и%}   # "weight: 1.0" ;     ! Тутарстанри
-%<np%>%<top%>%<loc%>%<subst%>:%>р%{A%}%>%{х%}%{и%}  SUBST "weight: 1.0" ; ! Тутарстанрисем
+%<np%>%<top%>:                                                 NOMINAL ;             ! Тутарстанта
+%<np%>%<top%>%<attr%>:                                         # ; 
+
+! Optional forms, should not be generated
+%<np%>%<top%>%<loc%>:%>р%{A%}                                  # "weight: 1.0" ;     ! Тутарстанра
+%<np%>%<top%>%<loc%>:%>р%{A%}н                                 # "weight: 1.0" ;     ! Тутарстанран
+%<np%>%<top%>%<loc%>%<attr%>:%>р%{A%}%>%{х%}%{и%}              # "weight: 1.0" ;     ! Тутарстанри
+%<np%>%<top%>%<loc%>:%>р%{A%}%>%{х%}%{и%}%{н%}                 SUBST "weight: 1.0" ; ! Тутарстанрисем
 
 LEXICON NP-TOP-PX
 
-%<np%>%<top%>: POSS ;
+%<np%>%<top%>:                                                 POSS ;
 
 LEXICON NP-ANT-F
 
-%<np%>%<ant%>%<f%>:                              NOMINAL ;
+%<np%>%<ant%>%<f%>:                                            NOMINAL ;
 
 LEXICON NP-ANT-M
 
-%<np%>%<ant%>%<m%>:                              NOMINAL ;
+%<np%>%<ant%>%<m%>:                                            NOMINAL ;
 
 LEXICON NP-COG-MF 
 
-%<np%>%<cog%>%<mf%>:                 NOMINAL ;
+%<np%>%<cog%>%<mf%>:                                           NOMINAL ;
 
 LEXICON NP-COG-OB
+! 
 
-%<np%>%<cog%>%<m%>:                  NOMINAL ;
-%<np%>%<cog%>%<f%>:%{а%}                 NOMINAL ;
+%<np%>%<cog%>%<m%>:                                            NOMINAL ;
+%<np%>%<cog%>%<f%>:%{а%}                                       NOMINAL ;
 
 LEXICON NP-PAT-VICH
+! For patronyms ending with -вич, напр. "Иванович"
+! Their feminine equivalets end with -вна, напр. "Иванова"
 
-! For patronyms ending with -вич
-! Their feminine equivalets end with -вна /I.S./
-
-%<np%>%<pat%>%<m%>:вич NOMINAL ;
-
-%<np%>%<pat%>%<f%>:вна NOMINAL ;
+%<np%>%<pat%>%<m%>:вич                                         NOMINAL ;
+%<np%>%<pat%>%<f%>:вна                                         NOMINAL ;
 
 LEXICON NP-PAT-M 
 
-%<np%>%<pat%>%<m%>: NOMINAL ;
+%<np%>%<pat%>%<m%>:                                            NOMINAL ;
 
 LEXICON N
+! Standard noun lexicon
 
-%<n%>:                               NOMINAL ;
-%<n%>%<attr%>:                       #;
+%<n%>:                                                         NOMINAL ;
+%<n%>%<attr%>:                                                 #;
 
 LEXICON N-COMPOUND-PX
+! Lexicon for compound words that are introduced in the lexicon,
+! e.g. "ача пахчи".
 
-%<n%>: POSS ;
-%<n%>%<pl%>:%>се%{м%} POSS ;
+%<n%>:                                                         POSS ;
+%<n%>%<pl%>:%>се%{м%}                                          POSS ;
 
 LEXICON POSS-ANNE 
 
-:нне                                 PLURAL ;
-%<px1sg%>:нн%>ем                     PLURAL ;
-%<px2sg%>:нн%{ь%}%>%{U%}%{н%}        PLURAL ;
-%<px3sp%>:мӑш%>%{и%}%{н%}            PLURAL ;
-%<px1pl%>:нне%>м%{Ă%}р               PLURAL ;
-%<px2pl%>:нн%>ӗр                     PLURAL ;
+:нне                                                           PLURAL ;
+%<px1sg%>:нн%>ем                                               PLURAL ;
+%<px2sg%>:нн%{ь%}%>%{U%}%{н%}                                  PLURAL ;
+%<px3sp%>:мӑш%>%{и%}%{н%}                                      PLURAL ;
+%<px1pl%>:нне%>м%{Ă%}р                                         PLURAL ;
+%<px2pl%>:нн%>ӗр                                               PLURAL ;
 
 LEXICON POSS-ATTE 
 
-:тте                                 PLURAL ;
-%<px1sg%>:тт%>ем                     PLURAL ;
-%<px2sg%>:ҫ%>%{U%}%{н%}              PLURAL ;
-%<px3sp%>:шш%>%{и%}%{н%}             PLURAL ;
-%<px1pl%>:тте%>м%{Ă%}р               PLURAL ;
-%<px2pl%>:ҫ%>ӑр                      PLURAL ;
+:тте                                                           PLURAL ;
+%<px1sg%>:тт%>ем                                               PLURAL ;
+%<px2sg%>:ҫ%>%{U%}%{н%}                                        PLURAL ;
+%<px3sp%>:шш%>%{и%}%{н%}                                       PLURAL ;
+%<px1pl%>:тте%>м%{Ă%}р                                         PLURAL ;
+%<px2pl%>:ҫ%>ӑр                                                PLURAL ;
 
 LEXICON POSS-ATTEANNE
 
-:тте-анне                            PLURAL ;
-%<px1sg%>:тте-анн%>ем                PLURAL ;
-%<px2sg%>:ҫу-анн%{ь%}%>%{U%}%{н%}    PLURAL ;
-%<px3sp%>:шӗ-амӑш%>%{и%}%{н%}        PLURAL ;
-%<px1pl%>:тте-анне%>м%{Ă%}р          PLURAL ;
-%<px2pl%>:ҫӑр-анн%>ӗр                PLURAL ;
+:тте-анне                                                      PLURAL ;
+%<px1sg%>:тте-анн%>ем                                          PLURAL ;
+%<px2sg%>:ҫу-анн%{ь%}%>%{U%}%{н%}                              PLURAL ;
+%<px3sp%>:шӗ-амӑш%>%{и%}%{н%}                                  PLURAL ;
+%<px1pl%>:тте-анне%>м%{Ă%}р                                    PLURAL ;
+%<px2pl%>:ҫӑр-анн%>ӗр                                          PLURAL ;
 
 LEXICON N-ANNE 
+! Special lexicon for the word "анне", irregular possessive forms
 
-%<n%>:                               POSS-ANNE ; 
+%<n%>:                                                         POSS-ANNE ; 
 
 LEXICON N-ATTE 
+! Special lexicon for the word "атте", irregular possessive forms
 
-%<n%>:                               POSS-ATTE ; 
+%<n%>:                                                         POSS-ATTE ; 
 
 LEXICON N-ATTEANNE
+! Special lexicon for the word "атте-анне", irregular possessive forms
 
-%<n%>:                               POSS-ATTEANNE ; 
+%<n%>:                                                         POSS-ATTEANNE ; 
 
 LEXICON N-VLAÇ
+! Lexicon for words ending in -сть from Russian, in Chuvash all
+! non-nominative forms are based on the stem -ҫ, but the lemma
+! remains -сть, e.g. должность--дожноҫра
 
-%<n%>:ҫ                              NOMINAL ;
-%<n%>:ҫ%{ь%}                         NOMINAL ;         ! Dir/LR
-%<n%>%<attr%>:ҫ                      # ;
-%<n%>%<nom%>:сть                     # "weight: 1.0" ; 
-%<n%>%<attr%>:сть                    # "weight: 1.0" ;
-%<n%>%<px2sg%>%<dat%>:ҫ%>н%{A%}      K "weight: 1.0" ; 
-!%<n%>%<px3sp%>%<dat%>:ҫ%>%{Ă%}      K "weight: 1.0" ; 
-
+%<n%>:ҫ                                                        NOMINAL ;
+%<n%>:ҫ%{ь%}                                                   NOMINAL ;         ! Dir/LR
+%<n%>%<attr%>:ҫ                                                # ;
+%<n%>%<nom%>:сть                                               # "weight: 1.0" ; 
+%<n%>%<attr%>:сть                                              # "weight: 1.0" ;
+%<n%>%<px2sg%>%<dat%>:ҫ%>н%{A%}                                K "weight: 1.0" ; 
 
 LEXICON N-SUPĂN
+! Lexicon for words with alternative locative in -рA (in addition to -TA).
 
-%<n%>:                               NOMINAL ;
-%<n%>%<attr%>:                       # ;
-%<n%>%<loc%>:%>р%{A%}                K "weight: 1.0" ; 
-%<n%>%<abl%>:%>р%{A%}н               K "weight: 1.0" ; 
-%<n%>%<px2sg%>%<dat%>:%>н%{A%}       K "weight: 1.0" ; 
+%<n%>:                                                         NOMINAL ;
+%<n%>%<attr%>:                                                 # ;
+%<n%>%<loc%>:%>р%{A%}                                          K "weight: 1.0" ; 
+%<n%>%<abl%>:%>р%{A%}н                                         K "weight: 1.0" ; 
+%<n%>%<px2sg%>%<dat%>:%>н%{A%}                                 K "weight: 1.0" ; 
 
 LEXICON N-RADIO
 
-%<n%>:%{в%}%{☭%}                     NOMINAL ;
-%<n%>%<attr%>:                       # ;
+%<n%>:%{в%}%{☭%}                                               NOMINAL ;
+%<n%>%<attr%>:                                                 # ;
 
 LEXICON N-TU
+! Lexicon for words like "ту" which have an epenthetic -в- and stem vowel
+! reduction.
 
-%<n%>:%{в%}                          NOMINAL ;
-%<n%>%<attr%>:                       # ;
-%<n%>%<px2sg%>%<dat%>:%{в%}%>н%{A%}  K "weight: 1.0" ; 
-%<n%>%<px2sg%>%<dat%>:%{в%}%>н%{A%}  K "weight: 1.0" ; 
+%<n%>:%{в%}                                                    NOMINAL ;
+%<n%>%<attr%>:                                                 # ;
+%<n%>%<px2sg%>%<dat%>:%{в%}%>н%{A%}                            K "weight: 1.0" ; 
+%<n%>%<px2sg%>%<dat%>:%{в%}%>н%{A%}                            K "weight: 1.0" ; 
 
 LEXICON N-YEN
+! This is for nouns with bare locative/ablative in -че/-чен 
+! напр. ен - енче/енчен
 
-%<n%>:                               NOMINAL ;
-%<n%>%<attr%>:                       # ;
-%<n%>%<loc%>:ре                    K "weight: 1.0" ;            
-%<n%>%<abl%>:рен                   K "weight: 1.0" ;
-%<n%>%<loc%>%<attr%>:ри            # "weight: 1.0" ;
-%<n%>%<loc%>%<subst%>:ри           SUBST "weight: 1.0" ;
+%<n%>:                                                         NOMINAL ;
+%<n%>%<attr%>:                                                 # ;
+
+! The regular forms are optional.
+%<n%>%<loc%>:ре                                                K "weight: 1.0" ; ! Dir/LR
+%<n%>%<abl%>:рен                                               K "weight: 1.0" ; ! Dir/LR
+%<n%>%<loc%>%<attr%>:ри                                        # "weight: 1.0" ; ! Dir/LR
+%<n%>%<loc%>:ри                                                SUBST "weight: 1.0" ; ! Dir/LR
 
 LEXICON N-ĔŞ 
 
-%<n%>:                               NOMINAL ;
-%<n%>%<attr%>:                       # ;
-%<n%>%<px2sg%>%<dat%>:%>н%{A%}    K "weight: 1.0" ;
-%<n%>%<px3sp%>%<dat%>:%{ă%}%>н%{A%}    K "weight: 1.0" ;
+%<n%>:                                                         NOMINAL ;
+%<n%>%<attr%>:                                                 # ;
+%<n%>%<px2sg%>%<dat%>:%>н%{A%}                                 K "weight: 1.0" ;
+%<n%>%<px3sp%>%<dat%>:%{ă%}%>н%{A%}                            K "weight: 1.0" ;
 
 LEXICON N-INFORMACI
 
-%<n%>:                               NOMINAL ;
-%<n%>%<attr%>:                       # ;
-%<n%>%<px2sg%>%<dat%>:%>н%{A%}    K "weight: 1.0" ;
-%<n%>%<px3sp%>%<dat%>:%{ă%}%>н%{A%}    K "weight: 1.0" ;
-%<n%>%<px3sp%>%<loc%>:%>нче    K "weight: 1.0" ;           ! территоринче
-%<n%>%<px3sp%>%<loc%>%<attr%>:%>нчи    K "weight: 1.0" ;           ! территоринчи
-%<n%>%<px3sp%>%<loc%>%<subst%>:%>нчи    NOMINAL "weight: 1.0" ;           ! территоринчи
+%<n%>:                                                         NOMINAL ;
+%<n%>%<attr%>:                                                 # ;
+
+! These are optional spoken/informal forms.
+%<n%>%<px2sg%>%<dat%>:%>н%{A%}                                 K "weight: 1.0" ;
+%<n%>%<px3sp%>%<dat%>:%{ă%}%>н%{A%}                            K "weight: 1.0" ;
+%<n%>%<px3sp%>%<loc%>:%>нче                                    K "weight: 1.0" ;           ! территоринче
+%<n%>%<px3sp%>%<loc%>:%>нчен                                   K "weight: 1.0" ;           ! территоринчен
+%<n%>%<px3sp%>%<loc%>%<attr%>:%>нчи                            K "weight: 1.0" ;           ! территоринчи
+%<n%>%<px3sp%>%<loc%>%<subst%>:%>нчи                           NOMINAL "weight: 1.0" ;     ! территоринчи
 
 
 
 LEXICON NP-ZOLOTNICKIJ
 
-%<np%>%<cog%>%<mf%>:%{й%}                         NOMINAL ;
-%<np%>%<cog%>%<mf%>%<nom%>:й                      K "weight: -1.0" ;
+%<np%>%<cog%>%<mf%>:%{й%}                                      NOMINAL ;
+%<np%>%<cog%>%<mf%>%<nom%>:й                                   K "weight: -1.0" ;
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 LEXICON DET-IND
 
-%<det%>%<ind%>: # ;
+%<det%>%<ind%>:                                                # ;
 
 LEXICON DET-DEM
+! Demonstrative determiners, напр. *Ку* кӗнекене.
 
-%<det%>%<dem%>: # ;
+%<det%>%<dem%>:                                                # ;
 
 LEXICON NUM-ORD
 
-%<ord%>:              # ;
-%<ord%>%<subst%>:     CASE ;
+%<ord%>:                                                       # ;
+%<ord%>%<subst%>:                                              CASE ;
 
 LEXICON NUM-ROMAN 
+! Roman numerals, напр. "VI" (улттăмĕш)
 
-%<num%>%<ord%>: # ; 
+%<num%>%<ord%>:                                                # ; 
 
 LEXICON NUM
+! Standard numerals, напр. пӗрре/иккӗ
 
-%<num%>: K ;
-%<num%>:%>мӗш NUM-ORD;
-!%<num%>%<ord%>%<y%>:%>мӗш%{ă%}% ҫулхи K;
-!%<num%>%<ord%>%<y%>:%>мӗш%{ă%}% ҫулхин K;
-!%<num%>%<y%>:%>% ҫулхи K ;
-!%<num%>%<y%>:%>% ҫулхин K ;
+%<num%>:                                                       K ;
+%<num%>:%>мӗш                                                  NUM-ORD;
 
 LEXICON NUM-SHORT 
+! Short form numerals, e.g. пӗр/икӗ
 
-%<num%>%<attr%>: # ;
+%<num%>%<attr%>:                                               # ;
 
 LEXICON NUM-OVERSHORT 
+! Overshort form numerals, e.g. ик/улт
 
-%<num%>%<attr%>: # ;
+%<num%>%<attr%>:                                               # ;
 
 
 LEXICON POST
+! Real postpositions, e.g. валли, пирки
 
-%<post%>:	#;
+%<post%>:	                                               # ;
 
 LEXICON CC
+! Coordinating conjunctions
 
-%<cnjcoo%>:	#;
+%<cnjcoo%>:                                                    #;
 
 LEXICON CS
+! Subordinating conjunctions, small class, check carefully.
 
-%<cnjsub%>:	#;
+%<cnjsub%>:                                                    #;
 
 LEXICON A1
+! Adjectives which do not permit substantivisation or comparison,
+! small class, check carefully.
 
-%<adj%>:	K;
-%<adj%>%<advl%>:	K; ! Dir/RL
+%<adj%>:                                                       K;
+%<adj%>%<advl%>:                                               K; ! Dir/RL
 
 LEXICON A2
+! Adjectives which permit both substantivisation and comparison
 
-%<adj%>:	CLIT-COP ;
-%<adj%>:	SUBST-SKER ;
-%<adj%>%<advl%>:	K; ! Dir/RL
+%<adj%>:                                                       CLIT-COP ;
+%<adj%>:                                                       SUBST-SKER ;
+%<adj%>%<advl%>:                                               K; ! Dir/RL
 
-%<adj%>%<comp%>:%>р%{A%}х # ; 
-%<adj%>%<comp%>:%>т%{A%}р%{A%}х # "weight: 1.0" ; 
+%<adj%>%<comp%>:%>р%{A%}х                                      # ; 
+%<adj%>%<comp%>:%>т%{A%}р%{A%}х                                # "weight: 1.0" ; 
 
 ! Stems ending in -V or -C (but not -р, -л, -н) have -рAх
 ! Stems ending in -р have -тAрAх
 ! Stems ending in -л, -н have -рAх and -тAрAх
 
 LEXICON ADV1
+! Adverbs without comparison
 
-%<adv%>:	#;
+%<adv%>:                                                       #;
 
 LEXICON ADV2
+! Adverbs with comparison
 
-%<adv%>:	#;
-%<adv%>%<comp%>:%>р%{A%}х # ; 
-%<adv%>%<comp%>:%>т%{A%}р%{A%}х # "weight: 1.0" ; 
+%<adv%>:                                                       #;
+%<adv%>%<comp%>:%>р%{A%}х                                      # ; 
+%<adv%>%<comp%>:%>т%{A%}р%{A%}х                                # "weight: 1.0" ; 
 
 LEXICON ADV-ITG
+! Interrogative adverbs, sometimes lexicalised pronominal forms, 
+! e.g. аҫтӑ? мӗнле?
 
-%<adv%>%<itg%>:	#;
+%<adv%>%<itg%>:	                                               #;
 
 LEXICON ABBR
+! Abbreviations, e.g. км, кг
 
-%<abbr%>: # ;
-!%<abbr%>: CASE-NONOM ;
+%<abbr%>:                                                      # ;
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
-!%<part%>:%>к%{A%}н	#;!"причастие"                          !ӗҫле_кен
-!%<parcon%>:%>к%{A%}нччӗ	#;!"причастие прошедшее(?)"         !ӗҫле_кен_ччӗ
-!%<geru%>:%>с%{A%}	#;!"деепричастие"!%<%>:%>	#;!" "      !ӗҫле_се
-!%<pres%>:%>т	#;!"настоящее"                               !ӗҫле_т
-!%<pres%>:%>%{A%}ть	#;!"настоящее"                          !кул_ать
-!%<pres%>:%>н	#;!"настоящее"                          !ӗҫл_[е]н
-!%<pres%>:%>ан	#;!"настоящее"                          !кул_ан
-!%<precon%>:%>ччӗ	#;!"настоящее прошедшее(?)"             !ӗҫле_ччӗ
-!%<past%>:%>н%{ă%}	#;!"прошедшее простое"                  !ӗҫле_нӗ
-!%<pascon%>:%>н%{ă%}ччӗ	#;!"прошедшее ..."                  !ӗҫле_нӗ_ччӗ
-!%<fut%>:%>ӗ	#;!"будущее "                           !ӗҫл[ӗ]
-!%<fut%>:%>ӗччӗ	#;!"будущее "                           !ӗҫл[ӗ]
-
 LEXICON V-PERS-PRES-REG
 
-%<p1%>%<sg%>:%>%{Ă%}п                      K;!""            пӗлетӗп      уҫатӑп
-%<p1%>%<pl%>:%>п%{Ă%}р                     K;!""            пӗлетпӗр     уҫатпӑр
-%<p2%>%<sg%>:%>%{Ă%}н                      K;!""            пӗлетӗн      уҫатӑн
-%<p2%>%<pl%>:%>%{Ă%}р                      K;!""            пӗлетӗр      уҫатӑр
-%<p3%>%<sg%>:%{ԁ%}                         K;!""            пӗлет        уҫать
+%<p1%>%<sg%>:%>%{Ă%}п                                          K;!""     пӗлетӗп      уҫатӑп
+%<p1%>%<pl%>:%>п%{Ă%}р                                         K;!""     пӗлетпӗр     уҫатпӑр
+%<p2%>%<sg%>:%>%{Ă%}н                                          K;!""     пӗлетӗн      уҫатӑн
+%<p2%>%<pl%>:%>%{Ă%}р                                          K;!""     пӗлетӗр      уҫатӑр
+%<p3%>%<sg%>:%{ԁ%}                                             K;!""     пӗлет        уҫать
 
 LEXICON V-PERS-PAST
 
-%<p1%>%<sg%>:%>%{Ă%}м                      K;!""
-%<p1%>%<pl%>:%>%{Ă%}м%{Ă%}р                K;!""
-%<p2%>%<sg%>:%>%{Ă%}н                      K;!""
-%<p2%>%<pl%>:%>%{Ă%}р                      K;!""
-%<p3%>%<sg%>:%>ӗ                           K;!""
-%<p3%>%<pl%>:%>ӗҫ                          K;!""
-
-LEXICON V-TPRES
-
-%<pres%>:%>%{A%}т                          V-PERS-PRES-REG ;!""          
-%<pres%>%<p2%>%<sg%>:%>%{Ă%}н              K;!"" ! Dir/LR   пӗлӗн        уҫӑн
-%<pres%>%<p3%>%<pl%>:%>%{A%}ҫҫӗ            K;!""            пӗлеҫҫӗ      уҫаҫҫӗ
-
-%<neg%>%<pres%>:%>м%{A%}ст                 V-PERS-PRES-REG ;!""
-%<neg%>%<pres%>%<p3%>%<pl%>:%>м%{A%}ҫҫӗ    K;!""
+%<p1%>%<sg%>:%>%{Ă%}м                                          K;!""
+%<p1%>%<pl%>:%>%{Ă%}м%{Ă%}р                                    K;!""
+%<p2%>%<sg%>:%>%{Ă%}н                                          K;!""
+%<p2%>%<pl%>:%>%{Ă%}р                                          K;!""
+%<p3%>%<sg%>:%>ӗ                                               K;!""
+%<p3%>%<pl%>:%>ӗҫ                                              K;!""
 
 LEXICON V-PERS-DUR
 
-%<p1%>%<sg%>:тт%{Ă%}м                         K;!""
-%<p1%>%<pl%>:тт%{Ă%}м%{Ă%}р                   K;!""
-%<p2%>%<sg%>:тт%{Ă%}н                         K;!""
-%<p2%>%<pl%>:тт%{Ă%}р                         K;!""
-%<p3%>%<sg%>:тчӗ                         K;!""
-%<p3%>%<pl%>:тчӗҫ                             K;!""
-
-LEXICON V-TPAST
-
-%<past%>:%>%{T%}                     V-PERS-PAST ;!""
-%<neg%>%<past%>:%>м%{A%}р V-PERS-PAST;!""
-
-%<past%>%<evid%>:%>н%{Ă%}                 K;!""
-%<neg%>%<past%>%<evid%>:%>м%{A%}н                 K;!""
-
-%<dur%>:%>%{A%}                         V-PERS-DUR;!""
-%<neg%>%<dur%>:%>м%{A%}с                         V-PERS-DUR;!""
+%<p1%>%<sg%>:тт%{Ă%}м                                          K;!""
+%<p1%>%<pl%>:тт%{Ă%}м%{Ă%}р                                    K;!""
+%<p2%>%<sg%>:тт%{Ă%}н                                          K;!""
+%<p2%>%<pl%>:тт%{Ă%}р                                          K;!""
+%<p3%>%<sg%>:тчӗ                                               K;!""
+%<p3%>%<pl%>:тчӗҫ                                              K;!""
 
 LEXICON V-PERS-FUT
 
-%<p1%>%<sg%>:%>%{Ă%}п                 K;!""
-%<p1%>%<pl%>:%>%{Ă%}п%{Ă%}р           K;!""
-%<p2%>%<sg%>:%>%{Ă%}н                 K;!""
-%<p2%>%<pl%>:%>%{Ă%}р                 K;!""
-%<p3%>%<sg%>:%>%{ӗ%}                      K;!""
-%<p3%>%<pl%>:%>%{ӗ%}ҫ                     K;!""
+%<p1%>%<sg%>:%>%{Ă%}п                                          K;!""
+%<p1%>%<pl%>:%>%{Ă%}п%{Ă%}р                                    K;!""
+%<p2%>%<sg%>:%>%{Ă%}н                                          K;!""
+%<p2%>%<pl%>:%>%{Ă%}р                                          K;!""
+%<p3%>%<sg%>:%>%{ӗ%}                                           K;!""
+%<p3%>%<pl%>:%>%{ӗ%}ҫ                                          K;!""
+
+
+LEXICON V-TPRES
+
+%<pres%>:%>%{A%}т                                              V-PERS-PRES-REG ;!""          
+%<pres%>%<p2%>%<sg%>:%>%{Ă%}н                                  K;!""     пӗлӗн        уҫӑн    ! Dir/LR
+%<pres%>%<p3%>%<pl%>:%>%{A%}ҫҫӗ                                K;!""     пӗлеҫҫӗ      уҫаҫҫӗ
+
+%<neg%>%<pres%>:%>м%{A%}ст                                     V-PERS-PRES-REG ;!""
+%<neg%>%<pres%>%<p3%>%<pl%>:%>м%{A%}ҫҫӗ                        K;!""
+
+LEXICON V-TPAST
+
+%<past%>:%>%{T%}                                               V-PERS-PAST ;!""
+%<neg%>%<past%>:%>м%{A%}р                                      V-PERS-PAST;!""
+
+%<past%>%<evid%>:%>н%{Ă%}                                      K;!""
+%<neg%>%<past%>%<evid%>:%>м%{A%}н                              K;!""
+
+%<dur%>:%>%{A%}                                                V-PERS-DUR;!""
+%<neg%>%<dur%>:%>м%{A%}с                                       V-PERS-DUR;!""
 
 LEXICON V-TFUTU
 
-%<fut%>:                              V-PERS-FUT ;!""
-%<neg%>%<fut%>:%>м                    V-PERS-FUT ;!""
+%<fut%>:                                                       V-PERS-FUT ;!""
+%<neg%>%<fut%>:%>м                                             V-PERS-FUT ;!""
 
 LEXICON V-GPR
 
 ! FIXME: Here we are missing the -нни forms, which are -{х}{и}
 
-%<gpr_pres%>:%>%{A%}к%{A%}н           CLIT-COP; !""
-%<gpr_pres%>:%>%{A%}к%{A%}н           SUBST-SKER ;!""
+%<gpr_pres%>:%>%{A%}к%{A%}н                                    CLIT-COP; !""
+%<gpr_pres%>:%>%{A%}к%{A%}н                                    SUBST-SKER ;!""
+%<gpr_pres%>:%>%{A%}к%{A%}н%{ː%}%>%{х%}%{и%}%{н%}              SUBST ;!""
 %<neg%>%<gpr_pres%>:%>м%{A%}н         CLIT-COP;!""
 %<neg%>%<gpr_pres%>:%>м%{A%}н         SUBST;!""
 %<gpr_past%>:%>н%{Ă%}                 CLIT-COP ;!""
 %<gpr_past%>:%>н%{Ă%}                 SUBST-SKER ;!""
 %<neg%>%<gpr_past%>:%>м%{A%}н         CLIT-COP;!""
-%<neg%>%<gpr_past%>:%>м%{A%}н         SUBST;!""
+%<neg%>%<gpr_past%>:%>м%{A%}н         SUBST-SKER;!""
 %<gpr_fut%>:%>%{A%}с                  #;!""
 %<gpr_fut%>:%>%{A%}с%{ː%}             SUBST-SKER ;!""
 %<neg%>%<gpr_fut%>:%>м%{A%}с          #;!""
@@ -1093,7 +1110,6 @@ LEXICON Adjectives
 пӑр:пӑр            A2;!""
 парка:парка            A2;!""
 пӑртак:пӑртак            A2;!""
-пат:пат            A2;!""
 патвар:патвар            A2;!""
 пӑт-пат:пӑт-пат            A2;!""
 патшалӑх:патшалӑх            A2;!""
@@ -1577,7 +1593,6 @@ LEXICON Adjectives
 сарӑ:сарӑ                  A2 ; !""
 ылтӑн:ылтӑн                  A2 ; !""
 йӑнӑш:йӑнӑш                  A2 ; !""
-суя:суя                  A2 ; !""
 суя:суя                  A2 ; !""
 сӳпӗлти:сӳпӗлти                  A2 ; !""
 ҫулхи:ҫулхи                  A2 ; !""
@@ -2766,7 +2781,6 @@ LEXICON Adverbs
 парка:парка            ADV1 ; ! ""
 пӑртак:пӑртак            ADV1 ; ! ""
 паҫӑр:паҫӑр            ADV1 ; ! ""
-пат:пат            ADV1 ; ! ""
 патвар:патвар            ADV1 ; ! ""
 пӑт-пат:пӑт-пат            ADV1 ; ! ""
 пач:пач            ADV1 ; ! ""
@@ -3323,6 +3337,7 @@ LEXICON Nouns
 ҫурт:ҫурт                            N-ĔŞ ;       ! "дом"
 
 чух:чух                              N-ĔŞ ;       ! "" ! Cat/post
+пат:пат                              N-ĔŞ ;       ! "" ! Cat/post 
 
 авиаци:авиаци                          N;    ! ""
 автан:автан                          N-SUPĂN ;    ! ""
@@ -3447,7 +3462,7 @@ LEXICON Nouns
 !ал% лаппи:ал% лапп  N-COMPOUND-PX ;!""
 !ал% туни:ал% тун  N-COMPOUND-PX ;!""
 !ал% тымарӗ:ал% тымарӗ            N-COMPOUND-PX ;!""
-алӑ:ал%{ː%}ӑ            N;!""
+алӑ:ал%{ː%}ӑ            N;!"рука"
 алӑк% айӗ:алӑк% айӗ            N-COMPOUND-PX ;!""
 алӑк:алӑк            N-ĔŞ;!""
 алгебра:алгебр%{а%}            N;!""
@@ -10394,7 +10409,7 @@ LEXICON Verbs
 кил:кил                  V-IV;!""
 лар:лар                  V-IV;!""
 ҫывӑр:ҫывӑр                  V-IV;!""
-шутла:шутла                  V-TV;!""
+шутла:шутла                  V-TV;!"хотеть"
 пӗл:пӗл                  V-TV;!""
 юх:юх                  V-TV;!""
 
@@ -12176,7 +12191,6 @@ LEXICON Verbs
 шурлӑхлан:шурлӑхлан V-TV ; ! ""
 шутар:шутар V-TV ; ! ""
 шӳтер:шӳтер V-TV ; ! ""
-шутла:шутла V-TD ; ! ""
 шутлан:шутлан V-TV ; ! ""
 шутлаттар:шутлаттар V-TV ; ! ""
 шӳтле:шӳтле V-TD ; ! ""
@@ -14720,7 +14734,7 @@ LEXICON Proper
 Николай:Николай                        NP-ANT-M ; ! ""
 Алексей:Алексей                      NP-ANT-M ; ! ""
 Коля:Кол%{й%}я                        NP-ANT-M ; ! ""
-Микула:Микула                        NP ; ! ""
+Микула:Микул%{а%}                        NP-ANT-F ; ! ""
 Андрей:Андрей                        NP-ANT-M ; ! ""
 Дима:Дим%{а%}                        NP-ANT-M ; ! ""
 Дмитрий:Дмитрий                        NP-ANT-M ; ! ""
@@ -44453,6 +44467,7 @@ LEXICON DIGITLEX
 
 %<num%>:              # ; 
 %<num%>:%-           SUBST  ; ! 
+%<num%>%<ord%>:%>-мӗш # ; ! 
 %<num%>%<ord%>:%>-мӗш SUBST  ; ! 
 
 !%<num%>%<ord%>%<subst%>%<px3sp%>%<nom%>:%>-мӗш%>ӗ #  ; ! 

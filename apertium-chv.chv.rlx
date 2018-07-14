@@ -27,13 +27,16 @@ LIST Past/Evid = (past evid) ;
 
 LIST Nom = nom ;
 
-LIST Ger = ger ger_past ger6 ;
-
 LIST Pres = pres ; 
 
-LIST Func = subst attr advl ;
+LIST IV = iv ; 
+LIST TV = tv ; 
+
+LIST Pass = pass ; 
 
 LIST Attr = attr ;
+
+LIST Func = subst attr advl ;
 
 SECTION
 
@@ -41,7 +44,7 @@ SECTION
 REMOVE Func ; 
   ## 
 
-REMOVE Dat IF (0 Prop) (1 CC) (2 Prop) (NOT 2 Dat);
+SECTION
 
 SELECT Imper IF (0/* Ha) (1* Excl) ; 
 
@@ -51,3 +54,4 @@ SELECT Past/Evid IF (1 EOS) ;
 
 SELECT Nom IF (0C Nom OR Attr) (1 Px3Sg) ;
 
+REMOVE Pass IF (0 IV) ;
