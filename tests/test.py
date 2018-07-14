@@ -93,3 +93,8 @@ total = total_g + total_a
 print('PASS:\t%.2f%%' % ((corr/total)*100.0));
 print('GEN :\t%d\t%d\t%d' % (total_g, corr_g, err_g));
 print('ANAL:\t%d\t%d\t%d' % (total_a, corr_a, err_a));
+
+if corr == total:
+	sys.exit(0)
+else:
+	sys.exit(1)
