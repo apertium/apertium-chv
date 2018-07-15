@@ -486,6 +486,7 @@ LEXICON NUM-OVERSHORT
 ! Overshort form numerals, e.g. ик/улт
 
 %<num%>%<attr%>:                                               # "weight: 1.0" ;
+%<num%>%<dist%>:%>ш%{A%}р                                      CASE ; 
 
 
 LEXICON POST
