@@ -451,7 +451,11 @@ LEXICON NUM-ORD
 
 LEXICON NUM-COLL
 
-# ;
+                                                               CASE ;
+LEXICON NUM-DIST
+
+                                                               CASE ;
+
 
 LEXICON NUM-ROMAN 
 ! Roman numerals, напр. "VI" (улттăмĕш)
@@ -486,7 +490,7 @@ LEXICON NUM-OVERSHORT
 ! Overshort form numerals, e.g. ик/улт
 
 %<num%>%<attr%>:                                               # "weight: 1.0" ;
-%<num%>%<dist%>:%>ш%{A%}р                                      CASE ; 
+%<num%>%<dist%>:%>ш%{A%}р                                      NUM-DIST ; 
 
 
 LEXICON POST
