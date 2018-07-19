@@ -520,6 +520,10 @@ LEXICON CA
 %<cnjadv%>:                                                    #;
 
 
+LEXICON ADJ-COMP
+                                                               #;
+%<advl%>:                                                      #; ! Dir/RL
+
 LEXICON A1
 ! Adjectives which do not permit substantivisation or comparison,
 ! small class, check carefully.
@@ -534,8 +538,8 @@ LEXICON A2
 %<adj%>:                                                       SUBST-SKER ;
 %<adj%>%<advl%>:                                               K; ! Dir/RL
 
-%<adj%>%<comp%>:%>р%{A%}х                                      # ; 
-%<adj%>%<comp%>:%>т%{A%}р%{A%}х                                # "weight: 1.0" ; 
+%<adj%>%<comp%>:%>р%{A%}х                                      ADJ-COMP ; 
+%<adj%>%<comp%>:%>т%{A%}р%{A%}х                                ADJ-COMP "weight: 1.0" ; 
 
 ! Stems ending in -V or -C (but not -р, -л, -н) have -рAх
 ! Stems ending in -р have -тAрAх
