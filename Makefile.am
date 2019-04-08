@@ -25,7 +25,7 @@ TARGETS_COMMON =			\
 ###############################################################################
 
 .deps/spellrelax.hfst: dev/spellrelax.twol
-	test -d .deps || mkdir .deps
+	$(MKDIR_P) .deps
 	hfst-twolc $< -o $@
 
 .deps/$(LANG1).twol.hfst: $(BASENAME).$(LANG1).twol .deps/.d
