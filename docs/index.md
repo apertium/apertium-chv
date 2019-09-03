@@ -35,6 +35,37 @@
   * The word "атте-анне" *parents*
   * Irregular possessive forms
 
+## Examples and assignment rules
+
+* "Chuvash" words
+
+* "Russian" words
+  * Terminated in stressed vowel
+    * Terminated in stressed я
+      * тухья:тухья N ;
+    * Terminated in stressed о
+      * пальто:пальто N ;
+      * звено:звено N ;
+    * Terminated in stressed е
+      * шоссе:шоссе N ;
+    * Terminated in stressed и
+      * такси:такси%{й%} N-INFORMACI ;
+  * Terminated in unstressed vowel
+    * Terminated in unstressed я
+      * аллея:алле%{й%}я N ;
+      * стихия:стихи%{й%}я N ;
+    * Terminated in unstressed а
+      * литература:литератур%{а%} N ;
+    * Terminated in unstressed о
+      * барокко:барокк%{о%} N ;
+      * министерство:министерств%{о%} N ;
+    * Terminated in unstressed е
+      * кофе:коф%{е%} N ;
+      * платье:плать%{е%} N ;
+      * училище:училищ%{е%} N ;
+    * Terminated in unstressed й
+      * информаци:информаци%{й%} N-INFORMACI ;
+
 ## Archiphonemes 
 
 ## "Diacritics" 
