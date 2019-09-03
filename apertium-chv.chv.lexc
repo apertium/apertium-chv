@@ -291,10 +291,19 @@ LEXICON NP-COG-MF
 %<np%>%<cog%>%<mf%>:                                           NOMINAL ;
 
 LEXICON NP-COG-OB
-! 
 
 %<np%>%<cog%>%<m%>:                                            NOMINAL ;
 %<np%>%<cog%>%<f%>:%{а%}                                       NOMINAL ;
+
+LEXICON NP-COG-IJ
+
+%<np%>%<cog%>%<m%>:и%{й%}                                      NOMINAL ;
+%<np%>%<cog%>%<m%>%<nom%>:ий                                   K "weight: -1.0" ;
+%<np%>%<cog%>%<f%>:а%{й%}я                                     NOMINAL ;
+
+LEXICON NP-COG-ENKO
+
+%<np%>%<cog%>%<mf%>:{о%}                                       NOMINAL ;
 
 LEXICON NP-PAT-VICH
 ! For patronyms ending with -вич, напр. "Иванович"
@@ -320,6 +329,85 @@ LEXICON N-COMPOUND-PX
 %<n%>:                                                         POSS ;
 %<n%>%<pl%>:%>се%{м%}                                          POSS ;
 %<n%>%<attr%>:%>%{и%}%{н%}                                     # ;    ! Dir/RL
+
+LEXICON N-ĔŞ 
+! "Chuvash" words ending in consonant (except -н, -л)
+
+                                                               N ;
+%<n%>%<px2sg%>%<dat%>:%>н%{A%}                                 K "weight: 1.0" ;
+!%<n%>%<px3sp%>%<dat%>:%{ă%}%>н%{A%}                            K "weight: 1.0" ;
+
+LEXICON N-VLAÇ
+! Lexicon for words ending in -сть from Russian, in Chuvash all
+! non-nominative forms are based on the stem -ҫ, but the lemma
+! remains -сть, e.g. должность--дожноҫра
+
+%<n%>:ҫ                                                        NOMINAL ;
+%<n%>:ҫ%{ь%}                                                   NOMINAL ;         ! Dir/LR
+%<n%>%<attr%>:ҫ                                                # ;
+%<n%>%<nom%>:сть                                               # "weight: 1.0" ; 
+%<n%>%<attr%>:сть                                              # "weight: 1.0" ;
+%<n%>%<px2sg%>%<dat%>:ҫ%>н%{A%}                                K "weight: 1.0" ; 
+
+LEXICON N-SUPĂN
+! Lexicon for words with alternative locative in -рA (in addition to -TA).
+
+%<n%>:                                                         NOMINAL ;
+%<n%>%<attr%>:                                                 # ;
+%<n%>%<loc%>:%>р%{A%}                                          K "weight: 1.0" ; 
+%<n%>%<abl%>:%>р%{A%}н                                         K "weight: 1.0" ; 
+%<n%>%<px2sg%>%<dat%>:%>н%{A%}                                 K "weight: 1.0" ; 
+
+LEXICON N-RADIO
+
+%<n%>:%{в%}%{☭%}                                               NOMINAL ;
+%<n%>%<attr%>:                                                 # ;
+
+LEXICON N-TU
+! Lexicon for words like "ту" which have an epenthetic -в- and stem vowel
+! reduction.
+
+%<n%>:%{в%}                                                    NOMINAL ;
+%<n%>%<attr%>:                                                 # ;
+%<n%>%<px2sg%>%<dat%>:%{в%}%>н%{A%}                            K "weight: 1.0" ; 
+%<n%>%<px2sg%>%<dat%>:%{в%}%>н%{A%}                            K "weight: 1.0" ; 
+
+LEXICON N-YEN
+! This is for nouns with bare locative/ablative in -че/-чен 
+! напр. ен - енче/енчен
+
+                                                               N ;
+! The regular forms are optional.
+%<n%>%<loc%>:ре                                                K "weight: 1.0" ; ! Dir/LR
+%<n%>%<abl%>:рен                                               K "weight: 1.0" ; ! Dir/LR
+%<n%>%<loc%>%<attr%>:ри                                        # "weight: 1.0" ; ! Dir/LR
+%<n%>%<loc%>:ри                                                SUBST "weight: 1.0" ; ! Dir/LR
+
+LEXICON N-MUZEY
+! This is for Russian nouns ending in -ey (they accept suffixes with front and back vowels )
+! ("Chuvash" words ending in -ey are N-ĔŞ)
+
+                                                               N ;
+:{ъ%}                                                          N "weight: 1.0" ; ! Dir/LR
+
+LEXICON N-INFORMACI
+
+                                                               N ;
+! These are optional spoken/informal forms.
+%<n%>%<px2sg%>%<dat%>:%>н%{A%}                                 K "weight: 1.0" ;	! Dir/LR
+%<n%>%<px3sp%>%<dat%>:%{ă%}%>н%{A%}                            K "weight: 1.0" ;	! Dir/LR
+%<n%>%<px3sp%>%<loc%>:%>нче                                    K "weight: 1.0" ;           ! территоринче	! Dir/LR
+%<n%>%<px3sp%>%<loc%>:%>нчен                                   K "weight: 1.0" ;           ! территоринчен	! Dir/LR
+%<n%>%<px3sp%>%<loc%>%<attr%>:%>нчи                            K "weight: 1.0" ;           ! территоринчи	! Dir/LR
+%<n%>%<px3sp%>%<loc%>%<subst%>:%>нчи                           NOMINAL "weight: 1.0" ;     ! территоринчи	! Dir/LR
+
+
+LEXICON N-YĔP
+! Special case for word йӗп (Виноградовăн 2002 орфографи словарӗ)
+
+                                                               N ;
+%<n%>%<px3sp%>:%{ː%}%>%{и%}%{н%}                               PLURAL "weight: 1.0" ; ! йӗппи ! Dir/LR
+
 
 LEXICON POSS-ANNE 
 
@@ -363,87 +451,6 @@ LEXICON N-ATTEANNE
 
 %<n%>:                                                         POSS-ATTEANNE ; 
 
-LEXICON N-VLAÇ
-! Lexicon for words ending in -сть from Russian, in Chuvash all
-! non-nominative forms are based on the stem -ҫ, but the lemma
-! remains -сть, e.g. должность--дожноҫра
-
-%<n%>:ҫ                                                        NOMINAL ;
-%<n%>:ҫ%{ь%}                                                   NOMINAL ;         ! Dir/LR
-%<n%>%<attr%>:ҫ                                                # ;
-%<n%>%<nom%>:сть                                               # "weight: 1.0" ; 
-%<n%>%<attr%>:сть                                              # "weight: 1.0" ;
-%<n%>%<px2sg%>%<dat%>:ҫ%>н%{A%}                                K "weight: 1.0" ; 
-
-LEXICON N-SUPĂN
-! Lexicon for words with alternative locative in -рA (in addition to -TA).
-
-%<n%>:                                                         NOMINAL ;
-%<n%>%<attr%>:                                                 # ;
-%<n%>%<loc%>:%>р%{A%}                                          K "weight: 1.0" ; 
-%<n%>%<abl%>:%>р%{A%}н                                         K "weight: 1.0" ; 
-%<n%>%<px2sg%>%<dat%>:%>н%{A%}                                 K "weight: 1.0" ; 
-
-LEXICON N-RADIO
-
-%<n%>:%{в%}%{☭%}                                               NOMINAL ;
-%<n%>%<attr%>:                                                 # ;
-
-LEXICON N-TU
-! Lexicon for words like "ту" which have an epenthetic -в- and stem vowel
-! reduction.
-
-%<n%>:%{в%}                                                    NOMINAL ;
-%<n%>%<attr%>:                                                 # ;
-%<n%>%<px2sg%>%<dat%>:%{в%}%>н%{A%}                            K "weight: 1.0" ; 
-%<n%>%<px2sg%>%<dat%>:%{в%}%>н%{A%}                            K "weight: 1.0" ; 
-
-LEXICON N-YEN
-! This is for nouns with bare locative/ablative in -че/-чен 
-! напр. ен - енче/енчен
-
-%<n%>:                                                         NOMINAL ;
-%<n%>%<attr%>:                                                 # ;
-
-! The regular forms are optional.
-%<n%>%<loc%>:ре                                                K "weight: 1.0" ; ! Dir/LR
-%<n%>%<abl%>:рен                                               K "weight: 1.0" ; ! Dir/LR
-%<n%>%<loc%>%<attr%>:ри                                        # "weight: 1.0" ; ! Dir/LR
-%<n%>%<loc%>:ри                                                SUBST "weight: 1.0" ; ! Dir/LR
-
-LEXICON N-ĔŞ 
-
-%<n%>:                                                         NOMINAL ;
-%<n%>%<attr%>:                                                 # ;
-%<n%>%<px2sg%>%<dat%>:%>н%{A%}                                 K "weight: 1.0" ;
-!%<n%>%<px3sp%>%<dat%>:%{ă%}%>н%{A%}                            K "weight: 1.0" ;
-
-LEXICON N-INFORMACI
-
-%<n%>:                                                         NOMINAL ;
-%<n%>%<attr%>:                                                 # ;
-
-! These are optional spoken/informal forms.
-%<n%>%<px2sg%>%<dat%>:%>н%{A%}                                 K "weight: 1.0" ;	! Dir/LR
-%<n%>%<px3sp%>%<dat%>:%{ă%}%>н%{A%}                            K "weight: 1.0" ;	! Dir/LR
-%<n%>%<px3sp%>%<loc%>:%>нче                                    K "weight: 1.0" ;           ! территоринче	! Dir/LR
-%<n%>%<px3sp%>%<loc%>:%>нчен                                   K "weight: 1.0" ;           ! территоринчен	! Dir/LR
-%<n%>%<px3sp%>%<loc%>%<attr%>:%>нчи                            K "weight: 1.0" ;           ! территоринчи	! Dir/LR
-%<n%>%<px3sp%>%<loc%>%<subst%>:%>нчи                           NOMINAL "weight: 1.0" ;     ! территоринчи	! Dir/LR
-
-
-LEXICON N-YĔP
-! Special case for word йӗп (Виноградовăн 2002 орфографи словарӗ)
-
-%<n%>:                                                         NOMINAL ;
-%<n%>%<px3sp%>:%{ː%}%>%{и%}%{н%}                               PLURAL "weight: 1.0" ; ! йӗппи ! Dir/LR
-
-
-
-LEXICON NP-ZOLOTNICKIJ
-
-%<np%>%<cog%>%<mf%>:%{й%}                                      NOMINAL ;
-%<np%>%<cog%>%<mf%>%<nom%>:й                                   K "weight: -1.0" ;
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
@@ -6764,8 +6771,9 @@ LEXICON Nouns
 лаша:лаша                            N ;          ! ""
 май:май                              N-ĔŞ ;       ! "май"
 металл:металл%{ъ%}                        N-ĔŞ ;       ! "металл"
-музей:музей                          N ;          ! "музей"
-музей:музей%{ъ%}                     N "weight: 1.0" ; ! "музей"
+музей:музей                          N-MUZEY ;          ! "музей"
+!музей:музей                          N ;          ! "музей"
+!музей:музей%{ъ%}                     N "weight: 1.0" ; ! "музей"
 няня:нян%{й%}я                       N ;          ! ""               !АЛЕРТ(я)
 проспект:проспект%{ъ%}               N-ĔŞ ;       ! "проспект"
 пулӑ:пул%{ː%}ӑ                       N ;          ! ""
@@ -6911,7 +6919,7 @@ LEXICON Nouns
 аргон:аргон            N-ĔŞ ;!""
 арлан:арлан            N-ĔŞ;!""
 арман:арман            N-ĔŞ ;!""
-армути:армути            N-RADIO;!""
+армути:армути%{й%}            N-INFORMACI ;!""
 арҫын:арҫын%{ː%}            N-ĔŞ ;!""
 ӑру:ӑру            N-TU;!""
 архипелаг:архипелаг            N-ĔŞ ;!""
@@ -10002,7 +10010,6 @@ LEXICON Nouns
 сюита:сюит%{а%}  N ; ! ""
 табак:табак N-ĔŞ ; ! ""
 таган:таган N-ĔŞ ; ! ""
-такси:такси  N ; ! "" ! FIXME таксие
 тактика:тактик%{а%}  N ; ! ""
 тал:тал N-ĔŞ ; ! ""
 талант:талант N-ĔŞ ; ! ""
@@ -14413,6 +14420,8 @@ LEXICON Nouns
 нравственность:нравственно N-VLAÇ; ! src: Chuvash wordlist ""
 разность:разно N-VLAÇ; ! src: Chuvash wordlist ""
 специальность:специально N-VLAÇ; ! src: Chuvash wordlist ""
+
+! xxxxxxxxxxxxxxxxxxxxxxxx
 
 !testpool
 
@@ -27414,7 +27423,7 @@ LEXICON Proper
 Зиятдинов:Зиятдинов     NP-COG-OB;!""
 Зов:Зов     NP-COG-OB;!""
 Золотарев:Золотарев     NP-COG-OB;!""
-Золотницкий:Золотницки               NP-ZOLOTNICKIJ ; ! ""
+Золотницкий:Золотницк               NP-COG-IJ ; ! ""
 Золотов:Золотов     NP-COG-OB;!""
 Золотухин:Золотухин     NP-COG-OB;!""
 Зорин:Зорин     NP-COG-OB;!""
@@ -27454,7 +27463,7 @@ LEXICON Proper
 Иваев:Иваев     NP-COG-OB;!""
 Иванков:Иванков     NP-COG-OB;!""
 Иванов:Иванов     NP-COG-OB;!""
-Ивановский:Ивановски    NP-ZOLOTNICKIJ;!""
+Ивановский:Ивановск    NP-COG-IJ;!""
 Иванцов:Иванцов     NP-COG-OB;!""
 Ивашев:Ивашев     NP-COG-OB;!""
 Ивашкин:Ивашкин     NP-COG-OB;!""
@@ -28744,7 +28753,7 @@ LEXICON Proper
 Нарбеков:Нарбеков     NP-COG-OB;!""
 Нариманов:Нариманов     NP-COG-OB;!""
 Наркотиков:Наркотиков     NP-COG-OB;!""
-Народецкий:Народецки    NP-ZOLOTNICKIJ;!""
+Народецкий:Народецк    NP-COG-IJ;!""
 Нарусов:Нарусов     NP-COG-OB;!""
 Нарыков:Нарыков     NP-COG-OB;!""
 Нарымбаев:Нарымбаев     NP-COG-OB;!""
@@ -30593,10 +30602,14 @@ LEXICON Proper
 Яхъяев:Яхъяев     NP-COG-OB;!""
 Яшин:Яшин     NP-COG-OB;!""
 
-Хусанкай:Хусанкай     NP-COG-OB;!"" 		???
-Хузангай:Хузангай     NP-COG-OB;!"" 		???
-Ҫӗҫпӗл:Ҫӗҫпӗл     NP-COG-OB;!"" 		???
-Московский:Московски  NP-ZOLOTNICKIJ ; ! ""
+Хузангай:Хузангай     NP-COG-OB;!"" 		FIXME
+Ҫӗҫпӗл:Ҫӗҫпӗл     NP-COG-OB;!"" 		FIXME
+Московский:Московск  NP-COG-IJ ; ! ""
+Стоменский:Стоменск  NP-COG-IJ ; ! ""
+Тимошенко:Тимошенк  NP-COG-ENKO ; ! ""
+Предаченко:Предаченк  NP-COG-ENKO ; ! ""
+Тихоненко:Тихоненк  NP-COG-ENKO ; ! ""
+Черненко:Черненк  NP-COG-ENKO ; ! ""
 
 
 !Ant
