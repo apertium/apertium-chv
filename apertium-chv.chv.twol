@@ -107,11 +107,14 @@ Rules
 
 !@ в ӑ й {ː}:й ӑ:0 >:0 {N}:0 {A}:а
 
+!@ м у з е й:0 {ъ}:0 >:0 {N}:0 {A}:я
+
 "Back vowel harmony for yotised {A}"
-%{A%}:я <=> [ UnderBack: | BackVow | :BackVow ] [ :Cns | :0 ]* й:0 %>: [ :Cns | :0 ]*  _ ; 
+%{A%}:я <=> [ UnderBack: | BackVow | :BackVow ] [ :Cns | :0 ]* й:0  %>: [ :Cns | :0 ]*  _ ;
+                                                         й:0 %{ъ%}: %>: [ :Cns | :0 ]*  _ ;
         except 
                                                           _ %>: %{и%}: %{н%}: [ %>: %{N%}: %{A%}: | %>: :Cns | .#. ] ; ! ger
-                                                           [ %{T%}: | р ] _ %>: %{х%}:0 ; ! loc.attr
+                                           [ %{T%}: | р ] _ %>: %{х%}:0 ; ! loc.attr
 
 !@ ч е й:0 >:0 {N}:0 {A}:е
 
@@ -119,15 +122,18 @@ Rules
 
 !@ х у т ш ӑ н >:0 {A}:а й:0 >:0 {A}:я т {ԁ}:ь
 
+!@ м у з е й:0 {ъ}:0 >:0 {N}:0 {A}:я
+
 "Back vowel harmony for unyotised {A}"
-%{A%}:а <=> [ UnderBack: | BackVow | :BackVow ] [ :Cns | :0 ]* %>: [ :Cns | :0 ]*  _ ; 
+%{A%}:а <=> [ UnderBack: | BackVow | :BackVow ] [ :Cns | :0 ] * %>: [ :Cns | :0 ]*  _ ;
                         [ ArchiBack: | UnderBack: ] %>: [ :Cns | :0 ]*  _ ; 
                              :BackVow [ :Cns | :0 ]* %>: [ :Cns | :0 ]* _ ;
                                                :BackVow [ :Cns | :0 ]*  _ ;
       except 
           [ UnderFront: | FrontVow ] [ :Cns | [ :0 - ArchiBack: - UnderBack: ] ]* %>: [ :Cns | :0 ]*  _ ; 
                                    [ д | н | л ] ь: %>: [ :Cns | :0 ]*  _ ;
-                                                й:0 %>: [ :Cns | :0 ]*  _ ; 
+                                               й:0  %>: [ :Cns | :0 ]*  _ ;
+                                         й:0 %{ъ%}: %>: [ :Cns | :0 ]*  _ ;
                                                   %{и%}: [ :Cns | :0 ]* _ ;
                                                                         _ %>: %{и%}: %{н%}: [ %>: %{N%}: %{A%}: | %>: :Cns | .#. ] ; ! ger
                                                            [ %{T%}: | р ] _ %>: %{х%}:0 ; ! loc.attr
