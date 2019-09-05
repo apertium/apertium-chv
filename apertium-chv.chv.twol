@@ -125,7 +125,7 @@ Rules
 !@ м у з е й:0 {ъ}:0 >:0 {N}:0 {A}:я
 
 "Back vowel harmony for unyotised {A}"
-%{A%}:а <=> [ UnderBack: | BackVow | :BackVow ] [ :Cns | :0 ] * %>: [ :Cns | :0 ]*  _ ;
+%{A%}:а <=> [ UnderBack: | BackVow | :BackVow ] [ :Cns | :0 ]* %>: [ :Cns | :0 ]*  _ ;
                         [ ArchiBack: | UnderBack: ] %>: [ :Cns | :0 ]*  _ ; 
                              :BackVow [ :Cns | :0 ]* %>: [ :Cns | :0 ]* _ ;
                                                :BackVow [ :Cns | :0 ]*  _ ;
