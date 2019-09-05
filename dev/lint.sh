@@ -1,5 +1,5 @@
 
-n_fail=`sh dev/check-multichars.sh | tee /tmp/lint-fail.0 | wc -l`;
+n_fail=`bash dev/check-multichars.sh | tee /tmp/lint-fail.0 | wc -l`;
 ex_fail=`head -3 /tmp/lint-fail.0 | sed 's/ //g' | cut -f1 -d'!' | tr '\n' '\t'`;
 echo -e "$n_fail\tmissing multi\t$ex_fail";
 
