@@ -16260,6 +16260,8 @@ LEXICON Nouns
 японец:японец N-IZM; ! src: Chuvash wordlist ""
 ящер:ящер N-IZM; ! src: Chuvash wordlist ""
 
+мозаика:мозаик%{а%} N ; ! "моза́ика"
+
 ! xxxxxxxxxxxxxxxxxxxxxxxx
 
 !testpool
