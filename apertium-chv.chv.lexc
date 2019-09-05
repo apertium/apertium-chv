@@ -212,7 +212,7 @@ LEXICON CASE-NONOM
 %<all%>:%>%{A%}лл%{A%}                                         K          ; 
 %+сӑр%<post%>:%>с%{Ă%}р                                        K "weight: 1.0" ;
 %+лӑ%<post%>:%>л%{Ă%}                                          K "weight: 1.0" ;
-%+ччен%<post%>:%>ччен                                          K          ; ! FIXME: Check
+%+ччен%<post%>:%>%{ч%}чен                                      K          ; ! FIXME: Check
 
 LEXICON CASE 
 
