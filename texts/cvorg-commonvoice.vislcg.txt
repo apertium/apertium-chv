@@ -11,7 +11,7 @@
 "<браузера>"
 	"браузер" n dat @obj #4->5
 "<хатӗрлекенсем>"
-	"хатӗрле" v tv gpr_pres subst pl nom @nsubj #5->9
+	"хатӗрле" v tv gpr_pres subst pl nom @csubj #5->9
 "<ҫӗнӗ>"
 	"ҫӗнӗ" adj @amod #6->7
 "<хатӗре>"
