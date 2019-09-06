@@ -294,8 +294,8 @@ Vx:0 <=> :Vow [ :0 ]* %>: _  ;
 %{ː%}:Cx <=> Cx _ [ :0 ]* %>: ;
              Cx _ :Vow %>: ;
       except
-            _ %>: [ %{T%}: | р | п | ш  | %{л%}: ] ; ! locative, ins, ter
-            _ :Vow %>: [ %{T%}: | р | п | ш  | %{л%}: ] ; ! locative, ins, ter
+            _ %>: [ %{T%}: | р | п | ш  | %{л%}: | %{ч%}: ] ; ! locative, ins, ter, all
+            _ :Vow %>: [ %{T%}: | р | п | ш  | %{л%}: | %{ч%}: ] ; ! locative, ins, ter, all
             _ (:Vow) %>: с ;              ! plural
       where Cx in Cns  ;
 
