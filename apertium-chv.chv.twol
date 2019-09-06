@@ -647,7 +647,7 @@ Cx:ч <=> \Cx _ (ь: ) [ :0 ]* %>: %{и%}:ӗ ;        ! doesn't apply when dupli
 
 "Realisation of plural {м}"
 %{м%}:м <=> _ .#. ;           ! Nominative
-            _ %>: [ п | ш ] ; ! Instrumental, Terminative
+            _ %>: [ п | ш | с ] ; ! Instrumental, Terminative, Abessive
 
 "Realisation of plural {м} as oblique"
 %{м%}:н <=> _ %>: %{T%}: ;
