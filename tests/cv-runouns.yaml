@@ -13,8 +13,8 @@ Tests:
     стена<n><loc> : стенара
     стена<n><abl> : стенаран
     стена<n><ins> : стенапа
-    стена<n><abe> : стенасӑр
-    стена<n><term> : стенашӑн
+    стена<n>+сӑр<post> : стенасӑр
+    стена<n><ter> : стенашӑн
 
   "Russian nouns that have reduced back vowels":
     сцена<n><nom> : сцена
@@ -23,8 +23,8 @@ Tests:
     сцена<n><loc> : сценӑра
     сцена<n><abl> : сценӑран
     сцена<n><ins> : сценӑпа
-    сцена<n><abe> : сценӑсӑр
-    сцена<n><term> : сценӑшӑн
+    сцена<n>+сӑр<post> : сценӑсӑр
+    сцена<n><ter> : сценӑшӑн
 
   "Russian nouns with blocked vowel harmony":
     музей<n><nom> : музей
@@ -33,8 +33,8 @@ Tests:
     музей<n><loc> : музейра
     музей<n><abl> : музейран
     музей<n><ins> : музейпа
-    музей<n><abe> : музейсӑр
-    музей<n><term> : музейшӑн
+    музей<n>+сӑр<post> : музейсӑр
+    музей<n><ter> : музейшӑн
 
   "Russian nouns that have reduced front vowels":
     училище<n><nom> : училище
@@ -43,8 +43,8 @@ Tests:
     училище<n><loc> : училищӗре
     училище<n><abl> : училищӗрен
     училище<n><ins> : училищӗпе
-    училище<n><abe> : училищӗсӗр
-    училище<n><term> : училищӗшӗн
+    училище<n>+сӑр<post> : училищӗсӗр
+    училище<n><ter> : училищӗшӗн
 
   "Russian nouns with reduced back vowels and ь":
     Петя<np><ant><m><nom> : Петя
@@ -53,8 +53,8 @@ Tests:
     Петя<np><ant><m><loc> : Петьӑра
     Петя<np><ant><m><abl> : Петьӑран
     Петя<np><ant><m><ins> : Петьӑпа
-    Петя<np><ant><m><abe> : Петьӑсӑр
-    Петя<np><ant><m><term> : Петьӑшӑн
+    Петя<np><ant><m>+сӑр<post> : Петьӑсӑр
+    Петя<np><ant><m><ter> : Петьӑшӑн
 
   "Russian nouns with reduced front vowels and ь":
     платье<n><nom> : платье
@@ -63,5 +63,5 @@ Tests:
     платье<n><loc> : платйӗре
     платье<n><abl> : платйӗрен
     платье<n><ins> : платйӗпе
-    платье<n><abe> : платйӗсӗр
-    платье<n><term> : платйӗшӗн
+    платье<n>+сӑр<post> : платйӗсӗр
+    платье<n><ter> : платйӗшӗн
