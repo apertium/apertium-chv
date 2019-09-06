@@ -13265,7 +13265,7 @@ LEXICON Nouns
 лесоводство:лесоводств%{о%} N; ! src: Chuvash wordlist ""
 лютеранство:лютеранств%{о%} N; ! src: Chuvash wordlist ""
 местничество:местничеств%{о%} N; ! src: Chuvash wordlist ""
-министерство:министерств%{о%} N; ! src: Chuvash wordlist ""
+!министерство:министерств%{о%} N; ! src: Chuvash wordlist ""  DUPLICATE
 наместничество:наместничеств%{о%} N; ! src: Chuvash wordlist ""
 народничество:народничеств%{о%} N; ! src: Chuvash wordlist ""
 обстоятельство:обстоятельств%{о%} N; ! src: Chuvash wordlist ""

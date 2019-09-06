@@ -336,6 +336,7 @@ Vx:0 <=> _ %>: %{и%}: ; ! possessive
 "Stem vowel reduction before suffix"
 Vx:Vy <=> _ %>: [ %{N%}: | %{T%}: | %{л%}: | р | п | ш ] ; ! dat,loc,abl,ins,ter
           _ %>: с ;  ! plural
+          _ %>: %{ч%}: ;  ! ччен
       except 
           _ [ :0 - й: ]* %>: %{U%}: ; ! px2sg
       where Vx in ( %{а%} %{о%} %{е%} ) 
