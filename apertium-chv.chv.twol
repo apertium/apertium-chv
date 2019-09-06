@@ -360,6 +360,7 @@ Cx:0 <=> Cx _ [ :0 ]* %>: [ %{N%}: | %{T%}: | р | п | ш ] ; ! dat, loc, abl, 
          Cx _ ([ %{ь%}: | %{ъ%}: ]) %>: %{Ĕ%}:  ; ! possessive
          Cx _ ([ %{ь%}: | %{ъ%}: ]) %>: %{U%}:  ; ! possessive
          Cx _ ([ %{ь%}: | %{ъ%}: ]) %>: н %{A%}:  ; ! optional dative
+! TODO: -ччен  ?
       except
              .#. а ш _ %>: ;  ! Irregular form of атте
              .#. а н _ %>: ;  ! Irregular form of анне
@@ -389,7 +390,8 @@ Cx:0 <=> Cx _ [ :0 ]* %>: [ %{N%}: | %{T%}: | р | п | ш ] ; ! dat, loc, abl, 
 !@ к и н о {в}:0 {☭}:0 >:0 {N}:н {A}:а
 
 "{в} doesn't surface before some suffixes"
-%{в%}:0 <=> _ %>: [ %{T%}: %{A%}: | р %{A%}: | ш %{Ă%}: | м %{A%}: | н %{Ă%}: | %{A%}: [ т | к ] ] ;  ! Locative, abl, ter, neg, past, pres
+%{в%}:0 <=> _ %>: [ %{T%}: %{A%}: | р %{A%}: | ш %{Ă%}: | м %{A%}: | н %{Ă%}:  ] ;  ! Locative, abl, ter, neg, past
+!            _ %>: %{A%}: [ т | к ] ;  ! pres
             _ ([ :0 - %{☭%}: ]) %>: с ;  ! Plural
             _ ([ :0 - %{☭%}: ]) %>: п ; ! ins
             _ ([ :0 - %{☭%}: ]) .#. ; 
@@ -397,6 +399,8 @@ Cx:0 <=> Cx _ [ :0 ]* %>: [ %{N%}: | %{T%}: | р | п | ш ] ; ! dat, loc, abl, 
 !@ т у {в}:0 >:0 {T}:р {A}:а
 
 !@ т у {в}:0 >:0 м {A}:а >:0 с {A}:а н
+
+!@ т у:ӑ {в}:в >:0 {A}:а т >:0 {Ă}:ӑ п
 
 
 "Vowel reduction for high vowels before {в}"
