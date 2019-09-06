@@ -103,3 +103,20 @@ Tests:
     ту<n><px2pl><pl><ins> :  тӑвӑрсемпе 
     ту<n><px2pl><pl><abe> :  тӑвӑрсемсӗр 
     ту<n><px2pl><pl><ben> :  тӑвӑрсемшӗн
+
+  "Forms of verb ту":
+    ту<v><tv><pres><p1><sg> : тӑватӑп
+    ту<v><tv><pres><p2><sg> : тӑватӑн
+    ту<v><tv><pres><p3><sg> : тӑвать
+    ту<v><tv><pres><p1><pl> : тӑватпӑр
+    ту<v><tv><pres><p2><pl> : тӑватӑр
+    ту<v><tv><pres><p3><pl> : тӑваҫҫӗ
+    ту<v><tv><fut><p1><sg> : тӑвӑп
+    ту<v><tv><fut><p2><sg> : тӑвӑн
+    ту<v><tv><fut><p3><sg> : тӑвӗ
+    ту<v><tv><fut><p1><pl> : тӑвӑпӑр
+    ту<v><tv><fut><p2><pl> : тӑвӑр
+    ту<v><tv><fut><p3><pl> : тӑвӗҫ
+    ту<v><tv><imp><p3><sg> : тутӑр
+    ту<v><tv><imp><p2><pl> : тӑвӑр
+    ту<v><tv><imp><p3><pl> : туччӑр
