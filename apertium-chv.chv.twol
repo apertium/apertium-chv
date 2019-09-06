@@ -17,6 +17,7 @@ Alphabet
  %{в%}:в %{в%}:0
  %{р%}:р %{р%}:0
  %{ч%}:ч %{ч%}:0
+ %{л%}:л %{л%}:0
  %{ӗ%}:ӗ
  %{х%}:0 
  %{ъ%}:0 
@@ -51,7 +52,7 @@ ForceHarmony = %{ъ%} %{ь%} ;
 
 Vow = ӑ а ы о у я ё ю ӗ э и ӳ е ;
 
-ArchiCns = %{м%} %{н%} %{T%} %{й%} %{ː%} %{N%} %{в%} ;
+ArchiCns = %{м%} %{н%} %{T%} %{й%} %{ː%} %{N%} %{в%} %{л%} ;
 
 Cns = б в г д ж з к л м н п р с ҫ т ф х ц ч ш щ й ; 
 
@@ -293,8 +294,8 @@ Vx:0 <=> :Vow [ :0 ]* %>: _  ;
 %{ː%}:Cx <=> Cx _ [ :0 ]* %>: ;
              Cx _ :Vow %>: ;
       except
-            _ %>: [ %{T%}: | р | п | ш ] ; ! locative, ins, ter
-            _ :Vow %>: [ %{T%}: | р | п | ш ] ; ! locative, ins, ter
+            _ %>: [ %{T%}: | р | п | ш  | %{л%}: ] ; ! locative, ins, ter
+            _ :Vow %>: [ %{T%}: | р | п | ш  | %{л%}: ] ; ! locative, ins, ter
             _ (:Vow) %>: с ;              ! plural
       where Cx in Cns  ;
 
@@ -333,7 +334,7 @@ Vx:0 <=> _ %>: %{и%}: ; ! possessive
       where Vx in ( %{а%} %{о%} %{е%} )  ;
 
 "Stem vowel reduction before suffix"
-Vx:Vy <=> _ %>: [ %{N%}: | %{T%}: | р | п | ш ] ; ! dat,loc,abl,ins,ter
+Vx:Vy <=> _ %>: [ %{N%}: | %{T%}: | %{л%}: | р | п | ш ] ; ! dat,loc,abl,ins,ter
           _ %>: с ;  ! plural
       except 
           _ [ :0 - й: ]* %>: %{U%}: ; ! px2sg
@@ -346,6 +347,8 @@ Vx:Vy <=> _ %>: [ %{N%}: | %{T%}: | р | п | ш ] ; ! dat,loc,abl,ins,ter
 !! л и т е р а т у р {а}:ӑ > {N} {A}
 
 !@ с т е н а:а >:0 {N}:н {A}:а
+
+!@ м и н и с т е р с т в {о}:ӑ >:0 {л}:л л {Ă}:ӑ 
 
 "Consonant shortening before suffix"
 Cx:0 <=> Cx _ [ :0 ]* %>: [ %{N%}: | %{T%}: | р | п | ш ] ; ! dat, loc, abl, ins, ter, dat
@@ -443,6 +446,7 @@ Vx:Vy <=> _ %{в%}:в %>: [ %{и%}: %{н%}: | %{N%}: %{A%}: | н %{A%}: ] ;
                 _ ( :YotisedVow) [ :0 ]* .#. ;
                 _ %>: %{Ă%}: н ; ! genitive
                 _ %>:  ш   ; ! ter, ins
+                _ %>:  %{л%}:   ; ! all
                 _ %>:  с %{Ă%}: р   ; ! abe
                 _ :YotisedVow [ :0 ]* %>:  ;
                 _ :YotisedVow %{в%}: ; ! менювӗ
@@ -476,6 +480,7 @@ Vx:ӑ <=> %{й%}: _ (%{в%}: ) %>: %{N%}: %{A%}: ;  ! dative
          %{й%}: _  %>: с  ;  ! plural
          %{й%}: _  %>: п  ;  ! instrumental 
          %{й%}: _  %>: %{T%}:  ;  ! locative
+         %{й%}: _  %>: %{л%}:  ;  ! allative
          %{й%}: _  %>: ш  ;  ! term.
          %{й%}: _ (%{в%}: ) %>: %{Ă%}:  ;  ! genitive
          %{й%}: _ (%{в%}: ) %>: %{ă%}:  ;  ! px1sg
@@ -633,6 +638,9 @@ Cx:ч <=> \Cx _ (ь: ) [ :0 ]* %>: %{и%}:ӗ ;        ! doesn't apply when dupli
 %{м%}:н <=> _ %>: %{T%}: ;
 
 !@ ч ӗ р ӗ п >:0 с е {м}:н >:0 {T}:ч {A}:е
+
+"Realisation of {л} in allative"
+%{л%}:л <=> :Vow (:0) %>: _ ; 
 
 "Orthographic detail for и with иу to ю"
 и:0 <=> _ о: %{в%}: %{☭%}: %>: %{U%}: ; 
