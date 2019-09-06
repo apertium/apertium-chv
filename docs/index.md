@@ -49,7 +49,7 @@
     * Terminated in stressed е
       * шоссе:шоссе N ;
     * Terminated in stressed и
-      * такси:такси%{й%} N-INFORMACI ;
+      * такси:такси N-INFORMACI ;
   * Terminated in unstressed vowel
     * Terminated in unstressed я
       * аллея:алле%{й%}я N ;
@@ -63,8 +63,8 @@
       * кофе:коф%{е%} N ;
       * платье:плать%{е%} N ;
       * училище:училищ%{е%} N ;
-    * Terminated in unstressed й
-      * информаци:информаци%{й%} N-INFORMACI ;
+    * Terminated in unstressed и
+      * информаци:информаци N-INFORMACI ;
 
 ## Archiphonemes 
 
