@@ -61,6 +61,8 @@ Multichar_Symbols
 %<pres%>                             ! "настоящее"
 %<past%>                             !"прошедшее простое"
 %<dur%>                              ! 
+%<plu%>                              !"pluperfect, давнопрошедшее, малтан иртнӗ"
+%<prep%>                             !"past repetitive, темиҫе иртнӗ"
 %<opt%>
 %<imp%>                              ! Повелительное
 %<fut%>				     !"будущее "
@@ -225,7 +227,6 @@ LEXICON CLIT-POLIT
 LEXICON CLIT-COP 
 
 %+ӗ%<cop%>%<ifi%>:%>%{ч%}чӗ                                    K ; 
-
                                                                K ;
 
 LEXICON CASE-NONOM
@@ -363,7 +364,7 @@ LEXICON N-COMPOUND-PX
 ! in the lexicon, e.g. "ача пахчи".
 
 %<n%>:                                                         PLURAL ;
-!%<n%>%<pl%>:%>се%{м%}                                          POSS ;
+!%<n%>%<pl%>:%>се%{м%}                                         POSS ;
 %<n%>%<attr%>:%>%{и%}%{н%}                                     # ;    ! Dir/RL
 
 LEXICON N-COMPOUND-PX-PL
@@ -668,6 +669,36 @@ LEXICON V-PERS-PAST
 %<p3%>%<sg%>:%>ӗ                                               K;!""
 %<p3%>%<pl%>:%>ӗҫ                                              K;!""
 
+LEXICON V-PERS-PLU
+
+%<p1%>%<sg%>:%>с%{A%}тт%{Ă%}м                                  CLIT-COP;!""	! Сергеев, Андреева, Котлеев 2012: 367
+%<p1%>%<pl%>:%>с%{A%}тт%{Ă%}м%{Ă%}р                            CLIT-COP;!""
+%<p2%>%<sg%>:%>с%{A%}тт%{Ă%}н                                  CLIT-COP;!""
+%<p2%>%<pl%>:%>с%{A%}тт%{Ă%}р                                  CLIT-COP;!""
+%<p3%>%<sg%>:%>с%{A%}чч%{ӗ%}                                   CLIT-COP;!""
+%<p3%>%<pl%>:%>с%{A%}чч%{ӗ%}ҫ                                  CLIT-COP;!""
+
+
+LEXICON V-PERS-PREP
+
+%<p1%>%<sg%>:%>%{A%}тт%{Ă%}м                                   K;!""	! Сергеев, Андреева, Котлеев 2012: 365
+%<p1%>%<pl%>:%>%{A%}тт%{Ă%}м%{Ă%}р                             K;!""
+%<p2%>%<sg%>:%>%{A%}тт%{Ă%}н                                   K;!""
+%<p2%>%<pl%>:%>%{A%}тт%{Ă%}р                                   K;!""
+%<p3%>%<sg%>:%>%{A%}тч%{ӗ%}                                    K;!""
+%<p3%>%<pl%>:%>%{A%}тч%{ӗ%}ҫ                                   K;!""
+
+
+LEXICON V-PERS-PREP-NEG
+
+%<p1%>%<sg%>:%>т%{Ă%}м                                         K;!""	! Сергеев, Андреева, Котлеев 2012: 365
+%<p1%>%<pl%>:%>т%{Ă%}м%{Ă%}р                                   K;!""
+%<p2%>%<sg%>:%>т%{Ă%}н                                         K;!""
+%<p2%>%<pl%>:%>т%{Ă%}р                                         K;!""
+%<p3%>%<sg%>:%>тч%{ӗ%}                                         K;!""
+%<p3%>%<pl%>:%>тч%{ӗ%}ҫ                                        K;!""
+
+
 LEXICON V-PERS-DUR
 
 %<p1%>%<sg%>:тт%{Ă%}м                                          K;!""
@@ -716,6 +747,16 @@ LEXICON V-TPAST
 
 %<dur%>:%>%{A%}                                                V-PERS-DUR;!""
 %<neg%>%<dur%>:%>м%{A%}с                                       V-PERS-DUR;!""
+
+LEXICON V-TPLU
+
+%<plu%>:                                                       V-PERS-PLU ;!""
+%<neg%>%<plu%>:%>м%{A%}                                        V-PERS-PLU;!""
+
+LEXICON V-TPREP
+
+%<prep%>:                                                      V-PERS-PREP ;!""
+%<neg%>%<prep%>:%>м%{A%}с                                      V-PERS-PREP-NEG;!""
 
 LEXICON V-TFUTU
 
@@ -826,6 +867,8 @@ LEXICON V-FIN
 
    V-TPRES;
    V-TPAST;
+   V-TPLU;
+   V-TPREP;
    V-TFUTU;
    V-TCOND;
    V-OPT;
