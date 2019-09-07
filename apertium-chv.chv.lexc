@@ -65,6 +65,7 @@ Multichar_Symbols
 %<imp%>                              ! Повелительное
 %<fut%>				     !"будущее "
 %<ifi%>                              ! 
+%<cond%>			     !"ӗмӗт наклоненийӗ "
 
 %<pl%>                               !Множественное число
 %<sg%>                               !Единственное
@@ -658,6 +659,16 @@ LEXICON V-PERS-FUT
 %<p3%>%<pl%>:%>%{ӗ%}ҫ                                          K;!""
 
 
+LEXICON V-PERS-COND
+
+%<p1%>%<sg%>:%>%{Ă%}тт%{Ă%}м                                   K;!""	! Сергеев, Андреева, Котлеев 2012: 372
+%<p1%>%<pl%>:%>%{Ă%}тт%{Ă%}м%{Ă%}р                             K;!""
+%<p2%>%<sg%>:%>%{Ă%}тт%{Ă%}н                                   K;!""
+%<p2%>%<pl%>:%>%{Ă%}тт%{Ă%}р                                   K;!""
+%<p3%>%<sg%>:%>%{ӗ%}ҫҫ%{ӗ%}                                    K;!""
+%<p3%>%<pl%>:%>%{ӗ%}ҫҫ%{ӗ%}ҫ                                   K;!""
+
+
 LEXICON V-TPRES
 
 %<pres%>:%>%{A%}т                                              V-PERS-PRES-REG ;!""          
@@ -682,6 +693,11 @@ LEXICON V-TFUTU
 
 %<fut%>:                                                       V-PERS-FUT ;!""
 %<neg%>%<fut%>:%>м                                             V-PERS-FUT ;!""
+
+LEXICON V-TCOND
+
+%<cond%>:                                                      V-PERS-COND ;!""
+%<neg%>%<cond%>:%>м                                            V-PERS-COND ;!""
 
 LEXICON V-GPR
 
@@ -782,6 +798,7 @@ LEXICON V-FIN
    V-TPRES;
    V-TPAST;
    V-TFUTU;
+   V-TCOND;
    V-OPT;
    V-GPR;        ! Has it's own negative forms
 
