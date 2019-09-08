@@ -815,10 +815,14 @@ LEXICON V-GPR
 %<neg%>%<gpr_fut%>:%>м%{A%}с%{ː%}     SUBST-SKER;!"" 
 %<neg%>%<gpr_fut%>:%>%{A%}с% ҫук      #;!"" ! Dir/LR
 
-LEXICON V-GNA
+LEXICON V-GNA-SA
 
 ! Эпӗ юрласа хамӑн ӗҫе тӑватӑп.
 %<gna_impf%>:%>с%{A%}                     CLIT-GNA;!"" 
+%<neg%>%<gna_impf%>:%>м%{A%}%>с%{Ă%}p     CLIT-GNA;!"" 
+
+LEXICON V-GNA
+
 ! Эсӗ юрласан эпӗ килӗп.
 %<gna_cond%>:%>с%{A%}н                    CLIT-GNA;!""
 %<gna_cond%>:%>с%{A%}сс%{Ă%}н             CLIT-GNA;!""	! Dir/LR
@@ -907,6 +911,7 @@ LEXICON V-COMMON
 
 %<neg%>:%>м%{A%} V-NONFIN ;
 V-NONFIN ; 
+V-GNA-SA ; 
 V-FIN ; 
 
 LEXICON V-ABIL 
