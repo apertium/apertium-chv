@@ -65,9 +65,10 @@ Multichar_Symbols
 %<prep%>                             !"past repetitive, темиҫе иртнӗ"
 %<opt%>
 %<imp%>                              ! Повелительное
-%<fut%>				     !"будущее "
+%<fut%>				     !"будущее"
 %<ifi%>                              ! 
-%<cond%>			     !"ӗмӗт наклоненийӗ "
+%<cond%>			     !"ӗмӗт наклоненийӗ"
+%<ccond%>			     !"concessive conditional, килӗшӳ наклоненийӗ"
 
 %<pl%>                               !Множественное число
 %<sg%>                               !Единственное
@@ -728,6 +729,16 @@ LEXICON V-PERS-COND
 %<p3%>%<pl%>:%>%{ӗ%}ҫҫ%{ӗ%}ҫ                                   K;!""
 
 
+LEXICON V-PERS-CCOND
+
+%<p1%>%<sg%>:%>%{Ă%}пин                                         K;!""	! Сергеев, Андреева, Котлеев 2012: 374
+%<p1%>%<pl%>:%>%{Ă%}п%{Ă%}рин                                   K;!""
+%<p2%>%<sg%>:%>%{Ă%}с%{Ă%}н                                     K;!""
+%<p2%>%<pl%>:%>%{Ă%}с%{Ă%}р                                     K;!""
+%<p3%>%<sg%>:%>%{и%}н                                           K;!""
+%<p3%>%<pl%>:%>%{ӗ%}ҫин                                         K;!""
+
+
 LEXICON V-TPRES
 
 %<pres%>:%>%{A%}т                                              V-PERS-PRES-REG ;!""          
@@ -767,6 +778,11 @@ LEXICON V-TCOND
 
 %<cond%>:                                                      V-PERS-COND ;!""
 %<neg%>%<cond%>:%>м                                            V-PERS-COND ;!""
+
+LEXICON V-TCCOND
+
+%<ccond%>:                                                     V-PERS-CCOND ;!""
+%<neg%>%<ccond%>:%>м                                           V-PERS-CCOND ;!""
 
 LEXICON V-GPR
 
@@ -871,6 +887,7 @@ LEXICON V-FIN
    V-TPREP;
    V-TFUTU;
    V-TCOND;
+   V-TCCOND;
    V-OPT;
    V-GPR;        ! Has it's own negative forms
 
