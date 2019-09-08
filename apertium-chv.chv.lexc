@@ -39,10 +39,12 @@ Multichar_Symbols
 %<dem%>                              !Указательные(?)
 %<itg%>                              !Вопросительные
 %<ind%>                              !Неопределенные
-%<qnt%>                              !
-%<ref%>                              !
+%<qnt%>                              ! Quantitative
+%<ref%>                              ! Reflexive
 
-%<comp%>                             !
+%<comp%>                             ! Comparative
+ 
+%<emph%>                             ! Emphatic
  
 %<abbr%>                             !Аббревиатура
 %<coll%>
@@ -50,8 +52,8 @@ Multichar_Symbols
 
 %<v%>				     !Глаголы
 
-%<iv%>
-%<tv%>
+%<iv%>                               ! Intransitive
+%<tv%>                               ! Transitive
 
 %<evid%>
 %<pass%>
@@ -197,6 +199,11 @@ LEXICON CLIT-HA
 
 %+ха%<mod%>:%>-ха                                              # ; 
                                                                # ;
+! For interrogative pronouns or adverbs
+LEXICON CLIT-EMPH 
+
+%+ха%<mod%>:%>-ха                                              # ; 
+%+ши%<mod%>:%>-ши                                              # ; 
 
 ! памасть-и-ха?
 ! ҫапла мар-и-ха?
@@ -207,9 +214,14 @@ LEXICON K
 
 %+и%<qst%>:%-и                                                 # ; 
 %+и%<qst%>:%-и                                                 CLIT-HA ; 
-%+ҫке%<mod%>:%-ҫке                                             # ; 
-%+ҫке%<mod%>:%-ҫке                                             CLIT-HA ; 
-%+ши%<mod%>:%>-ши                                              # ; 
+%+им%<qst%>:%-им                                               # ; ! like и, denonates surprise: "Эпӗ ҫын мар-им?"
+%+им%<qst%>:%-им                                               CLIT-HA ; 
+%+ши%<qst%>:%-ши                                               # ; ! like и, denonates doubt, but has a wider use (i.e. in more positions, as after an interrogative word): "Тав туни пулчӗ-ши ку?", "Мӗн-ши ку, пӗлетӗн-и?"
+%+ши%<qst%>:%-ши                                               CLIT-HA ; 
+%+шими%<qst%>:%-шими                                           # ; ! like ши, but much less used
+%+шими%<qst%>:%-шими                                           CLIT-HA ; 
+%+ҫке%<emph%>:%-ҫке                                            # ;
+%+ҫке%<emph%>:%-ҫке                                            CLIT-HA ; 
                                                                CLIT-HA ; 
                                                                CLIT-GNA ; 
 
@@ -937,6 +949,10 @@ LEXICON Miscellaneous
 иккен%<mod%>:иккен # ; 
 ха%<mod%>:%-ха # ; 
 и%<qst%>:%-и # ; 
+им%<qst%>:%-им # ; 
+ши%<qst%>:%-ши # ; 
+шими%<qst%>:%-шими # ; 
+ҫке%<emph%>:%-ҫке # ; 
 анчах%<postadv%>:анчах # ; 
 те%<postadv%>:те # ; 
 
@@ -1093,6 +1109,7 @@ LEXICON Adjectives
 ассӑн:ассӑн            A2;!""
 ӑста:ӑста            A2;!""
 ахаль:ахаль            A2;!""
+ахальтен:ахальтен      A2;!"in vane ?"
 !ача:ача            A2;!""
 ачалӑх:ачалӑх            A2;!""
 ӑшӑ:ӑшӑ            A2;!""
@@ -55849,60 +55866,60 @@ LEXICON Pronouns
 !-----------------------------------------
 !-------ВОПРОСИТЕЛЬНЫЕ МЕСТОИМЕНИЯ--------
 !-----------------------------------------
-кам%<prn%>%<itg%>%<nom%>:кам  CLIT-HA;!" who №№№"
-кам%<prn%>%<itg%>%<dat%>:кама  CLIT-HA;!""
-кам%<prn%>%<itg%>%<gen%>:камӑн  CLIT-HA;!""
-кам%<prn%>%<itg%>%<loc%>:камра  CLIT-HA;!" "
-кам%<prn%>%<itg%>%<abl%>:камран  CLIT-HA;!"  "
-кам%<prn%>%<itg%>%<ins%>:кампа  CLIT-HA;!""
-кам%<prn%>%<itg%>%+сӑр%<post%>:камсӑр  CLIT-HA;!""
-кам%<prn%>%<itg%>%<ter%>:камшӑн  CLIT-HA;!""
+кам%<prn%>%<itg%>%<nom%>:кам  CLIT-EMPH;!" who №№№"
+кам%<prn%>%<itg%>%<dat%>:кама  CLIT-EMPH;!""
+кам%<prn%>%<itg%>%<gen%>:камӑн  CLIT-EMPH;!""
+кам%<prn%>%<itg%>%<loc%>:камра  CLIT-EMPH;!" "
+кам%<prn%>%<itg%>%<abl%>:камран  CLIT-EMPH;!"  "
+кам%<prn%>%<itg%>%<ins%>:кампа  CLIT-EMPH;!""
+кам%<prn%>%<itg%>%+сӑр%<post%>:камсӑр  CLIT-EMPH;!""
+кам%<prn%>%<itg%>%<ter%>:камшӑн  CLIT-EMPH;!""
 !-----------------------------------------
-мӗн%<prn%>%<itg%>%<nom%>:мӗн  CLIT-HA;!" what №№№"
-мӗн%<prn%>%<itg%>%<dat%>:мӗне  CLIT-HA;!""
-мӗн%<prn%>%<itg%>%<gen%>:мӗнӗн  CLIT-HA;!""
-мӗн%<prn%>%<itg%>%<loc%>:мӗнре  CLIT-HA;!" "
-мӗн%<prn%>%<itg%>%<abl%>:мӗнрен  CLIT-HA;!"  "
-мӗн%<prn%>%<itg%>%<ins%>:мӗнпе  CLIT-HA;!""
-мӗн%<prn%>%<itg%>%+сӑр%<post%>:мӗнсӗр  CLIT-HA;!""
-мӗн%<prn%>%<itg%>%<ter%>:мӗншӗн  CLIT-HA;!""
+мӗн%<prn%>%<itg%>%<nom%>:мӗн  CLIT-EMPH;!" what №№№"
+мӗн%<prn%>%<itg%>%<dat%>:мӗне  CLIT-EMPH;!""
+мӗн%<prn%>%<itg%>%<gen%>:мӗнӗн  CLIT-EMPH;!""
+мӗн%<prn%>%<itg%>%<loc%>:мӗнре  CLIT-EMPH;!" "
+мӗн%<prn%>%<itg%>%<abl%>:мӗнрен  CLIT-EMPH;!"  "
+мӗн%<prn%>%<itg%>%<ins%>:мӗнпе  CLIT-EMPH;!""
+мӗн%<prn%>%<itg%>%+сӑр%<post%>:мӗнсӗр  CLIT-EMPH;!""
+мӗн%<prn%>%<itg%>%<ter%>:мӗншӗн  CLIT-EMPH;!""
 !-----------------------------------------
-хӑшӗ%<prn%>%<itg%>%<nom%>:хӑш  CLIT-HA;!" which №№№"
-хӑшӗ%<prn%>%<itg%>%<nom%>:хӑшӗ  CLIT-HA;!" "
-хӑшӗ%<prn%>%<itg%>%<dat%>:хӑшне  CLIT-HA;!""
-хӑшӗ%<prn%>%<itg%>%<gen%>:хӑшӗн  CLIT-HA;!""
-хӑшӗ%<prn%>%<itg%>%<loc%>:хӑшӗнче  CLIT-HA;!" "
-хӑшӗ%<prn%>%<itg%>%<abl%>:хӑшӗнчен  CLIT-HA;!"  "
-хӑшӗ%<prn%>%<itg%>%<ins%>:хӑшӗнпе  CLIT-HA;!""
-хӑшӗ%<prn%>%<itg%>%+сӑр%<post%>:хӑшӗнсӗр  CLIT-HA;!""
-хӑшӗ%<prn%>%<itg%>%<ter%>:хӑшӗншӗн  CLIT-HA;!""
+хӑшӗ%<prn%>%<itg%>%<nom%>:хӑш  CLIT-EMPH;!" which №№№"
+хӑшӗ%<prn%>%<itg%>%<nom%>:хӑшӗ  CLIT-EMPH;!" "
+хӑшӗ%<prn%>%<itg%>%<dat%>:хӑшне  CLIT-EMPH;!""
+хӑшӗ%<prn%>%<itg%>%<gen%>:хӑшӗн  CLIT-EMPH;!""
+хӑшӗ%<prn%>%<itg%>%<loc%>:хӑшӗнче  CLIT-EMPH;!" "
+хӑшӗ%<prn%>%<itg%>%<abl%>:хӑшӗнчен  CLIT-EMPH;!"  "
+хӑшӗ%<prn%>%<itg%>%<ins%>:хӑшӗнпе  CLIT-EMPH;!""
+хӑшӗ%<prn%>%<itg%>%+сӑр%<post%>:хӑшӗнсӗр  CLIT-EMPH;!""
+хӑшӗ%<prn%>%<itg%>%<ter%>:хӑшӗншӗн  CLIT-EMPH;!""
 !-----------------------------------------
-камсем%<prn%>%<itg%>%<pl%>%<nom%>:камсем  CLIT-HA;!"  №№№"
-камсем%<prn%>%<itg%>%<pl%>%<dat%>:камсене  CLIT-HA;!""
-камсем%<prn%>%<itg%>%<pl%>%<gen%>:камсен  CLIT-HA;!""
-камсем%<prn%>%<itg%>%<pl%>%<loc%>:камсенче  CLIT-HA;!" "
-камсем%<prn%>%<itg%>%<pl%>%<abl%>:камсенчен  CLIT-HA;!"  "
-камсем%<prn%>%<itg%>%<pl%>%<ins%>:камсемпе  CLIT-HA;!""
-камсем%<prn%>%<itg%>%<pl%>%+сӑр%<post%>:камсемсӗр  CLIT-HA;!""
-камсем%<prn%>%<itg%>%<pl%>%<ter%>:камсемшӗн  CLIT-HA;!""
+камсем%<prn%>%<itg%>%<pl%>%<nom%>:камсем  CLIT-EMPH;!"  №№№"
+камсем%<prn%>%<itg%>%<pl%>%<dat%>:камсене  CLIT-EMPH;!""
+камсем%<prn%>%<itg%>%<pl%>%<gen%>:камсен  CLIT-EMPH;!""
+камсем%<prn%>%<itg%>%<pl%>%<loc%>:камсенче  CLIT-EMPH;!" "
+камсем%<prn%>%<itg%>%<pl%>%<abl%>:камсенчен  CLIT-EMPH;!"  "
+камсем%<prn%>%<itg%>%<pl%>%<ins%>:камсемпе  CLIT-EMPH;!""
+камсем%<prn%>%<itg%>%<pl%>%+сӑр%<post%>:камсемсӗр  CLIT-EMPH;!""
+камсем%<prn%>%<itg%>%<pl%>%<ter%>:камсемшӗн  CLIT-EMPH;!""
 !-----------------------------------------
-мӗнсем%<prn%>%<itg%>%<pl%>%<nom%>:мӗнсем  CLIT-HA;!" №№№"
-мӗнсем%<prn%>%<itg%>%<pl%>%<dat%>:мӗнсене  CLIT-HA;!""
-мӗнсем%<prn%>%<itg%>%<pl%>%<gen%>:мӗнсен  CLIT-HA;!""
-мӗнсем%<prn%>%<itg%>%<pl%>%<loc%>:мӗнсенче  CLIT-HA;!" "
-мӗнсем%<prn%>%<itg%>%<pl%>%<abl%>:мӗнсенчен  CLIT-HA;!"  "
-мӗнсем%<prn%>%<itg%>%<pl%>%<ins%>:мӗнсемпе  CLIT-HA;!""
-мӗнсем%<prn%>%<itg%>%<pl%>%+сӑр%<post%>:мӗнсемсӗр  CLIT-HA;!""
-мӗнсем%<prn%>%<itg%>%<pl%>%<ter%>:мӗнсемшӗн  CLIT-HA;!""
+мӗнсем%<prn%>%<itg%>%<pl%>%<nom%>:мӗнсем  CLIT-EMPH;!" №№№"
+мӗнсем%<prn%>%<itg%>%<pl%>%<dat%>:мӗнсене  CLIT-EMPH;!""
+мӗнсем%<prn%>%<itg%>%<pl%>%<gen%>:мӗнсен  CLIT-EMPH;!""
+мӗнсем%<prn%>%<itg%>%<pl%>%<loc%>:мӗнсенче  CLIT-EMPH;!" "
+мӗнсем%<prn%>%<itg%>%<pl%>%<abl%>:мӗнсенчен  CLIT-EMPH;!"  "
+мӗнсем%<prn%>%<itg%>%<pl%>%<ins%>:мӗнсемпе  CLIT-EMPH;!""
+мӗнсем%<prn%>%<itg%>%<pl%>%+сӑр%<post%>:мӗнсемсӗр  CLIT-EMPH;!""
+мӗнсем%<prn%>%<itg%>%<pl%>%<ter%>:мӗнсемшӗн  CLIT-EMPH;!""
 !-----------------------------------------
-хӑшӗсем%<prn%>%<itg%>%<pl%>:хӑшӗсем  CLIT-HA;!" №№№"
-хӑшӗсем%<prn%>%<itg%>%<pl%>%<dat%>:хӑшӗсене  CLIT-HA;!""
-хӑшӗсем%<prn%>%<itg%>%<pl%>%<gen%>:хӑшӗсен  CLIT-HA;!""
-хӑшӗсем%<prn%>%<itg%>%<pl%>%<loc%>:хӑшӗсенче  CLIT-HA;!" "
-хӑшӗсем%<prn%>%<itg%>%<pl%>%<abl%>:хӑшӗсенчен  CLIT-HA;!"  "
-хӑшӗсем%<prn%>%<itg%>%<pl%>%<ins%>:хӑшӗсемпе  CLIT-HA;!""
-хӑшӗсем%<prn%>%<itg%>%<pl%>%+сӑр%<post%>:хӑшӗсемсӗр  CLIT-HA;!""
-хӑшӗсем%<prn%>%<itg%>%<pl%>%<ter%>:хӑшӗсемшӗн  CLIT-HA;!""
+хӑшӗсем%<prn%>%<itg%>%<pl%>:хӑшӗсем  CLIT-EMPH;!" №№№"
+хӑшӗсем%<prn%>%<itg%>%<pl%>%<dat%>:хӑшӗсене  CLIT-EMPH;!""
+хӑшӗсем%<prn%>%<itg%>%<pl%>%<gen%>:хӑшӗсен  CLIT-EMPH;!""
+хӑшӗсем%<prn%>%<itg%>%<pl%>%<loc%>:хӑшӗсенче  CLIT-EMPH;!" "
+хӑшӗсем%<prn%>%<itg%>%<pl%>%<abl%>:хӑшӗсенчен  CLIT-EMPH;!"  "
+хӑшӗсем%<prn%>%<itg%>%<pl%>%<ins%>:хӑшӗсемпе  CLIT-EMPH;!""
+хӑшӗсем%<prn%>%<itg%>%<pl%>%+сӑр%<post%>:хӑшӗсемсӗр  CLIT-EMPH;!""
+хӑшӗсем%<prn%>%<itg%>%<pl%>%<ter%>:хӑшӗсемшӗн  CLIT-EMPH;!""
 !-----------------------------------------
 !---------ОТРИЦАТЕЛЬНЫЕ МЕСТОИМЕНИЯ-------
 !-----------------------------------------
