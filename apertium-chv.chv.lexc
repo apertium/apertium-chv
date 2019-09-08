@@ -13135,7 +13135,6 @@ LEXICON Nouns
 ҫерҫи:ҫерҫи N-INFORMACI; ! src: Chuvash wordlist ""
 ҫеҫтепи:ҫеҫтепи N-INFORMACI; ! src: Chuvash wordlist ""
 ҫӗрӗ% куҫҫи:ҫӗрӗ% куҫҫи N-INFORMACI; ! src: Chuvash wordlist ""
-ҫи:ҫи N-INFORMACI; ! src: Chuvash wordlist ""
 ҫуртри:ҫуртри N-INFORMACI; ! src: Chuvash wordlist ""
 табак% киркки:табак% киркки N-INFORMACI; ! src: Chuvash wordlist ""
 таксаци:таксаци N-INFORMACI; ! src: Chuvash wordlist ""
@@ -18533,7 +18532,7 @@ LEXICON Verbs
 ҫӗклен:ҫӗклен      V-IV ; ! "" ! Der/Pass
 чикӗле:чикӗле      V-TV ; ! ""
 ӗҫ:ӗҫ              V-TV ; ! "пить"
-ҫи:ҫи              V-TV ; ! "есть"
+ҫи:ҫи%{й%}              V-TV ; ! "есть"
 бомбала:бомбала    V-TV ; ! ""
 бомбла:бомбла      V-TV ; ! "" 
 
@@ -25004,7 +25003,6 @@ LEXICON Verbs
 ҫӗткелеш:ҫӗткелеш V-TD; ! src: Chuvash wordlist ""
 ҫӗттер:ҫӗттер V-TD; ! src: Chuvash wordlist ""
 ҫӗхрелен:ҫӗхрелен V-TD; ! src: Chuvash wordlist ""
-ҫи:ҫи V-TD; ! src: Chuvash wordlist ""
 ҫивӗтле:ҫивӗтле V-TD; ! src: Chuvash wordlist ""
 ҫивӗтлен:ҫивӗтлен V-TD; ! src: Chuvash wordlist ""
 ҫивӗтлеттер:ҫивӗтлеттер V-TD; ! src: Chuvash wordlist ""
