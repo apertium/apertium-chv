@@ -1,6 +1,8 @@
-# txuvaix
+# Chuvash
 
 ## Stem classes
+
+### Nouns
 
 * `N-RADIO`: 
   * (Russian) loanwords ending in -о with underlying {в}
@@ -35,7 +37,11 @@
   * The word "атте-анне" *parents*
   * Irregular possessive forms
 
+### Verbs
+
 ## Examples and assignment rules
+
+### Nouns
 
 * "Chuvash" words
 
@@ -65,6 +71,15 @@
       * училище:училищ%{е%} N ;
     * Terminated in unstressed и
       * информаци:информаци N-INFORMACI ;
+
+### Verbs
+Three verbal terminations must have an epenthetic "diacritic" at the end of the stem:
+  * и
+      * ҫи:ҫи%{й%} V-TV ;
+  * у
+      * ту:ту%{в%} V-TV ;
+  * ӳ
+      * тӳ:тӳ%{в%} V-TD ;
 
 ## Archiphonemes 
 
