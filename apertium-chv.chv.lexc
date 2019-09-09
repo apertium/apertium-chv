@@ -69,13 +69,12 @@ Multichar_Symbols
 %<past%>                             !"прошедшее простое"
 %<dur%>                              ! 
 %<plu%>                              !"pluperfect, давнопрошедшее, малтан иртнӗ"
-%<pih%>                             !"past repetitive, темиҫе иртнӗ"
-%<opt%>
+%<pih%>                              !"past repetitive, темиҫе иртнӗ"
+%<opt%>			             !"килӗшӳ наклоненийӗ"
 %<imp%>                              ! Повелительное
 %<fut%>				     !"будущее"
 %<ifi%>                              ! 
 %<cond%>			     !"ӗмӗт наклоненийӗ"
-%<ccond%>			     !"concessive conditional, килӗшӳ наклоненийӗ"
 
 %<p1%>
 %<p2%>                               ! 
@@ -132,6 +131,7 @@ Multichar_Symbols
 %{н%}                                ! н / 0
 %{й%}                                ! й / 0
 %{и%}                                ! и / ӗ / 0
+%{И%}                                ! и
 %{м%}                                ! м / н 
 %{T%}                                ! т / р / ч
 %{N%}                                ! н / 0
@@ -723,16 +723,6 @@ LEXICON V-PERS-COND
 %<p3%>%<pl%>:%>%{ӗ%}ҫ%>ҫ%{ӗ%}ҫ                                 K;!""
 
 
-LEXICON V-PERS-CCOND
-
-%<p1%>%<sg%>:%>%{Ă%}п%>ин                                      K;!""	! Сергеев, Андреева, Котлеев 2012: 374
-%<p1%>%<pl%>:%>%{Ă%}п%{Ă%}р%>ин                                K;!""
-%<p2%>%<sg%>:%>%{Ă%}с%>%{Ă%}н                                  K;!""
-%<p2%>%<pl%>:%>%{Ă%}с%>%{Ă%}р                                  K;!""
-%<p3%>%<sg%>:%>%{й%}%{и%}н                                     K;!""
-%<p3%>%<pl%>:%>%{ӗ%}ҫ%>ин                                      K;!""
-
-
 LEXICON V-TPRES
 
 %<pres%>:%>%{A%}т                                              V-PERS-PRES-REG ;!""          
@@ -773,10 +763,10 @@ LEXICON V-TCOND
 %<cond%>:                                                      V-PERS-COND ;!""
 %<neg%>%<cond%>:%>м                                            V-PERS-COND ;!""
 
-LEXICON V-TCCOND
+LEXICON V-TOPT
 
-%<ccond%>:                                                     V-PERS-CCOND ;!""
-%<neg%>%<ccond%>:%>м                                           V-PERS-CCOND ;!""
+%<opt%>:                                                       V-PERS-OPT ;!""
+%<neg%>%<opt%>:%>м                                             V-PERS-OPT ;!""
 
 LEXICON V-GPR
 
@@ -853,14 +843,15 @@ LEXICON V-GER
 ! Рим республики  ненавидимый враг и Пуниских войн перед Карфагена последний значимы глава.    
 ! враг, которого ненавидит Римская республика
 
-LEXICON V-OPT
+LEXICON V-PERS-OPT
 
-%<opt%>%<p1%>%<sg%>:%>пин K ; 
-%<opt%>%<p2%>%<sg%>:%>с%{Ă%}н K ; 
-%<opt%>%<p3%>%<sg%>:%>%{и%}н K ; 
-%<opt%>%<p1%>%<pl%>:%>p%{Ă%}рин K ; 
-%<opt%>%<p2%>%<pl%>:%>с%{Ă%}р K ; 
-%<opt%>%<p3%>%<pl%>:%>ҫин K ; 
+%<p1%>%<sg%>:%>%{Ă%}пин                                        K;!""	! Сергеев, Андреева, Котлеев 2012: 374
+%<p2%>%<sg%>:%>%{Ă%}с%{Ă%}н                                    K;!""
+%<p3%>%<sg%>:%>%{И%}н                                          K;!""
+%<p1%>%<pl%>:%>%{Ă%}п%{Ă%}рин                                  K;!""
+%<p2%>%<pl%>:%>%{Ă%}с%{Ă%}р                                    K;!""
+%<p3%>%<pl%>:%>%{ӗ%}ҫин                                        K;!""
+
 
 LEXICON V-NONFIN
 
@@ -885,8 +876,7 @@ LEXICON V-FIN
    V-TPIH;
    V-TFUTU;
    V-TCOND;
-   V-TCCOND;
-   V-OPT;
+   V-TOPT;
    V-GPR;        ! Has it's own negative forms
 
 LEXICON V-COMMON 
