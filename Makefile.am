@@ -13,6 +13,7 @@ TARGETS_COMMON =			\
 	$(LANG1).autopgen.bin		\
 	$(LANG1).automorf.att.gz	\
 	$(LANG1).autogen.hfst		\
+	$(LANG1).autoseg.hfst		\
 	$(LANG1).autogen.bin		\
 	$(LANG1).autogen.att.gz		\
 	$(LANG1).rlx.bin
@@ -43,14 +44,34 @@ TARGETS_COMMON =			\
 .deps/$(LANG1).LR.lexc.hfst: .deps/$(LANG1).LR.lexc
 	hfst-lexc -W $< -o $@ -v
 
-.deps/$(LANG1).RL.hfst: .deps/$(LANG1).RL.lexc.hfst .deps/$(LANG1).twol.hfst
+.deps/$(LANG1).RL.seg.hfst: .deps/$(LANG1).RL.lexc.hfst .deps/$(LANG1).twol.hfst
 	hfst-compose-intersect -1 .deps/$(LANG1).RL.lexc.hfst -2 .deps/$(LANG1).twol.hfst -o $@
 
-.deps/$(LANG1).LR.hfst: .deps/$(LANG1).LR.lexc.hfst .deps/$(LANG1).twol.hfst
+.deps/$(LANG1).LR.seg.hfst: .deps/$(LANG1).LR.lexc.hfst .deps/$(LANG1).twol.hfst
 	hfst-compose-intersect -1 .deps/$(LANG1).LR.lexc.hfst -2 .deps/$(LANG1).twol.hfst -o $@
+
+.deps/$(LANG1).RL.hfst: .deps/$(LANG1).RL.seg.hfst .deps/$(LANG1).mor.twol.hfst
+	hfst-compose-intersect -1 .deps/$(LANG1).RL.seg.hfst -2 .deps/$(LANG1).mor.twol.hfst -o $@
+
+#.deps/$(LANG1).RL.hfst: .deps/$(LANG1).RL.lexc.hfst .deps/$(LANG1).twol.hfst
+#	hfst-compose-intersect -1 .deps/$(LANG1).RL.lexc.hfst -2 .deps/$(LANG1).twol.hfst -o $@
+
+.deps/$(LANG1).LR.hfst: .deps/$(LANG1).LR.seg.hfst .deps/$(LANG1).mor.twol.hfst
+	hfst-compose-intersect -1 .deps/$(LANG1).LR.seg.hfst -2 .deps/$(LANG1).mor.twol.hfst -o $@
+
+#.deps/$(LANG1).LR.hfst: .deps/$(LANG1).LR.lexc.hfst .deps/$(LANG1).twol.hfst
+#	hfst-compose-intersect -1 .deps/$(LANG1).LR.lexc.hfst -2 .deps/$(LANG1).twol.hfst -o $@
 
 .deps/$(LANG1).mor.twol.hfst: $(BASENAME).$(LANG1).mor.twol
 	hfst-twolc $< -o $@
+
+.deps/$(LANG1).seg.hfst: .deps/$(LANG1).LR.hfst .deps/$(LANG1).RL.seg.hfst .deps/spellrelax.hfst
+	hfst-compose-intersect -1 .deps/$(LANG1).LR.hfst -2 .deps/spellrelax.hfst -o .deps/footest.1
+	hfst-invert .deps/footest.1 -o .deps/footest.2
+	hfst-compose -F -1 .deps/footest.2 -2 .deps/$(LANG1).RL.seg.hfst -o $@
+
+$(LANG1).autoseg.hfst: .deps/$(LANG1).seg.hfst
+	hfst-minimise .deps/$(LANG1).seg.hfst | hfst-fst2fst -w -o $@
 
 $(LANG1).autogen.hfst: .deps/$(LANG1).RL.hfst
 	hfst-fst2fst -w $< -o $@

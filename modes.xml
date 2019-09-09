@@ -11,6 +11,14 @@
     </pipeline>
   </mode>
 
+  <mode name="chv-segment" install="yes">
+    <pipeline>
+      <program name="hfst-proc -w">
+        <file name="chv.autoseg.hfst"/>
+      </program>
+    </pipeline>
+  </mode>
+
   <mode name="chv-morph" install="yes">
     <pipeline>
       <program name="hfst-proc -w">
