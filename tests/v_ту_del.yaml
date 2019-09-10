@@ -12,6 +12,12 @@ Tests:
     ту<v><tv><pres><p1><pl> : тӑватпӑр
     ту<v><tv><pres><p2><pl> : тӑватӑр
     ту<v><tv><pres><p3><pl> : тӑваҫҫӗ
+    ту<v><tv><past><p1><sg> : турӑм
+    ту<v><tv><past><p2><sg> : турӑн
+    ту<v><tv><past><p3><sg> : турӗ
+    ту<v><tv><past><p1><pl> : турӑмӑр
+    ту<v><tv><past><p2><pl> : турӑр
+    ту<v><tv><past><p3><pl> : турӗҫ
     ту<v><tv><imp><p1><sg> : тӑвам
     ту<v><tv><imp><p2><sg> : ту
     ту<v><tv><imp><p3><sg> : тутӑр
