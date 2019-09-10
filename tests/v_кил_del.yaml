@@ -6,6 +6,12 @@ Config:
 
 Tests:
   "The verb кил":
+    кил<v><iv><pres><p1><sg> : килетӗп
+    кил<v><iv><pres><p2><sg> : килетӗн
+    кил<v><iv><pres><p3><sg> : килет
+    кил<v><iv><pres><p1><pl> : килетпӗр
+    кил<v><iv><pres><p2><pl> : килетӗр
+    кил<v><iv><pres><p3><pl> : килеҫҫӗ
     кил<v><iv><imp><p1><sg> : килем
     кил<v><iv><imp><p2><sg> : кил
     кил<v><iv><imp><p3><sg> : килтӗр
@@ -30,3 +36,9 @@ Tests:
     кил<v><iv><opt><p1><pl> : килӗпӗрин
     кил<v><iv><opt><p2><pl> : килӗсӗр
     кил<v><iv><opt><p3><pl> : килӗҫин
+    кил<v><iv><abil><pres><p1><sg> : килеетӗп
+    кил<v><iv><abil><pres><p2><sg> : килеетӗн
+    кил<v><iv><abil><pres><p3><sg> : килеет
+    кил<v><iv><abil><pres><p1><pl> : килеетпӗр
+    кил<v><iv><abil><pres><p2><pl> : килеетӗр
+    кил<v><iv><abil><pres><p3><pl> : килееҫҫӗ

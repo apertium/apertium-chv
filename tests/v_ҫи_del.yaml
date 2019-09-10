@@ -1,0 +1,44 @@
+Config:
+  hfst:
+    App: hfst-optimised-lookup
+    Gen: ../chv.autogen.hfst
+    Morph: ../chv.automorf.hfst
+
+Tests:
+  "The verb ҫи":
+    ҫи<v><tv><pres><p1><sg> : ҫийетӗп
+    ҫи<v><tv><pres><p2><sg> : ҫийетӗн
+    ҫи<v><tv><pres><p3><sg> : ҫийет
+    ҫи<v><tv><pres><p1><pl> : ҫийетпӗр
+    ҫи<v><tv><pres><p2><pl> : ҫийетӗр
+    ҫи<v><tv><pres><p3><pl> : ҫийеҫҫӗ
+    ҫи<v><tv><imp><p1><sg> : ҫийем
+    ҫи<v><tv><imp><p2><sg> : ҫи
+    ҫи<v><tv><imp><p3><sg> : ҫитӗр
+    ҫи<v><tv><imp><p1><pl> : ҫиер
+    ҫи<v><tv><imp><p2><pl> : ҫийӗр
+    ҫи<v><tv><imp><p3><pl> : ҫиччӗр
+    ҫи<v><tv><fut><p1><sg> : ҫийӗп
+    ҫи<v><tv><fut><p2><sg> : ҫийӗн
+    ҫи<v><tv><fut><p3><sg> : ҫийӗ
+    ҫи<v><tv><fut><p1><pl> : ҫиӗпӗр
+    ҫи<v><tv><fut><p2><pl> : ҫийӗр
+    ҫи<v><tv><fut><p3><pl> : ҫийӗҫ
+    ҫи<v><tv><cond><p1><sg> : ҫийӗттӗм
+    ҫи<v><tv><cond><p2><sg> : ҫийӗттӗн
+    ҫи<v><tv><cond><p3><sg> : ҫийӗччӗ
+    ҫи<v><tv><cond><p1><pl> : ҫийӗттӗмӗр
+    ҫи<v><tv><cond><p2><pl> : ҫийӗттӗр
+    ҫи<v><tv><cond><p3><pl> : ҫийӗччӗҫ
+    ҫи<v><tv><opt><p1><sg> : ҫийӗпин
+    ҫи<v><tv><opt><p2><sg> : ҫийӗсӗн
+    ҫи<v><tv><opt><p3><sg> : ҫийин
+    ҫи<v><tv><opt><p1><pl> : ҫийӗпӗрин
+    ҫи<v><tv><opt><p2><pl> : ҫийӗсӗр
+    ҫи<v><tv><opt><p3><pl> : ҫийӗҫин
+    ҫи<v><tv><abil><pres><p1><sg> : ҫийеетӗп
+    ҫи<v><tv><abil><pres><p2><sg> : ҫийеетӗн
+    ҫи<v><tv><abil><pres><p3><sg> : ҫийеет
+    ҫи<v><tv><abil><pres><p1><pl> : ҫийеетпӗр
+    ҫи<v><tv><abil><pres><p2><pl> : ҫийеетӗр
+    ҫи<v><tv><abil><pres><p3><pl> : ҫийееҫҫӗ

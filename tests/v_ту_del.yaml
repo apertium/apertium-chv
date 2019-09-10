@@ -1,0 +1,44 @@
+Config:
+  hfst:
+    App: hfst-optimised-lookup
+    Gen: ../chv.autogen.hfst
+    Morph: ../chv.automorf.hfst
+
+Tests:
+  "The verb ту":
+    ту<v><tv><pres><p1><sg> : тӑватӑп
+    ту<v><tv><pres><p2><sg> : тӑватӑн
+    ту<v><tv><pres><p3><sg> : тӑватӑть
+    ту<v><tv><pres><p1><pl> : тӑватпӑр
+    ту<v><tv><pres><p2><pl> : тӑватӑр
+    ту<v><tv><pres><p3><pl> : тӑваҫҫӗ
+    ту<v><tv><imp><p1><sg> : тӑвам
+    ту<v><tv><imp><p2><sg> : ту
+    ту<v><tv><imp><p3><sg> : тутӑр
+    ту<v><tv><imp><p1><pl> : тӑвар
+    ту<v><tv><imp><p2><pl> : тӑвӑр
+    ту<v><tv><imp><p3><pl> : туччӑр
+    ту<v><tv><fut><p1><sg> : тӑвӑп
+    ту<v><tv><fut><p2><sg> : тӑвӑн
+    ту<v><tv><fut><p3><sg> : туӗ
+    ту<v><tv><fut><p1><pl> : тӑвӑпӑр
+    ту<v><tv><fut><p2><pl> : тӑвӑр
+    ту<v><tv><fut><p3><pl> : тӑвӗҫ
+    ту<v><tv><cond><p1><sg> : тӑвӑттӑм
+    ту<v><tv><cond><p2><sg> : тӑвӑттӑн
+    ту<v><tv><cond><p3><sg> : тӑвӗччӗ
+    ту<v><tv><cond><p1><pl> : тӑвӑттӑмӑр
+    ту<v><tv><cond><p2><pl> : тӑвӑттӑр
+    ту<v><tv><cond><p3><pl> : тӑвӗччӗҫ
+    ту<v><tv><opt><p1><sg> : тӑвӑпин
+    ту<v><tv><opt><p2><sg> : тӑвӑсӑн
+    ту<v><tv><opt><p3><sg> : тӑвин
+    ту<v><tv><opt><p1><pl> : тӑвӑпӑрин
+    ту<v><tv><opt><p2><pl> : тӑвӑсӑр
+    ту<v><tv><opt><p3><pl> : тӑвӗҫин
+    ту<v><tv><abil><pres><p1><sg> : тӑвaятӑп
+    ту<v><tv><abil><pres><p2><sg> : тӑвaятӑн
+    ту<v><tv><abil><pres><p3><sg> : тӑвaятӑть
+    ту<v><tv><abil><pres><p1><pl> : тӑвaятпӑр
+    ту<v><tv><abil><pres><p2><pl> : тӑвaятӑр
+    ту<v><tv><abil><pres><p3><pl> : тӑвaяҫҫӗ

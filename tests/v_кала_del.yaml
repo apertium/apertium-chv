@@ -6,6 +6,12 @@ Config:
 
 Tests:
   "The verb кала":
+    кала<v><tv><pres><p1><sg> : калатӑп
+    кала<v><tv><pres><p2><sg> : калатӑн
+    кала<v><tv><pres><p3><sg> : калать
+    кала<v><tv><pres><p1><pl> : калатпӑр
+    кала<v><tv><pres><p2><pl> : калатӑр
+    кала<v><tv><pres><p3><pl> : калаҫҫӗ
     кала<v><tv><imp><p1><sg> : калам
     кала<v><tv><imp><p2><sg> : кала
     кала<v><tv><imp><p3><sg> : калатӑр
@@ -30,3 +36,9 @@ Tests:
     кала<v><tv><opt><p1><pl> : калӑпӑрин
     кала<v><tv><opt><p2><pl> : калӑсӑр
     кала<v><tv><opt><p3><pl> : калӗҫин
+    кала<v><tv><abil><pres><p1><sg> : калаятӑп
+    кала<v><tv><abil><pres><p2><sg> : калаятӑн
+    кала<v><tv><abil><pres><p3><sg> : калаять
+    кала<v><tv><abil><pres><p1><pl> : калаятпӑр
+    кала<v><tv><abil><pres><p2><pl> : калаятӑр
+    кала<v><tv><abil><pres><p3><pl> : калаяҫҫӗ

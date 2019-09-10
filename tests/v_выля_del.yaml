@@ -1,0 +1,44 @@
+Config:
+  hfst:
+    App: hfst-optimised-lookup
+    Gen: ../chv.autogen.hfst
+    Morph: ../chv.automorf.hfst
+
+Tests:
+  "The verb выля":
+    выля<v><tv><pres><p1><sg> : вылятӑп
+    выля<v><tv><pres><p2><sg> : вылятӑн
+    выля<v><tv><pres><p3><sg> : вылятӑть
+    выля<v><tv><pres><p1><pl> : вылятпӑр
+    выля<v><tv><pres><p2><pl> : вылятӑр
+    выля<v><tv><pres><p3><pl> : выляҫҫӗ
+    выля<v><tv><imp><p1><sg> : вылям
+    выля<v><tv><imp><p2><sg> : выля
+    выля<v><tv><imp><p3><sg> : вылятӑр
+    выля<v><tv><imp><p1><pl> : выляр
+    выля<v><tv><imp><p2><pl> : выльӑр
+    выля<v><tv><imp><p3><pl> : выляччӑр
+    выля<v><tv><fut><p1><sg> : выльӑп
+    выля<v><tv><fut><p2><sg> : выльӑн
+    выля<v><tv><fut><p3><sg> : вылӗ
+    выля<v><tv><fut><p1><pl> : выльӑпӑр
+    выля<v><tv><fut><p2><pl> : выльӑр
+    выля<v><tv><fut><p3><pl> : вылӗҫ
+    выля<v><tv><cond><p1><sg> : выльӑттӑм
+    выля<v><tv><cond><p2><sg> : выльӑттӑн
+    выля<v><tv><cond><p3><sg> : вылӗччӗ
+    выля<v><tv><cond><p1><pl> : выльӑттӑмӑр
+    выля<v><tv><cond><p2><pl> : выльӑттӑр
+    выля<v><tv><cond><p3><pl> : вылӗччӗҫ
+    выля<v><tv><opt><p1><sg> : выльӑпин
+    выля<v><tv><opt><p2><sg> : выльӑсӑн
+    выля<v><tv><opt><p3><sg> : вылин
+    выля<v><tv><opt><p1><pl> : выльӑпӑрин
+    выля<v><tv><opt><p2><pl> : выльӑсӑр
+    выля<v><tv><opt><p3><pl> : вылӗҫин
+    выля<v><tv><abil><pres><p1><sg> : выляятӑп
+    выля<v><tv><abil><pres><p2><sg> : выляятӑн
+    выля<v><tv><abil><pres><p3><sg> : выляятӑть
+    выля<v><tv><abil><pres><p1><pl> : выляятпӑр
+    выля<v><tv><abil><pres><p2><pl> : выляятӑр
+    выля<v><tv><abil><pres><p3><pl> : выляяҫҫӗ
