@@ -51,8 +51,6 @@ Multichar_Symbols
 
 %<comp%>                             ! Comparative
  
-%<emph%>                             ! Emphatic
- 
 %<abbr%>                             !Аббревиатура
 %<coll%>
 %<dist%>
@@ -209,28 +207,21 @@ LEXICON K
 
 %+и%<qst%>:%-и                                                 # ; 
 %+и%<qst%>:%-и                                                 CLIT-HA ; 
-%+им%<qst%>:%-им                                               # ; ! like и, denonates surprise: "Эпӗ ҫын мар-им?"
+%+им%<qst%>:%-им                                               # ; ! like и, denotates surprise: "Эпӗ ҫын мар-им?"
 %+им%<qst%>:%-им                                               CLIT-HA ; 
-%+ши%<qst%>:%-ши                                               # ; ! like и, denonates doubt, but has a wider use (i.e. in more positions, as after an interrogative word): "Тав туни пулчӗ-ши ку?", "Мӗн-ши ку, пӗлетӗн-и?"
+%+ши%<qst%>:%-ши                                               # ; ! like и, denotates doubt, but has a wider use (i.e. in more positions, as after an interrogative word): "Тав туни пулчӗ-ши ку?", "Мӗн-ши ку, пӗлетӗн-и?"
 %+ши%<qst%>:%-ши                                               CLIT-HA ; 
 %+шими%<qst%>:%-шими                                           # ; ! like ши, but much less used
 %+шими%<qst%>:%-шими                                           CLIT-HA ; 
-%+ҫке%<emph%>:%-ҫке                                            # ;
-%+ҫке%<emph%>:%-ҫке                                            CLIT-HA ; 
+%+ҫке%<mod%>:%-ҫке                                             # ;
+%+ҫке%<mod%>:%-ҫке                                             CLIT-HA ; 
                                                                CLIT-HA ; 
                                                                CLIT-GNA ; 
 
-LEXICON CLIT-POLIT_ÇÇĔ
+LEXICON CLIT-ÇÇĔ
 
-%+ччӗ%<mod%>:%>ччӗ                                             # ; 
-                                                               # ;
-
-LEXICON CLIT-POLIT
-
-                                                               CLIT-POLIT_ÇÇĔ ; 
-%+сӑм%<mod%>:%>с%{Ă%}м                                         # ; 
-%+сӑм%<mod%>:%>с%{Ă%}м                                         CLIT-POLIT_ÇÇĔ ; 
-                                                               # ;
+%+ччӗ%<mod%>:%>ччӗ                                             K ; ! politeness suffixe
+                                                               K ;
 
 LEXICON CLIT-COP 
 
@@ -860,13 +851,15 @@ LEXICON V-NONFIN
    V-GNA;
    V-GER ;
 
-%<imp%>%<p1%>%<sg%>:%>%{A%}м # ; 
-%<imp%>%<p2%>%<sg%>: # ;
-%<imp%>%<p2%>%<sg%>: CLIT-POLIT ;
-%<imp%>%<p3%>%<sg%>:%>т%{Ă%}р # ;
-%<imp%>%<p1%>%<pl%>:%>%{A%}р # ; 
-%<imp%>%<p2%>%<pl%>:%>%{Ă%}р CLIT-POLIT ;
-%<imp%>%<p3%>%<pl%>:%>чч%{Ă%}р # ;			! VERIFY
+%<imp%>%<p1%>%<sg%>:%>%{A%}м                                   K ; 
+%<imp%>%<p2%>%<sg%>:                                           K ;
+%<imp%>%<p2%>%<sg%>:                                           CLIT-ÇÇĔ ;
+%<imp%>%<p2%>%<sg%>+сӑм%<mod%>:%>с%{Ă%}м                       CLIT-ÇÇĔ ; ! сӑм: politeness suffix
+%<imp%>%<p3%>%<sg%>:%>т%{Ă%}р                                  K ;
+%<imp%>%<p1%>%<pl%>:%>%{A%}р                                   K ; 
+%<imp%>%<p2%>%<pl%>:%>%{Ă%}р                                   CLIT-ÇÇĔ ;
+%<imp%>%<p2%>%<pl%>+сӑм%<mod%>:%>с%{Ă%}м%>%{Ă%}р               CLIT-ÇÇĔ ; ! сӑм: politeness suffix
+%<imp%>%<p3%>%<pl%>:%>%{ч%}ч%{Ă%}р                             K ;
 
 ! <qavan> [p1 sg каям\килем pl каяр\килер],[p2 sg кай\кил pl кайăр\килĕр],[p3 кайтăр\килтĕр pl кайччăр\килччĕр]
 
@@ -931,7 +924,7 @@ LEXICON Miscellaneous
 им%<qst%>:%-им # ; 
 ши%<qst%>:%-ши # ; 
 шими%<qst%>:%-шими # ; 
-ҫке%<emph%>:%-ҫке # ; 
+ҫке%<mod%>:%-ҫке # ; 
 анчах%<postadv%>:анчах # ; 
 те%<postadv%>:те # ; 
 
@@ -8849,6 +8842,7 @@ LEXICON Nouns
 ят-сум:ят-сум            N-ĔŞ;!""
 яшка:яшка            N;!""
 яшлӑх:яшлӑх            N-ĔŞ;!""!QAVANTOFIXEND
+ӑш:ӑш            N; ! "сӗтел ӑшне: в стол"
 
 
 аббат:аббат N-ĔŞ ; ! ""
@@ -18445,8 +18439,8 @@ LEXICON Verbs
 
 пул:пул                  V-IV;!""
 выля:выля                  V-TV;!""
-юрат:юрат                  V-TV;!""
-килӗш:килӗш                  V-TV;!""
+юрат:юрат                  V-TV; !"любить, обожать"
+килӗш:килӗш                  V-TD; !"соглашаться, сватать, нравиться"
 шыра:шыра                  V-TV;!""
 тап:тап                  V-TV;!""
 ту:ту%{в%}                  V-TV;!""
