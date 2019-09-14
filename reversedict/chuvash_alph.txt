@@ -53,7 +53,7 @@
 аванлаттар,chu,vb,c	lexc
 аванлаш,chu,vb,h	lexc
 аванлӑх,chu,no,c	lexc
-аванложа,chu,no,c
+аванложа,chu,no,c	lexc
 аван_марлан,chu,vb,c	lexc
 аванмарлӑх,chu,no,d	lexc
 аванпорт,chu,no,c	lexc
@@ -61,7 +61,7 @@
 аванс,chu,no,c	lexc
 авансла,chu,av,c	lexc
 авансла,chu,vb,c	lexc
-авансцена,chu,no,c
+авансцена,chu,no,c	lexc
 авантюра,chu,no,c	lexc
 авантюрӑлӑх,chu,no,c	lexc
 авантюрӑллӑ,chu,ad,c	lexc
@@ -106,7 +106,7 @@
 авӑт,chu,vb,c	lexc
 авӑттар,chu,vb,c	lexc
 август,chu,no,c	lexc
-авиабаза,chu,no,c
+авиабаза,chu,no,c	lexc
 авиабомба,chu,no,c	lexc
 авиадесант,chu,no,c	lexc
 авиазавод,chu,no,c	lexc
@@ -134,11 +134,11 @@
 авиаци,chu,no,c	lexc
 авиачасть,chu,no,c	lexc
 авиашкул,chu,no,c	lexc
-авиашоу,chu,no,d
-авиаэскадрилья,chu,no,c
+авиашоу,chu,no,d	lexc
+авиаэскадрилья,chu,no,c	lexc
 авизӑла,chu,vb,j6	lexc
 авизӑлав,chu,no,j6	lexc
-авизо,chu,no,j6
+авизо,chu,no,j6	lexc
 авирулентлӑх,chu,no,m8	lexc
 авитаминоз,chu,no,c	lexc
 авка,chu,no,c	lexc
@@ -152,7 +152,7 @@
 авкум-шавкум,chu,no/ad,c
 авлан,chu,vb,c	lexc
 авлантар,chu,vb,c	lexc
-авлану,chu,no,c
+авлану,chu,no,c	lexc
 авмак,chu,ad,c	lexc
 авмака,chu,ad,c	lexc
 авмакалан,chu,vb,c	lexc
@@ -184,7 +184,7 @@
 автарки,chu,no,c	lexc
 автӑ,chu,no,c	lexc
 автоавари,chu,no,d	lexc
-автобаза,chu,no,c
+автобаза,chu,no,c	lexc
 автобиографи,chu,no,c	lexc
 автобиографиллӗ,chu,ad,c	lexc
 автоблокировка,chu,no,c	lexc
@@ -193,7 +193,7 @@
 автоген,chu,no,c	lexc
 автограф,chu,no,c	lexc
 автогрейдер,chu,no,c	lexc
-автодрезина,chu,no,c
+автодрезина,chu,no,c	lexc
 автодром,chu,no,c	lexc
 автоӗҫтеркӗч,chu,no,k5	lexc
 автозавод,chu,no,c	lexc
@@ -220,14 +220,14 @@
 автоматизацилен,chu,vb,c	lexc
 автоматизм,chu,no,c	lexc
 автоматизмлӑ,chu,ad,c	lexc
-автоматика,chu,no,c
+автоматика,chu,no,c	lexc
 автоматикӑллӑ,chu,ad,c	lexc
 автоматла,chu,av,c	lexc
 автоматла,chu,vb,r9	lexc
 автоматлӑ,chu,ad,c	lexc
 автоматчик,chu,no,c	lexc
-автоматчица,chu,no,c
-автомашина,chu,no,c
+автоматчица,chu,no,c	lexc
+автомашина,chu,no,c	lexc
 автомашинист,chu,no,c	lexc
 автомеханик,chu,no,c	lexc
 автомобилестроени,chu,no,c	lexc
@@ -265,7 +265,7 @@
 авторла,chu,vb,j7	lexc
 авторлав,chu,no,j7	lexc
 авторлӑх,chu,no,c	lexc
-авторота,chu,no,c
+авторота,chu,no,c	lexc
 авторсӑрлӑх,chu,no,h	lexc
 авторучка,chu,no,c	lexc
 автосамосвал,chu,no,c	lexc
@@ -273,11 +273,11 @@
 автосервис,chu,no,d	lexc
 автостанци,chu,no,c	lexc
 автостоп,chu,no,c	lexc
-автострада,chu,no,c
+автострада,chu,no,c	lexc
 автосцепка,chu,no,c	lexc
 автоҫул,chu,no,c	lexc
 автоҫуна,chu,no,t12	lexc
-автотараса,chu,no,c
+автотараса,chu,no,c	lexc
 автотӑрав,chu,no,j7	lexc
 автотӑрӑм,chu,no,d	lexc
 автотранспорт,chu,no,c	lexc
@@ -288,10 +288,10 @@
 автофургон,chu,no,c	lexc
 автохуҫалӑх,chu,no,c	lexc
 автоцистерна,chu,no,c	lexc
-авточупу,chu,no,d
+авточупу,chu,no,d	lexc
 авточӳхенӳ,chu,no,e6	lexc
 автояваплӑх,chu,no,j155	lexc
-агава,chu,no,c
+агава,chu,no,c	lexc
 агглютинативлӑ,chu,ad,c	lexc
 агглютинаци,chu,no,c	lexc
 агглютинациле,chu,vb,c	lexc
@@ -300,11 +300,11 @@
 агентлав,chu,no,j7	lexc
 агентлӑх,chu,no,j7	lexc
 агентство,chu,no,c	lexc
-агентура,chu,no,c
+агентура,chu,no,c	lexc
 агитатор,chu,no,c	lexc
 агитаци,chu,no,c	lexc
 агитациле,chu,vb,c	lexc
-агитбригада,chu,no,c
+агитбригада,chu,no,c	lexc
 агитвагон,chu,no,c	lexc
 агитвакун,chu,no,o	lexc
 агитка,chu,no,d	lexc
@@ -314,7 +314,7 @@
 агитпоезд,chu,no,c	lexc
 агитпуйӑс,chu,no,o	lexc
 агитпункт,chu,no,c	lexc
-агитчупу,chu,no,d
+агитчупу,chu,no,d	lexc
 агностик,chu,no,c	lexc
 агностикла,chu,av,c	lexc
 агностицизм,chu,no,c	lexc
@@ -336,10 +336,10 @@
 агрессорлан,chu,vb,o	lexc
 агробиологи,chu,no,c	lexc
 агровӗренӳ,chu,no,c	lexc
-агрозоотехника,chu,no,c
+агрозоотехника,chu,no,c	lexc
 агрокомбинат,chu,no,d	lexc
 агрокружок,chu,no,c	lexc
-агрокультура,chu,no,g
+агрокультура,chu,no,g	lexc
 агролаборатори,chu,no,c	lexc
 агролицей,chu,no,d	lexc
 агромелиораци,chu,no,c	lexc
@@ -350,15 +350,15 @@
 агропромышленник,chu,no,d	lexc
 агропромышленность,chu,no,d	lexc
 агротехник,chu,no,c	lexc
-агротехника,chu,no,c
+агротехника,chu,no,c	lexc
 агрофирма,chu,no,d	lexc
 агрохими,chu,no,c	lexc
-адажио,chu,no,c
+адажио,chu,no,c	lexc
 адаптаци,chu,no,c	lexc
 адаптациле,chu,vb,c	lexc
 адаптацилен,chu,vb,c	lexc
 адвокат,chu,no,c	lexc
-адвокатура,chu,no,c
+адвокатура,chu,no,c	lexc
 адгезилӗх,chu,no,m11	lexc
 адекватлӑ,chu,ad,c	lexc
 адекватлӑх,chu,no,c	lexc
@@ -381,7 +381,7 @@
 азарт,chu,no,c	lexc
 азартлӑ,chu,ad,c	lexc
 азартлӑн,chu,av,c	lexc
-азбука,chu,no,c
+азбука,chu,no,c	lexc
 азбукӑлла,chu,av,c	lexc
 азербайджан,chu,no,c	lexc
 азербайджанла,chu,av,c	lexc
@@ -435,22 +435,22 @@
 айкан,chu,vb,c	lexc
 айкантар,chu,vb,o	lexc
 айкат,chu,vb,c	lexc
-айкату,chu,no,o
+айкату,chu,no,o	lexc
 айкаш,chu,vb,c	lexc
 айкаштар,chu,vb,c	lexc
-айкашу,chu,no,c
+айкашу,chu,no,c	lexc
 айкашуллӑ,chu,ad,c	lexc
 айкӑт,chu,vb,x1:29	lexc
 айкӑш-майкӑш,chu,ad,o	lexc
 айла,chu,vb,c	lexc
 айлан,chu,vb,c	lexc
 айлантар,chu,vb,c	lexc
-айлану,chu,no,d
+айлану,chu,no,d	lexc
 айлат,chu,vb,c	lexc
 айлаттар,chu,vb,c	lexc
-айлату,chu,no,c
+айлату,chu,no,c	lexc
 айлаш,chu,vb,d	lexc
-айлашу,chu,no,d
+айлашу,chu,no,d	lexc
 айлӑ,chu,ad,c	lexc
 айлӑм,chu,no/ad,c	lexc
 айлӑмлӑ,chu,ad,c	lexc
@@ -542,7 +542,7 @@
 аккумуляцилен,chu,vb,c	lexc
 акр,chu,no,c	lexc
 акробат,chu,no,c	lexc
-акробатика,chu,no,c
+акробатика,chu,no,c	lexc
 акробатла,chu,av,c	lexc
 акрополь,chu,no,g	lexc
 акросӑвӑ,chu,no,g	lexc
@@ -649,7 +649,7 @@
 аллегори,chu,no,c	lexc
 аллегорилле,chu,av,c	lexc
 аллегориллӗ,chu,ad,c	lexc
-аллегро,chu,no,c
+аллегро,chu,no,c	lexc
 аллерген,chu,no,c	lexc
 аллерги,chu,no,c	lexc
 аллея,chu,no,c	lexc
@@ -699,7 +699,7 @@
 алхаслӑх,chu,no,c	lexc
 алхасма,chu,no,c
 алхастар,chu,vb,c	lexc
-алхасу,chu,no,c
+алхасу,chu,no,c	lexc
 алхасуллӑ,chu,ad,c	lexc
 алхасуллӑн,chu,av,c	lexc
 алхими,chu,no,c	lexc
@@ -725,7 +725,7 @@
 альпинизм,chu,no,c	lexc
 альпинист,chu,no,c	lexc
 альт,chu,no,c	lexc
-альтернатива,chu,no,d
+альтернатива,chu,no,d	lexc
 альтернативӑсӑр,chu,ad,d	lexc
 альтернативлӑ,chu,ad,d	lexc
 альтернативҫӑ,chu,no,j12	lexc
@@ -760,7 +760,7 @@
 аман,chu,vb,c	lexc
 аман,chu,av,c	lexc
 амант,chu,vb,c	lexc
-аманту,chu,no,b119
+аманту,chu,no,b119	lexc
 аманчӑк,chu,no/ad,c
 амасӑр,chu,ad,c	lexc
 ама_ҫури,chu,no,c	lexc
@@ -768,14 +768,14 @@
 амашка,chu,no/ad,c
 амашкалан,chu,vb,c	lexc
 амӑш,chu,no,c	lexc
-амӑш_ай,chu,no,c
+амӑш_ай,chu,no,c	lexc
 амӑшӗ,chu,no,c	lexc
 амӑшлӑх,chu,no,c	lexc
 амбивалентлӑх,chu,no,g	lexc
 амбици,chu,no,d	lexc
 амбицилӗх,chu,no,d	lexc
 амбициллӗ,chu,ad,d	lexc
-амбразура,chu,no,c
+амбразура,chu,no,c	lexc
 амбулатори,chu,no,c	lexc
 амвон,chu,no,c	lexc
 американ,chu,no,d	lexc
@@ -828,7 +828,7 @@
 аналитика,chu,no,d	lexc
 аналоги,chu,no,c	lexc
 аналогилле,chu,av,c	lexc
-аналой,chu,no,c
+аналой,chu,no,c	lexc
 анальгетик,chu,no,g	lexc
 ананас,chu,no,c	lexc
 анапест,chu,no,c	lexc
@@ -869,7 +869,7 @@
 анӑш-тӑнӑш,chu,no/ad,c
 ангар,chu,no,c	lexc
 ангел,chu,no,c	lexc
-ангина,chu,no,c
+ангина,chu,no,c	lexc
 анданте,chu,no,c
 андеррайтер,chu,no,v	lexc
 андрологи,chu,no,g	lexc
@@ -940,12 +940,12 @@
 анрат,chu,vb,c	lexc
 анраш,chu,vb,c	lexc
 анраштар,chu,vb,c	lexc
-анрашу,chu,no,c
+анрашу,chu,no,c	lexc
 ансамбль,chu,no,c	lexc
 ансат,chu,ad,c	lexc
 ансатлан,chu,vb,c	lexc
 ансатлантар,chu,vb,c	lexc
-ансатлану,chu,no,a48
+ансатлану,chu,no,a48	lexc
 ансатлат,chu,vb,c	lexc
 ансатлӑх,chu,no,c	lexc
 ансӑр,chu,ad,c	lexc
@@ -967,7 +967,7 @@
 антагонизмсӑр,chu,ad,c	lexc
 антагонист,chu,no,c	lexc
 антар,chu,vb,c	lexc
-антару,chu,no,h
+антару,chu,no,h	lexc
 антӑрлӑх,chu,no,c	lexc
 антӑс,chu,no,c	lexc
 антӑх,chu,no/ad,c
@@ -980,13 +980,13 @@
 антиглобализм,chu,no,g	lexc
 антиглобалист,chu,no,g	lexc
 антидепрессант,chu,no,p10	lexc
-антика,chu,no,c
+антика,chu,no,c	lexc
 антиквар,chu,no,c	lexc
 антиколониализм,chu,no,c	lexc
 антикоммунизм,chu,no,c	lexc
 антикоммунизмла,chu,av,c	lexc
 антикоммунист,chu,no,c	lexc
-антилопа,chu,no,c
+антилопа,chu,no,c	lexc
 антимарксизм,chu,no,c	lexc
 антимилитаризм,chu,no,c	lexc
 антипод,chu,no,c	lexc
@@ -994,7 +994,7 @@
 антисемит,chu,no,c	lexc
 антисемитизм,chu,no,c	lexc
 антисептик,chu,no,c	lexc
-антисептика,chu,no,c
+антисептика,chu,no,c	lexc
 антисоветизм,chu,no,c	lexc
 антисоветчик,chu,no,c	lexc
 антифашизм,chu,no,c	lexc
@@ -1016,7 +1016,7 @@
 антропометри,chu,no,c	lexc
 антропоморфизм,chu,no,c	lexc
 антти,chu,no,c	lexc
-анфилада,chu,no,c
+анфилада,chu,no,c	lexc
 анчах,chu,pa,c
 анчах,chu,av,c	lexc
 анчах,chu,co,c
@@ -1042,7 +1042,7 @@
 апатла,chu,vb,c	lexc
 апатлан,chu,vb,c	lexc
 апатлантар,chu,vb,c	lexc
-апатлану,chu,no,d
+апатлану,chu,no,d	lexc
 апатлӑ,chu,ad,c	lexc
 апат-ҫимӗҫ,chu,no,c	lexc
 апӑрша,chu,no/ad,c
@@ -1073,14 +1073,14 @@
 аппа-йысна,chu,no,q4:255
 аппалан,chu,vb,c	lexc
 аппалантар,chu,vb,c	lexc
-аппалану,chu,no,c
+аппалану,chu,no,c	lexc
 аппаланчӑк,chu,no,c	lexc
 аппаллӑ-йӑмӑклӑ,chu,ad,c	lexc
 аппарат,chu,no,c	lexc
 аппаратҫӑ,chu,no,d	lexc
 аппаратура,chu,no,c
 аппаратчик,chu,no,c	lexc
-аппаратчица,chu,no,c
+аппаратчица,chu,no,c	lexc
 аппару,chu,av,c	lexc
 аппӑн-тӗппӗн,chu,av,c	lexc
 аппендикс,chu,no,c	lexc
@@ -1126,7 +1126,7 @@
 ара,chu,pa,c	lexc
 араб,chu,no,c	lexc
 арабист,chu,no,c	lexc
-арабистика,chu,no,c
+арабистика,chu,no,c	lexc
 арабла,chu,av,c	lexc
 араблан,chu,vb,o	lexc
 араблантар,chu,vb,o	lexc
@@ -1156,7 +1156,7 @@
 арбитр,chu,no,c	lexc
 арбитраж,chu,no,c	lexc
 арбуз,chu,no,c	lexc
-арго,chu,no,c
+арго,chu,no,c	lexc
 аргонавт,chu,no,v	lexc
 аргумент,chu,no,c	lexc
 аргументаци,chu,no,c	lexc
@@ -1177,20 +1177,20 @@
 аристократла,chu,av,c	lexc
 аристократлан,chu,vb,o	lexc
 аристократлӑх,chu,no,c	lexc
-арифметика,chu,no,c
+арифметика,chu,no,c	lexc
 арифмометр,chu,no,c	lexc
 арка,chu,no,o	lexc
-аркада,chu,no,c
+аркада,chu,no,c	lexc
 аркан,chu,vb,c	lexc
 аркан,chu,no,o	lexc
 арканла,chu,vb,o	lexc
 аркантар,chu,vb,o	lexc
-аркану,chu,no,c
+аркану,chu,no,c	lexc
 арканчӑк,chu,no/ad,c
 аркаслан,chu,vb,x1:334	lexc
 аркат,chu,vb,c	lexc
 аркаттар,chu,vb,c	lexc
-аркату,chu,no,c
+аркату,chu,no,c	lexc
 аркату-вӗлерӳ,chu,no,r86	lexc
 аркатуллӑ,chu,ad,c	lexc
 аркатуҫӑ,chu,no,d	lexc
@@ -1223,7 +1223,7 @@
 арматура,chu,no,c	lexc
 арматурӑла,chu,vb,c	lexc
 арматурщик,chu,no,c	lexc
-арматурщица,chu,no,c
+арматурщица,chu,no,c	lexc
 армеец,chu,no,c	lexc
 арми,chu,no,c	lexc
 армрестлинг,chu,no,d	lexc
@@ -1244,7 +1244,7 @@
 арпашӑнчӑк,chu,ad,c	lexc
 арпашлӑх,chu,no,i130	lexc
 арпаштар,chu,vb,c	lexc
-арпашу,chu,no,c
+арпашу,chu,no,c	lexc
 арпашулӑх,chu,no,d	lexc
 ар-пир,chu,no,y169	lexc
 арпус,chu,no,c	lexc
@@ -1335,8 +1335,8 @@
 асапла,chu,vb,c	lexc
 асаплан,chu,vb,c	lexc
 асаплантар,chu,vb,c	lexc
-асаплантару,chu,no,c
-асаплану,chu,no,d
+асаплантару,chu,no,c	lexc
+асаплану,chu,no,d	lexc
 асаплӑ,chu,ad,c	lexc
 асаплӑн,chu,av,c	lexc
 асаплӑх,chu,no,c	lexc
@@ -1382,7 +1382,7 @@
 асбестобетон,chu,no,c	lexc
 асбестоцемент,chu,no,c	lexc
 асбошифер,chu,no,c	lexc
-асептика,chu,no,c
+асептика,chu,no,c	lexc
 асессор,chu,no,v	lexc
 асил,chu,vb,d	lexc
 асилтер,chu,vb,d	lexc
@@ -1445,7 +1445,7 @@
 ассоциациллӗ,chu,ad,c	lexc
 астар,chu,vb,c	lexc
 астармӑш,chu,no/ad,c
-астару,chu,no,c
+астару,chu,no,c	lexc
 астаруллӑ,chu,ad,c	lexc
 ас_тӑвӑм,chu,no,d	lexc
 астероид,chu,no,c	lexc
@@ -1461,7 +1461,7 @@
 астрологи,chu,no,c	lexc
 астронавигаци,chu,no,c	lexc
 астронавт,chu,no,c	lexc
-астронавтика,chu,no,c
+астронавтика,chu,no,c	lexc
 астроном,chu,no,c	lexc
 астрономи,chu,no,c	lexc
 астрофизик,chu,no,v	lexc
@@ -1508,7 +1508,7 @@
 аташ,chu,vb,c	lexc
 аташлӑ,chu,ad,c	lexc
 аташтар,chu,vb,c	lexc
-аташу,chu,no,c
+аташу,chu,no,c	lexc
 аташуллӑ,chu,ad,c	lexc
 атӑ,chu,no,c	lexc
 атӑ-пушмак,chu,no,c	lexc
@@ -1556,7 +1556,7 @@
 аттестацилен,chu,vb,o	lexc
 атторней,chu,no,v	lexc
 атту,chu,co,c
-аттьу,chu,no,c
+аттьу,chu,no,c	lexc
 аттьу_пул,chu,vb,c	lexc
 атьӑр,chu,in,c
 атьсемӗр,chu,no,c	lexc
@@ -1564,7 +1564,7 @@
 атя,chu,in,c
 ау,chu,in,c
 аудиенци,chu,no,c	lexc
-аудиокассета,chu,no,d
+аудиокассета,chu,no,d	lexc
 аудиоплейер,chu,no,d	lexc
 аудиоҫыру,chu,no,g	lexc
 аудит,chu,no,j17	lexc
@@ -1579,7 +1579,7 @@
 аукционҫӑ,chu,no,j17	lexc
 аул,chu,no,c	lexc
 аулат,chu,vb,c	lexc
-аура,chu,no,d
+аура,chu,no,d	lexc
 аут,chu,no,c	lexc
 аутоаллергизацилен,chu,no,i41	lexc
 аутогенлӑ,chu,ad,d	lexc
@@ -1600,7 +1600,7 @@
 африкан,chu,no,c	lexc
 африканец,chu,no,c	lexc
 африканист,chu,no,v	lexc
-африканистика,chu,no,c
+африканистика,chu,no,c	lexc
 аффикс,chu,no,c	lexc
 аффиксаци,chu,no,c	lexc
 аффикссӑрлану,chu,no,a50	lexc
@@ -1633,7 +1633,7 @@
 ахӑрттар,chu,vb,c	lexc
 ахлат,chu,vb,c	lexc
 ахлаттар,chu,vb,c	lexc
-ахлату,chu,no,c
+ахлату,chu,no,c	lexc
 ахрамат,chu,ad,c	lexc
 ахрат,chu,ad,c	lexc
 ахрат,chu,in,c
@@ -1664,10 +1664,10 @@
 ачашла,chu,vb,c	lexc
 ачашлан,chu,vb,c	lexc
 ачашлантар,chu,vb,c	lexc
-ачашлану,chu,no,d
+ачашлану,chu,no,d	lexc
 ачашлаттар,chu,vb,c	lexc
 ачашлӑх,chu,no,c	lexc
-ачашлу,chu,no,d
+ачашлу,chu,no,d	lexc
 ачашшӑн,chu,av,c	lexc
 ачӑлташ,chu,no,c	lexc
 ачӑрхан,chu,vb,x2:175	lexc
@@ -1703,7 +1703,7 @@
 ашшӗ-амӑшӗсӗр,chu,ad,c	lexc
 ашшӗ-амӑшлӗ,chu,ad,c	lexc
 ашшӗлӗх,chu,no,j168	lexc
-аэробика,chu,no,d
+аэробика,chu,no,d	lexc
 аэробус,chu,no,g	lexc
 аэровокзал,chu,no,c	lexc
 аэродинамика,chu,no,c	lexc
@@ -1711,7 +1711,7 @@
 аэроклуб,chu,no,c	lexc
 аэронавигаци,chu,no,c	lexc
 аэронавт,chu,no,v	lexc
-аэронавтика,chu,no,c
+аэронавтика,chu,no,c	lexc
 аэроплан,chu,no,c	lexc
 аэропорт,chu,no,c	lexc
 аэростат,chu,no,c	lexc
@@ -1919,7 +1919,7 @@
 ӑслан,chu,vb,c	lexc
 ӑслӑ,chu,ad,c	lexc
 ӑслӑ-йӗрлӗ,chu,ad,c	lexc
-ӑслӑккай,chu,no,c
+ӑслӑккай,chu,no,c	lexc
 ӑслӑла,chu,vb,c	lexc
 ӑслӑлан,chu,vb,c	lexc
 ӑслӑлантар,chu,vb,h	lexc
@@ -1951,7 +1951,7 @@
 ӑсҫутавҫӑ,chu,no,d	lexc
 ӑсҫутатуҫӑ,chu,no,d	lexc
 ӑста,chu,ad,c	lexc
-ӑстай,chu,no,c
+ӑстай,chu,no,c	lexc
 ӑстайлӑ,chu,ad,c	lexc
 ӑстайлӑн,chu,av,c	lexc
 ӑстала,chu,vb,c	lexc
@@ -2089,13 +2089,13 @@
 балл,chu,no,c	lexc
 баллада,chu,no,c	lexc
 балласт,chu,no,c	lexc
-баллистика,chu,no,c
+баллистика,chu,no,c	lexc
 баллон,chu,no,c	lexc
 бальзам,chu,no,c	lexc
 бальзамла,chu,vb,c	lexc
 бальзамлӑ,chu,ad,c	lexc
 бальнеологи,chu,no,c	lexc
-балюстрада,chu,no,c
+балюстрада,chu,no,c	lexc
 бамбук,chu,no,c	lexc
 банан,chu,no,c	lexc
 банда,chu,no,c	lexc
@@ -2105,7 +2105,7 @@
 бандитизм,chu,no,c	lexc
 бандитла,chu,av,c	lexc
 бандитлӑх,chu,no,z56	lexc
-бандура,chu,no,c
+бандура,chu,no,c	lexc
 бандурист,chu,no,c	lexc
 банк,chu,no,c	lexc
 банка,chu,no,c	lexc
@@ -2131,7 +2131,7 @@
 барка,chu,no,c	lexc
 баркас,chu,no,c	lexc
 бармен,chu,no,d	lexc
-барокамера,chu,no,c
+барокамера,chu,no,c	lexc
 барокко,chu,no,c	lexc
 барометр,chu,no,c	lexc
 барон,chu,no,c	lexc
@@ -2140,15 +2140,15 @@
 барс,chu,no,c	lexc
 бартер,chu,no,d	lexc
 бархат,chu,no,c	lexc
-барщина,chu,no,c
-барыня,chu,no,c
+барщина,chu,no,c	lexc
+барыня,chu,no,c	lexc
 бас,chu,no,c	lexc
 баскетбол,chu,no,c	lexc
 баскетболист,chu,no,c	lexc
 баскетболистка,chu,no,c	lexc
 баскетболла,chu,av,c	lexc
 басмач,chu,no,c	lexc
-басня,chu,no,c
+басня,chu,no,c	lexc
 бассейн,chu,no,c	lexc
 бастион,chu,no,c	lexc
 баталист,chu,no,v	lexc
@@ -2161,13 +2161,13 @@
 батон,chu,no,c	lexc
 батрак,chu,no,c	lexc
 батракла,chu,av,c	lexc
-баттерфляй,chu,no,c
+баттерфляй,chu,no,c	lexc
 батут,chu,no,c	lexc
 баул,chu,no,c	lexc
 бахча,chu,no,c	lexc
 бахчаҫӑ,chu,no,c	lexc
 бацилла,chu,no,c	lexc
-башня,chu,no,c
+башня,chu,no,c	lexc
 баян,chu,no,c	lexc
 баянист,chu,no,c	lexc
 баянҫӑ,chu,no,d	lexc
@@ -2178,15 +2178,15 @@
 бейсболка,chu,no,d	lexc
 бекас,chu,no,c	lexc
 бекон,chu,no,c	lexc
-белила,chu,no,c
+белила,chu,no,c	lexc
 беллетрист,chu,no,c	lexc
-беллетристика,chu,no,c
+беллетристика,chu,no,c	lexc
 белогвардеец,chu,no,v	lexc
 белок,chu,no,c	lexc
 белоклӑ,chu,ad,c	lexc
 белорус,chu,no,c	lexc
 белорусла,chu,av,c	lexc
-белуга,chu,no,c
+белуга,chu,no,c	lexc
 бельги,chu,no,c	lexc
 бельгиец,chu,no,v	lexc
 бельманҫӑ,chu,no,d	lexc
@@ -2246,27 +2246,27 @@
 бинтла,chu,vb,c	lexc
 бинтлаттар,chu,vb,o	lexc
 биовампир,chu,no,d	lexc
-биовӑй,chu,no,d
+биовӑй,chu,no,d	lexc
 биограф,chu,no,c	lexc
 биографи,chu,no,c	lexc
 биографиллӗ,chu,ad,c	lexc
 биолог,chu,no,c	lexc
 биологи,chu,no,c	lexc
-бионика,chu,no,c
+бионика,chu,no,c	lexc
 биопрепарат,chu,no,d	lexc
 биоритм,chu,no,d	lexc
 биостанци,chu,no,c	lexc
 биосфера,chu,no,d	lexc
 биотехнологи,chu,no,d	lexc
 биоток,chu,no,d	lexc
-биоуй,chu,no,d
+биоуй,chu,no,d	lexc
 биофизик,chu,no,v	lexc
-биофизика,chu,no,c
+биофизика,chu,no,c	lexc
 биохӑват,chu,no,d	lexc
 биохими,chu,no,c	lexc
 биохимик,chu,no,v	lexc
 биохутӑш,chu,no,d	lexc
-биоэнергетика,chu,no,d
+биоэнергетика,chu,no,d	lexc
 биоэнерги,chu,no,d	lexc
 биоэнерготерапевт,chu,no,d	lexc
 биплан,chu,no,c	lexc
@@ -2278,7 +2278,7 @@
 бисексуаллӑ,chu,ad,d	lexc
 бисексуаллӑх,chu,no,m39	lexc
 бисквит,chu,no,c	lexc
-биссектриса,chu,no,c
+биссектриса,chu,no,c	lexc
 биточки,chu,no,c	lexc
 битум,chu,no,c	lexc
 битумла,chu,vb,c	lexc
@@ -2295,9 +2295,9 @@
 блокадӑла,chu,vb,o	lexc
 блокнот,chu,no,c	lexc
 блокпост,chu,no,d	lexc
-блуза,chu,no,c
+блуза,chu,no,c	lexc
 блузка,chu,no,c	lexc
-блюдо,chu,no,c
+блюдо,chu,no,c	lexc
 блюминг,chu,no,c	lexc
 бобрик,chu,no,c	lexc
 богослов,chu,no,v	lexc
@@ -2310,8 +2310,8 @@
 боёк,chu,no,c	lexc
 бойкот,chu,no,c	lexc
 бойкотла,chu,vb,c	lexc
-бойница,chu,no,c
-бойня,chu,no,c
+бойница,chu,no,c	lexc
+бойня,chu,no,c	lexc
 бойскаут,chu,no,r19	lexc
 бокс,chu,no,c	lexc
 боксёр,chu,no,c	lexc
@@ -2322,7 +2322,7 @@
 болельщик,chu,no,c	lexc
 болид,chu,no,e12	lexc
 болонка,chu,no,c	lexc
-болонья,chu,no,c
+болонья,chu,no,c	lexc
 болт,chu,no,c	lexc
 больница,chu,no,c	lexc
 большевизм,chu,no,c	lexc
@@ -2336,17 +2336,17 @@
 бомбоубежище,chu,no,c
 бомж,chu,no,d	lexc
 бон,chu,no,c	lexc
-бона,chu,no,c
+бона,chu,no,c	lexc
 бор,chu,no,c	lexc
 бордель,chu,no,d	lexc
 боржом,chu,no,c	lexc
 боржоми,chu,no,c	lexc
-бормашина,chu,no,c
+бормашина,chu,no,c	lexc
 борт,chu,no,c	lexc
 бортжурнал,chu,no,c	lexc
 бортинженер,chu,no,c	lexc
 бортмеханик,chu,no,c	lexc
-бортпроводница,chu,no,c
+бортпроводница,chu,no,c	lexc
 бортрадист,chu,no,c	lexc
 борщ,chu,no,c	lexc
 босоножки,chu,no,c	lexc
@@ -2365,7 +2365,7 @@
 бракла,chu,vb,c	lexc
 браклав,chu,no,j25	lexc
 браковщик,chu,no,c	lexc
-браковщица,chu,no,c
+браковщица,chu,no,c	lexc
 браконьер,chu,no,c	lexc
 браконьерлӑх,chu,no,c	lexc
 брандспойт,chu,no,c	lexc
@@ -2376,7 +2376,7 @@
 бренд,chu,no,d	lexc
 бригада,chu,no,c	lexc
 бригадир,chu,no,c	lexc
-бригантина,chu,no,c
+бригантина,chu,no,c	lexc
 бриджи,chu,no,c	lexc
 брикет,chu,no,c	lexc
 брикетла,chu,vb,c	lexc
@@ -2390,7 +2390,7 @@
 бромлӑ,chu,ad,c	lexc
 бронеавтомобиль,chu,no,c	lexc
 броневик,chu,no,c	lexc
-бронемашина,chu,no,c
+бронемашина,chu,no,c	lexc
 броненосец,chu,no,c	lexc
 бронепоезд,chu,no,c	lexc
 бронетанковӑй,chu,ad,c	lexc
@@ -2402,7 +2402,7 @@
 бронхит,chu,no,c	lexc
 броньӑла,chu,vb,c	lexc
 броньӑллӑ,chu,ad,c	lexc
-броня,chu,no,c
+броня,chu,no,c	lexc
 брошка,chu,no,c	lexc
 брошюра,chu,no,c	lexc
 брошюрӑла,chu,vb,c	lexc
@@ -2425,11 +2425,11 @@
 букинист,chu,no,c	lexc
 букса,chu,no,c	lexc
 буксир,chu,no,c	lexc
-булава,chu,no,c
+булава,chu,no,c	lexc
 булавка,chu,no,c	lexc
 булат,chu,no,c	lexc
 булка,chu,no,c	lexc
-булочнӑй,chu,no,c
+булочнӑй,chu,no,c	lexc
 бульвар,chu,no,c	lexc
 бульдог,chu,no,c	lexc
 бульдозер,chu,no,c	lexc
@@ -2443,7 +2443,7 @@
 буржуази,chu,no,c	lexc
 буржуалла,chu,av,c	lexc
 буржуалла-демократилле,chu,av,c	lexc
-буржуй,chu,no,c
+буржуй,chu,no,c	lexc
 бурильщик,chu,no,c	lexc
 бурка,chu,no,c	lexc
 бурки,chu,no,c	lexc
@@ -2461,13 +2461,13 @@
 буфер,chu,no,c	lexc
 буфет,chu,no,c	lexc
 буфетчик,chu,no,c	lexc
-буфетчица,chu,no,c
+буфетчица,chu,no,c	lexc
 буханка,chu,no,c	lexc
 бухгалтер,chu,no,c	lexc
 бухгалтери,chu,no,c	lexc
 бухта,chu,no,c	lexc
 бушлат,chu,no,c	lexc
-былина,chu,no,c
+былина,chu,no,c	lexc
 бычок,chu,no,c	lexc
 бюджет,chu,no,c	lexc
 бюджетник,chu,no,d	lexc
@@ -2484,7 +2484,7 @@
 вагон,chu,no,c	lexc
 вагонетка,chu,no,c	lexc
 вагранка,chu,no,c	lexc
-ваза,chu,no,c
+ваза,chu,no,c	lexc
 вазелин,chu,no,c	lexc
 вай,chu,in,c
 вайӑкла,chu,vb,c	lexc
@@ -2510,7 +2510,7 @@
 ваккӑн-тӗвеккӗн,chu,av,c	lexc
 вакла,chu,vb,c	lexc
 ваклан,chu,vb,c	lexc
-ваклану,chu,no,c
+ваклану,chu,no,c	lexc
 вакланчӑк,chu,no/ad,c
 вакланчӑклӑх,chu,no,c	lexc
 ваклаттар,chu,vb,c	lexc
@@ -2568,7 +2568,7 @@
 ваниль,chu,no,c	lexc
 ванильлӗ,chu,ad,c	lexc
 ванна,chu,no,c	lexc
-ваннӑй,chu,no,c
+ваннӑй,chu,no,c	lexc
 вантӑ,chu,no,c	lexc
 ванчӑк,chu,no/ad,c	lexc
 ванчӑкла,chu,vb,c	lexc
@@ -2599,7 +2599,7 @@
 варени,chu,no,c	lexc
 вариант,chu,no,c	lexc
 вариантлав,chu,no,a203	lexc
-вариантлану,chu,no,a52
+вариантлану,chu,no,a52	lexc
 вариантлӑ,chu,ad,c	lexc
 вариантлӑх,chu,no,c	lexc
 вариаци,chu,no,c	lexc
@@ -2762,7 +2762,7 @@
 вӑйлӑ-хӑватлӑ,chu,ad,b163	lexc
 вӑй_питти,chu,ad,c	lexc
 вӑй_питтилен,chu,vb,c	lexc
-вӑй-сӑй,chu,no,c
+вӑй-сӑй,chu,no,c	lexc
 вӑйсӑр,chu,ad,c	lexc
 вӑйсӑрлан,chu,vb,c	lexc
 вӑйсӑрлантар,chu,vb,c	lexc
@@ -3029,7 +3029,7 @@
 веле-селе,chu,ad,c	lexc
 велогонка,chu,no,c	lexc
 велодром,chu,no,c	lexc
-велокамера,chu,no,c
+велокамера,chu,no,c	lexc
 велосипед,chu,no,c	lexc
 велосипедист,chu,no,c	lexc
 велосипедистка,chu,no,c	lexc
@@ -3040,7 +3040,7 @@
 велтей,chu,no,h	lexc
 вельбот,chu,no,c	lexc
 вельвет,chu,no,c
-вельможа,chu,no,c
+вельможа,chu,no,c	lexc
 велюр,chu,no,c	lexc
 вена,chu,no,c	lexc
 венгерка,chu,no,c	lexc
@@ -3089,7 +3089,7 @@
 весовщик,chu,no,c	lexc
 вестибулярлӑ,chu,ad,c	lexc
 вестибюль,chu,no,c	lexc
-вестовой,chu,no,c
+вестовой,chu,no,c	lexc
 веҫ,chu,no,c	lexc
 веҫ,chu,av,c	lexc
 веҫ,chu,pa,c
@@ -3099,10 +3099,10 @@
 ветеринар,chu,no,c	lexc
 ветеринари,chu,no,c	lexc
 ветӗл,chu,no,c	lexc
-ветлечебница,chu,no,c
-вето,chu,no,c
+ветлечебница,chu,no,c	lexc
+вето,chu,no,c	lexc
 ветфельдшер,chu,no,c	lexc
-ветчина,chu,no,c
+ветчина,chu,no,c	lexc
 вече,chu,no,c
 вечер,chu,no,c
 вешалка,chu,no,c	lexc
@@ -3381,11 +3381,11 @@
 вигонь,chu,no,c	lexc
 вид,chu,no,c	lexc
 видео,chu,no,d	lexc
-видеоаппаратура,chu,no,d
+видеоаппаратура,chu,no,d	lexc
 видеодисплей,chu,no,d	lexc
 видеозал,chu,no,d	lexc
-видеокамера,chu,no,d
-видеокассета,chu,no,d
+видеокамера,chu,no,d	lexc
+видеокассета,chu,no,d	lexc
 видеокӗпер,chu,no,d	lexc
 видеокласс,chu,no,d	lexc
 видеоклип,chu,no,d	lexc
@@ -3398,18 +3398,18 @@
 видеопродукци,chu,no,d	lexc
 видеосалон,chu,no,d	lexc
 видеосюжет,chu,no,d	lexc
-видеотека,chu,no,d
+видеотека,chu,no,d	lexc
 видеотелефон,chu,no,d	lexc
-видеотехника,chu,no,d
+видеотехника,chu,no,d	lexc
 видеоӳкерӳ,chu,no,d	lexc
 видеофильм,chu,no,d	lexc
 видик,chu,no,d	lexc
 виза,chu,no,c	lexc
 визит,chu,no,c	lexc
-вика,chu,no,c
+вика,chu,no,c	lexc
 виклӗ-шиклӗ,chu,ad,c	lexc
 виктори,chu,no,d	lexc
-викторина,chu,no,c
+викторина,chu,no,c	lexc
 вил,chu,no,c	lexc
 вил,chu,vb,c	lexc
 виле,chu,no,c	lexc
@@ -3490,7 +3490,7 @@
 виселен,chu,vb,c	lexc
 виселентер,chu,vb,c	lexc
 виски,chu,no,c	lexc
-вискоза,chu,no,c
+вискоза,chu,no,c	lexc
 виссон,chu,no,l	lexc
 висте,chu,vb,c	lexc
 вистев,chu,no,w203	lexc
@@ -3569,7 +3569,7 @@
 витрелет,chu,vb,c	lexc
 витре-ҫарма,chu,no,s40	lexc
 витре-чӗрес,chu,no,c	lexc
-витрина,chu,no,c
+витрина,chu,no,c	lexc
 виттер,chu,vb,c	lexc
 вице-адмирал,chu,no,c	lexc
 вице-губернатор,chu,no,d	lexc
@@ -3604,7 +3604,7 @@
 водород,chu,no,c	lexc
 водородлӑ,chu,ad,c	lexc
 водянка,chu,no,c	lexc
-воевода,chu,no,c
+воевода,chu,no,c	lexc
 воеводӑлӑх,chu,no,z66	lexc
 воеводство,chu,no,c	lexc
 военврач,chu,no,c	lexc
@@ -3613,7 +3613,7 @@
 военкор,chu,no,v	lexc
 военрук,chu,no,c	lexc
 военторг,chu,no,c	lexc
-вожатӑй,chu,no,c
+вожатӑй,chu,no,c	lexc
 Возрождени,chu,no,c	lexc
 воин,chu,no,c	lexc
 вокал,chu,no,c	lexc
@@ -3624,7 +3624,7 @@
 волейболист,chu,no,c	lexc
 волейболистка,chu,no,c	lexc
 волейболла,chu,av,c	lexc
-волокита,chu,no,c
+волокита,chu,no,c	lexc
 волокитчик,chu,no,c	lexc
 волокуша,chu,no,c	lexc
 волонтёр,chu,no,v	lexc
@@ -3639,7 +3639,7 @@
 воспитани,chu,no,c	lexc
 воспитанник,chu,no,c	lexc
 воспитатель,chu,no,c	lexc
-воспитательница,chu,no,c
+воспитательница,chu,no,c	lexc
 восстани,chu,no,c	lexc
 востоковед,chu,no,c	lexc
 востоковедени,chu,no,c	lexc
@@ -3737,7 +3737,7 @@
 вылямалли,chu,pc,c
 вылян,chu,vb,c	lexc
 вылянтар,chu,vb,c	lexc
-выляну,chu,no,c
+выляну,chu,no,c	lexc
 вылянчӑк,chu,no/ad,c
 вылянчӑклӑ,chu,ad,d	lexc
 вылянчӑклӑн,chu,av,c	lexc
@@ -3819,10 +3819,10 @@
 вышкайсӑрлан,chu,vb,c	lexc
 вышкал,chu,po,c
 вышкаллӑ,chu,po,c
-га,chu,no,c
+га,chu,no,c	lexc
 габардин,chu,no,c	lexc
 гавань,chu,no,c	lexc
-гагара,chu,no,c
+гагара,chu,no,c	lexc
 газ,chu,no,c	lexc
 газик,chu,no,c	lexc
 газификаци,chu,no,c	lexc
@@ -3842,10 +3842,10 @@
 гайморит,chu,no,c	lexc
 гала-концерт,chu,no,d	lexc
 галактика,chu,no,c	lexc
-галантерея,chu,no,c
-галера,chu,no,c
+галантерея,chu,no,c	lexc
+галера,chu,no,c	lexc
 галерея,chu,no,c	lexc
-галета,chu,no,c
+галета,chu,no,c	lexc
 галифе,chu,no,c
 галлюцинаци,chu,no,c	lexc
 галстук,chu,no,c	lexc
@@ -3854,11 +3854,11 @@
 гальванизациле,chu,vb,o	lexc
 гальванизацилен,chu,vb,o	lexc
 гамак,chu,no,c	lexc
-гамаша,chu,no,c
+гамаша,chu,no,c	lexc
 гамбит,chu,no,c	lexc
 гамбургер,chu,no,d	lexc
 гамма,chu,no,c	lexc
-гангрена,chu,no,c
+гангрена,chu,no,c	lexc
 гангстер,chu,no,c	lexc
 гангстерла,chu,av,c	lexc
 гангстерлӑх,chu,no,c	lexc
@@ -3872,7 +3872,7 @@
 гарантиллӗ,chu,ad,c	lexc
 гардероб,chu,no,c	lexc
 гардеробщик,chu,no,c	lexc
-гардина,chu,no,c
+гардина,chu,no,c	lexc
 гарем,chu,no,c	lexc
 гармони,chu,no,c	lexc
 гармонизаци,chu,no,c	lexc
@@ -3891,11 +3891,11 @@
 гастроном,chu,no,c	lexc
 гастрономи,chu,no,c	lexc
 гастроэнтеролог,chu,no,v	lexc
-гаубица,chu,no,c
+гаубица,chu,no,c	lexc
 гауптвахта,chu,no,c	lexc
 гвардеец,chu,no,c	lexc
 гварди,chu,no,c	lexc
-гвоздика,chu,no,c
+гвоздика,chu,no,c	lexc
 гегемон,chu,no,c	lexc
 гегемони,chu,no,c	lexc
 гегемонизм,chu,no,c	lexc
@@ -3908,7 +3908,7 @@
 гельминтлан,chu,vb,i51	lexc
 гемоглобин,chu,no,c	lexc
 гемодиализ,chu,no,d	lexc
-геморрой,chu,no,c
+геморрой,chu,no,c	lexc
 ген,chu,no,c	lexc
 гендиректор,chu,no,d	lexc
 генеалоги,chu,no,c	lexc
@@ -3934,7 +3934,7 @@
 геологи,chu,no,c	lexc
 геометри,chu,no,c	lexc
 геопатогенлӑ,chu,ad,d	lexc
-геополитика,chu,no,d
+геополитика,chu,no,d	lexc
 георгин,chu,no,c	lexc
 геофизик,chu,no,v	lexc
 геофизика,chu,no,c	lexc
@@ -3942,7 +3942,7 @@
 геохимик,chu,no,v	lexc
 гепард,chu,no,c	lexc
 гепатит,chu,no,g	lexc
-геральдика,chu,no,d
+геральдика,chu,no,d	lexc
 герб,chu,no,c	lexc
 гербари,chu,no,c	lexc
 гербицид,chu,no,c	lexc
@@ -3952,22 +3952,22 @@
 гермафродит,chu,no,c	lexc
 гермошлем,chu,no,c	lexc
 героин,chu,no,c	lexc
-героиня,chu,no,c
+героиня,chu,no,c	lexc
 герой,chu,no,c	lexc
 геройлӑх,chu,no,c	lexc
 геронтолог,chu,no,g	lexc
 геронтологи,chu,no,g	lexc
 герцог,chu,no,c	lexc
-герцогиня,chu,no,c
+герцогиня,chu,no,c	lexc
 герцогство,chu,no,c	lexc
-гестапо,chu,no,c
+гестапо,chu,no,c	lexc
 гестаповец,chu,no,c	lexc
 гетеросексуаллӑ,chu,ad,d	lexc
 гетеросексуаллӑх,chu,no,m59	lexc
 гетман,chu,no,c	lexc
 гетра,chu,no,c	lexc
 геттӑла,chu,vb,r27	lexc
-гетто,chu,no,c
+гетто,chu,no,c	lexc
 гёрлскаут,chu,no,v	lexc
 гиацинт,chu,no,c	lexc
 гиббон,chu,no,c	lexc
@@ -3982,15 +3982,15 @@
 гидрокостюм,chu,no,c	lexc
 гидролиз,chu,no,c	lexc
 гидромелиораци,chu,no,c	lexc
-гидропоника,chu,no,c
+гидропоника,chu,no,c	lexc
 гидросамолёт,chu,no,c	lexc
 гидростанци,chu,no,c	lexc
 гидротерапи,chu,no,g	lexc
 гидротехник,chu,no,c	lexc
-гидротехника,chu,no,c
+гидротехника,chu,no,c	lexc
 гидроузел,chu,no,c	lexc
 гидроэлектростанци,chu,no,c	lexc
-гиена,chu,no,c
+гиена,chu,no,c	lexc
 гильди,chu,no,c	lexc
 гильза,chu,no,c	lexc
 гимн,chu,no,c	lexc
@@ -4004,7 +4004,7 @@
 гимнастка,chu,no,c	lexc
 гинеколог,chu,no,c	lexc
 гинекологи,chu,no,c	lexc
-гипербола,chu,no,c
+гипербола,chu,no,c	lexc
 гиперсасӑ,chu,no,s73	lexc
 гиперсекслӑх,chu,no,m62	lexc
 гипертони,chu,no,c	lexc
@@ -4014,7 +4014,7 @@
 гипнотизёр,chu,no,c	lexc
 гипнотизм,chu,no,c	lexc
 гипотеза,chu,no,c	lexc
-гипотенуза,chu,no,c
+гипотенуза,chu,no,c	lexc
 гиппотерапи,chu,no,g	lexc
 гипс,chu,no,c	lexc
 гипсла,chu,vb,c	lexc
@@ -4026,13 +4026,13 @@
 главк,chu,no,c	lexc
 главнокомандующи,chu,no,c	lexc
 глагол,chu,no,c	lexc
-глаголлану,chu,no,a56
+глаголлану,chu,no,a56	lexc
 глаголлӑх,chu,no,a56	lexc
 гладиатор,chu,no,c	lexc
 гладиолус,chu,no,c	lexc
 глазурь,chu,no,c
 гланда,chu,no,c	lexc
-глаукома,chu,no,c
+глаукома,chu,no,c	lexc
 глиссер,chu,no,c	lexc
 глицерин,chu,no,c	lexc
 глицеринлӑ,chu,ad,c	lexc
@@ -4045,7 +4045,7 @@
 гносеологи,chu,no,c	lexc
 гобелен,chu,no,c	lexc
 гобоист,chu,no,c	lexc
-гобой,chu,no,c
+гобой,chu,no,c	lexc
 гол,chu,no,c	lexc
 голкипер,chu,no,v	lexc
 голланд,chu,no,c	lexc
@@ -4057,11 +4057,11 @@
 гомосексуаллӑ,chu,ad,d	lexc
 гомохронлӑх,chu,no,g	lexc
 гонг,chu,no,c	lexc
-гондола,chu,no,c
+гондола,chu,no,c	lexc
 гонорар,chu,no,c	lexc
-гонорея,chu,no,c
+гонорея,chu,no,c	lexc
 гопак,chu,no,c	lexc
-горбуша,chu,no,c
+горбуша,chu,no,c	lexc
 горизонт,chu,no,c	lexc
 горизонталь,chu,no,c	lexc
 горизонтальлӗ,chu,ad,c	lexc
@@ -4069,21 +4069,21 @@
 гормон,chu,no,c	lexc
 горн,chu,no,c	lexc
 горнист,chu,no,c	lexc
-горничнӑй,chu,no,c
+горничнӑй,chu,no,c	lexc
 горняк,chu,no,c	lexc
 гороскоп,chu,no,d	lexc
 гортензи,chu,no,c	lexc
-горчица,chu,no,c
+горчица,chu,no,c	lexc
 горчичник,chu,no,c	lexc
 горючи,chu,no,c	lexc
 госбанк,chu,no,c	lexc
 госпиталь,chu,no,c	lexc
 госплан,chu,no,c	lexc
 ГОСТ,chu,no,c
-гостиница,chu,no,c
+гостиница,chu,no,c	lexc
 государство,chu,no,c	lexc
-готика,chu,no,c
-готовальня,chu,no,c
+готика,chu,no,c	lexc
+готовальня,chu,no,c	lexc
 гравёр,chu,no,c	lexc
 гравировка,chu,no,c	lexc
 гравировщик,chu,no,c	lexc
@@ -4102,7 +4102,7 @@
 граммофон,chu,no,c	lexc
 грамота,chu,no,c	lexc
 гранат,chu,no,c	lexc
-граната,chu,no,c
+граната,chu,no,c	lexc
 гранатомёт,chu,no,c	lexc
 гранатомётчик,chu,no,c	lexc
 гранит,chu,no,c	lexc
@@ -4112,13 +4112,13 @@
 гран-при,chu,no,d	lexc
 грант,chu,no,d	lexc
 граф,chu,no,c	lexc
-графа,chu,no,c
+графа,chu,no,c	lexc
 графала,chu,vb,c	lexc
 график,chu,no,c	lexc
 графика,chu,no,c	lexc
 графикӑла,chu,vb,m188	lexc
 графин,chu,no,c	lexc
-графиня,chu,no,c
+графиня,chu,no,c	lexc
 графит,chu,no,c	lexc
 графлӑх,chu,no,d	lexc
 графоман,chu,no,v	lexc
@@ -4171,7 +4171,7 @@
 гумус,chu,no,c	lexc
 гунн,chu,no,c	lexc
 гусар,chu,no,c	lexc
-гусеница,chu,no,c
+гусеница,chu,no,c	lexc
 гусеницӑллӑ,chu,ad,c	lexc
 гуталин,chu,no,c	lexc
 гяур,chu,no,v	lexc
@@ -4179,15 +4179,15 @@
 дайджест,chu,no,n116	lexc
 дактилоскопи,chu,no,g	lexc
 дактиль,chu,no,c	lexc
-далай-лама,chu,no,v
+далай-лама,chu,no,v	lexc
 дальномер,chu,no,c	lexc
 дальтонизм,chu,no,c	lexc
 дальтоник,chu,no,c	lexc
-дама,chu,no,c
+дама,chu,no,c	lexc
 дамба,chu,no,c	lexc
 дамка,chu,no,c	lexc
 дан,chu,no,d	lexc
-даннӑй,chu,no,c
+даннӑй,chu,no,c	lexc
 дарвинизм,chu,no,c	lexc
 дарвинист,chu,no,v	lexc
 дартс,chu,no,d	lexc
@@ -4223,10 +4223,10 @@
 дегустаци,chu,no,c	lexc
 дегустациле,chu,vb,c	lexc
 дед,chu,no,d	lexc
-дедовщина,chu,no,d
+дедовщина,chu,no,d	lexc
 дедукци,chu,no,c	lexc
 деепричасти,chu,no,c	lexc
-дежурнӑй,chu,no,c
+дежурнӑй,chu,no,c	lexc
 дежурство,chu,no,c	lexc
 дезертир,chu,no,c	lexc
 дезертирлӑх,chu,no,z77	lexc
@@ -4243,7 +4243,7 @@
 дезориентаци,chu,no,o	lexc
 дезориентациле,chu,vb,o	lexc
 действи,chu,no,c	lexc
-дека,chu,no,c
+дека,chu,no,c	lexc
 декабрист,chu,no,c	lexc
 декабрь,chu,no,c	lexc
 декада,chu,no,c	lexc
@@ -4271,7 +4271,7 @@
 делегат,chu,no,c	lexc
 делегатка,chu,no,c	lexc
 делегаци,chu,no,c	lexc
-дело,chu,no,c
+дело,chu,no,c	lexc
 делопроизводитель,chu,no,c	lexc
 делопроизводство,chu,no,c	lexc
 дельта,chu,no,c	lexc
@@ -4318,7 +4318,7 @@
 деноминацилен,chu,vb,j139	lexc
 денщик,chu,no,c	lexc
 департамент,chu,no,c	lexc
-депо,chu,no,c
+депо,chu,no,c	lexc
 депозитари,chu,no,v	lexc
 депозитивлӑх,chu,no,j203	lexc
 депозитор,chu,no,v	lexc
@@ -4401,14 +4401,14 @@
 дивиденд,chu,no,c	lexc
 дивизи,chu,no,c	lexc
 дивизион,chu,no,c	lexc
-дидактика,chu,no,c
+дидактика,chu,no,c	lexc
 дидактикӑллӑ,chu,ad,c	lexc
 ди-джей,chu,no,d	lexc
 диета,chu,no,c	lexc
 дизайн,chu,no,d	lexc
 дизайнер,chu,no,d	lexc
 дизель,chu,no,c	lexc
-дизтопливо,chu,no,d
+дизтопливо,chu,no,d	lexc
 дикобраз,chu,no,c	lexc
 диктант,chu,no,c	lexc
 диктатор,chu,no,c	lexc
@@ -4440,7 +4440,7 @@
 дипломлӑ,chu,ad,c	lexc
 дипломник,chu,no,c	lexc
 дипломҫӑ,chu,no,d	lexc
-директива,chu,no,c
+директива,chu,no,c	lexc
 директивӑллӑ,chu,ad,c	lexc
 директор,chu,no,c	lexc
 дирекци,chu,no,c	lexc
@@ -4458,7 +4458,7 @@
 диско-бар,chu,no,d	lexc
 дисконтёр,chu,no,v	lexc
 дисконтлав,chu,no,j66	lexc
-дискотека,chu,no,d
+дискотека,chu,no,d	lexc
 дискриминаци,chu,no,c	lexc
 дискриминациле,chu,vb,c	lexc
 дискусси,chu,no,c	lexc
@@ -4499,9 +4499,9 @@
 дифференциациле,chu,vb,o	lexc
 дифференциацилен,chu,vb,o	lexc
 дифференцилен,chu,vb,i62	lexc
-дневальнӑй,chu,no,c
+дневальнӑй,chu,no,c	lexc
 дневник,chu,no,c	lexc
-до,chu,no,c
+до,chu,no,c	lexc
 доброволец,chu,no,c	lexc
 доверенность,chu,no,c	lexc
 довольстви,chu,no,c	lexc
@@ -4535,13 +4535,13 @@
 документла,chu,vb,d	lexc
 документлӑ,chu,ad,c	lexc
 документлӑх,chu,no,d	lexc
-долгота,chu,no,c
+долгота,chu,no,c	lexc
 должность,chu,no,c	lexc
 должноҫлӑ,chu,ad,c	lexc
 доллар,chu,no,c	lexc
 доменщик,chu,no,c	lexc
 доминион,chu,no,c	lexc
-домино,chu,no,c
+домино,chu,no,c	lexc
 домкрат,chu,no,c	lexc
 домна,chu,no,c	lexc
 донг,chu,no,c	lexc
@@ -4559,11 +4559,11 @@
 дот,chu,no,c	lexc
 дотаци,chu,no,c	lexc
 дотацилӗх,chu,no,z87	lexc
-доха,chu,no,c
+доха,chu,no,c	lexc
 доцент,chu,no,c	lexc
 дояр,chu,no,c	lexc
 доярка,chu,no,c	lexc
-драга,chu,no,c
+драга,chu,no,c	lexc
 драгун,chu,no,c	lexc
 драже,chu,no,c
 дракон,chu,no,c	lexc
@@ -4578,14 +4578,14 @@
 драмкружок,chu,no,c	lexc
 драмтеатр,chu,no,d	lexc
 драп,chu,no,c	lexc
-дрезина,chu,no,c
+дрезина,chu,no,c	lexc
 дрейф,chu,no,c	lexc
 дрейфла,chu,vb,c	lexc
 дрель,chu,no,c	lexc
 дренаж,chu,no,c	lexc
 дрессировка,chu,no,c	lexc
 дрессировщик,chu,no,c	lexc
-дружина,chu,no,c
+дружина,chu,no,c	lexc
 дружинник,chu,no,c	lexc
 дуализм,chu,no,c	lexc
 дуалист,chu,no,c	lexc
@@ -4604,8 +4604,8 @@
 дуэль,chu,no,c	lexc
 дуэльҫӗ,chu,no,d	lexc
 дуэт,chu,no,c	lexc
-дыня,chu,no,c
-дюжина,chu,no,c
+дыня,chu,no,c	lexc
+дюжина,chu,no,c	lexc
 дюйм,chu,no,c	lexc
 дюралюмини,chu,no,c	lexc
 е,chu,in,c
@@ -4613,7 +4613,7 @@
 е,chu,pa,c
 евангели,chu,no,c	lexc
 евангелист,chu,no,v	lexc
-евгеника,chu,no,g
+евгеника,chu,no,g	lexc
 евӗк,chu,no,c	lexc
 евӗккӗн,chu,av,c	lexc
 евӗклен,chu,vb,d	lexc
@@ -4648,7 +4648,7 @@
 егерь,chu,no,c
 египтолог,chu,no,v	lexc
 египтян,chu,no,c	lexc
-единица,chu,no,c
+единица,chu,no,c	lexc
 единоличник,chu,no,c	lexc
 единоначали,chu,no,c	lexc
 ей,chu,vb,c	lexc
@@ -5033,7 +5033,7 @@
 ӗштелен,chu,vb,d	lexc
 жакет,chu,no,c	lexc
 жакетка,chu,no,c	lexc
-жалоба,chu,no,c
+жалоба,chu,no,c	lexc
 жалюзи,chu,no,c	lexc
 жандарм,chu,no,c	lexc
 жандармери,chu,no,c	lexc
@@ -5050,7 +5050,7 @@
 желатин,chu,no,c	lexc
 желе,chu,no,c
 женьшень,chu,no,c	lexc
-жерлица,chu,no,c
+жерлица,chu,no,c	lexc
 жетон,chu,no,c	lexc
 живописец,chu,no,c	lexc
 живопись,chu,no,c
@@ -5076,7 +5076,7 @@
 жюри,chu,no,c	lexc
 забастовка,chu,no,c	lexc
 забастовщик,chu,no,c	lexc
-забой,chu,no,c
+забой,chu,no,c	lexc
 заведени,chu,no,c	lexc
 заведующи,chu,no,c	lexc
 завком,chu,no,c	lexc
@@ -5088,7 +5088,7 @@
 загс,chu,no,c	lexc
 задани,chu,no,c	lexc
 задаток,chu,no,c	lexc
-задача,chu,no,c
+задача,chu,no,c	lexc
 задачник,chu,no,c	lexc
 заём,chu,no,j81	lexc
 заёмҫӑ,chu,no,j81	lexc
@@ -5109,12 +5109,12 @@
 законсӑр,chu,ad,c	lexc
 законсӑрлӑх,chu,no,c	lexc
 закрепитель,chu,no,c	lexc
-закрой,chu,no,c
+закрой,chu,no,c	lexc
 закройщик,chu,no,c	lexc
-закройщица,chu,no,c
+закройщица,chu,no,c	lexc
 закуп,chu,no,c	lexc
 закуска,chu,no,c	lexc
-закусочнӑй,chu,no,c
+закусочнӑй,chu,no,c	lexc
 зал,chu,no,c	lexc
 залив,chu,no,c	lexc
 залог,chu,no,c	lexc
@@ -5130,7 +5130,7 @@
 заняти,chu,no,c	lexc
 заочнӑй,chu,ad,c	lexc
 заочник,chu,no,c	lexc
-заочница,chu,no,c
+заочница,chu,no,c	lexc
 заочно,chu,av,c	lexc
 запал,chu,no,c	lexc
 запас,chu,no,c	lexc
@@ -5144,7 +5144,7 @@
 засада,chu,no,c	lexc
 заседатель,chu,no,c	lexc
 застава,chu,no,c	lexc
-застой,chu,no,d
+застой,chu,no,d	lexc
 засыпушка,chu,no,d	lexc
 затвор,chu,no,c	lexc
 затон,chu,no,c	lexc
@@ -5157,7 +5157,7 @@
 заявлени,chu,no,c	lexc
 звани,chu,no,c	lexc
 звено,chu,no,c	lexc
-звеньевой,chu,no,c
+звеньевой,chu,no,c	lexc
 зверинец,chu,no,c	lexc
 звонок,chu,no,c	lexc
 здравпункт,chu,no,c	lexc
@@ -5178,7 +5178,7 @@
 значок,chu,no,c	lexc
 зодиак,chu,no,d	lexc
 золотник,chu,no,c	lexc
-золотуха,chu,no,c
+золотуха,chu,no,c	lexc
 зона,chu,no,c	lexc
 зонд,chu,no,c	lexc
 зонт,chu,no,c	lexc
@@ -5188,7 +5188,7 @@
 зоопарк,chu,no,c	lexc
 зоосад,chu,no,c	lexc
 зоотехник,chu,no,c	lexc
-зоотехника,chu,no,c
+зоотехника,chu,no,c	lexc
 зороастризм,chu,no,d	lexc
 зубр,chu,no,c	lexc
 зуммер,chu,no,c	lexc
@@ -5197,10 +5197,10 @@
 ибис,chu,no,c	lexc
 иваси,chu,no,c	lexc
 игрек,chu,no,c	lexc
-игротека,chu,no,c
+игротека,chu,no,c	lexc
 игумен,chu,no,c	lexc
-игуменья,chu,no,v
-идальго,chu,no,v
+игуменья,chu,no,v	lexc
+идальго,chu,no,v	lexc
 идеал,chu,no,c	lexc
 идеализаци,chu,no,c	lexc
 идеализациле,chu,vb,c	lexc
@@ -5228,8 +5228,8 @@
 идеологисӗрлӗх,chu,no,z77	lexc
 идея,chu,no,c	lexc
 идилли,chu,no,c	lexc
-идиома,chu,no,c
-идиоматика,chu,no,c
+идиома,chu,no,c	lexc
+идиоматика,chu,no,c	lexc
 идиомӑлла,chu,av,c	lexc
 идиот,chu,no,c	lexc
 идиотизм,chu,no,c	lexc
@@ -5462,7 +5462,7 @@
 иммунодефицит,chu,no,g	lexc
 императив,chu,no,g	lexc
 император,chu,no,c	lexc
-императрица,chu,no,c
+императрица,chu,no,c	lexc
 импери,chu,no,c	lexc
 империализм,chu,no,c	lexc
 империализмла,chu,av,c	lexc
@@ -5676,7 +5676,7 @@
 интоксикацилен,chu,vb,i6	lexc
 интонаци,chu,no,c	lexc
 интонациле,chu,vb,c	lexc
-интрига,chu,no,c
+интрига,chu,no,c	lexc
 интриган,chu,no,v	lexc
 интродукци,chu,no,c	lexc
 интурист,chu,no,c	lexc
@@ -5693,7 +5693,7 @@
 информаци,chu,no,c	lexc
 информацилев,chu,no,j97	lexc
 информациллӗ,chu,ad,c	lexc
-информбюро,chu,no,c
+информбюро,chu,no,c	lexc
 информкӑларӑм,chu,no,s128	lexc
 инфрасасӑ,chu,no,t58	lexc
 инфраструктура,chu,no,d	lexc
@@ -5706,8 +5706,8 @@
 ионизацилен,chu,vb,c	lexc
 ионизацилентер,chu,vb,o	lexc
 ионлан,chu,vb,e39	lexc
-ионлану,chu,no,e39
-ионосфера,chu,no,c
+ионлану,chu,no,e39	lexc
+ионосфера,chu,no,c	lexc
 ип,chu,no,c	lexc
 ипӗр-сипӗр,chu,ad,x3:127	lexc
 ипле,chu,vb,c	lexc
@@ -5813,7 +5813,7 @@
 испытани,chu,no,c	lexc
 истери,chu,no,c	lexc
 истерик,chu,no,c
-истерика,chu,no,c
+истерика,chu,no,c	lexc
 истерикӑлла,chu,av,c	lexc
 истерикӑллӑ,chu,ad,c	lexc
 истец,chu,no,v	lexc
@@ -5875,7 +5875,7 @@
 июнь,chu,no,c	lexc
 ия,chu,in,o
 иялат,chu,vb,o	lexc
-йапату,chu,no,c
+йапату,chu,no,c	lexc
 йӑва,chu,no,c	lexc
 йӑвала,chu,vb,c	lexc
 йӑвалан,chu,vb,c	lexc
@@ -5938,7 +5938,7 @@
 йӑлалӑх,chu,no,c	lexc
 йӑланкӑ,chu,no,c	lexc
 йӑла-пӑла,chu,no,s47	lexc
-йӑла-сӑлай,chu,no,c
+йӑла-сӑлай,chu,no,c	lexc
 йӑлаҫӑ,chu,no,d	lexc
 йӑлӑ,chu,no,c	lexc
 йӑлӑла,chu,vb,o	lexc
@@ -6464,7 +6464,7 @@
 йӗшӗлтет,chu,vb,c	lexc
 йӗшке,chu,vb,c	lexc
 йог,chu,no,d	lexc
-йога,chu,no,d
+йога,chu,no,d	lexc
 йогурт,chu,no,d	lexc
 йод,chu,no,c	lexc
 йодӑла,chu,vb,d	lexc
@@ -6609,7 +6609,7 @@
 йышсӑрлантар,chu,vb,x5:410	lexc
 йышсӑрлат,chu,vb,x5:410	lexc
 йышши,chu,no,c	lexc
-кабала,chu,no,c
+кабала,chu,no,c	lexc
 кабан,chu,no,c	lexc
 кабарга,chu,no,c	lexc
 кабардин,chu,no,c	lexc
@@ -6620,7 +6620,7 @@
 кабель,chu,no,c	lexc
 кабель-кран,chu,no,c	lexc
 кабельтов,chu,no,c	lexc
-кабина,chu,no,c
+кабина,chu,no,c	lexc
 кабинет,chu,no,c	lexc
 кабинка,chu,no,c	lexc
 каблограмма,chu,no,c	lexc
@@ -6632,17 +6632,17 @@
 кавалери,chu,no,c	lexc
 кавалерист,chu,no,c	lexc
 кавалеристла,chu,av,c	lexc
-кавалькада,chu,no,c
+кавалькада,chu,no,c	lexc
 кавар,chu,no,c	lexc
 каварла,chu,vb,c	lexc
 каварлан,chu,vb,c	lexc
 каварлаш,chu,vb,c	lexc
-каварлашу,chu,no,c
+каварлашу,chu,no,c	lexc
 каварлӑ,chu,ad,c	lexc
 каварлӑн,chu,av,c	lexc
 каварлӑх,chu,no,c	lexc
 каварҫӑ,chu,no,c	lexc
-каватина,chu,no,c
+каватина,chu,no,c	lexc
 кавӑн,chu,no,c	lexc
 кавӑнлӑх,chu,no,c	lexc
 кавӑс,chu,no,c	lexc
@@ -6671,7 +6671,7 @@
 кагор,chu,no,c	lexc
 кадастр,chu,no,c	lexc
 кадет,chu,no,c	lexc
-кадило,chu,no,c
+кадило,chu,no,c	lexc
 кадми,chu,no,c	lexc
 кадр,chu,no,c	lexc
 кадриль,chu,no,c	lexc
@@ -6687,11 +6687,11 @@
 казачок,chu,no,c	lexc
 казеин,chu,no,c	lexc
 казеинлӑ,chu,ad,c	lexc
-казино,chu,no,c
+казино,chu,no,c	lexc
 казначей,chu,no,c	lexc
 казначейство,chu,no,c	lexc
 казуар,chu,no,c	lexc
-казуистика,chu,no,c
+казуистика,chu,no,c	lexc
 казуистла,chu,av,c	lexc
 кай,chu,no,c	lexc
 кай,chu,vb,c	lexc
@@ -6707,7 +6707,7 @@
 кай_енҫӗ,chu,no,h
 кайла,chu,no,c	lexc
 кайман,chu,no,c	lexc
-кайнозой,chu,no,c
+кайнозой,chu,no,c	lexc
 кайран,chu,av,c	lexc
 кайран-малтан,chu,av,c	lexc
 кайранхи,chu,ad,c	lexc
@@ -6803,7 +6803,7 @@
 калемпӗр,chu,no,c	lexc
 календарлӑ,chu,ad,c	lexc
 календарь,chu,no,c	lexc
-календула,chu,no,d
+календула,chu,no,d	lexc
 калёвка,chu,no,c	lexc
 кали,chu,no,c	lexc
 калибр,chu,no,c	lexc
@@ -6849,7 +6849,7 @@
 калттам,chu,no/ad,c
 калттик,chu,ad,c	lexc
 калттир,chu,no,c	lexc
-калу,chu,no,d
+калу,chu,no,d	lexc
 калулӑх,chu,no,a68	lexc
 калуллӑ,chu,ad,c	lexc
 калуҫӑ,chu,no,d	lexc
@@ -6891,7 +6891,7 @@
 камеристка,chu,no,v	lexc
 камер-лакей,chu,no,v	lexc
 камертон,chu,no,c	lexc
-камер-фрейлина,chu,no,v
+камер-фрейлина,chu,no,v	lexc
 камер-юнкер,chu,no,v	lexc
 камзол,chu,no,c	lexc
 камин,chu,no,c	lexc
@@ -6977,7 +6977,7 @@
 каннибал,chu,no,c	lexc
 каннибализм,chu,no,c	lexc
 канон,chu,no,c	lexc
-канонада,chu,no,c
+канонада,chu,no,c	lexc
 канонерка,chu,no,c	lexc
 канонизаци,chu,no,c	lexc
 канонизациле,chu,vb,c	lexc
@@ -7019,7 +7019,7 @@
 кануҫӑ,chu,no,d	lexc
 канфет,chu,no,c	lexc
 канцеляри,chu,no,c	lexc
-канцелярщина,chu,no,c
+канцелярщина,chu,no,c	lexc
 канцероген,chu,no,g	lexc
 канцлер,chu,no,c	lexc
 канч,chu,de,c
@@ -7098,8 +7098,8 @@
 каплан,chu,vb,c	lexc
 капланкӑч,chu,no,e42	lexc
 каплантар,chu,vb,c	lexc
-каплантару,chu,no,z213
-каплану,chu,no,c
+каплантару,chu,no,z213	lexc
+каплану,chu,no,c	lexc
 капланчӑк,chu,no,c	lexc
 каплат,chu,vb,c	lexc
 каплаттар,chu,vb,c	lexc
@@ -7162,7 +7162,7 @@
 карак,chu,no,c	lexc
 каракалпак,chu,no,c
 каракалпакла,chu,av,c	lexc
-каракатица,chu,no,c
+каракатица,chu,no,c	lexc
 каракуль,chu,no,c	lexc
 карак_хуранӗ,chu,no,c
 карамель,chu,no,c	lexc
@@ -7177,7 +7177,7 @@
 каратель,chu,no,c	lexc
 каратист,chu,no,d	lexc
 каратэ,chu,no,d
-каратэ-до,chu,no,d
+каратэ-до,chu,no,d	lexc
 караул,chu,no,c	lexc
 карачай,chu,no,c
 карачай-балкар,chu,no,c	lexc
@@ -7219,9 +7219,9 @@
 кардиопрофесси,chu,no,g	lexc
 карел,chu,no,c	lexc
 карелла,chu,av,c	lexc
-карета,chu,no,c
+карета,chu,no,c	lexc
 каретка,chu,no,c	lexc
-кариатида,chu,no,c
+кариатида,chu,no,c	lexc
 кариес,chu,no,c	lexc
 карик,chu,de,c
 карикатура,chu,no,c	lexc
@@ -7333,7 +7333,7 @@
 картографиле,chu,vb,c	lexc
 картон,chu,no,c	lexc
 картонаж,chu,no,c	lexc
-картотека,chu,no,c
+картотека,chu,no,c	lexc
 картофелекопатель,chu,no,c	lexc
 картофелесажалка,chu,no,c	lexc
 карточка,chu,no,c	lexc
@@ -7345,7 +7345,7 @@
 карттӑлав,chu,no,a69	lexc
 карттун,chu,no,d	lexc
 карттус,chu,no,c	lexc
-карту,chu,no,x6:108
+карту,chu,no,x6:108	lexc
 картун,chu,no,c	lexc
 кару,chu,ad,x6:92	lexc
 карулӑх,chu,no,e49	lexc
@@ -7419,11 +7419,11 @@
 кассациле,chu,vb,c	lexc
 кассӑн-кассӑн,chu,no,c	lexc
 кассӑр,chu,ad,c	lexc
-кассета,chu,no,c
+кассета,chu,no,c	lexc
 кассир,chu,no,c	lexc
 кассирша,chu,no,c	lexc
 каста,chu,no,c	lexc
-кастаньета,chu,no,c
+кастаньета,chu,no,c	lexc
 кастар,chu,vb,c	lexc
 кастарттар,chu,vb,x6:127	lexc
 кастӑлӑх,chu,no,c	lexc
@@ -7693,7 +7693,7 @@
 кӑвайт,chu,no,c	lexc
 кӑвак,chu,ad,c	lexc
 кӑвакал,chu,no,c	lexc
-кӑвакал_хӑй,chu,no,c
+кӑвакал_хӑй,chu,no,c	lexc
 кӑвакар,chu,vb,c	lexc
 кӑвакарт,chu,vb,c	lexc
 кӑвакарчӑк,chu,no,m179	lexc
@@ -8040,7 +8040,7 @@
 кӑркӑсла,chu,av,c	lexc
 кӑркка,chu,no,c	lexc
 кӑрла,chu,vb,c	lexc
-кӑрлай,chu,no,c
+кӑрлай,chu,no,c	lexc
 кӑрлат,chu,vb,c	lexc
 кӑрлаттар,chu,vb,c	lexc
 кӑрлач,chu,no,c	lexc
@@ -8274,7 +8274,7 @@
 кӑштрака,chu,ad,c	lexc
 кӑштралан,chu,vb,c	lexc
 кӑшша,chu,in,c
-кӑшшавуй,chu,no,c
+кӑшшавуй,chu,no,c	lexc
 кӑшшин,chu,de,c
 кӑшшин-кашшин,chu,de,o
 квадрат,chu,no,c	lexc
@@ -8304,7 +8304,7 @@
 квинтет,chu,no,c	lexc
 квитанци,chu,no,c	lexc
 кворум,chu,no,c	lexc
-квота,chu,no,c
+квота,chu,no,c	lexc
 квотӑла,chu,vb,d	lexc
 квотӑлав,chu,no,j104	lexc
 кевер,chu,ad?,c
@@ -8319,7 +8319,7 @@
 келше,chu,no,x6:188	lexc
 кельма,chu,no,c	lexc
 кельт,chu,no,c
-келья,chu,no,c
+келья,chu,no,c	lexc
 кем,chu,vb,c	lexc
 кем,chu,av,c	lexc
 кемет,chu,vb,c	lexc
@@ -8346,7 +8346,7 @@
 кесӗплӗ,chu,ad,c	lexc
 кессон,chu,no,c	lexc
 кет,chu,in,c
-кета,chu,no,c
+кета,chu,no,c	lexc
 кетгут,chu,no,c	lexc
 кетчуп,chu,no,d	lexc
 кефаль,chu,no,c	lexc
@@ -8835,7 +8835,7 @@
 киллер,chu,no,d
 киллӗ-ҫуртлӑ,chu,ad,c	lexc
 килменлӗх,chu,no,p33	lexc
-кило,chu,no,c
+кило,chu,no,c	lexc
 киловатт,chu,no,c	lexc
 киловатт-сехет,chu,no,c	lexc
 киловольт,chu,no,c	lexc
@@ -8867,7 +8867,7 @@
 кимӗҫӗ,chu,no,c	lexc
 кимӗт,chu,vb,c	lexc
 кимӗттер,chu,vb,c	lexc
-кимоно,chu,no,c
+кимоно,chu,no,c	lexc
 кин,chu,no,c	lexc
 кингстон,chu,no,c	lexc
 кинематограф,chu,no,o	lexc
@@ -8877,15 +8877,15 @@
 кинеми,chu,no,c	lexc
 кинескоп,chu,no,c	lexc
 кинет,chu,av,c	lexc
-кинетика,chu,no,c
+кинетика,chu,no,c	lexc
 кинжал,chu,no,c	lexc
 кинкӑр-канкӑр,chu,no,c	lexc
 кинкӗр-канкӑр,chu,de,o
 кино,chu,no,c	lexc
 киноактёр,chu,no,c	lexc
-киноактриса,chu,no,c
+киноактриса,chu,no,c	lexc
 киноаппарат,chu,no,c	lexc
-киноаппаратура,chu,no,c
+киноаппаратура,chu,no,c	lexc
 киноартист,chu,no,c	lexc
 киноартистка,chu,no,c	lexc
 киноателье,chu,no,c
@@ -8898,7 +8898,7 @@
 киноискусство,chu,no,c	lexc
 кинокадр,chu,no,c	lexc
 кинокамит,chu,no,d	lexc
-кинокартина,chu,no,c
+кинокартина,chu,no,c	lexc
 кинокомеди,chu,no,c	lexc
 кинолектори,chu,no,c	lexc
 кинолента,chu,no,c	lexc
@@ -8914,12 +8914,12 @@
 киноҫӑлтӑр,chu,no,d	lexc
 кинотеатр,chu,no,c	lexc
 киноустановка,chu,no,c	lexc
-кинофабрика,chu,no,c
+кинофабрика,chu,no,c	lexc
 кинофестиваль,chu,no,c	lexc
 кинофикаци,chu,no,c	lexc
 кинофикациле,chu,vb,o	lexc
 кинофильм,chu,no,c	lexc
-кинохроника,chu,no,c
+кинохроника,chu,no,c	lexc
 киноэкран,chu,no,c	lexc
 кин-хӗр,chu,no,c	lexc
 киоск,chu,no,c	lexc
@@ -8968,7 +8968,7 @@
 кис,chu,vb,c	lexc
 кисек,chu,no,c	lexc
 кисепе,chu,av,c	lexc
-кисея,chu,no,c
+кисея,chu,no,c	lexc
 кисӗп,chu,no,c	lexc
 кис-кис,chu,in,c
 кислород,chu,no,c	lexc
@@ -8991,7 +8991,7 @@
 китаеведени,chu,no,c	lexc
 китаец,chu,no,c	lexc
 китаист,chu,no,v	lexc
-китай,chu,no,c
+китай,chu,no,c	lexc
 китайка,chu,no,c	lexc
 китайла,chu,av,c	lexc
 китайлантар,chu,vb,x6:248	lexc
@@ -9010,12 +9010,12 @@
 кишӗр,chu,no,c	lexc
 кишлак,chu,no,c	lexc
 кишмиш,chu,no,c
-клавиатура,chu,no,c
+клавиатура,chu,no,c	lexc
 клавиш,chu,no,c	lexc
 кладовка,chu,no,c	lexc
-кладовой,chu,no,c
+кладовой,chu,no,c	lexc
 кладовщик,chu,no,c	lexc
-кладовщица,chu,no,c
+кладовщица,chu,no,c	lexc
 клакёр,chu,no,v	lexc
 клаксон,chu,no,c	lexc
 клан,chu,no,c	lexc
@@ -9034,7 +9034,7 @@
 класташ,chu,no,d	lexc
 клевер,chu,no,c	lexc
 клеёнка,chu,no,c	lexc
-клейковина,chu,no,c
+клейковина,chu,no,c	lexc
 клейстер,chu,no,c	lexc
 клеме,chu,no,c	lexc
 клемеле,chu,vb,c	lexc
@@ -9057,7 +9057,7 @@
 клёпкӑла,chu,vb,c	lexc
 клёш,chu,no,c	lexc
 клиент,chu,no,c	lexc
-клиентура,chu,no,c
+клиентура,chu,no,c	lexc
 клизма,chu,no,c	lexc
 климакс,chu,no,c	lexc
 климат,chu,no,c	lexc
@@ -9073,18 +9073,18 @@
 клонла,chu,vb,d	lexc
 клонлав,chu,no,j105	lexc
 клоун,chu,no,c	lexc
-клоунада,chu,no,c
+клоунада,chu,no,c	lexc
 клуб,chu,no,c	lexc
 клумба,chu,no,c	lexc
 ключ,chu,no,c	lexc
 клюшка,chu,no,c	lexc
 кнеҫ,chu,no,d	lexc
-книгоноша,chu,no,c
+книгоноша,chu,no,c	lexc
 книготорг,chu,no,c	lexc
 кнопка,chu,no,c	lexc
 кнопкӑла,chu,vb,h	lexc
 кнопкӑллӑ,chu,ad,c	lexc
-княгиня,chu,no,c
+княгиня,chu,no,c	lexc
 княжество,chu,no,c	lexc
 княжна,chu,no,c	lexc
 князь,chu,no,c
@@ -9095,8 +9095,8 @@
 кобза,chu,no,c	lexc
 кобзарь,chu,no,c
 кобра,chu,no,c	lexc
-кобура,chu,no,c
-ковбой,chu,no,c
+кобура,chu,no,c	lexc
+ковбой,chu,no,c	lexc
 ковбойка,chu,no,c	lexc
 коверкот,chu,no,c	lexc
 ковёр,chu,no,c	lexc
@@ -9113,7 +9113,7 @@
 кок,chu,no,c	lexc
 кокаин,chu,no,c	lexc
 кокаинлан,chu,vb,i104	lexc
-кока-кола,chu,no,d
+кока-кола,chu,no,d	lexc
 кокарда,chu,no,c	lexc
 кокетка,chu,no,v	lexc
 коклюш,chu,no,c	lexc
@@ -9125,11 +9125,11 @@
 кокслан,chu,vb,c	lexc
 коктейль,chu,no,c	lexc
 колба,chu,no,c	lexc
-колбаса,chu,no,c
+колбаса,chu,no,c	lexc
 колготка,chu,no,c	lexc
 коленкор,chu,no,c	lexc
 колет,chu,no,c	lexc
-колея,chu,no,c
+колея,chu,no,c	lexc
 колибри,chu,no,c	lexc
 колит,chu,no,c	lexc
 коллаборационист,chu,no,v	lexc
@@ -9141,7 +9141,7 @@
 коллективизаци,chu,no,c	lexc
 коллективизациле,chu,vb,c	lexc
 коллективизм,chu,no,c	lexc
-коллективлату,chu,no,z115
+коллективлату,chu,no,z115	lexc
 коллективлӑ,chu,ad,c	lexc
 коллективлӑх,chu,no,c	lexc
 коллектор,chu,no,c	lexc
@@ -9152,7 +9152,7 @@
 коллоид,chu,no,c	lexc
 коллоквиум,chu,no,c	lexc
 коловорот,chu,no,c	lexc
-колода,chu,no,c
+колода,chu,no,c	lexc
 колодка,chu,no,c	lexc
 колони,chu,no,c	lexc
 колониализм,chu,no,c	lexc
@@ -9167,12 +9167,12 @@
 колонист,chu,no,c	lexc
 колонка,chu,no,c	lexc
 колонна,chu,no,c	lexc
-колоннада,chu,no,c
+колоннада,chu,no,c	lexc
 колоннӑллӑ,chu,ad,c	lexc
 колонок,chu,no,c	lexc
 колонтитул,chu,no,o	lexc
 колонцифра,chu,no,o	lexc
-колоратура,chu,no,c
+колоратура,chu,no,c	lexc
 колорист,chu,no,v	lexc
 колорит,chu,no,c	lexc
 колоритлӑ,chu,ad,c	lexc
@@ -9181,14 +9181,14 @@
 колхоз,chu,no,c	lexc
 колхозлӑ,chu,ad,c	lexc
 колхозник,chu,no,c	lexc
-колхозница,chu,no,c
+колхозница,chu,no,c	lexc
 колхозҫӑ,chu,no,z117	lexc
 колчедан,chu,no,c	lexc
 кольраби,chu,no,c	lexc
 кольт,chu,no,c	lexc
-кольчуга,chu,no,c
+кольчуга,chu,no,c	lexc
 коляска,chu,no,c	lexc
-кома,chu,no,p27
+кома,chu,no,p27	lexc
 команда,chu,no,c	lexc
 командарм,chu,no,c	lexc
 командӑла,chu,vb,c	lexc
@@ -9209,7 +9209,7 @@
 комбинезон,chu,no,c	lexc
 комеди,chu,no,c	lexc
 комендант,chu,no,c	lexc
-комендатура,chu,no,c
+комендатура,chu,no,c	lexc
 комертӳҫӗ,chu,no,d	lexc
 комета,chu,no,c	lexc
 коми,chu,no,c	lexc
@@ -9251,7 +9251,7 @@
 компаньонка,chu,no,v	lexc
 компарти,chu,no,c	lexc
 компартлидер,chu,no,d	lexc
-компартноменклатура,chu,no,d
+компартноменклатура,chu,no,d	lexc
 компас,chu,no,c	lexc
 компенсаци,chu,no,c	lexc
 компенсациле,chu,vb,c	lexc
@@ -9281,7 +9281,7 @@
 компрадор,chu,no,v	lexc
 компресс,chu,no,c	lexc
 компрессор,chu,no,c	lexc
-компримарио,chu,no,v
+компримарио,chu,no,v	lexc
 компромат,chu,no,d	lexc
 компромислӑ,chu,ad,c	lexc
 компромисс,chu,no,c	lexc
@@ -9305,7 +9305,7 @@
 конверт,chu,no,c	lexc
 конвоир,chu,no,c	lexc
 конвой,chu,no,c	lexc
-конвойнӑй,chu,no,c
+конвойнӑй,chu,no,c	lexc
 конгломерат,chu,no,c	lexc
 конгресс,chu,no,c	lexc
 конгрессмен,chu,no,c	lexc
@@ -9398,12 +9398,12 @@
 контрактлав,chu,no,j112	lexc
 контрактник,chu,no,d	lexc
 контрактҫӑ,chu,no,d	lexc
-контральто,chu,no,c
+контральто,chu,no,c	lexc
 контрамарка,chu,no,c	lexc
 контраст,chu,no,c	lexc
 контрастлӑ,chu,ad,c	lexc
 контрастлӑх,chu,no,c	lexc
-контратака,chu,no,c
+контратака,chu,no,c	lexc
 контратакӑла,chu,vb,c	lexc
 контрацептив,chu,no,d	lexc
 контрацепци,chu,no,d	lexc
@@ -9455,7 +9455,7 @@
 концессиллӗ,chu,ad,c	lexc
 концессионер,chu,no,c	lexc
 концлагерь,chu,no,c
-конъюнктура,chu,no,c
+конъюнктура,chu,no,c	lexc
 конъюнктурщик,chu,no,c	lexc
 конь,chu,no,c	lexc
 коньки,chu,no,c	lexc
@@ -9479,7 +9479,7 @@
 копилка,chu,no,c	lexc
 копирка,chu,no,c	lexc
 копировщик,chu,no,c	lexc
-коптильня,chu,no,c
+коптильня,chu,no,c	lexc
 коралл,chu,no,c	lexc
 коран,chu,no,c	lexc
 корд,chu,no,c	lexc
@@ -9492,17 +9492,17 @@
 кореянка,chu,no,c	lexc
 коридор,chu,no,c	lexc
 корифей,chu,no,c	lexc
-корица,chu,no,c
+корица,chu,no,c	lexc
 кормозапарник,chu,no,c	lexc
-кормокухня,chu,no,c
+кормокухня,chu,no,c	lexc
 кормоцех,chu,no,c	lexc
 кормушка,chu,no,c	lexc
 корнет,chu,no,c	lexc
 коробка,chu,no,c	lexc
-королева,chu,no,c
+королева,chu,no,c	lexc
 королевство,chu,no,c	lexc
 король,chu,no,c	lexc
-корона,chu,no,c
+корона,chu,no,c	lexc
 коронаци,chu,no,c	lexc
 коронер,chu,no,v	lexc
 коронка,chu,no,c	lexc
@@ -9510,7 +9510,7 @@
 корпус,chu,no,c	lexc
 корректировщик,chu,no,c	lexc
 корректор,chu,no,c	lexc
-корректура,chu,no,c
+корректура,chu,no,c	lexc
 корреспондент,chu,no,c	lexc
 корреспондентка,chu,no,c	lexc
 корреспондентлӑх,chu,no,j115	lexc
@@ -9529,7 +9529,7 @@
 корчма,chu,no,c	lexc
 корюшка,chu,no,c	lexc
 косилка,chu,no,c	lexc
-косметика,chu,no,c
+косметика,chu,no,c	lexc
 косметолог,chu,no,c	lexc
 косметологи,chu,no,c	lexc
 космовидени,chu,no,c	lexc
@@ -9537,7 +9537,7 @@
 космодром,chu,no,c	lexc
 космологи,chu,no,c	lexc
 космонавт,chu,no,c	lexc
-космонавтика,chu,no,c
+космонавтика,chu,no,c	lexc
 космополит,chu,no,c	lexc
 космополитизм,chu,no,c	lexc
 космополитла,chu,av,c	lexc
@@ -9550,7 +9550,7 @@
 костюмерша,chu,no,c	lexc
 косынка,chu,no,c	lexc
 котелок,chu,no,c	lexc
-котельнӑй,chu,no,c
+котельнӑй,chu,no,c	lexc
 котельщик,chu,no,c	lexc
 котик,chu,no,c	lexc
 котлет,chu,no,c	lexc
@@ -9566,7 +9566,7 @@
 краб,chu,no,c	lexc
 кравать,chu,no,c	lexc
 кравул,chu,in,c
-крага,chu,no,c
+крага,chu,no,c	lexc
 краевед,chu,no,c	lexc
 краеведени,chu,no,c	lexc
 край,chu,no,c	lexc
@@ -9580,7 +9580,7 @@
 кранклат,chu,vb,c	lexc
 кранклаттар,chu,vb,o	lexc
 крановщик,chu,no,c	lexc
-крановщица,chu,no,c
+крановщица,chu,no,c	lexc
 кранҫӑ,chu,no,d	lexc
 красноармеец,chu,no,c	lexc
 красногвардеец,chu,no,c	lexc
@@ -9617,7 +9617,7 @@
 крепостничество,chu,no,c	lexc
 крепость,chu,no,c	lexc
 кресла,chu,no,c	lexc
-кресло,chu,no,c
+кресло,chu,no,c	lexc
 крестоносец,chu,no,c	lexc
 кретин,chu,no,c	lexc
 кривошип,chu,no,c	lexc
@@ -9627,7 +9627,7 @@
 кризиссӑр,chu,ad,c	lexc
 криминал,chu,no,d	lexc
 криминалист,chu,no,c	lexc
-криминалистика,chu,no,c
+криминалистика,chu,no,c	lexc
 криминаллӑ,chu,ad,d	lexc
 криминогенлӑ,chu,ad,d	lexc
 кримски,chu,no,q4:466	lexc
@@ -9638,7 +9638,7 @@
 кристалл,chu,no,c	lexc
 кристалла,chu,vb,c	lexc
 кристаллан,chu,vb,c	lexc
-кристаллану,chu,no,e77
+кристаллану,chu,no,e77	lexc
 кристаллӑ,chu,ad,c	lexc
 кристаллизаци,chu,no,c	lexc
 кристаллографи,chu,no,c	lexc
@@ -9655,7 +9655,7 @@
 крокодил,chu,no,c	lexc
 кролик,chu,no,c	lexc
 кроликҫӑ,chu,no,c	lexc
-крона,chu,no,c
+крона,chu,no,c	lexc
 кронциркуль,chu,no,c	lexc
 кронштейн,chu,no,c	lexc
 кросс,chu,no,c	lexc
@@ -9683,7 +9683,7 @@
 ку,chu,pr,c
 куб,chu,no,c	lexc
 кубанка,chu,no,c	lexc
-кубатура,chu,no,c
+кубатура,chu,no,c	lexc
 кубик,chu,no,c	lexc
 кубинец,chu,no,c	lexc
 кубла,chu,av,c	lexc
@@ -9748,7 +9748,7 @@
 кукрашка,chu,no/ad,c
 кук_тӗрри,chu,no,c	lexc
 кук_тӗрриллӗ,chu,ad,c	lexc
-кукуруза,chu,no,c
+кукуруза,chu,no,c	lexc
 кукша,chu,no/ad,c	lexc
 кукшалан,chu,vb,c	lexc
 кукшаллӑ,chu,ad,c	lexc
@@ -9778,7 +9778,7 @@
 кулик,chu,de,c
 кулинар,chu,no,c	lexc
 кулинари,chu,no,c	lexc
-кулиса,chu,no,c
+кулиса,chu,no,c	lexc
 кулкка,chu,no,c	lexc
 кулккалӑх,chu,no,x6:277	lexc
 куллен,chu,av,c	lexc
@@ -9792,7 +9792,7 @@
 кулуҫах,chu,no/ad,c
 кульминаци,chu,no,c	lexc
 культ,chu,no,c
-культбригада,chu,no,c
+культбригада,chu,no,c	lexc
 культиватор,chu,no,c	lexc
 культиваци,chu,no,c	lexc
 культивациле,chu,vb,c	lexc
@@ -9983,14 +9983,14 @@
 курнӑҫлӑ,chu,ad,c	lexc
 курнӑҫу,chu,no,c	lexc
 курни-илтни,chu,no/pc,c
-курница,chu,no,c
+курница,chu,no,c	lexc
 курнуй,chu,no,f
 курок,chu,no,c	lexc
 куроклӑ,chu,ad,c	lexc
 курорт,chu,no,c	lexc
 курортлӑ,chu,ad,c	lexc
 курортник,chu,no,c	lexc
-курортница,chu,no,c
+курортница,chu,no,c	lexc
 курортологи,chu,no,c	lexc
 курпӑль,chu,no,c	lexc
 курпун,chu,no/ad,c
@@ -10305,13 +10305,13 @@
 лавккаҫ,chu,no,c	lexc
 лавккаҫӑ,chu,no,c	lexc
 лавр,chu,no,c	lexc
-лавровишня,chu,no,c
+лавровишня,chu,no,c	lexc
 лавсан,chu,no,c	lexc
 лавҫӑ,chu,no,c	lexc
 лаг,chu,no,c	lexc
 лагерь,chu,no,c	lexc
-лагуна,chu,no,c
-ладья,chu,no,c
+лагуна,chu,no,c	lexc
+ладья,chu,no,c	lexc
 лазарет,chu,no,c	lexc
 лазер,chu,no,c	lexc
 лазерлӑ,chu,ad,c	lexc
@@ -10385,9 +10385,9 @@
 ламаизм,chu,no,c	lexc
 ламаист,chu,no,c	lexc
 ламӑн-ламӑн,chu,av,c	lexc
-ламбада,chu,no,d
+ламбада,chu,no,d	lexc
 лампа,chu,no,c	lexc
-лампада,chu,no,c
+лампада,chu,no,c	lexc
 лампас,chu,no,c
 лампӑллӑ,chu,ad,c	lexc
 лампӑлт,chu,de,o
@@ -10613,7 +10613,7 @@
 лартлаттар,chu,vb,c	lexc
 ларттар,chu,vb,c	lexc
 ларттин-ларттин,chu,de,c
-ларту,chu,no,z140
+ларту,chu,no,z140	lexc
 лару,chu,no,c	lexc
 лару-тӑру,chu,no,c	lexc
 ларчӑк,chu,no,c	lexc
@@ -10967,7 +10967,7 @@
 лӑшт-лашт,chu,de,c
 лебёдка,chu,no,c	lexc
 левӗр,chu,no,c	lexc
-левкой,chu,no,c
+левкой,chu,no,c	lexc
 легализаци,chu,no,c	lexc
 легализациле,chu,vb,c	lexc
 легализацилен,chu,vb,o	lexc
@@ -10999,7 +10999,7 @@
 лейкоцит,chu,no,c	lexc
 лейтенант,chu,no,c	lexc
 лек,chu,vb,c	lexc
-лекало,chu,no,c
+лекало,chu,no,c	lexc
 лекальщик,chu,no,c	lexc
 лекарь,chu,no,v
 лекӗр,chu,no,c	lexc
@@ -11027,7 +11027,7 @@
 лени,chu,no,c	lexc
 ленивец,chu,no,c	lexc
 ленинец,chu,no,c	lexc
-лениниана,chu,no,c
+лениниана,chu,no,c	lexc
 ленинизм,chu,no,c	lexc
 ленинла,chu,av,c	lexc
 ленкер,chu,no,c	lexc
@@ -11039,7 +11039,7 @@
 лента,chu,no,c	lexc
 лента-хӑю,chu,no,x8:76	lexc
 лентӑллӑ,chu,ad,c	lexc
-ленточница,chu,no,c
+ленточница,chu,no,c	lexc
 ленче,chu,ad,c	lexc
 ленчел,chu,vb,c	lexc
 ленчелтер,chu,vb,o	lexc
@@ -11091,7 +11091,7 @@
 летун,chu,no,c	lexc
 летучка,chu,no,c	lexc
 леч,chu,de,c
-лечебница,chu,no,c
+лечебница,chu,no,c	lexc
 лечеке,chu,ad,c	lexc
 лечекелен,chu,vb,c	lexc
 лечекелентер,chu,vb,c	lexc
@@ -11105,7 +11105,7 @@
 лешинке,chu,no,c	lexc
 лёсс,chu,no,c	lexc
 лётчик,chu,no,c	lexc
-лётчица,chu,no,c
+лётчица,chu,no,c	lexc
 лӗк,chu,de,c
 лӗкӗ,chu,no,c	lexc
 лӗкӗлен,chu,vb,c	lexc
@@ -11205,7 +11205,7 @@
 лӗшлет,chu,vb,x8:145	lexc
 лӗштӗр,chu,de,o
 лӗштӗркке,chu,ad,c	lexc
-лиана,chu,no,c
+лиана,chu,no,c	lexc
 либерал,chu,no,c	lexc
 либерал-демократ,chu,no,d	lexc
 либерализациле,chu,vb,d	lexc
@@ -11216,9 +11216,9 @@
 либретто,chu,no,c	lexc
 ливан,chu,no,l	lexc
 ливер,chu,no,c
-ливрея,chu,no,c
+ливрея,chu,no,c	lexc
 лига,chu,no,c	lexc
-лигатура,chu,no,c
+лигатура,chu,no,c	lexc
 лигроин,chu,no,c	lexc
 лидер,chu,no,c	lexc
 лидерлӑх,chu,no,d	lexc
@@ -11257,7 +11257,7 @@
 линотипист,chu,no,c	lexc
 линотипистка,chu,no,c	lexc
 линчла,chu,vb,c	lexc
-лира,chu,no,c
+лира,chu,no,c	lexc
 лиризм,chu,no,c	lexc
 лиризмлӑ,chu,ad,c	lexc
 лирик,chu,no,c
@@ -11271,7 +11271,7 @@
 листа,chu,no,c	lexc
 листаж,chu,no,c	lexc
 листаллӑ,chu,ad,c	lexc
-лиственница,chu,no,c
+лиственница,chu,no,c	lexc
 листовка,chu,no,c	lexc
 листок,chu,no,c	lexc
 лиҫ,chu,ad?,c
@@ -11282,7 +11282,7 @@
 литвалла,chu,av,c	lexc
 литейщик,chu,no,c	lexc
 литер,chu,no,c
-литера,chu,no,c
+литера,chu,no,c	lexc
 литератор,chu,no,c	lexc
 литература,chu,no,c	lexc
 литературовед,chu,no,c	lexc
@@ -11327,7 +11327,7 @@
 логопед,chu,no,c	lexc
 логопеди,chu,no,c	lexc
 лоджи,chu,no,c	lexc
-ложа,chu,no,c
+ложа,chu,no,c	lexc
 лозунг,chu,no,c	lexc
 локализаци,chu,no,o	lexc
 локализациле,chu,vb,o	lexc
@@ -11344,17 +11344,17 @@
 лосось,chu,no,c
 лосьон,chu,no,c	lexc
 лот,chu,no,c	lexc
-лотерея,chu,no,c
-лото,chu,no,c
+лотерея,chu,no,c	lexc
+лото,chu,no,c	lexc
 лоток,chu,no,c	lexc
 лотос,chu,no,c	lexc
 лоточник,chu,no,c	lexc
-лоточница,chu,no,c
+лоточница,chu,no,c	lexc
 лоци,chu,no,c	lexc
 лоцман,chu,no,c	lexc
 лояллӑ,chu,ad,c	lexc
 лояллӑх,chu,no,c	lexc
-луза,chu,no,c
+луза,chu,no,c	lexc
 лум,chu,no,c	lexc
 лунатизм,chu,no,c	lexc
 лунатик,chu,no,c	lexc
@@ -11410,7 +11410,7 @@
 лӳшкен,chu,vb,c	lexc
 лӳшкентер,chu,vb,c	lexc
 лӳшкет,chu,vb,x8:100	lexc
-льгота,chu,no,c
+льгота,chu,no,c	lexc
 льготӑллӑ,chu,ad,c	lexc
 льнотеребилка,chu,no,c	lexc
 люк,chu,no,c	lexc
@@ -11451,7 +11451,7 @@
 магнат,chu,no,c	lexc
 магнези,chu,no,c	lexc
 магнетизм,chu,no,c	lexc
-магнето,chu,no,c
+магнето,chu,no,c	lexc
 магни,chu,no,c	lexc
 магнит,chu,no,c	lexc
 магнитла,chu,vb,c	lexc
@@ -11460,7 +11460,7 @@
 магнитлӑ,chu,ad,c	lexc
 магнитлӑх,chu,no,e46	lexc
 магнитоальбом,chu,no,d	lexc
-магнитола,chu,no,c
+магнитола,chu,no,c	lexc
 магнитофон,chu,no,c	lexc
 магнитсӑрла,chu,vb,c	lexc
 магнитсӑрлан,chu,vb,c	lexc
@@ -11470,7 +11470,7 @@
 мадам,chu,no,c	lexc
 мадаполам,chu,no,c	lexc
 мадемуазель,chu,no,c	lexc
-мадера,chu,no,c
+мадера,chu,no,c	lexc
 мадонна,chu,no,c	lexc
 мадригал,chu,no,c	lexc
 мадьяр,chu,no,c	lexc
@@ -11500,8 +11500,8 @@
 майлашӑну,chu,no,a139	lexc
 майлашӑнчӑк,chu,no,r93	lexc
 майлаштар,chu,vb,c	lexc
-майлаштару,chu,no,d
-майлашу,chu,no,c
+майлаштару,chu,no,d	lexc
+майлашу,chu,no,c	lexc
 майлашулӑх,chu,no,c	lexc
 майлашуллӑ,chu,ad,c	lexc
 майлашусӑрлӑх,chu,no,c	lexc
@@ -11567,7 +11567,7 @@
 макрав,chu,no,c	lexc
 макраҫ,chu,ad,c	lexc
 макрель,chu,no,c	lexc
-макроэкономика,chu,no,g
+макроэкономика,chu,no,g	lexc
 максӑма,chu,no,c	lexc
 максим,chu,no,c	lexc
 максимализм,chu,no,c	lexc
@@ -11601,7 +11601,7 @@
 мама,chu,ad,c	lexc
 мамак,chu,no,c
 мамале,chu,no,h	lexc
-мамалыга,chu,no,c
+мамалыга,chu,no,c	lexc
 мамӑк,chu,no,c	lexc
 мамӑкла,chu,av,c	lexc
 мамӑкламас,chu,ad,c	lexc
@@ -11634,15 +11634,15 @@
 манӑҫтар,chu,vb,c	lexc
 манӑҫу,chu,no,d	lexc
 мангал,chu,no,c	lexc
-манго,chu,no,c
+манго,chu,no,c	lexc
 мангуста,chu,no,c	lexc
 мандарин,chu,no,c	lexc
 мандат,chu,no,c	lexc
-мандолина,chu,no,c
+мандолина,chu,no,c	lexc
 манеж,chu,no,c	lexc
 манекен,chu,no,c	lexc
 манекенщик,chu,no,c	lexc
-манекенщица,chu,no,c
+манекенщица,chu,no,c	lexc
 манер,chu,no,c	lexc
 манерле,chu,vb,c	lexc
 манерлен,chu,vb,c	lexc
@@ -11655,7 +11655,7 @@
 манжет,chu,no,c	lexc
 мани,chu,no,c	lexc
 маникюр,chu,no,c	lexc
-маникюрщица,chu,no,v
+маникюрщица,chu,no,v	lexc
 манипулятор,chu,no,c	lexc
 манипуляци,chu,no,c	lexc
 манифест,chu,no,c	lexc
@@ -11680,14 +11680,14 @@
 мантар,chu,vb,c	lexc
 мантарттар,chu,vb,x8:190	lexc
 манти,chu,no,c	lexc
-манто,chu,no,c
+манто,chu,no,c	lexc
 мануаллӑ,chu,ad,d	lexc
 манускрипт,chu,no,c	lexc
 мануфактура,chu,no,c	lexc
 маньчжур,chu,no,c	lexc
 маньяк,chu,no,c
 мар,chu,pa,c
-марабу,chu,no,c
+марабу,chu,no,c	lexc
 марал,chu,no,c	lexc
 марата,chu,no,c	lexc
 марафон,chu,no,c	lexc
@@ -11698,21 +11698,21 @@
 маргаритка,chu,no,c	lexc
 маргиналлӑ,chu,ad,d	lexc
 маргиналлӑх,chu,no,d	lexc
-марена,chu,no,c
+марена,chu,no,c	lexc
 мари,chu,no,c	lexc
 марилле,chu,av,c	lexc
 маринад,chu,no,c	lexc
 маринадла,chu,vb,c	lexc
 маринист,chu,no,c	lexc
 марионетка,chu,no,c	lexc
-марихуана,chu,no,c
+марихуана,chu,no,c	lexc
 марка,chu,no,c	lexc
 маркӑллӑ,chu,ad,c	lexc
 маркетинг,chu,no,d	lexc
 маркетмейкер,chu,no,v104	lexc
 маркёр,chu,no,c	lexc
 маркиз,chu,no,c	lexc
-маркиза,chu,no,c
+маркиза,chu,no,c	lexc
 маркизет,chu,no,c	lexc
 маркировка,chu,no,c	lexc
 маркировщик,chu,no,c	lexc
@@ -11730,7 +11730,7 @@
 мародёрла,chu,av,c	lexc
 мародёрлӑх,chu,no,c	lexc
 марокен,chu,no,c	lexc
-Марсельеза,chu,no,c
+Марсельеза,chu,no,c	lexc
 марсиан,chu,no,c	lexc
 март,chu,no,c	lexc
 март,chu,de,x8:200	lexc
@@ -11767,7 +11767,7 @@
 маскхалат,chu,no,c
 масла,chu,no,c	lexc
 маслёнка,chu,no,c	lexc
-маслина,chu,no,c
+маслина,chu,no,c	lexc
 маслобойка,chu,no,c	lexc
 масмак,chu,no,c	lexc
 масон,chu,no,c	lexc
@@ -11781,11 +11781,11 @@
 массовик,chu,no,c	lexc
 массовка,chu,no,c	lexc
 мастер,chu,no,c	lexc
-мастерица,chu,no,c
-мастеровой,chu,no,c
+мастерица,chu,no,c	lexc
+мастеровой,chu,no,c	lexc
 мастерок,chu,no,c	lexc
-мастерской,chu,no,c
-мастика,chu,no,c
+мастерской,chu,no,c	lexc
+мастика,chu,no,c	lexc
 мастурбаци,chu,no,d	lexc
 масштаб,chu,no,c	lexc
 масштаблӑ,chu,ad,c	lexc
@@ -11818,7 +11818,7 @@
 матриархат,chu,no,c	lexc
 матрица,chu,no,c	lexc
 матрицӑла,chu,vb,c	lexc
-матрона,chu,no,v
+матрона,chu,no,v	lexc
 матрос,chu,no,c	lexc
 матроска,chu,no,c	lexc
 матросла,chu,av,c	lexc
@@ -11849,7 +11849,7 @@
 маххӑ,chu,no,c	lexc
 мачӑлта,chu,no,c	lexc
 мачӑлташ,chu,no,c	lexc
-мачетеро,chu,no,v
+мачетеро,chu,no,v	lexc
 мачта,chu,no,c	lexc
 мачча,chu,no,c	lexc
 маччалан,chu,vb,c	lexc
@@ -11859,7 +11859,7 @@
 машӑлтат,chu,vb,c	lexc
 машӑлтаттар,chu,vb,c	lexc
 машӑлти,chu,no/ad,c
-машбюро,chu,no,c
+машбюро,chu,no,c	lexc
 машина,chu,no,c	lexc
 машинӑла,chu,vb,r63	lexc
 машинӑлан,chu,vb,c	lexc
@@ -11879,7 +11879,7 @@
 машлаттар,chu,vb,c	lexc
 машт,chu,de,c
 маштлат,chu,vb,c	lexc
-маэстро,chu,no,c
+маэстро,chu,no,c	lexc
 мая,chu,no,c
 маяк,chu,no,c	lexc
 маяклӑ,chu,ad,c	lexc
@@ -12179,7 +12179,7 @@
 мегаполис,chu,no,d	lexc
 мегатонна,chu,no,c	lexc
 мегафон,chu,no,c	lexc
-мегера,chu,no,v
+мегера,chu,no,v	lexc
 медалист,chu,no,c	lexc
 медаль,chu,no,c	lexc
 медальер,chu,no,v	lexc
@@ -12187,8 +12187,8 @@
 медальҫӑ,chu,no,d	lexc
 медвытрезвитель,chu,no,c	lexc
 меджлис,chu,no,c	lexc
-медиана,chu,no,c
-медиатека,chu,no,o
+медиана,chu,no,c	lexc
+медиатека,chu,no,o	lexc
 медик,chu,no,c	lexc
 медикамент,chu,no,c	lexc
 мединститут,chu,no,c	lexc
@@ -12203,10 +12203,10 @@
 медработник,chu,no,c	lexc
 медресе,chu,no,c
 медсанбат,chu,no,c	lexc
-медсанпай,chu,no,d
+медсанпай,chu,no,d	lexc
 медсанчасть,chu,no,c	lexc
 медсестра,chu,no,c	lexc
-медуза,chu,no,c
+медуза,chu,no,c	lexc
 медучилище,chu,no,c
 медфак,chu,no,d	lexc
 ме-е,chu,de,c
@@ -12247,7 +12247,7 @@
 меллӗх,chu,no,c	lexc
 мелник,chu,no,c	lexc
 мелодекламаци,chu,no,c	lexc
-мелодика,chu,no,c
+мелодика,chu,no,c	lexc
 мелодиллӗ,chu,ad,c	lexc
 мелодрама,chu,no,c	lexc
 мелодрамӑллӑ,chu,ad,c	lexc
@@ -12324,7 +12324,7 @@
 метаморфоз,chu,no,c	lexc
 метан,chu,no,c	lexc
 метастаз,chu,no,c	lexc
-метатеза,chu,no,c
+метатеза,chu,no,c	lexc
 метафизик,chu,no,c	lexc
 метафизика,chu,no,c	lexc
 метафизикӑлла,chu,av,c	lexc
@@ -12354,7 +12354,7 @@
 метражлӑ,chu,ad,c	lexc
 метранпаж,chu,no,c	lexc
 метрдотель,chu,no,c	lexc
-метрика,chu,no,c
+метрика,chu,no,c	lexc
 метрлӑ,chu,ad,c	lexc
 метро,chu,no,c	lexc
 метрологи,chu,no,c	lexc
@@ -12385,7 +12385,7 @@
 меценат,chu,no,c	lexc
 меценатла,chu,av,c	lexc
 меценатлӑх,chu,no,d	lexc
-меццо-сопрано,chu,no,c
+меццо-сопрано,chu,no,c	lexc
 мечӗк,chu,no,c	lexc
 мечӗкле,chu,av,c	lexc
 мечӗклӗ,chu,ad,c	lexc
@@ -12477,7 +12477,7 @@
 миграциле,chu,vb,z138	lexc
 мигрень,chu,no,c	lexc
 миелит,chu,no,c
-мизансцена,chu,no,c
+мизансцена,chu,no,c	lexc
 мизантроп,chu,no,c	lexc
 мизантропи,chu,no,c	lexc
 мик,chu,de,x8:236
@@ -12497,7 +12497,7 @@
 микрорадиоприёмник,chu,no,c	lexc
 микрорайон,chu,no,c	lexc
 микроскоп,chu,no,c	lexc
-микросхема,chu,no,e47
+микросхема,chu,no,e47	lexc
 микротелевизор,chu,no,o	lexc
 микротӗнче,chu,no,c	lexc
 микротишкерӳ,chu,no,g	lexc
@@ -12509,10 +12509,10 @@
 микрофотокопи,chu,no,c	lexc
 микрохирурги,chu,no,d	lexc
 микрохум,chu,no,d	lexc
-микроэлектроника,chu,no,c
+микроэлектроника,chu,no,c	lexc
 микроэлемент,chu,no,c	lexc
 миксер,chu,no,c
-микстура,chu,no,c
+микстура,chu,no,c	lexc
 микшерла,chu,vb,g	lexc
 миледи,chu,no,v	lexc
 милетлӗ,chu,ad,c	lexc
@@ -12536,14 +12536,14 @@
 миллион,chu,nm,c
 миллионер,chu,no,c	lexc
 миллионҫӑ,chu,no,c	lexc
-миля,chu,no,c
+миля,chu,no,c	lexc
 миме,chu,no,c	lexc
 мимесӗр,chu,ad,c	lexc
 мимика,chu,no,c	lexc
 мимикӑллӑ,chu,ad,c	lexc
 мимикри,chu,no,c	lexc
 мим-мим,chu,de,o
-мимоза,chu,no,c
+мимоза,chu,no,c	lexc
 мин,chu,no,c	lexc
 мина,chu,no,c	lexc
 минарет,chu,no,c	lexc
@@ -12580,7 +12580,7 @@
 минкеттер,chu,vb,o	lexc
 минкрев,chu,no,c	lexc
 минлӗ,chu,ad,c	lexc
-минога,chu,no,c
+минога,chu,no,c	lexc
 миноискатель,chu,no,c	lexc
 миномёт,chu,no,c	lexc
 миномётчик,chu,no,c	lexc
@@ -12605,7 +12605,7 @@
 миокард,chu,no,c	lexc
 миокардит,chu,no,c	lexc
 мир,chu,no,c	lexc
-миравай,chu,no,c
+миравай,chu,no,c	lexc
 мираж,chu,no,c	lexc
 мирлеш,chu,vb,c	lexc
 мирлештер,chu,vb,c	lexc
@@ -12624,7 +12624,7 @@
 миссис,chu,no,c
 мистер,chu,no,c
 мистик,chu,no,c
-мистика,chu,no,c
+мистика,chu,no,c	lexc
 мистикӑлла,chu,av,c	lexc
 мистификатор,chu,no,c	lexc
 мистификаци,chu,no,c	lexc
@@ -12652,7 +12652,7 @@
 мичуринец,chu,no,c	lexc
 мичуринла,chu,av,c	lexc
 миша,chu,no,c	lexc
-мишавай,chu,no,c
+мишавай,chu,no,c	lexc
 мишалук,chu,no,c	lexc
 мишень,chu,no,c	lexc
 мишер,chu,no,c	lexc
@@ -12728,7 +12728,7 @@
 монографи,chu,no,c	lexc
 монографилле,chu,av,c	lexc
 монокль,chu,no,c	lexc
-монокультура,chu,no,c
+монокультура,chu,no,c	lexc
 монокультурӑллӑ,chu,ad,c	lexc
 монолит,chu,no,c	lexc
 монолитлӑ,chu,ad,d	lexc
@@ -12766,15 +12766,15 @@
 морг,chu,no,c	lexc
 мордва,chu,no,c	lexc
 мордвалла,chu,av,c	lexc
-морена,chu,no,c
+морена,chu,no,c	lexc
 морж,chu,no,c	lexc
 морилка,chu,no,c	lexc
 мормышка,chu,no,c	lexc
-мороженӑй,chu,no,c
-мороженица,chu,no,c
+мороженӑй,chu,no,c	lexc
+мороженица,chu,no,c	lexc
 морозильник,chu,no,c	lexc
 морс,chu,no,c	lexc
-мортира,chu,no,c
+мортира,chu,no,c	lexc
 морфема,chu,no,c	lexc
 морфемӑлану,chu,no,a176	lexc
 морфи,chu,no,c	lexc
@@ -12786,16 +12786,16 @@
 морякла,chu,av,c	lexc
 москит,chu,no,c	lexc
 мостик,chu,no,c	lexc
-мотальщица,chu,no,c
+мотальщица,chu,no,c	lexc
 мотель,chu,no,c	lexc
 мотобол,chu,no,c	lexc
 мотоболист,chu,no,c	lexc
 мотовелосипед,chu,no,c	lexc
-мотовило,chu,no,c
+мотовило,chu,no,c	lexc
 мотовоз,chu,no,c	lexc
 мотоклуб,chu,no,c	lexc
 мотоколонна,chu,no,c	lexc
-мотопехота,chu,no,c
+мотопехота,chu,no,c	lexc
 мотор,chu,no,c	lexc
 моторалли,chu,no,c	lexc
 моторизаци,chu,no,c	lexc
@@ -12810,7 +12810,7 @@
 мотошлем,chu,no,c	lexc
 мохер,chu,no,c	lexc
 моцион,chu,no,c	lexc
-мочевина,chu,no,c
+мочевина,chu,no,c	lexc
 мошенник,chu,no,c	lexc
 мракобес,chu,no,c	lexc
 мракобеси,chu,no,c	lexc
@@ -12818,7 +12818,7 @@
 му,chu,de,c
 муар,chu,no,c	lexc
 мужик,chu,no,c	lexc
-муза,chu,no,c
+муза,chu,no,c	lexc
 музеевед,chu,no,v	lexc
 музееведени,chu,no,c	lexc
 музей,chu,no,c	lexc
@@ -12957,7 +12957,7 @@
 мухтавҫӑ,chu,no,z53	lexc
 мухтан,chu,vb,c	lexc
 мухтантар,chu,vb,c	lexc
-мухтану,chu,no,c
+мухтану,chu,no,c	lexc
 мухтанчӑк,chu,no/ad,c	lexc
 мухтанчӑклӑ,chu,ad,c	lexc
 мухтанчӑклӑн,chu,av,c	lexc
@@ -12992,14 +12992,14 @@
 мяуклат,chu,vb,c	lexc
 на,chu,in,c
 на,chu,pa,c
-набережнӑй,chu,no,c
+набережнӑй,chu,no,c	lexc
 набойка,chu,no,c	lexc
 наборла,chu,vb,c	lexc
 наборлан,chu,vb,c	lexc
 наборлаттар,chu,vb,o	lexc
 наборщик,chu,no,c	lexc
-наборщица,chu,no,c
-навага,chu,no,c
+наборщица,chu,no,c	lexc
+навага,chu,no,c	lexc
 наварх,chu,no,v	lexc
 навигатор,chu,no,c	lexc
 навигаци,chu,no,c	lexc
@@ -13011,7 +13011,7 @@
 навуслан,chu,vb,c	lexc
 навуслантар,chu,vb,o	lexc
 наган,chu,no,c	lexc
-награда,chu,no,c
+награда,chu,no,c	lexc
 наградӑла,chu,vb,c	lexc
 наградӑлав,chu,no,z141	lexc
 нагрузка,chu,no,c	lexc
@@ -13026,7 +13026,7 @@
 накас,chu,ad,c	lexc
 накӑлтат,chu,vb,x9:6	lexc
 накидка,chu,no,c	lexc
-накладной,chu,no,c
+накладной,chu,no,c	lexc
 наклат,chu,no,c	lexc
 наклӑх,chu,av,c	lexc
 наклонени,chu,no,c	lexc
@@ -13053,7 +13053,7 @@
 намӑс-симӗссӗр,chu,ad,c	lexc
 наместник,chu,no,c	lexc
 наместничество,chu,no,c	lexc
-намотчица,chu,no,c
+намотчица,chu,no,c	lexc
 нана,chu,no,c
 нанотехнологи,chu,no,g	lexc
 нанчӑк,chu,no,c	lexc
@@ -13098,8 +13098,8 @@
 народник,chu,no,c	lexc
 народничество,chu,no,c	lexc
 народоволец,chu,no,c	lexc
-нарспиана,chu,no,d
-нарспииана,chu,no,d
+нарспиана,chu,no,d	lexc
+нарспииана,chu,no,d	lexc
 нарспилӗх,chu,no,d	lexc
 нарсуд,chu,no,c	lexc
 нарт,chu,de,c
@@ -13116,7 +13116,7 @@
 наставниклӑх,chu,no,c	lexc
 настойка,chu,no,c	lexc
 настоятель,chu,no,c	lexc
-настоятельница,chu,no,v
+настоятельница,chu,no,v	lexc
 настройщик,chu,no,c	lexc
 наструк,chu,no,c	lexc
 наструкла,chu,vb,c	lexc
@@ -13135,11 +13135,11 @@
 натурализм,chu,no,c	lexc
 натуралист,chu,no,c	lexc
 натурӑллӑ,chu,ad,c	lexc
-натуроплата,chu,no,c
+натуроплата,chu,no,c	lexc
 натурщик,chu,no,c	lexc
-натурщица,chu,no,c
+натурщица,chu,no,c	lexc
 натюрморт,chu,no,c	lexc
-наука,chu,no,c
+наука,chu,no,c	lexc
 наушник,chu,no,c	lexc
 нафталин,chu,no,c	lexc
 нахак,chu,no,c
@@ -13301,7 +13301,7 @@
 нейтрализацилен,chu,vb,c	lexc
 нейтралитет,chu,no,c	lexc
 нейтралитетлӑх,chu,no,o	lexc
-нейтраллану,chu,no,a78
+нейтраллану,chu,no,a78	lexc
 нейтраллӑ,chu,ad,c	lexc
 нейтраллӑх,chu,no,c	lexc
 нейтрон,chu,no,c	lexc
@@ -13339,10 +13339,10 @@
 несӗллӗх,chu,no,c	lexc
 несӗлсӗр,chu,ad,c	lexc
 несӗплӗх,chu,no,d	lexc
-нетто,chu,no,c
+нетто,chu,no,c	lexc
 неформал,chu,no,d	lexc
 нефрит,chu,no,c
-нефтебаза,chu,no,c
+нефтебаза,chu,no,c	lexc
 нефтепровод,chu,no,c	lexc
 нефтехими,chu,no,c	lexc
 нефтехранилище,chu,no,c
@@ -13443,7 +13443,7 @@
 новелла,chu,no,c	lexc
 новеллист,chu,no,c	lexc
 новокаин,chu,no,c	lexc
-ногай,chu,no,c
+ногай,chu,no,c	lexc
 ногайла,chu,av,c	lexc
 нокаут,chu,no,c	lexc
 нокаутла,chu,vb,c	lexc
@@ -13451,7 +13451,7 @@
 ноктюрн,chu,no,c	lexc
 ноль,chu,nm,c
 номад,chu,no,v	lexc
-номенклатура,chu,no,c
+номенклатура,chu,no,c	lexc
 номер,chu,no,c	lexc
 номерле,chu,vb,c	lexc
 номерлӗ,chu,ad,c	lexc
@@ -13467,13 +13467,13 @@
 нормӑлан,chu,vb,c	lexc
 нормӑлантар,chu,vb,c	lexc
 нормировщик,chu,no,c	lexc
-нормировщица,chu,no,c
+нормировщица,chu,no,c	lexc
 носильщик,chu,no,c	lexc
 носки,chu,no,c	lexc
 носорог,chu,no,c	lexc
 нота,chu,no,c	lexc
 нотариус,chu,no,c	lexc
-ноу-хау,chu,no,z148
+ноу-хау,chu,no,z148	lexc
 ноябрь,chu,no,c	lexc
 нравственность,chu,no,c	lexc
 ну,chu,in,c
@@ -13555,7 +13555,7 @@
 обкаткӑла,chu,vb,o	lexc
 обкатчик,chu,no,c	lexc
 обком,chu,no,c	lexc
-облава,chu,no,c
+облава,chu,no,c	lexc
 область,chu,no,c	lexc
 облигаци,chu,no,c	lexc
 облигационер,chu,no,v	lexc
@@ -13567,7 +13567,7 @@
 обмундировани,chu,no,c	lexc
 обоз,chu,no,c	lexc
 обозреватель,chu,no,c	lexc
-обой,chu,no,c
+обой,chu,no,c	lexc
 обойма,chu,no,c	lexc
 обойщик,chu,no,c	lexc
 оборона,chu,no,c	lexc
@@ -13587,7 +13587,7 @@
 общежити,chu,no,c	lexc
 обществӑлла,chu,av,c	lexc
 общественник,chu,no,c	lexc
-общественница,chu,no,c
+общественница,chu,no,c	lexc
 общество,chu,no,c	lexc
 обществовед,chu,no,c	lexc
 обществоведени,chu,no,c	lexc
@@ -13610,7 +13610,7 @@
 овчарка,chu,no,c	lexc
 огнемёт,chu,no,c	lexc
 огнетушитель,chu,no,c	lexc
-ода,chu,no,c
+ода,chu,no,c	lexc
 одалиска,chu,no,v	lexc
 одеколон,chu,no,c	lexc
 одонтолог,chu,no,v	lexc
@@ -13645,15 +13645,15 @@
 окулист,chu,no,c	lexc
 окуляр,chu,no,c	lexc
 олат,chu,vb,c	lexc
-олату,chu,no,a80
+олату,chu,no,a80	lexc
 олеандр,chu,no,c	lexc
-олива,chu,no,c
+олива,chu,no,c	lexc
 олигарх,chu,no,d	lexc
 олигархи,chu,no,c	lexc
 Олимп,chu,no,c	lexc
 олимпиада,chu,no,c	lexc
 олимпиец,chu,no,c	lexc
-олифа,chu,no,c
+олифа,chu,no,c	lexc
 ом,chu,no,c	lexc
 омар,chu,no,c	lexc
 омлет,chu,no,c	lexc
@@ -13669,7 +13669,7 @@
 онколог,chu,no,c	lexc
 онкологи,chu,no,c	lexc
 ономаст,chu,no,v	lexc
-ономастика,chu,no,c
+ономастика,chu,no,c	lexc
 онтогенез,chu,no,c	lexc
 опал,chu,no,c	lexc
 опека,chu,no,c	lexc
@@ -13685,10 +13685,10 @@
 операци,chu,no,c	lexc
 оперетта,chu,no,c	lexc
 оперушкӑн,chu,no,d	lexc
-опий,chu,no,c
+опий,chu,no,c	lexc
 опись,chu,no,c
 опиум,chu,no,c	lexc
-опока,chu,no,c
+опока,chu,no,c	lexc
 ополченец,chu,no,c	lexc
 ополчени,chu,no,c	lexc
 оппозици,chu,no,c	lexc
@@ -13701,7 +13701,7 @@
 определени,chu,no,c	lexc
 определитель,chu,no,c	lexc
 опричник,chu,no,c	lexc
-опричнина,chu,no,c
+опричнина,chu,no,c	lexc
 опрыскиватель,chu,no,c	lexc
 оптант,chu,no,v	lexc
 оптаци,chu,no,v	lexc
@@ -13733,14 +13733,14 @@
 организацилӗх,chu,no,c	lexc
 организацилле,chu,av,c	lexc
 организм,chu,no,c	lexc
-органика,chu,no,c
+органика,chu,no,c	lexc
 органикӑллӑ,chu,ad,c	lexc
 органист,chu,no,c	lexc
-оргбюро,chu,no,c
+оргбюро,chu,no,c	lexc
 орги,chu,no,c	lexc
 оргкомитет,chu,no,c	lexc
-оргтехника,chu,no,d
-оргыйту,chu,no,s128
+оргтехника,chu,no,d	lexc
+оргыйту,chu,no,s128	lexc
 орда,chu,no,c	lexc
 орден,chu,no,c	lexc
 орденлӑ,chu,ad,c	lexc
@@ -13749,12 +13749,12 @@
 ордер,chu,no,c	lexc
 ординарец,chu,no,c	lexc
 ординатор,chu,no,c	lexc
-ординатура,chu,no,c
+ординатура,chu,no,c	lexc
 оригинал,chu,no,c	lexc
 оригиналлӑ,chu,ad,c	lexc
 оригиналлӑх,chu,no,d	lexc
 ориенталист,chu,no,c	lexc
-ориенталистика,chu,no,v126
+ориенталистика,chu,no,v126	lexc
 ориентир,chu,no,c	lexc
 ориентировщик,chu,no,v	lexc
 оркестр,chu,no,c	lexc
@@ -13773,8 +13773,8 @@
 оруди,chu,no,c	lexc
 орфографи,chu,no,c	lexc
 орфоэпи,chu,no,c	lexc
-орхидея,chu,no,c
-осада,chu,no,c
+орхидея,chu,no,c	lexc
+осада,chu,no,c	lexc
 Освод,chu,no,c	lexc
 осеменатор,chu,no,d	lexc
 осетин,chu,no,c	lexc
@@ -13786,7 +13786,7 @@
 остеолог,chu,no,v	lexc
 остеохондроз,chu,no,g	lexc
 осьминог,chu,no,c	lexc
-отбой,chu,no,c
+отбой,chu,no,c	lexc
 отвал,chu,no,c	lexc
 отвес,chu,no,c	lexc
 ответ,chu,no,c	lexc
@@ -13805,8 +13805,8 @@
 откупщик,chu,no,c	lexc
 отлив,chu,no,c	lexc
 отличник,chu,no,c	lexc
-отличница,chu,no,c
-отлично,chu,no,c
+отличница,chu,no,c	lexc
+отлично,chu,no,c	lexc
 отметка,chu,no,c	lexc
 отношени,chu,no,c	lexc
 отоларингологи,chu,no,c	lexc
@@ -13856,7 +13856,7 @@
 павра,chu,vb,c	lexc
 павраш,chu,vb,o	lexc
 павуска,chu,no,c	lexc
-пагода,chu,no,c
+пагода,chu,no,c	lexc
 падеж,chu,no,c	lexc
 падишах,chu,no,c	lexc
 паёк,chu,no,c	lexc
@@ -13889,12 +13889,12 @@
 пайланаканни,chu,pc,c
 пайланаслӑх,chu,no,e27	lexc
 пайланманлӑх,chu,no,d	lexc
-пайлану,chu,no,c
+пайлану,chu,no,c	lexc
 пайланулӑх,chu,no,a176	lexc
 пайланчӑк,chu,no,e44	lexc
 пайлаттар,chu,vb,c	lexc
 пайлаш,chu,vb,c	lexc
-пайлашу,chu,no,c
+пайлашу,chu,no,c	lexc
 пайлӑ,chu,ad,c	lexc
 пайрака,chu,no,o	lexc
 пайралан,chu,vb,c	lexc
@@ -13987,7 +13987,7 @@
 паллав,chu,no,j159	lexc
 паллат,chu,vb,x9:80	lexc
 паллаттар,chu,vb,c	lexc
-паллаттару,chu,no,z153
+паллаттару,chu,no,z153	lexc
 паллах,chu,pa,c
 паллаш,chu,vb,c	lexc
 паллаштар,chu,vb,c	lexc
@@ -14012,7 +14012,7 @@
 палтлат,chu,vb,c	lexc
 палтлаттар,chu,vb,c	lexc
 палтус,chu,no,c
-палуба,chu,no,c
+палуба,chu,no,c	lexc
 палчас,chu,no,c
 пальма,chu,no,c	lexc
 пальто,chu,no,c	lexc
@@ -14026,7 +14026,7 @@
 пан,chu,de,c
 панамар,chu,no,c	lexc
 панамка,chu,no,c
-панацея,chu,no,m130
+панацея,chu,no,m130	lexc
 пандеми,chu,no,m130	lexc
 панегирик,chu,no,c	lexc
 панегирист,chu,no,v	lexc
@@ -14034,11 +14034,11 @@
 панель,chu,no,c	lexc
 панельлӗ,chu,ad,c	lexc
 пани,chu,no,v	lexc
-паника,chu,no,c
+паника,chu,no,c	lexc
 паникёр,chu,no,c	lexc
 паникёрла,chu,av,c	lexc
 панисламизм,chu,no,c	lexc
-панихида,chu,no,c
+панихида,chu,no,c	lexc
 панк,chu,de,c	lexc
 панкав,chu,no/ad,c
 панкавлӑх,chu,no,d	lexc
@@ -14075,11 +14075,11 @@
 пантеизм,chu,no,c	lexc
 пантеист,chu,no,c	lexc
 пантеон,chu,no,c	lexc
-пантера,chu,no,c
+пантера,chu,no,c	lexc
 пантлат,chu,vb,c	lexc
 пантлаттар,chu,vb,x9:93	lexc
 пантомим,chu,no,v	lexc
-пантомима,chu,no,c
+пантомима,chu,no,c	lexc
 пантюркизм,chu,no,c	lexc
 панук,chu,no,c	lexc
 пан_улмиҫӗ,chu,no,d
@@ -14091,7 +14091,7 @@
 панчӑ,chu,de,x9:95
 панчӑлт,chu,de,c
 панчӑрт,chu,de,o
-панчен-лама,chu,no,v
+панчен-лама,chu,no,v	lexc
 па·па,chu,no,c
 папа·,chu,no,c
 папай,chu,no,c	lexc
@@ -14136,8 +14136,8 @@
 паранджа,chu,no,c	lexc
 паранкӑ,chu,no,c	lexc
 параноик,chu,no,c	lexc
-паранойя,chu,no,c
-параолимпиада,chu,no,g
+паранойя,chu,no,c	lexc
+параолимпиада,chu,no,g	lexc
 парапет,chu,no,c	lexc
 параплан,chu,no,d	lexc
 параппан,chu,no,c	lexc
@@ -14248,7 +14248,7 @@
 партлат,chu,vb,x9:113	lexc
 партнёр,chu,no,c	lexc
 партнёрлӑх,chu,no,r82	lexc
-партноменклатура,chu,no,d
+партноменклатура,chu,no,d	lexc
 партократ,chu,no,d	lexc
 партократи,chu,no,d	lexc
 парторг,chu,no,c	lexc
@@ -14256,7 +14256,7 @@
 партфункционер,chu,no,d	lexc
 партшкул,chu,no,c	lexc
 пару-илӳ,chu,no,c	lexc
-парусина,chu,no,c
+парусина,chu,no,c	lexc
 пару-тӑву,chu,no,c	lexc
 пару-тӳлев,chu,no,h	lexc
 парфюмер,chu,no,c	lexc
@@ -14299,7 +14299,7 @@
 пастеризаци,chu,no,c	lexc
 пастеризациле,chu,vb,c	lexc
 пастернак,chu,no,c	lexc
-пастила,chu,no,c
+пастила,chu,no,c	lexc
 пастор,chu,no,c	lexc
 пастораль,chu,no,c	lexc
 паструмкка,chu,no,c
@@ -14338,7 +14338,7 @@
 патент,chu,no,c	lexc
 патентла,chu,vb,c	lexc
 патер,chu,no,v	lexc
-патетика,chu,no,c
+патетика,chu,no,c	lexc
 патетикӑллӑ,chu,ad,c	lexc
 патефон,chu,no,c	lexc
 патиссон,chu,no,c	lexc
@@ -14346,7 +14346,7 @@
 патлаттар,chu,vb,c	lexc
 патман,chu,no,c	lexc
 патнус,chu,no,d	lexc
-патока,chu,no,c
+патока,chu,no,c	lexc
 патологи,chu,no,c	lexc
 патологиллӗ,chu,ad,c	lexc
 патологоанатом,chu,no,v	lexc
@@ -14394,7 +14394,7 @@
 паха,chu,ad,c	lexc
 пахала,chu,vb,c	lexc
 пахалаттар,chu,vb,x9:144	lexc
-пахалату,chu,no,t81
+пахалату,chu,no,t81	lexc
 пахалӑх,chu,no,c	lexc
 пахалӑхлӑ,chu,ad,c	lexc
 пахалӑхсӑр,chu,ad,c	lexc
@@ -14894,7 +14894,7 @@
 пейзажист,chu,no,c	lexc
 пейоративлӑ,chu,ad,g	lexc
 пек,chu,po,c
-пекарня,chu,no,c
+пекарня,chu,no,c	lexc
 пекарь,chu,no,c
 пекӗ,chu,no,c	lexc
 пекӗлтет,chu,vb,c	lexc
@@ -14922,10 +14922,10 @@
 пенсионер,chu,no,c	lexc
 пенсионерка,chu,no,c	lexc
 пенсне,chu,no,c
-пепельница,chu,no,c
+пепельница,chu,no,c	lexc
 пепке,chu,no,h
 пепси,chu,no,d	lexc
-пепси-кола,chu,no,d
+пепси-кола,chu,no,d	lexc
 пер,chu,vb,c	lexc
 пергамент,chu,no,c	lexc
 перевод,chu,no,c	lexc
@@ -14946,7 +14946,7 @@
 перекись,chu,no,c	lexc
 перекличка,chu,no,c	lexc
 переключатель,chu,no,c	lexc
-перемена,chu,no,c
+перемена,chu,no,c	lexc
 перемири,chu,no,c	lexc
 перемычка,chu,no,c	lexc
 переписчик,chu,no,c
@@ -14974,7 +14974,7 @@
 перкӗч,chu,no,x9:169	lexc
 перламутр,chu,no,c	lexc
 перлон,chu,no,c	lexc
-перо,chu,no,c
+перо,chu,no,c	lexc
 пероллӑ,chu,ad,c	lexc
 перпендикуляр,chu,no,c	lexc
 перпендикулярлӑ,chu,ad,c	lexc
@@ -14982,7 +14982,7 @@
 перс,chu,no,c	lexc
 персик,chu,no,c	lexc
 персла,chu,av,c	lexc
-персона,chu,no,v
+персона,chu,no,v	lexc
 персонаж,chu,no,c	lexc
 персонал,chu,no,c	lexc
 перспектива,chu,no,c	lexc
@@ -15009,7 +15009,7 @@
 петит,chu,no,c
 петици,chu,no,c	lexc
 петле,chu,no,c	lexc
-петлица,chu,no,c
+петлица,chu,no,c	lexc
 петрушка,chu,no,c	lexc
 петтинг,chu,no,d	lexc
 пехет,chu,no,c	lexc
@@ -15024,7 +15024,7 @@
 пехле,chu,vb,c	lexc
 пехлет,chu,vb,c	lexc
 пехлеттер,chu,vb,c	lexc
-пехота,chu,no,c
+пехота,chu,no,c	lexc
 пехотинец,chu,no,c	lexc
 печатник,chu,no,c	lexc
 печенег,chu,no,c	lexc
@@ -15329,7 +15329,7 @@
 пӗшкӗн,chu,vb,c	lexc
 пӗшкӗнтер,chu,vb,c	lexc
 пӗшкӗрт,chu,vb,c	lexc
-пиала,chu,no,c
+пиала,chu,no,c	lexc
 пианино,chu,no,c	lexc
 пианист,chu,no,c	lexc
 пианистка,chu,no,c	lexc
@@ -15401,7 +15401,7 @@
 пилсӗр,chu,ad,c	lexc
 пилсӗрлӗх,chu,no,c	lexc
 пилсӗррӗн,chu,av,c	lexc
-пилюля,chu,no,c
+пилюля,chu,no,c	lexc
 пилястра,chu,no,c	lexc
 пимпа,chu,no,c	lexc
 пин,chu,nm,c
@@ -15413,7 +15413,7 @@
 пиншак,chu,no,c	lexc
 пион,chu,no,c	lexc
 пионер,chu,no,c	lexc
-пионервожатӑй,chu,no,c
+пионервожатӑй,chu,no,c	lexc
 пионерка,chu,no,c	lexc
 пионерла,chu,av,c	lexc
 пипетка,chu,no,c	lexc
@@ -15435,11 +15435,11 @@
 пирӗшти,chu,no,c	lexc
 пирки,chu,po,c	lexc
 пирогенлӑх,chu,no,i58	lexc
-пирожнӑй,chu,no,c
+пирожнӑй,chu,no,c	lexc
 пироксилин,chu,no,c	lexc
 пирокӳкӗрт,chu,no,t61	lexc
 пиротехник,chu,no,c	lexc
-пиротехника,chu,no,c
+пиротехника,chu,no,c	lexc
 пирс,chu,no,c	lexc
 пир-тӑла,chu,no,x9:222	lexc
 пиртев,chu,no,w24	lexc
@@ -15461,7 +15461,7 @@
 пирчет,chu,vb,c	lexc
 пис,chu,vb,c	lexc
 писатель,chu,no,c	lexc
-писательница,chu,no,c
+писательница,chu,no,c	lexc
 писев,chu,no,c	lexc
 писевле,chu,vb,c	lexc
 писевлен,chu,vb,c	lexc
@@ -15587,7 +15587,7 @@
 платина,chu,no,c	lexc
 платна,chu,ad,c	lexc
 платник,chu,no,c	lexc
-плато,chu,no,c
+плато,chu,no,c	lexc
 платоник,chu,no,v	lexc
 платформа,chu,no,c	lexc
 платье,chu,no,c	lexc
@@ -15602,7 +15602,7 @@
 плащ-палатка,chu,no,c	lexc
 плебей,chu,no,c	lexc
 плебисцит,chu,no,c	lexc
-плевательница,chu,no,c
+плевательница,chu,no,c	lexc
 плевра,chu,no,c	lexc
 плеврит,chu,no,c	lexc
 плед,chu,no,c	lexc
@@ -15639,10 +15639,10 @@
 плюшка,chu,no,c	lexc
 плющ,chu,no,c	lexc
 пляж,chu,no,c	lexc
-пневматика,chu,no,c
+пневматика,chu,no,c	lexc
 пневматикӑллӑ,chu,ad,c	lexc
 повар,chu,no,c	lexc
-повереннӑй,chu,no,c
+повереннӑй,chu,no,c	lexc
 повестка,chu,no,c	lexc
 повесть,chu,no,c	lexc
 повесть-роман,chu,no,h	lexc
@@ -15657,7 +15657,7 @@
 подвал,chu,no,c	lexc
 подводник,chu,no,c	lexc
 подданлӑх,chu,no,j180	lexc
-подданнӑй,chu,no,c
+подданнӑй,chu,no,c	lexc
 подданство,chu,no,c	lexc
 подиум,chu,no,d	lexc
 подлежащи,chu,no,c	lexc
@@ -15686,7 +15686,7 @@
 подъёмник,chu,no,c	lexc
 поезд,chu,no,c	lexc
 пожарник,chu,no,c	lexc
-поза,chu,no,d
+поза,chu,no,d	lexc
 позёр,chu,no,v	lexc
 позитив,chu,no,c	lexc
 позитивизм,chu,no,c	lexc
@@ -15695,7 +15695,7 @@
 пойнтер,chu,no,c	lexc
 покрышка,chu,no,c	lexc
 полевод,chu,no,c	lexc
-полемика,chu,no,c
+полемика,chu,no,c	lexc
 полемикӑллӑ,chu,ad,c	lexc
 полиатлон,chu,no,d	lexc
 полиатлонист,chu,no,d	lexc
@@ -15706,7 +15706,7 @@
 полигон,chu,no,c	lexc
 полиграфи,chu,no,c	lexc
 полиграфист,chu,no,c	lexc
-поликлиника,chu,no,c
+поликлиника,chu,no,c	lexc
 полимер,chu,no,c	lexc
 полимеризаци,chu,no,c	lexc
 полимеризациле,chu,vb,t110	lexc
@@ -15725,7 +15725,7 @@
 политеист,chu,no,v	lexc
 политехнизаци,chu,no,c	lexc
 политехнизациле,chu,vb,c	lexc
-политехника,chu,no,c
+политехника,chu,no,c	lexc
 политехникум,chu,no,c	lexc
 политзаняти,chu,no,c	lexc
 политик,chu,no,c	lexc
@@ -15742,7 +15742,7 @@
 политкун,chu,no,d	lexc
 политолог,chu,no,d	lexc
 политологи,chu,no,d	lexc
-политпай,chu,no,c
+политпай,chu,no,c	lexc
 политработник,chu,no,c	lexc
 политрук,chu,no,c	lexc
 политтехнолог,chu,no,d	lexc
@@ -15762,7 +15762,7 @@
 полководец,chu,no,c	lexc
 полномочи,chu,no,c	lexc
 полномочиллӗ,chu,ad,c	lexc
-поло,chu,no,c
+поло,chu,no,c	lexc
 половец,chu,no,c	lexc
 положени,chu,no,c	lexc
 полонез,chu,no,c	lexc
@@ -15784,7 +15784,7 @@
 поляр,chu,no,c	lexc
 поляризаци,chu,no,c	lexc
 полярник,chu,no,c	lexc
-помада,chu,no,c
+помада,chu,no,c	lexc
 помадка,chu,no,c	lexc
 померанец,chu,no,c	lexc
 поместье,chu,no,c
@@ -15796,12 +15796,12 @@
 понтёр,chu,no,v	lexc
 понтон,chu,no,c	lexc
 понтонёр,chu,no,v	lexc
-понятой,chu,no,c
+понятой,chu,no,c	lexc
 попечитель,chu,no,c	lexc
 попечительлӗх,chu,no,j160	lexc
 поп-кӗвӗ,chu,no,d	lexc
-поп-культура,chu,no,d
-поп-музыка,chu,no,d
+поп-культура,chu,no,d	lexc
+поп-музыка,chu,no,d	lexc
 пополнени,chu,no,c	lexc
 поп-ҫӑлтӑр,chu,no,d	lexc
 попугай,chu,no,c	lexc
@@ -15816,11 +15816,11 @@
 популярлӑ,chu,ad,c	lexc
 попурри,chu,no,c	lexc
 поп-ушкӑн,chu,no,d	lexc
-порно,chu,no,d
+порно,chu,no,d	lexc
 порнографи,chu,no,c	lexc
 порнографиллӗ,chu,ad,c	lexc
 порноҫӑлтӑр,chu,no,d	lexc
-порода,chu,no,c
+порода,chu,no,c	lexc
 поролон,chu,no,c	lexc
 порошок,chu,no,c	lexc
 порт,chu,no,c	lexc
@@ -15837,7 +15837,7 @@
 портупея,chu,no,c	lexc
 портфель,chu,no,c	lexc
 портье,chu,no,v	lexc
-портьера,chu,no,c
+портьера,chu,no,c	lexc
 поручик,chu,no,c	lexc
 порци,chu,no,c	lexc
 порциллӗ,chu,ad,c	lexc
@@ -15893,11 +15893,11 @@
 правӑлӑх,chu,no,c	lexc
 правӑсӑр,chu,ad,c	lexc
 правӑсӑрлӑх,chu,no,c	lexc
-правило,chu,no,c
+правило,chu,no,c	lexc
 правитель,chu,no,c	lexc
 правительство,chu,no,c	lexc
 правлени,chu,no,c	lexc
-право,chu,no,c
+право,chu,no,c	lexc
 правовед,chu,no,c	lexc
 правоведени,chu,no,c	lexc
 православи,chu,no,c	lexc
@@ -15916,7 +15916,7 @@
 праҫник,chu,no,c	lexc
 праҫникле,chu,vb,c	lexc
 прачак,chu,no,c	lexc
-прачечнӑй,chu,no,c
+прачечнӑй,chu,no,c	lexc
 прачка,chu,no,c	lexc
 предикат,chu,no,c	lexc
 предикативлӑ,chu,ad,c	lexc
@@ -15960,7 +15960,7 @@
 пресс,chu,no,c	lexc
 пресса,chu,no,c	lexc
 пресс-атташе,chu,no,c
-пресс-бюро,chu,no,c
+пресс-бюро,chu,no,c	lexc
 пресс-конференци,chu,no,c	lexc
 прессовщик,chu,no,c	lexc
 пресс-папье,chu,no,c
@@ -15976,10 +15976,10 @@
 преступник,chu,no,c	lexc
 претендент,chu,no,v	lexc
 префект,chu,no,c	lexc
-префектура,chu,no,c
+префектура,chu,no,c	lexc
 преферанс,chu,no,c	lexc
 префикс,chu,no,c	lexc
-префикслану,chu,no,a89
+префикслану,chu,no,a89	lexc
 префикслӑ,chu,ad,c	lexc
 преюдициаллӑх,chu,no,j200	lexc
 прибор,chu,no,c	lexc
@@ -15993,7 +15993,7 @@
 привилегиллӗ,chu,ad,c	lexc
 привод,chu,no,c	lexc
 приговор,chu,no,c	lexc
-приёмнӑй,chu,no,c
+приёмнӑй,chu,no,c	lexc
 приёмник,chu,no,c	lexc
 приз,chu,no,c	lexc
 призлӑ,chu,ad,c	lexc
@@ -16015,7 +16015,7 @@
 прилив,chu,no,c	lexc
 приложени,chu,no,c	lexc
 прима,chu,no,c	lexc
-прима-балерина,chu,no,c
+прима-балерина,chu,no,c	lexc
 примат,chu,no,c	lexc
 пример,chu,no,c	lexc
 примерлӑ,chu,ad,c	lexc
@@ -16037,7 +16037,7 @@
 принц-консорт,chu,no,v	lexc
 приор,chu,no,v	lexc
 приоритет,chu,no,c	lexc
-припой,chu,no,c
+припой,chu,no,c	lexc
 природоведени,chu,no,c	lexc
 прис,chu,in,c
 пристав,chu,no,c	lexc
@@ -16045,14 +16045,14 @@
 приставкӑллӑ,chu,ad,c	lexc
 пристань,chu,no,c	lexc
 присяга,chu,no,c	lexc
-присяжнӑй,chu,no,c
+присяжнӑй,chu,no,c	lexc
 прихватизатор,chu,no,d	lexc
 прихватизаци,chu,no,d	lexc
 прихватизациле,chu,vb,d	lexc
 приход,chu,no,c	lexc
 приходла,chu,vb,c	lexc
 приходлан,chu,vb,c	lexc
-прихожӑй,chu,no,c
+прихожӑй,chu,no,c	lexc
 прихут,chu,no,c	lexc
 прицел,chu,no,c	lexc
 прицеп,chu,no,c	lexc
@@ -16065,14 +16065,14 @@
 причёска,chu,no,c	lexc
 причт,chu,no,c	lexc
 приют,chu,no,c	lexc
-проба,chu,no,c
+проба,chu,no,c	lexc
 пробӑллӑ,chu,ad,c	lexc
 пробирка,chu,no,c	lexc
 пробка,chu,no,c	lexc
 проблема,chu,no,c	lexc
 проблематика,chu,no,c	lexc
 проблемӑллӑ,chu,ad,c	lexc
-пробой,chu,no,c
+пробой,chu,no,c	lexc
 пробойник,chu,no,c	lexc
 провизор,chu,no,c	lexc
 провинци,chu,no,c	lexc
@@ -16080,7 +16080,7 @@
 провинциаллӑх,chu,no,c	lexc
 провод,chu,no,c	lexc
 проводник,chu,no,c	lexc
-проводница,chu,no,c
+проводница,chu,no,c	lexc
 провокатор,chu,no,c	lexc
 провокаторла,chu,av,c	lexc
 провокаци,chu,no,c	lexc
@@ -16105,7 +16105,7 @@
 прогулҫӑ,chu,no,j206	lexc
 прогульщик,chu,no,c	lexc
 продавец,chu,no,c	lexc
-продавщица,chu,no,c
+продавщица,chu,no,c	lexc
 продмаг,chu,no,c	lexc
 продналог,chu,no,c	lexc
 продразвёрстка,chu,no,c	lexc
@@ -16222,7 +16222,7 @@
 протравитель,chu,no,c	lexc
 профактив,chu,no,c	lexc
 профбилет,chu,no,c	lexc
-профбюро,chu,no,c
+профбюро,chu,no,c	lexc
 профвӗренӳ,chu,no,d	lexc
 профгрупорг,chu,no,c	lexc
 профгруппа,chu,no,c	lexc
@@ -16231,7 +16231,7 @@
 профессионал,chu,no,c	lexc
 профессионализм,chu,no,c	lexc
 профессор,chu,no,c	lexc
-профессура,chu,no,c
+профессура,chu,no,c	lexc
 профилактика,chu,no,c	lexc
 профилактори,chu,no,c	lexc
 профиль,chu,no,c	lexc
@@ -16242,7 +16242,7 @@
 профтехучилище,chu,no,c
 профтехшкул,chu,no,c	lexc
 проходка,chu,no,c	lexc
-проходной,chu,no,c
+проходной,chu,no,c	lexc
 проходчик,chu,no,c	lexc
 процедура,chu,no,c	lexc
 процент,chu,no,c	lexc
@@ -16254,20 +16254,20 @@
 пружина,chu,no,c	lexc
 пружинӑла,chu,vb,c	lexc
 пружинӑллӑ,chu,ad,c	lexc
-прядильщица,chu,no,c
+прядильщица,chu,no,c	lexc
 псалом,chu,no,c	lexc
 псаломҫӑ,chu,no,z176	lexc
 псаломщик,chu,no,c	lexc
 псалтырь,chu,no,c	lexc
 псевдоним,chu,no,c	lexc
 психастени,chu,no,c	lexc
-психбольница,chu,no,d
+психбольница,chu,no,d	lexc
 психиатр,chu,no,c	lexc
 психиатри,chu,no,c	lexc
 психика,chu,no,c	lexc
 психикӑлла,chu,av,c	lexc
 психоанализ,chu,no,d	lexc
-психоаналитика,chu,no,d
+психоаналитика,chu,no,d	lexc
 психоз,chu,no,c	lexc
 психолог,chu,no,v	lexc
 психологи,chu,no,c	lexc
@@ -16280,9 +16280,9 @@
 психотерапи,chu,no,c	lexc
 психотроплӑ,chu,ad,d	lexc
 психушка,chu,no,d	lexc
-птичница,chu,no,c
+птичница,chu,no,c	lexc
 пу,chu,de,c
-публика,chu,no,c
+публика,chu,no,c	lexc
 публицист,chu,no,c	lexc
 публицистика,chu,no,c	lexc
 публицистикӑлӑх,chu,no,d	lexc
@@ -16358,7 +16358,7 @@
 пултар,chu,vb,c	lexc
 пултараслӑх,chu,no,c	lexc
 пултармаслӑх,chu,no,a90	lexc
-пултару,chu,no,c
+пултару,chu,no,c	lexc
 пултарулӑх,chu,no,c	lexc
 пултаруллӑ,chu,ad,c	lexc
 пултарусӑр,chu,ad,c	lexc
@@ -16477,7 +16477,7 @@
 пусаха,chu,no,c	lexc
 пусахла,chu,vb,c	lexc
 пусахлавҫӑ,chu,no,j43	lexc
-пусахлу,chu,no,j137
+пусахлу,chu,no,j137	lexc
 пусахлуллӑ,chu,ad,z143	lexc
 пусахлуҫӑ,chu,no,j137	lexc
 пусӑ,chu,no,c	lexc
@@ -16517,7 +16517,7 @@
 пустаркӑҫ,chu,no,x10:3	lexc
 пустарттар,chu,vb,x10:3	lexc
 пустуй,chu,av,c	lexc
-пусу,chu,no,k27
+пусу,chu,no,k27	lexc
 пусыпкӑ,chu,no,c	lexc
 пуҫ,chu,no,c	lexc
 пуҫ,chu,vb,c	lexc
@@ -16609,7 +16609,7 @@
 путлан,chu,vb,c	lexc
 путланкӑ,chu,no,c	lexc
 путлантар,chu,vb,c	lexc
-путлану,chu,no,z126
+путлану,chu,no,z126	lexc
 путланчӑк,chu,no,x10:48	lexc
 путлӑх,chu,no,c	lexc
 путлӑхлӑ,chu,ad,c	lexc
@@ -16651,12 +16651,12 @@
 пушанка,chu,ad,c	lexc
 пушантар,chu,vb,c	lexc
 пушар,chu,no,c	lexc
-пушарнӑй,chu,no,d217
+пушарнӑй,chu,no,d217	lexc
 пушарник,chu,no,d	lexc
 пушарҫӑ,chu,no,d	lexc
 пушат,chu,vb,c	lexc
 пушаттар,chu,vb,c	lexc
-пушату,chu,no,o
+пушату,chu,no,o	lexc
 пушӑ,chu,ad,c	lexc
 пушӑ,chu,no,c	lexc
 пушӑлӑх,chu,no,c	lexc
@@ -16685,7 +16685,7 @@
 пуян,chu,ad,c	lexc
 пуянлан,chu,vb,c	lexc
 пуянлантар,chu,vb,c	lexc
-пуянлану,chu,no,z149
+пуянлану,chu,no,z149	lexc
 пуянлат,chu,vb,c	lexc
 пуянлӑх,chu,no,c	lexc
 пӳ,chu,no,c	lexc
@@ -16806,7 +16806,7 @@
 пыркка,chu,no,c	lexc
 пырлӑх,chu,no,c	lexc
 пыртар,chu,vb,c	lexc
-пыру,chu,no,x9:188
+пыру,chu,no,x9:188	lexc
 пыршӑ,chu,no,c	lexc
 пыршӑ-аршӑ,chu,no,c	lexc
 пыршӑ-кантрашка,chu,no,s36	lexc
@@ -16832,7 +16832,7 @@
 пытарӑнчӑклӑ,chu,ad,d	lexc
 пытарлӑ,chu,ad,d	lexc
 пытарттар,chu,vb,c	lexc
-пытару,chu,no,c
+пытару,chu,no,c	lexc
 пытаруллӑ,chu,ad,z93	lexc
 пыча,chu,in,c
 пычи,chu,in,o
@@ -16845,7 +16845,7 @@
 пятиборье,chu,no,c
 рабкор,chu,no,c	lexc
 работник,chu,no,c	lexc
-работница,chu,no,c
+работница,chu,no,c	lexc
 рабочи,chu,no,c	lexc
 рабочком,chu,no,c	lexc
 рабфак,chu,no,c	lexc
@@ -16886,7 +16886,7 @@
 радиопайӑрка,chu,no,e64	lexc
 радиопайӑркалав,chu,no,e64	lexc
 радиопередатчик,chu,no,c	lexc
-радиопередача,chu,no,c
+радиопередача,chu,no,c	lexc
 радиопостановка,chu,no,c	lexc
 радиоприёмник,chu,no,c	lexc
 радиопрограмма,chu,no,c	lexc
@@ -16955,7 +16955,7 @@
 ракетоноситель,chu,no,c	lexc
 раки,chu,ad,c	lexc
 раки_карчӑк,chu,no,c	lexc
-раковина,chu,no,c
+раковина,chu,no,c	lexc
 ракурс,chu,no,c	lexc
 ралли,chu,no,c	lexc
 рама,chu,no,c	lexc
@@ -16970,7 +16970,7 @@
 рант,chu,no,c	lexc
 рантлӑ,chu,ad,c	lexc
 рантье,chu,no,c
-ранчеро,chu,no,v
+ранчеро,chu,no,v	lexc
 ранчо,chu,no,v152	lexc
 рапира,chu,no,c	lexc
 рапирист,chu,no,c	lexc
@@ -17036,7 +17036,7 @@
 рационла,chu,vb,c	lexc
 рашпиль,chu,no,c	lexc
 раштав,chu,no,c	lexc
-раща,chu,no,c
+раща,chu,no,c	lexc
 ре,chu,no,c	lexc
 реабилитаци,chu,no,c	lexc
 реабилитациле,chu,vb,c	lexc
@@ -17104,7 +17104,7 @@
 регион,chu,no,c	lexc
 регистр,chu,no,c	lexc
 регистратор,chu,no,c	lexc
-регистратура,chu,no,c
+регистратура,chu,no,c	lexc
 регистраци,chu,no,c	lexc
 регистрацилен,chu,vb,c	lexc
 регистрацилеттер,chu,vb,c	lexc
@@ -17119,7 +17119,7 @@
 регрессат,chu,no,v	lexc
 регулировка,chu,no,c	lexc
 регулировщик,chu,no,c	lexc
-регулировщица,chu,no,c
+регулировщица,chu,no,c	lexc
 регулярлӑ,chu,ad,c	lexc
 редактор,chu,no,c	lexc
 редакци,chu,no,c	lexc
@@ -17137,7 +17137,7 @@
 режимлӑ,chu,ad,c	lexc
 режиссёр,chu,no,c	lexc
 режиссура,chu,no,c	lexc
-резеда,chu,no,c
+резеда,chu,no,c	lexc
 резекци,chu,no,c	lexc
 резерв,chu,no,c	lexc
 резерваци,chu,no,c	lexc
@@ -17147,7 +17147,7 @@
 резец,chu,no,c	lexc
 резидент,chu,no,c	lexc
 резиденци,chu,no,c	lexc
-резина,chu,no,c
+резина,chu,no,c	lexc
 резинӑла,chu,vb,c	lexc
 резинка,chu,no,c	lexc
 резолюци,chu,no,c	lexc
@@ -17165,7 +17165,7 @@
 рейс,chu,no,c	lexc
 рейсмус,chu,no,c	lexc
 рейсфедер,chu,no,c	lexc
-рейсшина,chu,no,c
+рейсшина,chu,no,c	lexc
 рейтинг,chu,no,n116	lexc
 рейтуз,chu,no,c	lexc
 рейхстаг,chu,no,c	lexc
@@ -17284,7 +17284,7 @@
 реторта,chu,no,c	lexc
 ретранслятор,chu,no,c	lexc
 ретрансляци,chu,no,c	lexc
-ретроспектива,chu,no,g
+ретроспектива,chu,no,g	lexc
 ретсӗр,chu,ad,c	lexc
 ретсӗрлен,chu,vb,c	lexc
 ретушёр,chu,no,c	lexc
@@ -17329,10 +17329,10 @@
 решетке,chu,no,c	lexc
 решеткеллӗ,chu,ad,c	lexc
 реэвакуаци,chu,no,c	lexc
-рея,chu,no,c
+рея,chu,no,c	lexc
 риелтор,chu,no,v	lexc
 риелтор,chu,no,j223	lexc
-риза,chu,no,c
+риза,chu,no,c	lexc
 рикошет,chu,no,c	lexc
 рикша,chu,no,c	lexc
 ринг,chu,no,c	lexc
@@ -17342,7 +17342,7 @@
 рисовани,chu,no,c	lexc
 ристан,chu,no,x10:290	lexc
 ритм,chu,no,c	lexc
-ритмика,chu,no,c
+ритмика,chu,no,c	lexc
 ритмла,chu,vb,c	lexc
 ритмлан,chu,vb,o	lexc
 ритор,chu,no,v	lexc
@@ -17356,11 +17356,11 @@
 рифмӑлан,chu,vb,c	lexc
 ричак,chu,no,c	lexc
 робот,chu,no,c	lexc
-ровница,chu,no,c
-ровничница,chu,no,c
+ровница,chu,no,c	lexc
+ровничница,chu,no,c	lexc
 рогатка,chu,no,c	lexc
 рожки,chu,no,c	lexc
-роза,chu,no,c
+роза,chu,no,c	lexc
 розари,chu,no,c	lexc
 розетка,chu,no,c	lexc
 розмарин,chu,no,c	lexc
@@ -17375,7 +17375,7 @@
 ром,chu,no,c	lexc
 роман,chu,no,c	lexc
 романист,chu,no,c	lexc
-романистика,chu,no,c
+романистика,chu,no,c	lexc
 романс,chu,no,c	lexc
 романтизм,chu,no,c	lexc
 романтик,chu,no,c	lexc
@@ -17383,9 +17383,9 @@
 романтикӑллӑ,chu,ad,c	lexc
 романтикла,chu,av,c	lexc
 ромб,chu,no,c	lexc
-рондо,chu,no,c
-роно,chu,no,c
-росомаха,chu,no,c
+рондо,chu,no,c	lexc
+роно,chu,no,c	lexc
+росомаха,chu,no,c	lexc
 ростбиф,chu,no,c	lexc
 ростовщик,chu,no,v	lexc
 рота,chu,no,c	lexc
@@ -17405,13 +17405,13 @@
 рубильник,chu,no,c	lexc
 рубин,chu,no,c	lexc
 рубка,chu,no,c	lexc
-рубрика,chu,no,c
+рубрика,chu,no,c	lexc
 рубрикӑла,chu,vb,c	lexc
 руда,chu,no,c	lexc
 рудаллӑ,chu,ad,c	lexc
 рудник,chu,no,c	lexc
 руководитель,chu,no,c	lexc
-рулевой,chu,no,c
+рулевой,chu,no,c	lexc
 рулет,chu,no,c	lexc
 рулетка,chu,no,c	lexc
 рулон,chu,no,c	lexc
@@ -17424,7 +17424,7 @@
 рупорлӑ,chu,ad,c	lexc
 русизм,chu,no,c	lexc
 русист,chu,no,c	lexc
-русистика,chu,no,c
+русистика,chu,no,c	lexc
 рутинёр,chu,no,c	lexc
 рутинёрла,chu,av,c	lexc
 ручка,chu,no,c	lexc
@@ -17436,7 +17436,7 @@
 рэкетир,chu,no,v	lexc
 рэкетҫӑ,chu,no,j224	lexc
 рюкзак,chu,no,c	lexc
-рядовой,chu,no,c
+рядовой,chu,no,c	lexc
 саблист,chu,no,c	lexc
 сабля,chu,no,c	lexc
 саботаж,chu,no,c	lexc
@@ -17490,8 +17490,8 @@
 савни,chu,no,c	lexc
 савтар,chu,vb,c	lexc
 савук,chu,no,c	lexc
-сага,chu,no,c
-саго,chu,no,c
+сага,chu,no,c	lexc
+саго,chu,no,c	lexc
 сад,chu,no,c	lexc
 садизм,chu,no,c	lexc
 садизмла,chu,av,c	lexc
@@ -17518,7 +17518,7 @@
 сайран,chu,av,c	lexc
 сайрат,chu,vb,c	lexc
 сайраттар,chu,vb,o	lexc
-сайрату,chu,no,a94
+сайрату,chu,no,a94	lexc
 сайхалӑх,chu,no,c	lexc
 сайхах,chu,no,c	lexc
 сайхахлӑх,chu,no,c	lexc
@@ -17577,7 +17577,7 @@
 салат,chu,no,c	lexc
 салат,chu,vb,c	lexc
 салаттар,chu,vb,c	lexc
-салату,chu,no,z179
+салату,chu,no,z179	lexc
 салӑ,chu,no,c	lexc
 салма,chu,no,c	lexc
 салон,chu,no,c	lexc
@@ -17602,7 +17602,7 @@
 салхусӑр,chu,ad,c	lexc
 сальдо,chu,no,c	lexc
 сальник,chu,no,c	lexc
-сальто,chu,no,c
+сальто,chu,no,c	lexc
 салют,chu,no,c
 салютла,chu,vb,c	lexc
 самай,chu,av,c	lexc
@@ -17630,13 +17630,13 @@
 самӑрттар,chu,vb,o	lexc
 самӑрту,chu,no,c	lexc
 самбист,chu,no,c	lexc
-самбо,chu,no,c
+самбо,chu,no,c	lexc
 саммит,chu,no,n116	lexc
 самодержави,chu,no,c	lexc
 самодержавиллӗ,chu,ad,c	lexc
 самодержец,chu,no,c	lexc
 самокат,chu,no,c	lexc
-самокритика,chu,no,c
+самокритика,chu,no,c	lexc
 самокритикӑллӑ,chu,ad,c	lexc
 самолёт,chu,no,c	lexc
 самолётостроени,chu,no,c	lexc
@@ -17701,8 +17701,8 @@
 сапала,chu,vb,c	lexc
 сапалан,chu,vb,c	lexc
 сапалантар,chu,vb,h	lexc
-сапалантару,chu,no,h
-сапалану,chu,no,e66
+сапалантару,chu,no,h	lexc
+сапалану,chu,no,e66	lexc
 сапаланчӑк,chu,no/ad,c
 сапаланчӑклӑ,chu,ad,x11:49	lexc
 сапаланчӑклӑх,chu,no,c	lexc
@@ -17732,7 +17732,7 @@
 саплав,chu,no,j61	lexc
 саплавлӑх,chu,no,j167	lexc
 саплан,chu,vb,c	lexc
-саплану,chu,no,c
+саплану,chu,no,c	lexc
 саплат,chu,vb,x11:55	lexc
 саплаттар,chu,vb,c	lexc
 саплаш,chu,vb,c	lexc
@@ -17871,7 +17871,7 @@
 сахаллантар,chu,vb,c	lexc
 сахаллат,chu,vb,c	lexc
 сахаллаттар,chu,vb,o	lexc
-сахаллату,chu,no,z151
+сахаллату,chu,no,z151	lexc
 сахаллӑн,chu,av,c	lexc
 сахаллӑх,chu,no,c	lexc
 сахал-махал,chu,ad,x11:84	lexc
@@ -18099,7 +18099,7 @@
 сӑркӑчлан,chu,vb,o	lexc
 сӑркӑчлаттар,chu,vb,o	lexc
 сӑркка,chu,ad,c	lexc
-сӑрккавай,chu,no,c
+сӑрккавай,chu,no,c	lexc
 сӑрла,chu,vb,c	lexc
 сӑрлав,chu,no,u121	lexc
 сӑрлаккай,chu,no,c	lexc
@@ -18184,19 +18184,19 @@
 сборка,chu,no,c	lexc
 сборник,chu,no,c	lexc
 сборщик,chu,no,c	lexc
-сборщица,chu,no,c
+сборщица,chu,no,c	lexc
 сбыт,chu,no,c	lexc
 свай,chu,no,c	lexc
 сварка,chu,no,c	lexc
 сваркӑллӑ,chu,ad,c	lexc
 сварщик,chu,no,c	lexc
-сварщица,chu,no,c
+сварщица,chu,no,c	lexc
 свастика,chu,no,c	lexc
 сведени,chu,no,c	lexc
-сверло,chu,no,c
+сверло,chu,no,c	lexc
 сверловка,chu,no,c	lexc
 сверловщик,chu,no,c	lexc
-сверловщица,chu,no,c
+сверловщица,chu,no,c	lexc
 сверхсрочник,chu,no,c	lexc
 светильник,chu,no,c	lexc
 светотень,chu,no,c	lexc
@@ -18206,17 +18206,17 @@
 свидетельство,chu,no,c	lexc
 свинарка,chu,no,c	lexc
 свинарь,chu,no,c
-свита,chu,no,c
+свита,chu,no,c	lexc
 свитер,chu,no,c	lexc
 свод,chu,no,c	lexc
 сводка,chu,no,c	lexc
 свойство,chu,no,c	lexc
 связист,chu,no,c	lexc
 связистка,chu,no,c	lexc
-связной,chu,no,c
+связной,chu,no,c	lexc
 священник,chu,no,c	lexc
 сдельщик,chu,no,c	lexc
-сдельщина,chu,no,c
+сдельщина,chu,no,c	lexc
 сеанс,chu,no,c	lexc
 севеп,chu,no,c	lexc
 сегмент,chu,no,c	lexc
@@ -18235,7 +18235,7 @@
 сейӗрле,chu,av,c	lexc
 сейм,chu,no,c	lexc
 сейнер,chu,no,c	lexc
-сейсмика,chu,no,c
+сейсмика,chu,no,c	lexc
 сейсмограф,chu,no,c	lexc
 сейсмографи,chu,no,c	lexc
 сейсмолог,chu,no,v	lexc
@@ -18325,7 +18325,7 @@
 сентре,chu,no,c	lexc
 сентябрь,chu,no,c	lexc
 сеньор,chu,no,v	lexc
-сеньора,chu,no,v
+сеньора,chu,no,v	lexc
 сепаратизм,chu,no,c	lexc
 сепаратизмла,chu,av,c	lexc
 сепаратист,chu,no,v	lexc
@@ -18610,7 +18610,7 @@
 сигнализаци,chu,no,c	lexc
 сигнализациле,chu,vb,c	lexc
 сигнальщик,chu,no,c	lexc
-сигнатура,chu,no,c
+сигнатура,chu,no,c	lexc
 сиделка,chu,no,c	lexc
 сидр,chu,no,c	lexc
 сиен,chu,no,c	lexc
@@ -18672,7 +18672,7 @@
 сикчӗллӗн,chu,av,c	lexc
 силӗм,chu,no,c	lexc
 силикат,chu,no,c	lexc
-силлабика,chu,no,c
+силлабика,chu,no,c	lexc
 силлабикӑллӑ,chu,ad,c	lexc
 силле,chu,vb,c	lexc
 силлен,chu,vb,c	lexc
@@ -18695,7 +18695,7 @@
 символизациле,chu,vb,c	lexc
 символизм,chu,no,c	lexc
 символизмла,chu,av,c	lexc
-символика,chu,no,c
+символика,chu,no,c	lexc
 символист,chu,no,c	lexc
 символла,chu,av,c	lexc
 символла,chu,vb,c	lexc
@@ -18734,7 +18734,7 @@
 сингармонизмсӑрлану,chu,no,a155	lexc
 синдикализм,chu,no,c	lexc
 синдикат,chu,no,c	lexc
-синекдоха,chu,no,c
+синекдоха,chu,no,c	lexc
 синкек-сехмет,chu,no,h
 синкер,chu,no/ad,c	lexc
 синкерлен,chu,vb,c	lexc
@@ -18749,12 +18749,12 @@
 синологи,chu,no,c	lexc
 синоним,chu,no,c	lexc
 синоними,chu,no,c	lexc
-синонимика,chu,no,c
+синонимика,chu,no,c	lexc
 синонимилӗх,chu,no,c	lexc
 синонимла,chu,av,c	lexc
 синонимлӑ,chu,ad,c	lexc
 синоптик,chu,no,c	lexc
-синоптика,chu,no,c
+синоптика,chu,no,c	lexc
 синтаксис,chu,no,c	lexc
 синтаксист,chu,no,v	lexc
 синтез,chu,no,c	lexc
@@ -18785,7 +18785,7 @@
 сипетсӗр,chu,ad,c	lexc
 сипле,chu,vb,c	lexc
 сиплев,chu,no,c	lexc
-сиплев-сывату,chu,no,j119
+сиплев-сывату,chu,no,j119	lexc
 сиплевҫӗ,chu,no,c	lexc
 сиплен,chu,vb,c	lexc
 сиплентер,chu,vb,c	lexc
@@ -18859,14 +18859,14 @@
 ситрел,chu,vb,c	lexc
 ситрелчӗк,chu,ad,c	lexc
 ситрет,chu,vb,c	lexc
-ситро,chu,no,c
+ситро,chu,no,c	lexc
 ситуаци,chu,no,c	lexc
 сифилис,chu,no,c	lexc
 сифилислӑ,chu,ad,c	lexc
 сифилитик,chu,no,c
 сифон,chu,no,c	lexc
 сиятельство,chu,no,c	lexc
-сказуемӑй,chu,no,c
+сказуемӑй,chu,no,c	lexc
 скакалка,chu,no,c	lexc
 скальд,chu,no,v	lexc
 скальпель,chu,no,c	lexc
@@ -18891,7 +18891,7 @@
 скептикла,chu,av,c	lexc
 скептицизм,chu,no,c	lexc
 скептицизмла,chu,av,c	lexc
-скерцо,chu,no,c
+скерцо,chu,no,c	lexc
 скетч,chu,no,c	lexc
 скипетр,chu,no,c	lexc
 скипидар,chu,no,c	lexc
@@ -18909,8 +18909,8 @@
 скоросшиватель,chu,no,c	lexc
 скорпион,chu,no,c	lexc
 скотник,chu,no,c	lexc
-скотница,chu,no,c
-скотобойня,chu,no,c
+скотница,chu,no,c	lexc
+скотобойня,chu,no,c	lexc
 скотч,chu,no,n116	lexc
 скребок,chu,no,c	lexc
 скребоклӑ,chu,ad,c	lexc
@@ -18923,7 +18923,7 @@
 скульптура,chu,no,c	lexc
 скумбри,chu,no,c	lexc
 скунс,chu,no,c	lexc
-скупщина,chu,no,c
+скупщина,chu,no,c	lexc
 скутер,chu,no,c	lexc
 славист,chu,no,c	lexc
 славистика,chu,no,c	lexc
@@ -18932,7 +18932,7 @@
 славянла,chu,av,c	lexc
 славянлан,chu,vb,c	lexc
 славянлантар,chu,vb,c	lexc
-славянлану,chu,no,c
+славянлану,chu,no,c	lexc
 славяновед,chu,no,c	lexc
 славяноведени,chu,no,c	lexc
 славянофил,chu,no,c	lexc
@@ -18945,8 +18945,8 @@
 следстви,chu,no,c	lexc
 слесарь,chu,no,c	lexc
 слёт,chu,no,c	lexc
-слива,chu,no,c
-слобода,chu,no,c
+слива,chu,no,c	lexc
+слобода,chu,no,c	lexc
 словак,chu,no,c	lexc
 словакла,chu,av,c	lexc
 словарь,chu,no,c	lexc
@@ -18963,20 +18963,20 @@
 слюда,chu,no,c	lexc
 слюдаллӑ,chu,ad,c	lexc
 смазчик,chu,no,c	lexc
-смазчица,chu,no,c
+смазчица,chu,no,c	lexc
 смальта,chu,no,c	lexc
 смена,chu,no,c	lexc
 сменӑлӑх,chu,no,c	lexc
 сменӑллӑ,chu,ad,c	lexc
 сменщик,chu,no,c	lexc
-сменщица,chu,no,c
+сменщица,chu,no,c	lexc
 смерд,chu,no,c	lexc
 смерч,chu,no,c	lexc
 смеситель,chu,no,c	lexc
 смета,chu,no,c	lexc
 смирно,chu,in,c
 смоква,chu,no,c	lexc
-смоковница,chu,no,c
+смоковница,chu,no,c	lexc
 смотр,chu,no,c	lexc
 смотритель,chu,no,c	lexc
 смс-пӗлтерӳ,chu,no,h	lexc
@@ -18993,7 +18993,7 @@
 снегурочка,chu,no,c	lexc
 снеток,chu,no,c	lexc
 сноб,chu,no,v	lexc
-сновальщица,chu,no,c
+сновальщица,chu,no,c	lexc
 сноска,chu,no,c	lexc
 соавтор,chu,no,c	lexc
 соавторлӑх,chu,no,c	lexc
@@ -19008,7 +19008,7 @@
 советлан,chu,vb,c	lexc
 советлантар,chu,vb,c	lexc
 советник,chu,no,c	lexc
-Совинформбюро,chu,no,c
+Совинформбюро,chu,no,c	lexc
 совместитель,chu,no,j233	lexc
 совместительлӗх,chu,no,j233	lexc
 Совнарком,chu,no,c	lexc
@@ -19036,26 +19036,26 @@
 соломонҫӑ,chu,no,b113	lexc
 соломорезка,chu,no,c	lexc
 соль,chu,no,c	lexc
-сольфеджио,chu,no,c
+сольфеджио,chu,no,c	lexc
 солянка,chu,no,c	lexc
 соляри,chu,no,c	lexc
 солярка,chu,no,c	lexc
-сомбреро,chu,no,c
+сомбреро,chu,no,c	lexc
 сомнамбулизм,chu,no,c	lexc
-соната,chu,no,c
+соната,chu,no,c	lexc
 сонет,chu,no,c	lexc
 сооружени,chu,no,c	lexc
 сопка,chu,no,c	lexc
-сопрано,chu,no,c
+сопрано,chu,no,c	lexc
 сопротивлени,chu,no,c	lexc
 соратник,chu,no,c	lexc
-сорго,chu,no,c
+сорго,chu,no,c	lexc
 сорт,chu,no,c	lexc
 сортамент,chu,no,c	lexc
 сортиментациле,chu,vb,w174	lexc
 сортировка,chu,no,c	lexc
 сортировщик,chu,no,c	lexc
-сортировщица,chu,no,c
+сортировщица,chu,no,c	lexc
 сортла,chu,vb,c	lexc
 сортлан,chu,vb,c	lexc
 сортлаттар,chu,vb,c	lexc
@@ -19067,18 +19067,18 @@
 сословиллӗ,chu,ad,c	lexc
 состав,chu,no,c	lexc
 составитель,chu,no,c	lexc
-сотӑй,chu,no,c
+сотӑй,chu,no,c	lexc
 сотник,chu,no,c	lexc
-сотня,chu,no,c
+сотня,chu,no,c	lexc
 сотрудник,chu,no,c	lexc
-сотрудница,chu,no,c
+сотрудница,chu,no,c	lexc
 сотски,chu,no,c	lexc
 соус,chu,no,c	lexc
 соусник,chu,no,c	lexc
 софа,chu,no,c	lexc
 софизм,chu,no,c	lexc
 софист,chu,no,c	lexc
-софистика,chu,no,c
+софистика,chu,no,c	lexc
 софистла,chu,av,c	lexc
 соцдоговор,chu,no,c	lexc
 социал-демократ,chu,no,c	lexc
@@ -19091,7 +19091,7 @@
 социализмлӑ,chu,ad,c	lexc
 социалист,chu,no,c	lexc
 социаллан,chu,vb,z193	lexc
-социаллану,chu,no,z193
+социаллану,chu,no,z193	lexc
 социаллӑ,chu,ad,c	lexc
 социаллӑх,chu,no,j38	lexc
 социолог,chu,no,c	lexc
@@ -19109,7 +19109,7 @@
 союзҫӑ,chu,no,z194	lexc
 соя,chu,no,c	lexc
 спазма,chu,no,c	lexc
-спальня,chu,no,c
+спальня,chu,no,c	lexc
 спаржа,chu,no,c	lexc
 спартакиада,chu,no,c	lexc
 спартанец,chu,no,c	lexc
@@ -19135,7 +19135,7 @@
 специализацилен,chu,vb,c	lexc
 специалист,chu,no,c	lexc
 специальность,chu,no,c	lexc
-специфика,chu,no,c
+специфика,chu,no,c	lexc
 спецификаци,chu,no,c	lexc
 спецификӑллӑ,chu,ad,c	lexc
 спецкор,chu,no,c	lexc
@@ -19150,7 +19150,7 @@
 спиритизм,chu,no,c	lexc
 спиритуализм,chu,no,c	lexc
 спирометр,chu,no,c	lexc
-спирохета,chu,no,c
+спирохета,chu,no,c	lexc
 спирт,chu,no,c	lexc
 спиртла,chu,vb,c	lexc
 спиртлан,chu,vb,c	lexc
@@ -19169,7 +19169,7 @@
 спортзал,chu,no,c	lexc
 спортинвентарь,chu,no,c
 спортклуб,chu,no,c	lexc
-спортлото,chu,no,c
+спортлото,chu,no,c	lexc
 спортобщество,chu,no,c	lexc
 спортплощадка,chu,no,c	lexc
 спортсмен,chu,no,c	lexc
@@ -19195,7 +19195,7 @@
 стабильлӗ,chu,ad,c	lexc
 стабильлӗх,chu,no,c	lexc
 ставка,chu,no,c	lexc
-ставрида,chu,no,c
+ставрида,chu,no,c	lexc
 стади,chu,no,c	lexc
 стадилӗх,chu,no,c	lexc
 стадиллӗ,chu,ad,c	lexc
@@ -19221,22 +19221,22 @@
 стандартлӑх,chu,no,c	lexc
 стандартсӑр,chu,ad,c	lexc
 стандартсӑрлӑх,chu,no,c	lexc
-станина,chu,no,c
+станина,chu,no,c	lexc
 станиоль,chu,no,c	lexc
 станица,chu,no,c	lexc
 станкостроени,chu,no,c	lexc
 станлӑ,chu,ad,c	lexc
-становой,chu,no,c
+становой,chu,no,c	lexc
 станок,chu,no,c	lexc
 станоклӑ,chu,ad,c	lexc
 станочник,chu,no,c	lexc
-станочница,chu,no,c
+станочница,chu,no,c	lexc
 стансӑр,chu,ad,c	lexc
 станци,chu,no,c	lexc
 стапель,chu,no,c	lexc
 старав,chu,ad,c	lexc
 старатель,chu,no,c	lexc
-старейшина,chu,no,c
+старейшина,chu,no,c	lexc
 старик,chu,no,c	lexc
 стариклан,chu,vb,o	lexc
 старикле,chu,av,c	lexc
@@ -19247,7 +19247,7 @@
 стартер,chu,no,c	lexc
 стартла,chu,vb,c	lexc
 старшина,chu,no,c	lexc
-статика,chu,no,c
+статика,chu,no,c	lexc
 статист,chu,no,c	lexc
 статистик,chu,no,c	lexc
 статистика,chu,no,c	lexc
@@ -19269,7 +19269,7 @@
 стеарин,chu,no,c	lexc
 стеблеподъёмник,chu,no,c	lexc
 стегозавр,chu,no,c	lexc
-стекловата,chu,no,c
+стекловата,chu,no,c	lexc
 стеклограф,chu,no,c	lexc
 стеклографи,chu,no,c	lexc
 стеклографист,chu,no,v	lexc
@@ -19325,13 +19325,13 @@
 стойка,chu,no,c	lexc
 столбец,chu,no,c	lexc
 столбняк,chu,no,c	lexc
-столица,chu,no,c
+столица,chu,no,c	lexc
 столовӑй,chu,no,c	lexc
 столяр,chu,no,c	lexc
 стоматит,chu,no,c	lexc
 стоматолог,chu,no,c	lexc
 стоматологи,chu,no,c	lexc
-стопа,chu,no,c
+стопа,chu,no,c	lexc
 стопка,chu,no,c	lexc
 стопор,chu,no,c	lexc
 сторожевик,chu,no,c	lexc
@@ -19345,7 +19345,7 @@
 стратегилле,chu,av,c	lexc
 стратонавт,chu,no,v	lexc
 стратостат,chu,no,c	lexc
-стратосфера,chu,no,c
+стратосфера,chu,no,c	lexc
 страус,chu,no,c	lexc
 страхла,chu,vb,c	lexc
 страхлав,chu,no,j238	lexc
@@ -19385,7 +19385,7 @@
 студень,chu,no,c	lexc
 студи,chu,no,c	lexc
 студиец,chu,no,c	lexc
-студия,chu,no,c
+студия,chu,no,c	lexc
 стюард,chu,no,v	lexc
 стюардесса,chu,no,c	lexc
 су,chu,vb,c	lexc
@@ -19417,7 +19417,7 @@
 суверенлӑ,chu,ad,c	lexc
 суворовец,chu,no,c	lexc
 суд,chu,no,c	lexc
-судно,chu,no,c
+судно,chu,no,c	lexc
 судоверфь,chu,no,c
 судок,chu,no,c	lexc
 судоподъёмник,chu,no,c	lexc
@@ -19442,7 +19442,7 @@
 суйланчӑк,chu,no,c	lexc
 суйлаттар,chu,vb,c	lexc
 суйлаш,chu,vb,c	lexc
-суйлашу,chu,no,c
+суйлашу,chu,no,c	lexc
 суккӑр,chu,ad,c	lexc
 суккӑр-каккӑр,chu,ad,c	lexc
 суккӑрла,chu,av,c	lexc
@@ -19481,7 +19481,7 @@
 сулӑнчӑклӑ,chu,ad,c	lexc
 сулӑнчӑкҫӑ,chu,no,o	lexc
 сулӑҫӑ,chu,no,c	lexc
-сулема,chu,no,c
+сулема,chu,no,c	lexc
 сулкала,chu,vb,c	lexc
 сулкалан,chu,vb,c	lexc
 сулкалантар,chu,vb,c	lexc
@@ -19492,7 +19492,7 @@
 сулланкалан,chu,vb,x11:171	lexc
 сулланкӑч,chu,no,e46	lexc
 суллантар,chu,vb,c	lexc
-суллану,chu,no,c
+суллану,chu,no,c	lexc
 сулланчӑк,chu,no/ad,c
 суллаттар,chu,vb,c	lexc
 суллаш,chu,vb,c	lexc
@@ -19504,7 +19504,7 @@
 сулмаклӑх,chu,no,c	lexc
 султан,chu,no,c	lexc
 султанат,chu,no,c	lexc
-сулу,chu,no,c
+сулу,chu,no,c	lexc
 сулхӑн,chu,no/ad,c	lexc
 сулхӑнӑн,chu,av,c	lexc
 сулхӑнла,chu,av,c	lexc
@@ -19590,7 +19590,7 @@
 суранла,chu,vb,c	lexc
 суранлан,chu,vb,c	lexc
 суранлантар,chu,vb,c	lexc
-суранлану,chu,no,j249
+суранлану,chu,no,j249	lexc
 суранлат,chu,vb,c	lexc
 суранлӑ,chu,ad,c	lexc
 суранлӑх,chu,no,c	lexc
@@ -19605,7 +19605,7 @@
 сургучлан,chu,vb,o	lexc
 сургучлӑ,chu,ad,c	lexc
 сурдинка,chu,no,c	lexc
-сурдокамера,chu,no,c
+сурдокамера,chu,no,c	lexc
 сури,chu,no,c	lexc
 сурик,chu,no,c	lexc
 сурпан,chu,no,c	lexc
@@ -19657,7 +19657,7 @@
 сутка,chu,no,c	lexc
 сутлаш,chu,vb,c	lexc
 сутлаштар,chu,vb,c	lexc
-сутлашу,chu,no,c
+сутлашу,chu,no,c	lexc
 сутлашулӑх,chu,no,p56	lexc
 суттар,chu,vb,c	lexc
 суту-илӳ,chu,no,c	lexc
@@ -19798,11 +19798,11 @@
 схемӑла,chu,vb,c	lexc
 схемӑлӑх,chu,no,c	lexc
 схемӑлла,chu,av,c	lexc
-схима,chu,no,v178
+схима,chu,no,v178	lexc
 схимник,chu,no,v	lexc
 сходка,chu,no,c	lexc
 схоласт,chu,no,c	lexc
-схоластика,chu,no,c
+схоластика,chu,no,c	lexc
 схоластикӑлла,chu,av,c	lexc
 схоластла,chu,av,c	lexc
 схолиаст,chu,no,v	lexc
@@ -19820,13 +19820,13 @@
 счётчик,chu,no,c	lexc
 съезд,chu,no,c	lexc
 съёмка,chu,no,c	lexc
-съёмщица,chu,no,c
+съёмщица,chu,no,c	lexc
 сыв,chu,ad,c	lexc
 сывал,chu,vb,c	lexc
-сывалу,chu,no,c
+сывалу,chu,no,c	lexc
 сыват,chu,vb,c	lexc
-сывату,chu,no,c
-сывату-юсантару,chu,no,j119
+сывату,chu,no,c	lexc
+сывату-юсантару,chu,no,j119	lexc
 сывӑ,chu,ad,c	lexc
 сыввӑн,chu,av,c	lexc
 сывлав,chu,no,c	lexc
@@ -19928,7 +19928,7 @@
 сыхлавҫӑ,chu,no,c	lexc
 сыхлан,chu,vb,c	lexc
 сыхлантар,chu,vb,c	lexc
-сыхлану,chu,no,c
+сыхлану,chu,no,c	lexc
 сыхланулӑх,chu,no,c	lexc
 сыхлануллӑ,chu,ad,c	lexc
 сыхлануллӑн,chu,av,c	lexc
@@ -20091,7 +20091,7 @@
 ҫапуҫҫи,chu,no,c	lexc
 ҫар,chu,no,c	lexc
 ҫара,chu,ad,c	lexc
-ҫараккай,chu,no,c
+ҫараккай,chu,no,c	lexc
 ҫарал,chu,vb,c	lexc
 ҫаралан,chu,vb,c	lexc
 ҫаралантар,chu,vb,c	lexc
@@ -20798,7 +20798,7 @@
 ҫтерлӗк,chu,no,c	lexc
 ҫу,chu,no,c	lexc
 ҫу,chu,vb,c	lexc
-ҫуй,chu,no,c
+ҫуй,chu,no,c	lexc
 ҫуйӑн,chu,no,c	lexc
 ҫуйӑх,chu,vb,c	lexc
 ҫуйӑхтар,chu,vb,c	lexc
@@ -20921,7 +20921,7 @@
 ҫунчӑк,chu,no/ad,c
 ҫуп,chu,vb,c	lexc
 ҫупах,chu,no,c	lexc
-ҫупахай,chu,no,c
+ҫупахай,chu,no,c	lexc
 ҫупӑ,chu,no,c	lexc
 ҫупӑрла,chu,vb,c	lexc
 ҫупӑрлан,chu,vb,c	lexc
@@ -21273,7 +21273,7 @@
 таблеткӑллӑ,chu,ad,c	lexc
 таблица,chu,no,c	lexc
 табло,chu,no,c	lexc
-табу,chu,no,c
+табу,chu,no,c	lexc
 тав,chu,no,c	lexc
 тавай,chu,pa,c
 тавар,chu,no,c	lexc
@@ -21301,7 +21301,7 @@
 тавлашу,chu,no,c	lexc
 тавлашуллӑ,chu,ad,c	lexc
 тавлашусӑр,chu,ad,c	lexc
-тавлашу-харкашу,chu,no,c
+тавлашу-харкашу,chu,no,c	lexc
 тавлашу-ятлаҫу,chu,no,c	lexc
 тавлӑ,chu,ad,c	lexc
 тавлӑн,chu,av,c	lexc
@@ -21493,7 +21493,7 @@
 талхӑру,chu,no,c	lexc
 тальк,chu,no,c
 тальянккӑ,chu,no,c	lexc
-тамада,chu,no,c
+тамада,chu,no,c	lexc
 тамак,chu,no,c	lexc
 тамал,chu,vb,c	lexc
 тамалан,chu,vb,c	lexc
@@ -21516,7 +21516,7 @@
 тан,chu,ad,c	lexc
 тан,chu,de,c	lexc
 таната,chu,no,c	lexc
-танго,chu,no,c
+танго,chu,no,c	lexc
 тандем,chu,no,c	lexc
 танк,chu,no,c	lexc
 танк,chu,de,c	lexc
@@ -21554,7 +21554,7 @@
 танлаштару,chu,no,c	lexc
 танлаштарулӑх,chu,no,e67	lexc
 танлаштаруллӑ,chu,ad,c	lexc
-танлашу,chu,no,h
+танлашу,chu,no,h	lexc
 танлӑ,chu,ad,c	lexc
 танлӑн,chu,av,c	lexc
 танлӑх,chu,no,c	lexc
@@ -21614,10 +21614,10 @@
 тапир,chu,no,c	lexc
 тапкалан,chu,vb,c	lexc
 тапкалантар,chu,vb,c	lexc
-тапкалану,chu,no,c
+тапкалану,chu,no,c	lexc
 тапкаланчӑк,chu,ad,c	lexc
 тапкалаш,chu,vb,c	lexc
-тапкалашу,chu,no,c
+тапкалашу,chu,no,c	lexc
 тапкӑ,chu,no,c	lexc
 тапкӑҫ,chu,no,c	lexc
 тапкӑҫла,chu,vb,x13:191	lexc
@@ -21635,7 +21635,7 @@
 тапранчӑк,chu,ad,x13:200	lexc
 тапрат,chu,vb,c	lexc
 тапраттар,chu,vb,c	lexc
-тапрату,chu,no,c
+тапрату,chu,no,c	lexc
 тапта,chu,vb,c	lexc
 таптав,chu,no,c	lexc
 тап-такӑр,chu,ad,c	lexc
@@ -21728,7 +21728,7 @@
 тарттай,chu,no,f
 тарттар,chu,vb,o	lexc
 тартюф,chu,no,v
-тару,chu,no,j56
+тару,chu,no,j56	lexc
 тарула,chu,vb,f	lexc
 тархас,chu,pa,c
 тархасла,chu,vb,c	lexc
@@ -21753,7 +21753,7 @@
 тасат,chu,vb,c	lexc
 тасаткӑч,chu,no,c	lexc
 тасаттар,chu,vb,c	lexc
-тасату,chu,no,c
+тасату,chu,no,c	lexc
 тасӑк-тӗсӗк,chu,no,x13:229	lexc
 тастар,chu,no,c	lexc
 таҫта,chu,av,c	lexc
@@ -22409,13 +22409,13 @@
 теккепӗр,chu,ad,x13:271	lexc
 текст,chu,no,c	lexc
 текстильщик,chu,no,c	lexc
-текстильщица,chu,no,c
+текстильщица,chu,no,c	lexc
 текстолог,chu,no,c	lexc
-тектоника,chu,no,c
+тектоника,chu,no,c	lexc
 телантроп,chu,no,v	lexc
-телеавтоматика,chu,no,c
+телеавтоматика,chu,no,c	lexc
 телеателье,chu,no,c
-телебашня,chu,no,c
+телебашня,chu,no,c	lexc
 телевизор,chu,no,c	lexc
 телеграмма,chu,no,c	lexc
 телеграф,chu,no,c	lexc
@@ -22431,7 +22431,7 @@
 телейсӗрлен,chu,vb,c	lexc
 телейсӗрлет,chu,vb,o	lexc
 телейсӗрлӗх,chu,no,c	lexc
-телекамера,chu,no,c
+телекамера,chu,no,c	lexc
 телекӗпер,chu,no,d4	lexc
 телекомпани,chu,no,d7	lexc
 телекс,chu,no,c	lexc
@@ -22451,7 +22451,7 @@
 телепати,chu,no,c	lexc
 телепередатчик,chu,no,c	lexc
 телеприёмник,chu,no,c	lexc
-телереклама,chu,no,d7
+телереклама,chu,no,d7	lexc
 телескоп,chu,no,c	lexc
 телеспектакль,chu,no,c	lexc
 телестуди,chu,no,c	lexc
@@ -22530,10 +22530,10 @@
 тепле,chu,pr/av,c
 теплет,chu,vb,o	lexc
 теплеттер,chu,vb,o	lexc
-теплица,chu,no,c
+теплица,chu,no,c	lexc
 тепловоз,chu,no,c	lexc
 теплотехник,chu,no,v	lexc
-теплотехника,chu,no,c
+теплотехника,chu,no,c	lexc
 теплофикаци,chu,no,c	lexc
 теплофикациле,chu,vb,c	lexc
 теплоход,chu,no,c	lexc
@@ -22850,7 +22850,7 @@
 тӗпренчӗкӗн,chu,av,c	lexc
 тӗпрет,chu,vb,c	lexc
 тӗпреттер,chu,vb,o	lexc
-тӗп_сакай,chu,no,c
+тӗп_сакай,chu,no,c	lexc
 тӗпсӗр,chu,ad,c	lexc
 тӗпсӗр-йӑхсӑр,chu,ad,c	lexc
 тӗпсӗр-йӗрсӗр,chu,ad,c	lexc
@@ -23363,7 +23363,7 @@
 тияккӑн,chu,no,c	lexc
 ткань,chu,no,c	lexc
 ткач,chu,no,c	lexc
-ткачиха,chu,no,c
+ткачиха,chu,no,c	lexc
 товаровед,chu,no,c	lexc
 товароведени,chu,no,c	lexc
 тождество,chu,no,c	lexc
@@ -23390,7 +23390,7 @@
 тонизаци,chu,no,c	lexc
 тонизациле,chu,vb,c	lexc
 тонизацилен,chu,vb,c	lexc
-тоника,chu,no,c
+тоника,chu,no,c	lexc
 тоникӑллӑ,chu,ad,c	lexc
 тонлӑх,chu,no,c	lexc
 тонна,chu,no,c	lexc
@@ -23399,13 +23399,13 @@
 тонуссӑрлӑх,chu,no,m31	lexc
 топаз,chu,no,c	lexc
 топка,chu,no,c	lexc
-топливо,chu,no,c
+топливо,chu,no,c	lexc
 топограф,chu,no,c	lexc
 топографи,chu,no,c	lexc
 тополь,chu,no,c	lexc
 топоним,chu,no,c	lexc
 топоними,chu,no,c	lexc
-топонимика,chu,no,c
+топонимика,chu,no,c	lexc
 торги,chu,no,c	lexc
 торгпред,chu,no,c	lexc
 торгпредство,chu,no,c	lexc
@@ -23509,11 +23509,11 @@
 трафаретлӑ,chu,ad,c	lexc
 трах,chu,de,c
 трахея,chu,no,c	lexc
-трахома,chu,no,c
+трахома,chu,no,c	lexc
 трахомӑллӑ,chu,ad,c	lexc
 трахпункт,chu,no,c	lexc
 требовани,chu,no,c	lexc
-тревога,chu,no,c
+тревога,chu,no,c	lexc
 тред-юнион,chu,no,c	lexc
 тред-юнионизм,chu,no,c	lexc
 тред-юнионист,chu,no,c	lexc
@@ -23539,7 +23539,7 @@
 третейски_суд,chu,no,c
 треф,chu,no,c	lexc
 трибун,chu,no,c	lexc
-трибуна,chu,no,c
+трибуна,chu,no,c	lexc
 трибунал,chu,no,c	lexc
 тригонометри,chu,no,c	lexc
 триер,chu,no,c	lexc
@@ -23548,7 +23548,7 @@
 триколор,chu,no,g	lexc
 трикотаж,chu,no,c	lexc
 трикотажник,chu,no,c	lexc
-трикотажница,chu,no,c
+трикотажница,chu,no,c	lexc
 триллер,chu,no,n116	lexc
 триллион,chu,nm,c
 трилоги,chu,no,c	lexc
@@ -23565,9 +23565,9 @@
 триумф,chu,no,c	lexc
 триумфатор,chu,no,c	lexc
 триумфлӑ,chu,ad,c	lexc
-трихина,chu,no,c
+трихина,chu,no,c	lexc
 трихинӑллӑ,chu,ad,c	lexc
-троица,chu,no,c
+троица,chu,no,c	lexc
 тройка,chu,no,c	lexc
 троллейбус,chu,no,c	lexc
 тромб,chu,no,c	lexc
@@ -23635,7 +23635,7 @@
 туйра,chu,no,c
 туйралӑх,chu,no,c	lexc
 туй-ҫи,chu,no,x14:100	lexc
-туй-ҫуй,chu,no,c
+туй-ҫуй,chu,no,c	lexc
 туйтар,chu,vb,c	lexc
 туй-тӗмӗр,chu,no,x14:101	lexc
 туйха,chu,no,c
@@ -23666,7 +23666,7 @@
 тулаттар,chu,vb,c	lexc
 тулаш,chu,no,c
 тулаштар,chu,vb,c	lexc
-тулашу,chu,no,c
+тулашу,chu,no,c	lexc
 тулашуллӑ,chu,ad,c	lexc
 тулӑ,chu,no,c	lexc
 тулӑк,chu,no,c	lexc
@@ -23783,7 +23783,7 @@
 тунсӑхлӑн,chu,av,c	lexc
 тунти,chu,no,o	lexc
 тунти_кун,chu,no,c	lexc
-туну,chu,no,z186
+туну,chu,no,z186	lexc
 туп,chu,vb,c	lexc
 тупа,chu,no,c	lexc
 тупавҫӑ,chu,no,c	lexc
@@ -23973,7 +23973,7 @@
 тустар,chu,vb,c	lexc
 тустарӑн,chu,vb,c	lexc
 тустарттар,chu,vb,c	lexc
-тустару,chu,no,c
+тустару,chu,no,c	lexc
 тустару-вӗлерӳ,chu,no,j102	lexc
 тустаруҫӑ,chu,no,h	lexc
 тус-тӑван,chu,no,c	lexc
@@ -24086,7 +24086,7 @@
 туялаттар,chu,vb,c	lexc
 туян,chu,vb,c	lexc
 туянтар,chu,vb,c	lexc
-туяну,chu,no,j204
+туяну,chu,no,j204	lexc
 туянуҫӑ,chu,no,j204	lexc
 тӳ,chu,vb,c	lexc
 тӳк,chu,de,c
@@ -24343,7 +24343,7 @@
 тытма,chu,no,c
 тытса_чару,chu,no,j207
 тыттар,chu,vb,c	lexc
-тыту,chu,no,j45
+тыту,chu,no,j45	lexc
 тытха,chu,no,f	lexc
 тычкӑ,chu,no,f	lexc
 тышла,chu,no,c	lexc
@@ -24365,18 +24365,18 @@
 тяп-тяп,chu,de,c
 уа,chu,de,c
 уак,chu,de,c
-уборнӑй,chu,no,c
-уборщица,chu,no,c
+уборнӑй,chu,no,c	lexc
+уборщица,chu,no,c	lexc
 убыткӑ,chu,no,c	lexc
 убыткӑллӑ,chu,ad,c	lexc
 увеличитель,chu,no,c	lexc
 увертюра,chu,no,c	lexc
 увиткӑ,chu,no,c	lexc
 увольнени,chu,no,c	lexc
-увольнительнӑй,chu,no,c
+увольнительнӑй,chu,no,c	lexc
 углевод,chu,no,c	lexc
 углеводород,chu,no,c	lexc
-углекислота,chu,no,c
+углекислота,chu,no,c	lexc
 углерод,chu,no,c	lexc
 углеродлӑ,chu,ad,c	lexc
 угломер,chu,no,c	lexc
@@ -24393,7 +24393,7 @@
 ударлӑн,chu,av,c	lexc
 ударник,chu,no,c	lexc
 ударникла,chu,av,c	lexc
-ударница,chu,no,c
+ударница,chu,no,c	lexc
 удел,chu,no,c	lexc
 удмурт,chu,no,c	lexc
 удмуртла,chu,av,c	lexc
@@ -24511,7 +24511,7 @@
 улаппа,chu,no,c	lexc
 улат,chu,vb,a219	lexc
 улаттар,chu,vb,c	lexc
-улату,chu,no,a219
+улату,chu,no,a219	lexc
 улах,chu,no,c	lexc
 улахлан,chu,vb,c	lexc
 улахлантар,chu,vb,c	lexc
@@ -24526,7 +24526,7 @@
 ула-чӑлалаттар,chu,vb,o	lexc
 ула-чӑпар,chu,ad,c	lexc
 улаш,chu,vb,c	lexc
-улашу,chu,no,h
+улашу,chu,no,h	lexc
 улӑм,chu,no,c	lexc
 улӑмла,chu,vb,c	lexc
 улӑмлан,chu,vb,c	lexc
@@ -24671,7 +24671,7 @@
 упа-кашкӑр,chu,no,o	lexc
 упаковка,chu,no,c	lexc
 упаковщик,chu,no,c	lexc
-упаковщица,chu,no,c
+упаковщица,chu,no,c	lexc
 упален,chu,vb,c	lexc
 упалентер,chu,vb,c	lexc
 упалла,chu,av,c	lexc
@@ -24687,7 +24687,7 @@
 упӑшкаллӑ-арӑмлӑ,chu,ad,c	lexc
 упи-супи,chu,ad,c	lexc
 уплюнкка,chu,no,c
-уполномоченнӑй,chu,no,c
+уполномоченнӑй,chu,no,c	lexc
 упра,chu,vb,c	lexc
 управ,chu,no,c	lexc
 управа,chu,no,c
@@ -24699,7 +24699,7 @@
 упражнени,chu,no,c	lexc
 упрам,chu,no,x3:257	lexc
 упран,chu,vb,c	lexc
-упрану,chu,no,j235
+упрану,chu,no,j235	lexc
 упраҫҫи,chu,no,x3:257	lexc
 упрат,chu,vb,x3:257	lexc
 упраттар,chu,vb,c	lexc
@@ -24768,7 +24768,7 @@
 урлӑш,chu,no,c	lexc
 урлӑшӗ,chu,no,c	lexc
 урлӑшӗ-тӑршшӗ,chu,no,c	lexc
-урлу,chu,no,c
+урлу,chu,no,c	lexc
 урлуҫҫи,chu,no,c	lexc
 урма-сурма,chu,ad,x3:284	lexc
 урмӑш,chu,ad,c	lexc
@@ -24864,7 +24864,7 @@
 устав,chu,no,c	lexc
 установка,chu,no,c	lexc
 устар,chu,vb,c	lexc
-устрица,chu,no,c
+устрица,chu,no,c	lexc
 уҫ,chu,vb,c	lexc
 уҫав,chu,no,c	lexc
 уҫӑ,chu,no,c	lexc
@@ -24995,15 +24995,15 @@
 ухтарттар,chu,vb,c	lexc
 ухтару,chu,no,c	lexc
 ухута,chu,no,c	lexc
-участковӑй,chu,no,c
+участковӑй,chu,no,c	lexc
 участник,chu,no,c	lexc
 участок,chu,no,c	lexc
 учебник,chu,no,c	lexc
 ученик,chu,no,c	lexc
-учёнӑй,chu,no,c
+учёнӑй,chu,no,c	lexc
 учёт,chu,no,c	lexc
 учётчик,chu,no,c	lexc
-учётчица,chu,no,c
+учётчица,chu,no,c	lexc
 училище,chu,no,c	lexc
 учитель,chu,no,c	lexc
 учительсемлӗх,chu,no,x9:142	lexc
@@ -25232,7 +25232,7 @@
 фаланга,chu,no,c	lexc
 фалангист,chu,no,c	lexc
 фалерист,chu,no,v	lexc
-фалеристика,chu,no,c
+фалеристика,chu,no,c	lexc
 фальсификатор,chu,no,c	lexc
 фальсификаци,chu,no,c	lexc
 фальсификациле,chu,vb,c	lexc
@@ -25242,14 +25242,14 @@
 фальцла,chu,vb,c	lexc
 фальцовка,chu,no,c	lexc
 фальцовщик,chu,no,c	lexc
-фальцовщица,chu,no,c
+фальцовщица,chu,no,c	lexc
 фанатизм,chu,no,c	lexc
 фанатизмлӑ,chu,ad,c	lexc
 фанатик,chu,no,c	lexc
 фанатикла,chu,av,c	lexc
 фанатичка,chu,no,c	lexc
 фанатлӑх,chu,no,j261	lexc
-фанера,chu,no,c
+фанера,chu,no,c	lexc
 фанерӑла,chu,vb,c	lexc
 фанеровка,chu,no,c	lexc
 фанеровщик,chu,no,c	lexc
@@ -25276,7 +25276,7 @@
 фарисейлӑх,chu,no,c	lexc
 фармаколог,chu,no,c	lexc
 фармакологи,chu,no,c	lexc
-фармакопея,chu,no,c
+фармакопея,chu,no,c	lexc
 фармацевт,chu,no,c	lexc
 фармацевтика,chu,no,c	lexc
 фарс,chu,no,c	lexc
@@ -25320,7 +25320,7 @@
 фельдмаршал,chu,no,c	lexc
 фельдфебель,chu,no,c	lexc
 фельдшер,chu,no,c	lexc
-фельдшерица,chu,no,c
+фельдшерица,chu,no,c	lexc
 фельдъегерь,chu,no,c
 фельетон,chu,no,c	lexc
 фельетонист,chu,no,c	lexc
@@ -25351,13 +25351,13 @@
 фехтла,chu,vb,c	lexc
 фехтовальщик,chu,no,c	lexc
 фехтовани,chu,no,c	lexc
-фея,chu,no,v
+фея,chu,no,v	lexc
 фиалка,chu,no,c	lexc
 фибра,chu,no,c	lexc
 фибриногенсӑрлӑх,chu,no,i151	lexc
 фибролит,chu,no,c	lexc
-фиброма,chu,no,c
-фига,chu,no,c
+фиброма,chu,no,c	lexc
+фига,chu,no,c	lexc
 фигляр,chu,no,v	lexc
 фигура,chu,no,c	lexc
 фигурӑллӑ,chu,ad,c	lexc
@@ -25373,7 +25373,7 @@
 физиотерапи,chu,no,c	lexc
 физкультура,chu,no,c	lexc
 физкультурник,chu,no,c	lexc
-физкультурница,chu,no,c
+физкультурница,chu,no,c	lexc
 физмат,chu,no,c	lexc
 физрук,chu,no,c	lexc
 фиксаж,chu,no,c	lexc
@@ -25425,19 +25425,19 @@
 фирма,chu,no,c	lexc
 фисгармони,chu,no,c	lexc
 фисташка,chu,no,c	lexc
-фистула,chu,no,c
+фистула,chu,no,c	lexc
 фитонцид,chu,no,c	lexc
 фитотерапи,chu,no,g	lexc
 фишка,chu,no,c	lexc
 флагман,chu,no,c	lexc
 флагшток,chu,no,c	lexc
 флакон,chu,no,c	lexc
-фламинго,chu,no,c
+фламинго,chu,no,c	lexc
 фланг,chu,no,c	lexc
 фланель,chu,no,c	lexc
 флегматик,chu,no,c	lexc
 флегматикла,chu,av,c	lexc
-флегмона,chu,no,c
+флегмона,chu,no,c	lexc
 флейта,chu,no,c	lexc
 флейтист,chu,no,c	lexc
 флекси,chu,no,c	lexc
@@ -25462,7 +25462,7 @@
 фольга,chu,no,c	lexc
 фольклор,chu,no,c	lexc
 фольклорист,chu,no,c	lexc
-фольклористика,chu,no,c
+фольклористика,chu,no,c	lexc
 фон,chu,no,c	lexc
 фонарик,chu,no,c	lexc
 фонд,chu,no,c	lexc
@@ -25473,7 +25473,7 @@
 фониатр,chu,no,g	lexc
 фонограф,chu,no,c	lexc
 фонологи,chu,no,c	lexc
-фонотека,chu,no,c
+фонотека,chu,no,c	lexc
 фонтан,chu,no,c	lexc
 форвард,chu,no,c	lexc
 форзац,chu,no,c	lexc
@@ -25511,7 +25511,7 @@
 фотоальбом,chu,no,c	lexc
 фотоаппарат,chu,no,c	lexc
 фотоателье,chu,no,c	lexc
-фотовитрина,chu,no,c
+фотовитрина,chu,no,c	lexc
 фотовыставка,chu,no,c	lexc
 фотограф,chu,no,c	lexc
 фотографи,chu,no,c	lexc
@@ -25533,7 +25533,7 @@
 фоторепортёр,chu,no,c	lexc
 фотосинтез,chu,no,c	lexc
 фотоҫуталу,chu,no,e85	lexc
-фототека,chu,no,c
+фототека,chu,no,c	lexc
 фототелеграмма,chu,no,c	lexc
 фототелеграф,chu,no,c	lexc
 фотоувеличитель,chu,no,c	lexc
@@ -25545,7 +25545,7 @@
 фотоэлемент,chu,no,c	lexc
 фотоэтюд,chu,no,c	lexc
 фрагмент,chu,no,c	lexc
-фраза,chu,no,c
+фраза,chu,no,c	lexc
 фразеолог,chu,no,v	lexc
 фразеологи,chu,no,c	lexc
 фразеологизм,chu,no,c	lexc
@@ -25555,7 +25555,7 @@
 фракциленӳ,chu,no,g	lexc
 фракцилле,chu,av,c	lexc
 фракционер,chu,no,c	lexc
-фрамуга,chu,no,c
+фрамуга,chu,no,c	lexc
 франк,chu,no,c	lexc
 француз,chu,no,c	lexc
 французла,chu,av,c	lexc
@@ -25567,8 +25567,8 @@
 фрезӑла,chu,vb,c	lexc
 фрезеровка,chu,no,c	lexc
 фрезеровщик,chu,no,c	lexc
-фрезеровщица,chu,no,c
-фрейлина,chu,no,c
+фрезеровщица,chu,no,c	lexc
+фрейлина,chu,no,c	lexc
 френч,chu,no,c	lexc
 фреон,chu,no,c	lexc
 фреска,chu,no,c	lexc
@@ -25579,7 +25579,7 @@
 фронтиспис,chu,no,c	lexc
 фронтовик,chu,no,c	lexc
 фронтон,chu,no,c	lexc
-фруктоза,chu,no,c
+фруктоза,chu,no,c	lexc
 фтизиатр,chu,no,c	lexc
 фтизиатри,chu,no,c	lexc
 фтор,chu,no,c	lexc
@@ -25631,7 +25631,7 @@
 хавасла,chu,vb,x16:20	lexc
 хаваслан,chu,vb,c	lexc
 хаваслантар,chu,vb,c	lexc
-хаваслану,chu,no,c
+хаваслану,chu,no,c	lexc
 хаваслат,chu,vb,x16:21	lexc
 хаваслӑ,chu,ad,c	lexc
 хаваслӑн,chu,av,c	lexc
@@ -25646,8 +25646,8 @@
 хавха,chu,no/ad,c
 хавхалан,chu,vb,c	lexc
 хавхалантар,chu,vb,c	lexc
-хавхалантару,chu,no,c
-хавхалану,chu,no,c
+хавхалантару,chu,no,c	lexc
+хавхалану,chu,no,c	lexc
 хавхаланулӑх,chu,no,h	lexc
 хавхалануллӑ,chu,ad,c	lexc
 хавхалануллӑн,chu,av,c	lexc
@@ -25703,10 +25703,10 @@
 хаклав,chu,no,c	lexc
 хаклан,chu,vb,c	lexc
 хаклантар,chu,vb,c	lexc
-хаклантару,chu,no,j28
+хаклантару,chu,no,j28	lexc
 хаклат,chu,vb,c	lexc
 хаклаш,chu,vb,c	lexc
-хаклашу,chu,no,c
+хаклашу,chu,no,c	lexc
 хаклӑ,chu,ad,c	lexc
 хаклӑлан,chu,vb,c	lexc
 хаклӑлат,chu,vb,c	lexc
@@ -25850,7 +25850,7 @@
 хапха,chu,no,c	lexc
 хар,chu,de,c
 характер,chu,no,c	lexc
-характеристика,chu,no,c
+характеристика,chu,no,c	lexc
 характерлӑ,chu,ad,c	lexc
 характерсӑр,chu,ad,c	lexc
 харам,chu,ad,c	lexc
@@ -26722,7 +26722,7 @@
 хик,chu,de,c
 хиклет,chu,vb,c	lexc
 хиклеттер,chu,vb,o	lexc
-химера,chu,no,c
+химера,chu,no,c	lexc
 хими,chu,no,c	lexc
 химизаци,chu,no,c	lexc
 химизациле,chu,vb,c	lexc
@@ -26834,7 +26834,7 @@
 хоккей,chu,no,c	lexc
 хоккейла,chu,av,c	lexc
 холдинг,chu,no,j266	lexc
-холера,chu,no,c
+холера,chu,no,c	lexc
 холерик,chu,no,c	lexc
 холестерин,chu,no,c	lexc
 холл,chu,no,c	lexc
@@ -26856,7 +26856,7 @@
 хрестомати,chu,no,c	lexc
 хресчен,chu,no,c	lexc
 хресченле,chu,av,c	lexc
-хризантема,chu,no,c
+хризантема,chu,no,c	lexc
 хризолит,chu,no,c	lexc
 христиан,chu,no,c	lexc
 христианка,chu,no,c	lexc
@@ -26888,7 +26888,7 @@
 художествӑлӑх,chu,no,c	lexc
 художество,chu,no,c	lexc
 художник,chu,no,c	lexc
-художница,chu,no,c
+художница,chu,no,c	lexc
 хуй,chu,vb,c	lexc
 хуйӑр,chu,no,c	lexc
 хуйӑрла,chu,vb,c	lexc
@@ -26915,7 +26915,7 @@
 хул,chu,no,c	lexc
 хула,chu,no,c	lexc
 хулалан,chu,vb,h	lexc
-хулалану,chu,no,z206
+хулалану,chu,no,z206	lexc
 хулаш,chu,no,c	lexc
 хула-шехер,chu,no,c	lexc
 хула-ял,chu,no,c	lexc
@@ -26963,7 +26963,7 @@
 хумхавлӑ,chu,ad,c	lexc
 хумхан,chu,vb,c	lexc
 хумхантар,chu,vb,c	lexc
-хумхану,chu,no,c
+хумхану,chu,no,c	lexc
 хумхануллӑ,chu,ad,c	lexc
 хумхануллӑн,chu,av,c	lexc
 хумханчӑк,chu,ad,c	lexc
@@ -27030,14 +27030,14 @@
 хуплаштар,chu,vb,c	lexc
 хуплашу,chu,no,a125	lexc
 хуплӑ,chu,ad,c	lexc
-хуплу,chu,no,c
+хуплу,chu,no,c	lexc
 хуптар,chu,vb,c	lexc
 хупташка,chu,no,f	lexc
 хуптӗр,chu,no/ad,c
 хуптӗрле,chu,vb,c	lexc
 хуптӗрлен,chu,vb,c	lexc
 хуптӗрлӗх,chu,no,c	lexc
-хупу,chu,no,j23
+хупу,chu,no,j23	lexc
 хуп-хура,chu,ad,c	lexc
 хур,chu,no,c	lexc
 хур,chu,vb,c	lexc
@@ -27099,7 +27099,7 @@
 хурлан,chu,vb,c	lexc
 хурланӑҫ,chu,no,c	lexc
 хурлантар,chu,vb,c	lexc
-хурлану,chu,no,c
+хурлану,chu,no,c	lexc
 хурлануллӑ,chu,ad,c	lexc
 хурланусӑр,chu,ad,c	lexc
 хурланчӑк,chu,ad,c	lexc
@@ -27129,7 +27129,7 @@
 хуртлӑ,chu,ad,c	lexc
 хуртҫӑ,chu,no,c	lexc
 хурт-хӑмӑр,chu,no,c	lexc
-хуру,chu,no,c
+хуру,chu,no,c	lexc
 хурхух,chu,no,c
 хурчка,chu,no,c	lexc
 хурчкалла,chu,av,c	lexc
@@ -27277,10 +27277,10 @@
 хушмалӑх,chu,no,u112	lexc
 хушмалчӑ,chu,no,c	lexc
 хушмач,chu,no,c
-хушпу,chu,no,c
+хушпу,chu,no,c	lexc
 хушпу-тухья,chu,no,h
 хуштар,chu,vb,c	lexc
-хушу,chu,no,c
+хушу,chu,no,c	lexc
 хушуллӑ,chu,ad,c	lexc
 хушу-хистев,chu,no,a191	lexc
 хушшӑн-хушшӑн,chu,av,c	lexc
@@ -27384,7 +27384,7 @@
 хыр,chu,no,c	lexc
 хыр,chu,vb,c	lexc
 хырӑм,chu,no,c	lexc
-хырӑм_ай,chu,no,c
+хырӑм_ай,chu,no,c	lexc
 хырӑм_айлӑх,chu,no,c	lexc
 хырӑмламас,chu,ad,c	lexc
 хырӑмлан,chu,vb,c	lexc
@@ -27454,7 +27454,7 @@
 царизм,chu,no,c	lexc
 цветник,chu,no,c	lexc
 цедент,chu,no,v	lexc
-цезура,chu,no,c
+цезура,chu,no,c	lexc
 цейтнот,chu,no,c	lexc
 цейхгауз,chu,no,c	lexc
 целинник,chu,no,c	lexc
@@ -27480,7 +27480,7 @@
 центральнӑй,chu,ad,c	lexc
 центризм,chu,no,c	lexc
 центрист,chu,no,c	lexc
-центрифуга,chu,no,c
+центрифуга,chu,no,c	lexc
 цепь,chu,no,c
 церемониал,chu,no,c	lexc
 цесарка,chu,no,c	lexc
@@ -27495,7 +27495,7 @@
 цивилизациллӗ,chu,ad,c	lexc
 цивилист,chu,no,v	lexc
 цигейка,chu,no,c	lexc
-цикада,chu,no,c
+цикада,chu,no,c	lexc
 цикл,chu,no,c	lexc
 цикллӑ,chu,ad,c	lexc
 цикллӑх,chu,no,c	lexc
@@ -27574,7 +27574,7 @@
 чакар,chu,vb,c	lexc
 чакарт,chu,vb,c	lexc
 чакарттар,chu,vb,c	lexc
-чакару,chu,no,z151
+чакару,chu,no,z151	lexc
 чакӑл,chu,no,c	lexc
 чакӑл,chu,no/ad,c
 чакӑлт,chu,de,c
@@ -27593,7 +27593,7 @@
 чаклаттар,chu,vb,c	lexc
 чакма,chu,no,c
 чактар,chu,vb,c	lexc
-чаку,chu,no,z156
+чаку,chu,no,z156	lexc
 чал,chu,no,c	lexc
 чал,chu,de,c	lexc
 чалак,chu,ad,c	lexc
@@ -27790,7 +27790,7 @@
 чаршавла,chu,vb,c	lexc
 час,chu,av,c	lexc
 часавай,chu,no,c
-часовой,chu,no,c
+часовой,chu,no,c	lexc
 часси,chu,no,c	lexc
 частник,chu,no,c	lexc
 часть,chu,no,c	lexc
@@ -28180,25 +28180,25 @@
 черетлӗх,chu,no,c	lexc
 черетсӗр,chu,ad,c	lexc
 черетсӗрлӗх,chu,no,c	lexc
-черешня,chu,no,c
+черешня,chu,no,c	lexc
 черкес,chu,no,c
 черкке,chu,no,c	lexc
 черккеле,chu,vb,x15:176	lexc
 черккеҫӗ,chu,no,c	lexc
 чернил,chu,no,c	lexc
-чернильница,chu,no,c
+чернильница,chu,no,c	lexc
 черновик,chu,no,c	lexc
 черпе,chu,no,c	lexc
 чертёж,chu,no,c	lexc
 чертёжник,chu,no,c	lexc
-чертёжница,chu,no,c
+чертёжница,chu,no,c	lexc
 черчен,chu,no,c	lexc
 черчени,chu,no,c	lexc
 черченкӗ,chu,ad,c	lexc
 черченкӗлен,chu,vb,c	lexc
 черченлен,chu,vb,c	lexc
 честь,chu,no,c	lexc
-чесуча,chu,no,c
+чесуча,chu,no,c	lexc
 четвӗрт,chu,no,c	lexc
 чех,chu,no,c	lexc
 чехла,chu,av,c	lexc
@@ -28580,7 +28580,7 @@
 чупӑ,chu,no,c	lexc
 чупӑм,chu,no,u115	lexc
 чупкалаш,chu,vb,c	lexc
-чупкалу,chu,no,c
+чупкалу,chu,no,c	lexc
 чупкӑн,chu,no/ad,c
 чуплат,chu,vb,x15:241	lexc
 чуппа,chu,no,c	lexc
@@ -28593,10 +28593,10 @@
 чура,chu,no,c	lexc
 чуралан,chu,vb,c	lexc
 чуралантар,chu,vb,c	lexc
-чуралантару,chu,no,z92
+чуралантару,chu,no,z92	lexc
 чуралат,chu,vb,c	lexc
 чуралӑх,chu,no,c	lexc
-чуралу,chu,no,z92
+чуралу,chu,no,z92	lexc
 чурӑс,chu,ad,c	lexc
 чурӑслан,chu,vb,c	lexc
 чурӑслантар,chu,vb,o	lexc
@@ -28635,7 +28635,7 @@
 чухлӗ,chu,av,c	lexc
 чухне,chu,po,c
 чухнехи,chu,po/ad,c
-чуху,chu,no,c
+чуху,chu,no,c	lexc
 чуххӑм,chu,av,c	lexc
 чуххӑмӑн,chu,av,c	lexc
 чух-чух,chu,de,c
@@ -28725,13 +28725,13 @@
 шайла,chu,vb,c	lexc
 шайлав,chu,no,e36	lexc
 шайлан,chu,vb,c	lexc
-шайлану,chu,no,c
+шайлану,chu,no,c	lexc
 шайлаттар,chu,vb,c	lexc
 шайлаш,chu,vb,c	lexc
 шайлаштар,chu,vb,c	lexc
-шайлаштару,chu,no,j27
+шайлаштару,chu,no,j27	lexc
 шайлаштаруллӑ,chu,ad,a134	lexc
-шайлашу,chu,no,c
+шайлашу,chu,no,c	lexc
 шайлашулӑх,chu,no,c	lexc
 шайлашуллӑ,chu,ad,c	lexc
 шайлашуллӑн,chu,av,c	lexc
@@ -28883,7 +28883,7 @@
 шантару,chu,no,c	lexc
 шантаруллӑ,chu,ad,c	lexc
 шантаруҫӑ,chu,no,r27	lexc
-шану,chu,no,c
+шану,chu,no,c	lexc
 шануллӑ,chu,ad,j174	lexc
 шануҫӑ,chu,no,j68	lexc
 шанчӑк,chu,no,c	lexc
@@ -28913,7 +28913,7 @@
 шапӑртаттар,chu,vb,c	lexc
 шапӑртӑк,chu,de,x17:129
 шапӑртӑк-шапӑртӑк,chu,de,c
-шапито,chu,no,c
+шапито,chu,no,c	lexc
 шаплат,chu,vb,c	lexc
 шаплаттар,chu,vb,c	lexc
 шапульник,chu,no,c	lexc
@@ -28926,7 +28926,7 @@
 шар,chu,vb,c	lexc
 шар,chu,av,c	lexc
 шар,chu,de,c	lexc
-шарада,chu,no,c
+шарада,chu,no,c	lexc
 шарак,chu,ad,c	lexc
 шараклан,chu,vb,c	lexc
 шара-пара,chu,no,c	lexc
@@ -28982,7 +28982,7 @@
 шартлама,chu,ad,c	lexc
 шартлат,chu,vb,c	lexc
 шартлаттар,chu,vb,c	lexc
-шартлату,chu,no,c
+шартлату,chu,no,c	lexc
 шарт-март,chu,de,s47
 шарттин,chu,de,c
 шарф,chu,no,c	lexc
@@ -29030,7 +29030,7 @@
 шахвӑрттар,chu,vb,o	lexc
 шахвӑрту,chu,no,c	lexc
 шахиншах,chu,no,v	lexc
-шахиня,chu,no,c
+шахиня,chu,no,c	lexc
 шахла,chu,vb,c	lexc
 шахмат,chu,no,c
 шахматист,chu,no,c	lexc
@@ -29056,7 +29056,7 @@
 шашкӑлла,chu,av,c	lexc
 шашкӑллӑ,chu,ad,c	lexc
 шашлык,chu,no,c
-шашлычнӑй,chu,no,c
+шашлычнӑй,chu,no,c	lexc
 шашулкка,chu,no,c
 шашур,chu,no,c	lexc
 шаяр,chu,vb,c	lexc
@@ -29476,7 +29476,7 @@
 шевкен,chu,no,c	lexc
 шевле,chu,no,c	lexc
 шеврет,chu,no,c
-шевро,chu,no,c
+шевро,chu,no,c	lexc
 шедевр,chu,no,c	lexc
 шезлонг,chu,no,c	lexc
 шейӗк,chu,ad,h	lexc
@@ -29654,7 +29654,7 @@
 шимп,chu,de,c
 шимпанзе,chu,no,c
 шимплет,chu,vb,c	lexc
-шина,chu,no,c
+шина,chu,no,c	lexc
 шинӑла,chu,vb,c	lexc
 шинӑллӑ,chu,ad,c	lexc
 шинель,chu,no,c	lexc
@@ -29667,7 +29667,7 @@
 шип-шип,chu,de,c
 шип-шиплет,chu,vb,o	lexc
 ширма,chu,no,c	lexc
-широта,chu,no,c
+широта,chu,no,c	lexc
 шит,chu,no,c	lexc
 шитле,chu,vb,c	lexc
 шитлӗ,chu,ad,c	lexc
@@ -29736,7 +29736,7 @@
 шотландка,chu,no,c	lexc
 шоумен,chu,no,v	lexc
 шофёр,chu,no,c	lexc
-шпага,chu,no,c
+шпага,chu,no,c	lexc
 шпагат,chu,no,c	lexc
 шпажист,chu,no,c	lexc
 шпаклёвка,chu,no,c	lexc
@@ -29799,7 +29799,7 @@
 штифт,chu,no,c	lexc
 штольня,chu,no,c	lexc
 штопор,chu,no,c	lexc
-штора,chu,no,c
+штора,chu,no,c	lexc
 шторка,chu,no,c	lexc
 шторм,chu,no,c	lexc
 штормлӑ,chu,ad,c	lexc
@@ -29824,13 +29824,13 @@
 штукӑн,chu,av,c	lexc
 штуклӑ,chu,ad,c	lexc
 штурвал,chu,no,c	lexc
-штурвальнӑй,chu,no,c
+штурвальнӑй,chu,no,c	lexc
 штурм,chu,no,c	lexc
 штурман,chu,no,c	lexc
 штурмла,chu,vb,c	lexc
 штурмовик,chu,no,c	lexc
 штурмовка,chu,no,c	lexc
-штурмовщина,chu,no,c
+штурмовщина,chu,no,c	lexc
 штык,chu,no,c	lexc
 штыклӑ,chu,ad,c	lexc
 шу,chu,vb,c	lexc
@@ -29844,7 +29844,7 @@
 шуйттанлан,chu,vb,c	lexc
 шуйхан,chu,vb,c	lexc
 шуйхантар,chu,vb,c	lexc
-шуйхану,chu,no,c
+шуйхану,chu,no,c	lexc
 шуйханчӑк,chu,ad,c	lexc
 шуйхат,chu,vb,c	lexc
 шуйхах,chu,ad,c	lexc
@@ -29908,7 +29908,7 @@
 шуранкӑ,chu,ad,c	lexc
 шурат,chu,vb,c	lexc
 шураттар,chu,vb,o	lexc
-шурату,chu,no,t21
+шурату,chu,no,t21	lexc
 шурӑ,chu,ad,c	lexc
 шурӑлан,chu,vb,x17:237	lexc
 шурӑлӑх,chu,no,c	lexc
@@ -30298,18 +30298,18 @@
 эквивалентлӑ,chu,ad,c	lexc
 эквивалентлӑх,chu,no,c	lexc
 эквилибрист,chu,no,c	lexc
-эквилибристика,chu,no,c
+эквилибристика,chu,no,c	lexc
 эквифиналлӑх,chu,no,p61	lexc
 экемет,chu,no,c	lexc
 экеметлентер,chu,vb,x3:7	lexc
 экеметлӗ,chu,ad,c	lexc
 экзамен,chu,no,c	lexc
 экзаменатор,chu,no,c	lexc
-экзема,chu,no,c
+экзема,chu,no,c	lexc
 экземпляр,chu,no,c	lexc
 экзогами,chu,no,c	lexc
 экзогамиллӗ,chu,ad,c	lexc
-экзотика,chu,no,c
+экзотика,chu,no,c	lexc
 экзотикӑлла,chu,av,c	lexc
 экипаж,chu,no,c	lexc
 экипировка,chu,no,c	lexc
@@ -30325,7 +30325,7 @@
 экономика,chu,no,c	lexc
 экономист,chu,no,c	lexc
 экономка,chu,no,c	lexc
-экосистема,chu,no,w207
+экосистема,chu,no,w207	lexc
 экран,chu,no,c	lexc
 экранизаци,chu,no,c	lexc
 экранизациле,chu,vb,c	lexc
@@ -30414,15 +30414,15 @@
 электричество,chu,no,c	lexc
 электричка,chu,no,c	lexc
 электроаппарат,chu,no,c	lexc
-электроаппаратура,chu,no,c
+электроаппаратура,chu,no,c	lexc
 электробритва,chu,no,c	lexc
 электробур,chu,no,c	lexc
 электровиҫев,chu,no,c	lexc
 электровоз,chu,no,c	lexc
-электрогитара,chu,no,c
+электрогитара,chu,no,c	lexc
 электрод,chu,no,c	lexc
 электродвигатель,chu,no,c	lexc
-электродинамика,chu,no,c
+электродинамика,chu,no,c	lexc
 электродрель,chu,no,c	lexc
 электроӗҫлев,chu,no,c	lexc
 электроинструмент,chu,no,c	lexc
@@ -30433,7 +30433,7 @@
 электрокуҫӑм,chu,no,c	lexc
 электролампочка,chu,no,c	lexc
 электролан,chu,vb,e89	lexc
-электролану,chu,no,e89
+электролану,chu,no,e89	lexc
 электролиз,chu,no,c	lexc
 электролини,chu,no,c	lexc
 электролит,chu,no,c	lexc
@@ -30446,7 +30446,7 @@
 электрометр,chu,no,c	lexc
 электромеханизаци,chu,no,c	lexc
 электромеханик,chu,no,c	lexc
-электромеханика,chu,no,c
+электромеханика,chu,no,c	lexc
 электромобиль,chu,no,c	lexc
 электромонтаж,chu,no,c	lexc
 электромонтажник,chu,no,c	lexc
@@ -30454,14 +30454,14 @@
 электромотор,chu,no,c	lexc
 электрон,chu,no,c	lexc
 электронасус,chu,no,c	lexc
-электроника,chu,no,c
+электроника,chu,no,c	lexc
 электронлӑ,chu,ad,c	lexc
 электрооборудовани,chu,no,c	lexc
 электроорган,chu,no,c	lexc
 электропаяльник,chu,no,c	lexc
 электропӑра,chu,no,t182	lexc
 электропӑчкӑ,chu,no,c	lexc
-электропередача,chu,no,c
+электропередача,chu,no,c	lexc
 электроплитка,chu,no,c	lexc
 электроплуг,chu,no,c	lexc
 электропогрузчик,chu,no,c	lexc
@@ -30480,10 +30480,10 @@
 электросчётчик,chu,no,c	lexc
 электроҫуталу,chu,no,e91	lexc
 электроҫутӑ,chu,no,c	lexc
-электротабло,chu,no,c
+электротабло,chu,no,c	lexc
 электротавар,chu,no,c	lexc
 электротехник,chu,no,c	lexc
-электротехника,chu,no,c
+электротехника,chu,no,c	lexc
 электроутюг,chu,no,c	lexc
 электрохими,chu,no,c	lexc
 электрохунар,chu,no,s16	lexc
@@ -30495,7 +30495,7 @@
 электрошӑрату,chu,no,e91	lexc
 электрошнур,chu,no,c	lexc
 электроыйхӑ,chu,no,m202	lexc
-электроэнергетика,chu,no,c
+электроэнергетика,chu,no,c	lexc
 электроэнерги,chu,no,c	lexc
 элек-челек,chu,no,c	lexc
 элем,chu,no,c	lexc
@@ -30528,7 +30528,7 @@
 эмальле,chu,vb,c	lexc
 эмансипаци,chu,no,c	lexc
 эмансипациле,chu,vb,c	lexc
-эмбарго,chu,no,c
+эмбарго,chu,no,c	lexc
 эмблема,chu,no,c	lexc
 эмбриологи,chu,no,c	lexc
 эмбрион,chu,no,c	lexc
@@ -30557,7 +30557,7 @@
 эмпирилле,chu,av,c	lexc
 эмульси,chu,no,c	lexc
 эмульсиллӗ,chu,ad,c	lexc
-эмфизема,chu,no,c
+эмфизема,chu,no,c	lexc
 эндогами,chu,no,c	lexc
 эндогамиллӗ,chu,ad,c	lexc
 эндокрин,chu,no,c	lexc
@@ -30567,7 +30567,7 @@
 энергетик,chu,no,c	lexc
 энергетика,chu,no,c	lexc
 энерги,chu,no,c	lexc
-энергосистема,chu,no,c
+энергосистема,chu,no,c	lexc
 энергостроитель,chu,no,c	lexc
 энергостроительство,chu,no,c	lexc
 энӗс,chu,no,c	lexc
@@ -30674,26 +30674,26 @@
 эскадрон,chu,no,c	lexc
 эскалатор,chu,no,c	lexc
 эскалаци,chu,no,c	lexc
-эсквайр,chu,no,v
+эсквайр,chu,no,v	lexc
 эскиз,chu,no,c	lexc
-эскимо,chu,no,c
+эскимо,chu,no,c	lexc
 эскимос,chu,no,c	lexc
 эскорт,chu,no,c	lexc
 эскпортҫӑ,chu,no,z218	lexc
 эсксплуатациле,chu,vb,c	lexc
-эскулап,chu,no,v
+эскулап,chu,no,v	lexc
 эслепсӗр,chu,ad,c	lexc
 эсминец,chu,no,c	lexc
 эспадрон,chu,no,c	lexc
 эспандер,chu,no,c	lexc
-эсперанто,chu,no,c
+эсперанто,chu,no,c	lexc
 эсрел,chu,no,c	lexc
 эсрелле,chu,av,c	lexc
 эсреллен,chu,vb,c	lexc
 эсремет,chu,no,c	lexc
 эсрехун,chu,no,c	lexc
 эссенци,chu,no,c	lexc
-эстакада,chu,no,c
+эстакада,chu,no,c	lexc
 эстамп,chu,no,c	lexc
 эстафета,chu,no,c	lexc
 эстафетӑллӑ,chu,ad,c	lexc
@@ -30972,8 +30972,8 @@
 юсавҫӑ,chu,no,v	lexc
 юсан,chu,vb,c	lexc
 юсантар,chu,vb,c	lexc
-юсантару,chu,no,j225
-юсану,chu,no,c
+юсантару,chu,no,j225	lexc
+юсану,chu,no,c	lexc
 юсаттар,chu,vb,c	lexc
 юсӑн,chu,vb,c	lexc
 юсӑнтар,chu,vb,c	lexc
@@ -31066,7 +31066,7 @@
 ягуар,chu,no,c	lexc
 ядерлӑ,chu,ad,c	lexc
 ядохимикат,chu,no,c	lexc
-ядро,chu,no,c
+ядро,chu,no,c	lexc
 язва,chu,no,c	lexc
 язычество,chu,no,c	lexc
 язычник,chu,no,c	lexc
@@ -31121,7 +31121,7 @@
 ял-л,chu,de,c
 яллӑх,chu,no,x4:175	lexc
 ялма,chu,no,f	lexc
-ялпо,chu,no,c
+ялпо,chu,no,c	lexc
 ялт,chu,de,c
 ялтак,chu,no,x4:182	lexc
 ялташ,chu,no,n118
@@ -31215,7 +31215,7 @@
 янра,chu,vb,c	lexc
 янрав,chu,no,c	lexc
 янравлан,chu,vb,c	lexc
-янравлану,chu,no,a192
+янравлану,chu,no,a192	lexc
 янравлӑ,chu,ad,c	lexc
 янравлӑх,chu,no,c	lexc
 янравсӑр,chu,ad,c	lexc
@@ -31336,7 +31336,7 @@
 ясаклӑ,chu,ad,c	lexc
 ясар,chu,ad,c	lexc
 ясарлан,chu,vb,c	lexc
-ясарлану,chu,no,b66
+ясарлану,chu,no,b66	lexc
 ясарлат,chu,vb,m157	lexc
 ясарлӑ,chu,ad,c	lexc
 ясарлӑх,chu,no,c	lexc
