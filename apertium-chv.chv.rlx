@@ -12,6 +12,7 @@ LIST A = adj ;
 LIST Prop = np ;
 LIST Ant = ant ;
 LIST Cog = cog ;
+LIST Top = top ;
 LIST CC = cnjcoo ;
 LIST Post = post ;
 
@@ -67,3 +68,5 @@ REMOVE Masc IF (-1C Ant + Fem) (0 Cog) ;	# Алина Савельева
 REMOVE Fem IF (-1C Ant + Masc) (0 Cog) ;
 REMOVE Masc IF (1C Cog + Fem) (0 Ant) ;		# Саша Яковлевӑна
 REMOVE Fem IF (1C Cog + Masc) (0 Ant) ;
+REMOVE Top IF (-1C Ant) (0 Cog) ;		# Ольга Семенова
+SELECT Ant IF (0 ("Петӗр")) (1 Cog) ;		# Петӗр Хусанкай
