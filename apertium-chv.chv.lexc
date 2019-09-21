@@ -678,7 +678,7 @@ LEXICON A2
 
 %<adj%>:                                                       CLIT-COP ;
 %<adj%>:                                                       SUBST-SKER ;
-%<adj%>%<subst%>:	                                       POSS ;		# ҫамрӑксем
+%<adj%>%<subst%>:	                                       POSS ;		! ҫамрӑксем
 %<adj%>%<advl%>:                                               K; ! Dir/RL
 
 %<adj%>%<comp%>:%>р%{A%}х                                      ADJ-COMP ; 
