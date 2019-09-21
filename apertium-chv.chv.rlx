@@ -8,40 +8,42 @@ LIST BOS = (>>>) ;
 LIST EOS = (<<<);
 
 LIST N = n ; 
+LIST A = adj ; 
 LIST Prop = np ;
-LIST CC = cnjcoo ;
-LIST Dat = dat ; 
-LIST Post = post ;
-
 LIST Ant = ant ;
 LIST Cog = cog ;
-LIST Masc = m ; 
-LIST Fem = f ; 
+LIST CC = cnjcoo ;
+LIST Post = post ;
 
-LIST Caus = caus ; 
-LIST Imper = imp ; 
-LIST Excl = ("!") ; 
-LIST Ha = ("ха") ; 
+LIST Nom = nom ; 
+LIST Dat = dat ; 
+LIST Attr = attr ;
+
+LIST Sg = sg ;
+LIST Pl = pl ;
 
 LIST Px3Sg = px3sg ;
 
-LIST Pul = ("пул") ;
-LIST Pultar = ("пултар") ;
-
-LIST Past/Evid = (past evid) ;
-
-LIST Nom = nom ;
+LIST Masc = m ; 
+LIST Fem = f ; 
 
 LIST Pres = pres ; 
+LIST Caus = caus ; 
+LIST Imper = imp ; 
+LIST Past/Evid = (past evid) ;
+
+LIST Pass = pass ; 
 
 LIST IV = iv ; 
 LIST TV = tv ; 
 
-LIST Pass = pass ; 
-
-LIST Attr = attr ;
-
 LIST Func = subst attr advl ;
+
+LIST Excl = ("!") ; 
+LIST Ha = ("ха") ; 
+
+LIST Pul = ("пул") ;
+LIST Pultar = ("пултар") ;
 
 SECTION
 
