@@ -26642,7 +26642,7 @@ LEXICON Verbs
 газохранилище:газохранилищ%{е%} N; ! src: Chuvash wordlist ""
 галифе:галифе N; ! src: Chuvash wordlist ""
 декольте:декольте N; ! src: Chuvash wordlist ""
-досье:досье N; ! src: Chuvash wordlist ""
+досье:досьe N; ! src: Chuvash wordlist ""
 драже:драже N; ! src: Chuvash wordlist ""
 желе:желе N; ! src: Chuvash wordlist ""
 каклишке:каклишк%{е%} N; ! src: Chuvash wordlist ""
@@ -27013,7 +27013,8 @@ LEXICON Proper
 Машук:Машук NP-ANT-F ; ! ""
 Анюк:Анюк NP-ANT-F ; ! ""
 Танюк:Танюк NP-ANT-F ; ! ""
-Юрпике:Юрпике NP-ANT-F ; ! ""
+Юр% пике:Юр% пике NP-ANT-F ; ! ""
+Юр% пике:Юрпике NP-ANT-F ; ! "" Dir/LR
 Хӗл% Мучи:Хӗл% Мучи NP-ANT-M ; ! "ablative: Хӗл Мучирен (i.e. 'standard' declination)"
 
 тӳрешке:тӳрешке N ; ! "source: Кала-ха 1"
