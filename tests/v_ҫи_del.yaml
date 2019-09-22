@@ -12,6 +12,12 @@ Tests:
     ҫи<v><tv><pres><p1><pl> : ҫийетпӗр
     ҫи<v><tv><pres><p2><pl> : ҫийетӗр
     ҫи<v><tv><pres><p3><pl> : ҫийеҫҫӗ
+    ҫи<v><tv><past><p1><sg> : ҫирӗм
+    ҫи<v><tv><past><p2><sg> : ҫирӗн
+    ҫи<v><tv><past><p3><sg> : ҫирчӗ
+    ҫи<v><tv><past><p1><pl> : ҫирӗмӗр
+    ҫи<v><tv><past><p2><pl> : ҫирӗр
+    ҫи<v><tv><past><p3><pl> : ҫирчӗҫ
     ҫи<v><tv><imp><p1><sg> : ҫийем
     ҫи<v><tv><imp><p2><sg> : ҫи
     ҫи<v><tv><imp><p3><sg> : ҫитӗр
