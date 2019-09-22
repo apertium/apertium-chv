@@ -6,19 +6,19 @@ Config:
 
 Tests:
   "The verb ҫи":
-    ҫи<v><tv><pres><p1><sg> : ҫийетӗп
-    ҫи<v><tv><pres><p2><sg> : ҫийетӗн
-    ҫи<v><tv><pres><p3><sg> : ҫийет
-    ҫи<v><tv><pres><p1><pl> : ҫийетпӗр
-    ҫи<v><tv><pres><p2><pl> : ҫийетӗр
-    ҫи<v><tv><pres><p3><pl> : ҫийеҫҫӗ
+    ҫи<v><tv><pres><p1><sg> : ҫиетӗп
+    ҫи<v><tv><pres><p2><sg> : ҫиетӗн
+    ҫи<v><tv><pres><p3><sg> : ҫиет
+    ҫи<v><tv><pres><p1><pl> : ҫиетпӗр
+    ҫи<v><tv><pres><p2><pl> : ҫиетӗр
+    ҫи<v><tv><pres><p3><pl> : ҫиеҫҫӗ
     ҫи<v><tv><past><p1><sg> : ҫирӗм
     ҫи<v><tv><past><p2><sg> : ҫирӗн
     ҫи<v><tv><past><p3><sg> : ҫирчӗ
     ҫи<v><tv><past><p1><pl> : ҫирӗмӗр
     ҫи<v><tv><past><p2><pl> : ҫирӗр
     ҫи<v><tv><past><p3><pl> : ҫирчӗҫ
-    ҫи<v><tv><imp><p1><sg> : ҫийем
+    ҫи<v><tv><imp><p1><sg> : ҫием
     ҫи<v><tv><imp><p2><sg> : ҫи
     ҫи<v><tv><imp><p3><sg> : ҫитӗр
     ҫи<v><tv><imp><p1><pl> : ҫиер
@@ -42,9 +42,9 @@ Tests:
     ҫи<v><tv><opt><p1><pl> : ҫийӗпӗрин
     ҫи<v><tv><opt><p2><pl> : ҫийӗсӗр
     ҫи<v><tv><opt><p3><pl> : ҫийӗҫин
-    ҫи<v><tv><abil><pres><p1><sg> : ҫийеетӗп
-    ҫи<v><tv><abil><pres><p2><sg> : ҫийеетӗн
-    ҫи<v><tv><abil><pres><p3><sg> : ҫийеет
-    ҫи<v><tv><abil><pres><p1><pl> : ҫийеетпӗр
-    ҫи<v><tv><abil><pres><p2><pl> : ҫийеетӗр
-    ҫи<v><tv><abil><pres><p3><pl> : ҫийееҫҫӗ
+    ҫи<v><tv><abil><pres><p1><sg> : ҫиеетӗп
+    ҫи<v><tv><abil><pres><p2><sg> : ҫиеетӗн
+    ҫи<v><tv><abil><pres><p3><sg> : ҫиеет
+    ҫи<v><tv><abil><pres><p1><pl> : ҫиеетпӗр
+    ҫи<v><tv><abil><pres><p2><pl> : ҫиеетӗр
+    ҫи<v><tv><abil><pres><p3><pl> : ҫиееҫҫӗ
