@@ -493,12 +493,16 @@ Vx:Vy <=> _ %{в%}:в %>: [ %{и%}: %{н%}: | %{N%}: %{A%}: | н %{A%}: ] ;
 
 !@ ҫ и {й}:й >:> {A}:е й:0 >:> {A}:е т >:> {Ă}:ӗ п
  
-"Forbid i kratka following н"
-%{й%}:ь <=> [ н | л ] _  [ я:ӑ | ю:ӑ ] ; ! \:YotisedVow ;
+"Forbid i kratka between consonant and ӑ"
+%{й%}:ь <=> :Cns _  [ я:ӑ | ю:ӑ ] ; ! \:YotisedVow ;
 
 !@ н я н {й}:ь я:ӑ >:0 {N}:н {A}:а
 
 !@ К о л {й}:ь я:ӑ >:> п {A}:а
+
+!@ К а т {й}:ь я:ӑ >:> п {A}:а
+
+!@ В а с {й}:ь я:ӑ >:> п {A}:а
 
 "Vowel reduction for yotised consonants"
 Vx:ӑ <=> %{й%}: _ (%{в%}: ) %>: %{N%}: %{A%}: ;  ! dative
