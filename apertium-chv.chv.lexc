@@ -231,25 +231,25 @@ LEXICON CLIT-COP
 
 LEXICON CASE-NONOM
 
-%<gen%>:%>%{Ă%}н                                               K          ;
+%<gen%>:%>%{Ă%}н                                               CLIT-COP   ;
 %<gen%>:%>%{Ă%}н%{ː%}%>%{х%}%{и%}%{н%}                         SUBST      ;
-%<dat%>:%>%{N%}%{A%}                                           K          ; 
-%<loc%>:%>%{T%}%{A%}                                           K          ;  
+%<dat%>:%>%{N%}%{A%}                                           CLIT-COP   ; 
+%<loc%>:%>%{T%}%{A%}                                           CLIT-COP   ;  
 %<loc%>%<attr%>:%>%{T%}%{A%}%>%{х%}%{и%}                       #          ; ! пӳртри, хушшинчи
 %<loc%>:%>%{T%}%{A%}%>%{х%}%{и%}%{н%}                          SUBST      ; ! пӳртрисем, хушшинчисем
-%<abl%>:%>%{T%}%{A%}н                                          K          ; 
-%<ins%>:%>п%{A%}                                               K          ;
-%<ter%>:%>ш%{Ă%}н                                              K          ; 
+%<abl%>:%>%{T%}%{A%}н                                          CLIT-COP   ; 
+%<ins%>:%>п%{A%}                                               CLIT-COP   ; ! юлташӗпеччӗ
+%<ter%>:%>ш%{Ă%}н                                              CLIT-COP   ; 
 
 %<all%>:%>%{N%}%{A%}%>лл%{A%}                                  K          ;
-%+сӑр%<post%>:%>с%{Ă%}р                                        K "weight: 1.0" ;
+%+сӑр%<post%>:%>с%{Ă%}р                                        CLIT-COP "weight: 1.0" ;
 %+ллӑ%<post%>:%>%{л%}л%{Ă%}                                    K "weight: 1.0" ;
 %+ччен%<post%>:%>%{ч%}чен                                      K          ; ! FIXME: Check
 %+ҫи%<post%>:%>ҫи                                              K          ; ! Атӑлҫи булварӗ
 
 LEXICON CASE
 
-%<nom%>:                                                       K ;
+%<nom%>:                                                       CLIT-COP   ; ! йывӑҫчӗ, градусчӗ
                                                                CASE-NONOM ;
 
 LEXICON PLURAL
