@@ -1,0 +1,21 @@
+Config:
+  hfst:
+    App: hfst-optimised-lookup
+    Gen: ../chv.autogen.hfst
+    Morph: ../chv.automorf.hfst
+
+Tests:
+
+  "и <subst>":
+    лайӑх<adj>+и<subst><nom> :  лайӑххи 
+    пысӑк<adj>+и<subst><nom> :  пысӑкки 
+    пӗчӗк<adj>+и<subst><nom> :  пӗчӗкки 
+    аван<adj>+и<subst><nom> :  аванни 
+    тутлӑ<adj>+и<subst><nom> :  тутли 
+    ҫурӑ<adj>+и<subst><nom> :  ҫурри 
+    хура<adj>+и<subst><nom> :  хури 
+    хитре<adj>+и<subst><nom> :  хитри 
+    лайӑх<adj>+и<subst><dat> :  лайӑххин
+    лайӑх<adj>+и<subst><ins> :  лайӑххипе
+    лайӑх<adj>+и<subst><pl><nom> :  лайӑххисем
+    лайӑх<adj>+и<subst><pl><gen> :  лайӑххисен
