@@ -257,14 +257,18 @@ LEXICON PLURAL
                                                                CASE ;
 %<pl%>:%>се%{м%}                                               CASE ; 
 
-LEXICON POSS
+LEXICON POSS-PX
 
-                                                               PLURAL ;
 %<px1sg%>:%>%{ă%}м                                             PLURAL ;
 %<px2sg%>:%>%{U%}%{н%}                                         PLURAL ;
 %<px3sp%>:%>%{и%}%{н%}                                         PLURAL ;
 %<px1pl%>:%>%{ă%}м%{Ă%}р                                       PLURAL ;
 %<px2pl%>:%>%{Ĕ%}р                                             PLURAL ;
+
+LEXICON POSS
+
+                                                               PLURAL ;
+                                                               POSS-PX ;
 
 LEXICON SUBST-SKER
 ! Lexicon for words that can substantivise with -скер
@@ -463,6 +467,12 @@ LEXICON N-PL
 ! Noun in plural form in lexicon
 
 %<n%>%<pl%>:                                                   CASE ;
+
+LEXICON N-ONLY-POSS
+! Noun that do not have forms without possessive
+
+%<n%>:                                                         POSS-PX ;
+
 
 LEXICON N-COMPOUND-PX
 ! Lexicon for compound words with izafet (px3sp) that are introduced
@@ -8836,7 +8846,7 @@ LEXICON Nouns
 шӑл:шӑл            N-ĔŞ;!""
 шӑлавар:шӑлавар            N-ĔŞ;!""
 шалкӑм:шалкӑм            N-ĔŞ;!""
-шӑллӑм:шӑллӑм            N-ĔŞ;!""
+шӑллӑм:шӑл%{ː%}            N-ONLY-POSS; !"младше брат"
 шӑм:шӑм%{ː%}            N;!""
 шӑма:шӑма            N;!""
 шӑмӑ:шӑм%{ː%}ӑ            N;!""
