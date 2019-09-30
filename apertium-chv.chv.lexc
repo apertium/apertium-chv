@@ -257,13 +257,21 @@ LEXICON PLURAL
                                                                CASE ;
 %<pl%>:%>се%{м%}                                               CASE ; 
 
-LEXICON POSS-PX
+LEXICON POSS-P1X-P2X
 
 %<px1sg%>:%>%{ă%}м                                             PLURAL ;
 %<px2sg%>:%>%{U%}%{н%}                                         PLURAL ;
-%<px3sp%>:%>%{и%}%{н%}                                         PLURAL ;
 %<px1pl%>:%>%{ă%}м%{Ă%}р                                       PLURAL ;
 %<px2pl%>:%>%{Ĕ%}р                                             PLURAL ;
+
+LEXICON POSS-P3X
+
+%<px3sp%>:%>%{и%}%{н%}                                         PLURAL ;
+
+LEXICON POSS-PX
+
+                                                               POSS-P1X-P2X ;
+                                                               POSS-P3X ;
 
 LEXICON POSS
 
@@ -424,6 +432,10 @@ LEXICON NP-ANT-F-LN
 !LEXICON NP-ANT-F-RUS
 
 !:%{ъ%}                                                        NP-ANT-F ;
+
+LEXICON NP-ANT-F-U
+
+:%{в%}                                                         NP-ANT-F ;
 
 LEXICON NP-ANT-M-IJ
 
@@ -643,20 +655,48 @@ LEXICON POSS-ATTEANNE
 LEXICON POSS-HUNYAMA 
 
 :а                                                             PLURAL ;
-%<px1sg%>:а%>%{ă%}м                                            PLURAL ;
-%<px2sg%>:а%>%{U%}%{н%}                                        PLURAL ;
+:а                                                             POSS-P1X-P2X ;
 %<px3sp%>:ӑш%>%{и%}%{н%}                                       PLURAL ;
-%<px1pl%>:а%>%{ă%}м%{Ă%}р                                      PLURAL ;
-%<px2pl%>:а%>%{Ĕ%}р                                            PLURAL ;
 
 LEXICON POSS-HUNYAÇA 
 
 :ҫа                                                            PLURAL ;
-%<px1sg%>:ҫа%>%{ă%}м                                           PLURAL ;
-%<px2sg%>:ҫа%>%{U%}%{н%}                                       PLURAL ;
+:ҫа                                                            POSS-P1X-P2X ;
 %<px3sp%>:шш%>%{и%}%{н%}                                       PLURAL ;
-%<px1pl%>:ҫа%>%{ă%}м%{Ă%}р                                     PLURAL ;
-%<px2pl%>:ҫа%>%{Ĕ%}р                                           PLURAL ;
+
+LEXICON POSS-KUKAMAY 
+
+:ай                                                            PLURAL ;
+:ай                                                            POSS-P1X-P2X ;
+%<px3sp%>:ӑш%>%{и%}%{н%}                                       PLURAL ;
+
+LEXICON POSS-KUKAÇI 
+
+:ҫи%{й%}                                                       PLURAL ;
+:ҫи%{й%}                                                       POSS-P1X-P2X ;
+%<px3sp%>:шш%>%{и%}%{н%}                                       PLURAL ;
+
+LEXICON POSS-PIÇÇE 
+! Exactly like POSS-HUNYAMA, but with final e
+
+:е                                                             PLURAL ;
+:е                                                             POSS-P1X-P2X ;
+%<px3sp%>:ӗш%>%{и%}%{н%}                                       PLURAL ;
+
+LEXICON POSS-ASANNE 
+
+:анне                                                           PLURAL ;
+:анне                                                           POSS-P1X-P2X ;
+%<px3sp%>:ламӑш%>%{и%}%{н%}                                     PLURAL ;
+
+LEXICON POSS-ASATTE 
+
+:атте                                                           PLURAL ;
+%<px1sg%>:атте%>%{ă%}м                                          PLURAL ;
+%<px2sg%>:лаҫ%>%{U%}%{н%}                                       PLURAL ;
+%<px3sp%>:лашш%>%{и%}%{н%}                                      PLURAL ;
+%<px1pl%>:атте%>%{ă%}м%{Ă%}р                                    PLURAL ;
+%<px2pl%>:атте%>%{Ĕ%}р                                          PLURAL ;
 
 LEXICON N-ANNE 
 ! Special lexicon for the word "анне", irregular possessive forms
@@ -684,6 +724,31 @@ LEXICON N-HUNYAÇA
 ! Special lexicon for the word "хуняҫа", irregular px3sp form
 
 %<n%>:                                                         POSS-HUNYAÇA ; 
+
+LEXICON N-KUKAMAY
+! Special lexicon for the word "кукамай", irregular px3sp form
+
+%<n%>:                                                         POSS-KUKAMAY ; 
+
+LEXICON N-KUKAÇI
+! Special lexicon for the word "кукаҫи", irregular px3sp form
+
+%<n%>:                                                         POSS-KUKAÇI ; 
+
+LEXICON N-PIÇÇE
+! Special lexicon for the word "пичче", irregular px3sp form
+
+%<n%>:                                                         POSS-PIÇÇE ; 
+
+LEXICON N-ASANNE
+! Special lexicon for the word "aсанне", irregular px3sp form
+
+%<n%>:                                                         POSS-ASANNE ; 
+
+LEXICON N-ASATTE
+! Special lexicon for the word "aсатте", irregular possessive forms
+
+%<n%>:                                                         POSS-ASATTE ; 
 
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
@@ -7056,9 +7121,14 @@ LEXICON Nouns
 атте:а                               N-ATTE ;     ! "отец"
 атте-анне:а                          N-ATTEANNE ; ! "родители"
 хуняма:хуням                         N-HUNYAMA ;  ! "тёща, свекровь"
-хуняҫа:хуня                          N-HUNYAÇA;   ! "свёкор"
-аппа:апп                             N-HUNYAMA;   ! "старшая сестра"
+хуняҫа:хуня                          N-HUNYAÇA ;  ! "свёкор"
+аппа:апп                             N-HUNYAMA ;  ! "старшая сестра"
+кукамай:кукам                        N-KUKAMAY ;  ! "бабушка от матери"
+кукаҫи:кука                          N-KUKAÇI ;   ! "дедушка от матери"
+асанне:ас                            N-ASANNE ;   ! "бабушка по отцу"
+асатте:ас                            N-ASATTE ;   ! "дедушка по отцу"
 шӑллӑм:шӑл%{ː%}                      N-ONLY-POSS; ! "младший брат"
+пичче:пичч                           N-PIÇÇE ;    ! "старший брат"
 
 власть:вла                           N-VLAÇ ;     ! "власть"
 
@@ -7269,9 +7339,7 @@ LEXICON Nouns
 ӑс:ӑс            N-ĔŞ ;!""
 аҫа:аҫа            N;!""
 асам:асам            N-ĔŞ ;!""
-асанне:асанне            N;!"бабушка по отцу"
 асап:асап            N-ĔŞ ;!""
-асатте:асатте            N;!"дедушка по отцу"
 ӑскӑч:ӑскӑч            N-ĔŞ ;!""
 аслӑ% хула:аслӑ% хула            N ;!"столица"
 ӑслай:ӑслай            N-ĔŞ ;!""
@@ -7717,8 +7785,6 @@ LEXICON Nouns
 кремни:кремни N-INFORMACI;!""
 ксенон:ксенон N-BENZIN ;!"ксенон"
 куб:куб            N-ĔŞ ;!"куб"
-кукамай:кукамай            N-ĔŞ ;!"бабушка от матери"
-кукаҫи:кукаҫи N-INFORMACI;!"дедушка от матери"
 кукӑль:кук            N-KUKĂL;!""
 кукка:кукка            N;!"дядя от матери"
 кулӑ:кул%{ː%}ӑ            N;!"улыбка"
@@ -7991,7 +8057,6 @@ LEXICON Nouns
 пит:пит            N;!""
 пит-куҫ:пит-куҫ            N-ĔŞ;!""
 пичет:пичет            N;!""
-пичче:пичче            N;!""
 планета:планет%{а}            N;!""
 платина:платин%{а}            N;!""
 плутони:плутони N-INFORMACI;!""
@@ -40800,7 +40865,7 @@ M:M     NP-ANT-M;!""
 Алмагуль:Алмагуль     NP-ANT-F-LN;!""
 Алмазия:Алмазия     NP-ANT-F;!""
 Алсина:Алсина     NP-ANT-F;!""
-Алсу:Алсу     NP-ANT-F;!""
+Алсу:Алсу     NP-ANT-F-U;!""
 Алсугуль:Алсугуль     NP-ANT-F-LN;!""
 Алсылу:Алсылу     NP-ANT-F;!""
 Алтан:Алтан     NP-ANT-F;!""
@@ -40812,7 +40877,8 @@ M:M     NP-ANT-M;!""
 Алтынчеч:Алтынчеч     NP-ANT-F;!""
 Алчира:Алчира     NP-ANT-F;!""
 Алчечек:Алчечек     NP-ANT-F;!""
-Альбина:Альбина     NP-ANT-F;!""
+Альбина:Альбин%{а%}     NP-ANT-F;!""
+Алевтина:Алевтин%{а%}     NP-ANT-F;!""
 Альмира:Альмира     NP-ANT-F;!""
 Альфа:Альфа     NP-ANT-F;!""
 Альфина:Альфина     NP-ANT-F;!""
@@ -44370,6 +44436,7 @@ F:F     NP-ANT-F;!""
 
 Алёна:Алён%{а%} NP-ANT-F ; ! ""
 Алина:Алин%{а%} NP-ANT-F ; ! ""
+Алиса:Алис%{а%} NP-ANT-F ; ! ""
 Анастасия:Анастаси%{й%}я NP-ANT-F ; ! ""
 Вера:Вер%{а%} NP-ANT-F ; ! ""
 Дарья:Дарь%{й%}я NP-ANT-F ; ! ""
