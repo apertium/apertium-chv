@@ -1,0 +1,15 @@
+Config:
+  hfst:
+    App: hfst-optimised-lookup
+    Gen: ../chv.autogen.hfst
+    Morph: ../chv.automorf.hfst
+
+Tests:
+
+  "Сӑмах хуняҫа":
+    хуняҫа<n><nom> :  хуняҫа 
+    хуняҫа<n><px1sg><nom> :  хуняҫам 
+    хуняҫа<n><px2sg><nom> :  хуняҫу 
+    хуняҫа<n><px3sp><nom> :  хуняшшӗ 
+    хуняҫа<n><px1pl><nom> :  хуняҫамӑр 
+    хуняҫа<n><px2pl><nom> :  хуняҫӑр 

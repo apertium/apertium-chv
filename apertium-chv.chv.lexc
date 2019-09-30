@@ -641,13 +641,22 @@ LEXICON POSS-ATTEANNE
 %<px2pl%>:ҫӑр-анн%>ӗр                                          PLURAL ;
 
 LEXICON POSS-HUNYAMA 
-! хуняма does not have forms without possessive
 
-%<px1sg%>:%>а                                                  PLURAL ;
-%<px2sg%>:%>%{U%}%{н%}                                         PLURAL ;
+:а                                                             PLURAL ;
+%<px1sg%>:а%>%{ă%}м                                            PLURAL ;
+%<px2sg%>:а%>%{U%}%{н%}                                        PLURAL ;
 %<px3sp%>:ӑш%>%{и%}%{н%}                                       PLURAL ;
-%<px1pl%>:%>м%{Ă%}р                                            PLURAL ;
-%<px2pl%>:%>ӑр                                                 PLURAL ;
+%<px1pl%>:а%>%{ă%}м%{Ă%}р                                      PLURAL ;
+%<px2pl%>:а%>%{Ĕ%}р                                            PLURAL ;
+
+LEXICON POSS-HUNYAÇA 
+
+:ҫа                                                            PLURAL ;
+%<px1sg%>:ҫа%>%{ă%}м                                           PLURAL ;
+%<px2sg%>:ҫа%>%{U%}%{н%}                                       PLURAL ;
+%<px3sp%>:шш%>%{и%}%{н%}                                       PLURAL ;
+%<px1pl%>:ҫа%>%{ă%}м%{Ă%}р                                     PLURAL ;
+%<px2pl%>:ҫа%>%{Ĕ%}р                                           PLURAL ;
 
 LEXICON N-ANNE 
 ! Special lexicon for the word "анне", irregular possessive forms
@@ -666,9 +675,15 @@ LEXICON N-ATTEANNE
 
 
 LEXICON N-HUNYAMA
-! Special lexicon for the word "хуняма", irregular possessive forms
+! Special lexicon for the words "хуняма" and "аппа", irregular px3sp form
 
 %<n%>:                                                         POSS-HUNYAMA ; 
+
+
+LEXICON N-HUNYAÇA
+! Special lexicon for the word "хуняҫа", irregular px3sp form
+
+%<n%>:                                                         POSS-HUNYAÇA ; 
 
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
@@ -7040,7 +7055,9 @@ LEXICON Nouns
 анне:а                               N-ANNE ;     ! "мать"
 атте:а                               N-ATTE ;     ! "отец"
 атте-анне:а                          N-ATTEANNE ; ! "родители"
-хуняма:хуням                         N-HUNYAMA ;  ! "(моя) тёща, (моя) свекровь"
+хуняма:хуням                         N-HUNYAMA ;  ! "тёща, свекровь"
+хуняҫа:хуня                          N-HUNYAÇA;   ! "свёкор"
+аппа:апп                             N-HUNYAMA;   ! "старшая сестра"
 шӑллӑм:шӑл%{ː%}                      N-ONLY-POSS; ! "младший брат"
 
 власть:вла                           N-VLAÇ ;     ! "власть"
@@ -7228,7 +7245,6 @@ LEXICON Nouns
 апат-ҫимӗҫ:апат-ҫимӗҫ            N-ĔŞ ;!""
 апельсин:апельсин N-BENZIN ;!""
 апостол:апостол            N-ĔŞ ;!""
-аппа:аппа            N;!""
 апрель:апрель            N-SUPĂN ;!""
 ар% ҫын:ар% ҫын%{ː%}            N ;!""
 ар% тӑван:ар% тӑван            N-SUPĂN ;!""
@@ -60392,7 +60408,6 @@ KZ:KZ ABBR ; !""
 хӑрта:хӑрта N; ! src: Chuvash wordlist ""
 хӗн-нуша:хӗн-нуша N; ! src: Chuvash wordlist ""
 хирӗҫ-хура:хирӗҫ-хура N; ! src: Chuvash wordlist ""
-хуняҫа:хуняҫа N; ! src: Chuvash wordlist ""
 чашӑк-ҫӑпала:чашӑк-ҫӑпала N; ! src: Chuvash wordlist ""
 чӑлха-ҫӑпата:чӑлха-ҫӑпата N; ! src: Chuvash wordlist ""
 шӑла:шӑла N; ! src: Chuvash wordlist ""

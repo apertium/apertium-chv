@@ -1,0 +1,15 @@
+Config:
+  hfst:
+    App: hfst-optimised-lookup
+    Gen: ../chv.autogen.hfst
+    Morph: ../chv.automorf.hfst
+
+Tests:
+
+  "Сӑмах хуняма":
+    хуняма<n><nom> :  хуняма 
+    хуняма<n><px1sg><nom> :  хунямам 
+    хуняма<n><px2sg><nom> :  хуняму 
+    хуняма<n><px3sp><nom> :  хунямӑшӗ 
+    хуняма<n><px1pl><nom> :  хунямамӑр 
+    хуняма<n><px2pl><nom> :  хунямӑр 
