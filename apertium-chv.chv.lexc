@@ -473,7 +473,6 @@ LEXICON N-ONLY-POSS
 
 %<n%>:                                                         POSS-PX ;
 
-
 LEXICON N-COMPOUND-PX
 ! Lexicon for compound words with izafet (px3sp) that are introduced
 ! in the lexicon, e.g. "ача пахчи".
@@ -620,6 +619,15 @@ LEXICON POSS-ATTEANNE
 %<px1pl%>:тте-анне%>м%{Ă%}р                                    PLURAL ;
 %<px2pl%>:ҫӑр-анн%>ӗр                                          PLURAL ;
 
+LEXICON POSS-HUNYAMA 
+! хуняма does not have forms without possessive
+
+%<px1sg%>:%>а                                                  PLURAL ;
+%<px2sg%>:%>%{U%}%{н%}                                         PLURAL ;
+%<px3sp%>:ӑш%>%{и%}%{н%}                                       PLURAL ;
+%<px1pl%>:%>м%{Ă%}р                                            PLURAL ;
+%<px2pl%>:%>ӑр                                                 PLURAL ;
+
 LEXICON N-ANNE 
 ! Special lexicon for the word "анне", irregular possessive forms
 
@@ -634,6 +642,12 @@ LEXICON N-ATTEANNE
 ! Special lexicon for the word "атте-анне", irregular possessive forms
 
 %<n%>:                                                         POSS-ATTEANNE ; 
+
+
+LEXICON N-HUNYAMA
+! Special lexicon for the word "хуняма", irregular possessive forms
+
+%<n%>:                                                         POSS-HUNYAMA ; 
 
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
@@ -7005,6 +7019,8 @@ LEXICON Nouns
 анне:а                               N-ANNE ;     ! "мать"
 атте:а                               N-ATTE ;     ! "отец"
 атте-анне:а                          N-ATTEANNE ; ! "родители"
+хуняма:хуням                         N-HUNYAMA ;  ! "(моя) тёща, (моя) свекровь"
+шӑллӑм:шӑл%{ː%}                      N-ONLY-POSS; ! "младше брат"
 
 власть:вла                           N-VLAÇ ;     ! "власть"
 
@@ -8846,7 +8862,6 @@ LEXICON Nouns
 шӑл:шӑл            N-ĔŞ;!""
 шӑлавар:шӑлавар            N-ĔŞ;!""
 шалкӑм:шалкӑм            N-ĔŞ;!""
-шӑллӑм:шӑл%{ː%}            N-ONLY-POSS; !"младше брат"
 шӑм:шӑм%{ː%}            N;!""
 шӑма:шӑма            N;!""
 шӑмӑ:шӑм%{ː%}ӑ            N;!""
@@ -26794,6 +26809,8 @@ LEXICON Proper
 Коля:Кол%{й%}я                        NP-ANT-M ; ! ""
 Маша:Маш%{а%}                        NP-ANT-F ; ! ""
 Машук:Машук                        NP-ANT-F ; ! ""
+Лена:Лен%{а%}                        NP-ANT-F ; ! ""
+Ленук:Ленук                        NP-ANT-F ; ! ""
 Лида:Лид%{а%}                        NP-ANT-F ; ! ""
 Наталья:Наталь%{й%}я                 NP-ANT-F ; ! ""
 Наталия:Натали%{й%}я                 NP-ANT-F ; ! ""
@@ -26805,6 +26822,7 @@ LEXICON Proper
 Саша:Саш%{а%}                        NP-ANT-F ; ! ""
 Миша:Миш%{а%}                        NP-ANT-M ; ! ""
 Мишша:Мишш%{а%}                        NP-ANT-M ; ! ""
+Лёша:Лёш%{а%}                        NP-ANT-M ; ! ""
 Антон:Антон                        NP-ANT-M-LN-RUS ; ! ""
 Антун:Антун                        NP-ANT-M-LN ; ! ""
 Антонина:Антонин%{а%}                        NP-ANT-F ; ! ""
@@ -27080,6 +27098,8 @@ LEXICON Proper
 Валентина:Валентин%{а%} NP-ANT-F ; ! ""
 Ирина:Ирин%{а%} NP-ANT-F ; ! ""
 Виктория:Виктори%{й%}я NP-ANT-F ; ! ""
+Клавдия:Клавди%{й%}я NP-ANT-F ; ! ""
+Кира:Кир%{а%} NP-ANT-F ; ! ""
 
 Аля:Ал%{й%}я NP-ANT-F ; ! ""
 Аня:Ан%{й%}я NP-ANT-F ; ! ""
@@ -27118,6 +27138,7 @@ LEXICON Proper
 Этнер:Этнер NP-ANT-M ; ! ""
 Аслан:Аслан NP-ANT-M ; ! ""
 Сантӑр:Сантӑр NP-ANT-M ; ! ""
+Кирук:Кирук NP-ANT-M ; ! "Кирилл"
 Мишук:Мишук NP-ANT-M ; ! ""
 Сашук:Сашук NP-ANT-M ; ! ""
 Сашук:Сашук NP-ANT-F ; ! ""
@@ -27154,7 +27175,7 @@ LEXICON Proper
 Станислав:Станислав NP-ANT-M ; ! ""
 Иосиф:Иосиф NP-ANT-M-RUS ; ! ""
 Егор:Егор NP-ANT-M ; ! ""
-Максим:Максим NP-ANT-M ; ! ""
+Максим:Максим NP-ANT-M-RUS ; ! ""
 Валерий:Валери NP-ANT-M-IJ; ! ""
 Илья:Иль%{й%}я NP-ANT-M ; ! ""
 Кирилл:Кирилл NP-ANT-M-LN-RUS ; ! ""
@@ -34896,6 +34917,7 @@ LEXICON Proper
 да% Винчи:да% Винчи     NP-COG-MF;!""
 Московский:Московск  NP-COG-IJ ; ! ""
 Стоменский:Стоменск  NP-COG-IJ ; ! ""
+Павловский:Павловск  NP-COG-IJ ; ! ""
 Серебрянский:Серебрянск  NP-COG-IJ ; ! ""
 Тимошенко:Тимошенк  NP-COG-ENKO ; ! ""
 Предаченко:Предаченк  NP-COG-ENKO ; ! ""
@@ -44323,20 +44345,23 @@ F:F     NP-ANT-F;!""
 Полина:Полин%{а%} NP-ANT-F ; ! ""
 Анжелика:Анжелик%{а%} NP-ANT-F ; ! ""
 Анжелина:Анжелин%{а%} NP-ANT-F ; ! ""
+Ангелина:Ангелин%{а%} NP-ANT-F ; ! ""
 Мальвина:Мальвин%{а%} NP-ANT-F ; ! ""
 Инесса:Инесс%{а%} NP-ANT-F ; ! ""
 Лана:Лан%{а%} NP-ANT-F ; ! ""
+Рита:Рит%{а%} NP-ANT-F ; ! ""
 Арсений:Арсени NP-ANT-M-IJ; ! ""
-Борис:Борис NP-ANT-M ; ! ""
+Борис:Борис NP-ANT-M-RUS ; ! ""
+Вадим:Вадим NP-ANT-M-RUS ; ! ""
 Виктор:Виктор NP-ANT-M ; ! ""
 Владислав:Владислав NP-ANT-M ; ! ""
 Геннадий:Геннади NP-ANT-M-IJ; ! ""
-Денис:Денис NP-ANT-M ; ! ""
-Константин:Константин NP-ANT-M ; ! ""
-Леонид:Леонид NP-ANT-M ; ! ""
+Денис:Денис NP-ANT-M-RUS ; ! ""
+Константин:Константин NP-ANT-M-RUS ; ! ""
+Леонид:Леонид NP-ANT-M-RUS ; ! ""
 Никита:Никит%{а%} NP-ANT-M ; ! ""
-Олег:Олег NP-ANT-M ; ! ""
-Павел:Павел NP-ANT-M ; ! ""
+Олег:Олег NP-ANT-M-RUS ; ! ""
+Павел:Павел NP-ANT-M-RUS ; ! ""
 Пётр:Пётр NP-ANT-M ; ! ""
 Артём:Артём NP-ANT-M ; !""
 Африка:Африк%{а%} NP-ANT-F ; ! ""
