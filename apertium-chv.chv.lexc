@@ -8013,7 +8013,7 @@ LEXICON Nouns
 паллӑ% ячӗ:паллӑ% ячӗ            N-COMPOUND-PX ;!""
 паллӑ:паллӑ            N;!""
 пан% улми:пан% улми  N-COMPOUND-PX ;!""
-панулми:панулми N-INFORMACI;!""
+панулми:пан% улми N-INFORMACI;!""	! Dir/LR
 пӑнчӑ:пӑнчӑ            N;!""
 папка:папка            N;!""
 пӑр:пӑр            N-ĔŞ;!""
@@ -26958,6 +26958,7 @@ LEXICON Proper
 Лёша:Лёш%{а%}                        NP-ANT-M ; ! ""
 Антон:Антон                        NP-ANT-M-LN-RUS ; ! ""
 Антун:Антун                        NP-ANT-M-LN ; ! ""
+Андриян:Андриян                        NP-ANT-M-LN-RUS ; ! ""
 Антонина:Антонин%{а%}                        NP-ANT-F ; ! ""
 Николай:Николай                        NP-ANT-M ; ! ""
 Алексей:Алексей                      NP-ANT-M-EY-RUS ; ! ""
@@ -63179,7 +63180,9 @@ KZ:KZ ABBR ; !""
 икӗ% чӗлхелӗх:икӗ% чӗлхелӗх N-ĔŞ; ! src: Chuvash wordlist ""
 ик% уйӑхлӑх:ик% уйӑхлӑх N-ĔŞ; ! src: Chuvash wordlist ""
 ик% чӗвӗлӗх:ик% чӗвӗлӗх N-ĔŞ; ! src: Chuvash wordlist ""
+икчӗвӗлӗх:ик% чӗвӗлӗх N-ĔŞ; ! src: Chuvash wordlist ""		! Dir/LR
 ик% чӗлхелӗх:ик% чӗлхелӗх N-ĔŞ; ! src: Chuvash wordlist ""
+икчӗлхелӗх:ик% чӗлхелӗх N-ĔŞ; ! src: Chuvash wordlist ""	! Dir/LR
 йӑха% хываслӑх:йӑха% хываслӑх N-ĔŞ; ! src: Chuvash wordlist ""
 йӗркелесе% тӑраслӑх:йӗркелесе% тӑраслӑх N-ĔŞ; ! src: Chuvash wordlist ""
 кая% юлнӑлӑх:кая% юлнӑлӑх N-ĔŞ; ! src: Chuvash wordlist ""
