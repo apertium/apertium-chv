@@ -8013,7 +8013,7 @@ LEXICON Nouns
 паллӑ% ячӗ:паллӑ% ячӗ            N-COMPOUND-PX ;!""
 паллӑ:паллӑ            N;!""
 пан% улми:пан% улми  N-COMPOUND-PX ;!""
-панулми:пан% улми N-INFORMACI;!""	! Dir/LR
+пан% улми:панулми N-COMPOUND-PX ;!""	! Dir/LR
 пӑнчӑ:пӑнчӑ            N;!""
 папка:папка            N;!""
 пӑр:пӑр            N-ĔŞ;!""
@@ -9550,7 +9550,7 @@ LEXICON Nouns
 дан:дан N-BENZIN ; ! ""
 дар:дар N-ĔŞ ; ! ""
 дача:дач%{а%}  N ; ! ""
-дворянин:дворянин%{ъ%}  N ; ! "дворянин = nobleman"
+дворянин:дворянин  N-BENZIN ; ! "дворянин = nobleman"
 девиз:девиз N-IZM; ! ""
 девон:девон N-BENZIN ; ! ""
 декабрист:декабрист N-IZM; ! ""
@@ -26959,6 +26959,7 @@ LEXICON Proper
 Антон:Антон                        NP-ANT-M-LN-RUS ; ! ""
 Антун:Антун                        NP-ANT-M-LN ; ! ""
 Андриян:Андриян                        NP-ANT-M-LN-RUS ; ! ""
+Герман:Герман                        NP-ANT-M-LN-RUS ; ! ""
 Антонина:Антонин%{а%}                        NP-ANT-F ; ! ""
 Николай:Николай                        NP-ANT-M ; ! ""
 Алексей:Алексей                      NP-ANT-M-EY-RUS ; ! ""
@@ -44537,6 +44538,7 @@ F:F     NP-ANT-F;!""
 Надежда:Надежд%{а%} NP-ANT-F ; ! ""
 Нарспи:Нарспи NP-ANT-F ; ! ""
 Нина:Нин%{а%} NP-ANT-F ; ! ""
+Инна:Инн%{а%} NP-ANT-F ; ! ""
 Юлия:Юли%{й%}я NP-ANT-F ; ! ""
 Оксана:Оксан%{а%} NP-ANT-F ; ! ""
 Полина:Полин%{а%} NP-ANT-F ; ! ""
@@ -63180,9 +63182,9 @@ KZ:KZ ABBR ; !""
 икӗ% чӗлхелӗх:икӗ% чӗлхелӗх N-ĔŞ; ! src: Chuvash wordlist ""
 ик% уйӑхлӑх:ик% уйӑхлӑх N-ĔŞ; ! src: Chuvash wordlist ""
 ик% чӗвӗлӗх:ик% чӗвӗлӗх N-ĔŞ; ! src: Chuvash wordlist ""
-икчӗвӗлӗх:ик% чӗвӗлӗх N-ĔŞ; ! src: Chuvash wordlist ""		! Dir/LR
+ик% чӗвӗлӗх:икчӗвӗлӗх N-ĔŞ; ! src: Chuvash wordlist ""		! Dir/LR
 ик% чӗлхелӗх:ик% чӗлхелӗх N-ĔŞ; ! src: Chuvash wordlist ""
-икчӗлхелӗх:ик% чӗлхелӗх N-ĔŞ; ! src: Chuvash wordlist ""	! Dir/LR
+ик% чӗлхелӗх:икчӗлхелӗх N-ĔŞ; ! src: Chuvash wordlist ""	! Dir/LR
 йӑха% хываслӑх:йӑха% хываслӑх N-ĔŞ; ! src: Chuvash wordlist ""
 йӗркелесе% тӑраслӑх:йӗркелесе% тӑраслӑх N-ĔŞ; ! src: Chuvash wordlist ""
 кая% юлнӑлӑх:кая% юлнӑлӑх N-ĔŞ; ! src: Chuvash wordlist ""
