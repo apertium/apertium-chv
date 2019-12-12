@@ -35147,6 +35147,7 @@ LEXICON Proper
 Заволжский:Заволжск NP-COG-IJ;!""
 Макарский:Макарск NP-COG-IJ;!""
 Горький:Горьк NP-COG-IJ ; ! ""
+Хмельницкий:Хмельницк NP-COG-IJ ; ! ""
 
 да%<np%>%<cog%>%<mf%>%<nom%>:да # ; ! "да does not have any morphologic change"
 де%<np%>%<cog%>%<mf%>%<nom%>:де # ; ! "де does not have any morphologic change"
@@ -35170,6 +35171,7 @@ LEXICON Proper
 Андреас:Андреас NP-ANT-M-RUS ; 
 Антуан:Антуан NP-ANT-M-LN-RUS ; 
 Франклин:Франклин NP-ANT-M-LN-RUS ; 
+Богдан:Богдан NP-ANT-M-LN-RUS ; 
 
 Юрий:Юри NP-ANT-M-IJ; 
 
