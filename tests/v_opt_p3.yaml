@@ -1,0 +1,24 @@
+Config:
+  hfst:
+    App: hfst-optimised-lookup
+    Gen: ../chv.autogen.hfst
+    Morph: ../chv.automorf.hfst
+
+Tests:
+  "<opt><p3><sg>":
+    выля<v><tv><opt><p3><sg> : вылин
+    кай<v><iv><opt><p3><sg> : кайин
+    кала<v><tv><opt><p3><sg> : калин
+    кил<v><iv><opt><p3><sg> : килин
+    ҫи<v><tv><opt><p3><sg> : ҫийин
+    ту<v><tv><opt><p3><sg> : тӑвин
+    вӗре<v><iv><opt><p3><sg> : вӗрин
+    пуҫла<v><tv><opt><p3><sg> : пуҫлин
+  
+  "<opt><p3><pl>":
+    выля<v><tv><opt><p3><pl> : вылӗҫин
+    кай<v><iv><opt><p3><pl> : кайӗҫин
+    кала<v><tv><opt><p3><pl> : калӗҫин
+    кил<v><iv><opt><p3><pl> : килӗҫин
+    ҫи<v><tv><opt><p3><pl> : ҫийӗҫин
+    ту<v><tv><opt><p3><pl> : тӑвӗҫин
