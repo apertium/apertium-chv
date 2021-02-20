@@ -1,4 +1,5 @@
-_	_	loc|attr	_	_	_	Case=Loc	_
+_	np	loc|attr	_	_	_	Case=Loc	_
+_	n	loc|attr	_	_	_	Case=Loc	_
 _	_	abl	_	_	_	Case=Abl	_
 _	_	acc	_	_	_	Case=Acc	_
 _	_	al	_	_	_	_	_
@@ -52,6 +53,7 @@ _	_	mf	_	_	_	_	_
 _	_	m	_	_	_	Gender=Masc	_
 _	_	neg	_	_	_	Polarity=Neg	_
 _	_	nom	_	_	_	Case=Nom	_
+_	_	abe	_	_	_	Case=Abe	_
 _	_	opt	_	_	_	VerbForm=Fin|Mood=Opt	_
 _	num	ord	amod	_	NUM	NumType=Ord	_
 _	num	ord	_	_	NUM	NumType=Ord	_

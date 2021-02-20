@@ -1,4 +1,4 @@
-# sent_id = 
+# sent_id = kaleidoskop:01
 # text = Шупашкарти «Калейдоскоп» ача пахчи лицензисӗрех ӗҫленӗ.
 # text[rus] = 
 # labels = incomplete
@@ -13,17 +13,16 @@
 "<ача>"
 	"ача" n nom @compound:poss #5->6
 "<пахчи>"
-	"пахча" n px3sp nom @nsubj #6->10
+	"пахча" n px3sp nom @nsubj #6->9
 "<лицензисӗрех>"
-	"лицензи" n nom @obl #7->10
-		"сӑр" post @case #8->7
-			"ах" mod @discourse #9->7
+	"лицензи" n abe @obl #7->9
+		"ах" mod @discourse #8->7
 "<ӗҫленӗ>"
-	"ӗҫле" v tv past evid @root #10->0
+	"ӗҫле" v tv past evid @root #9->0
 "<.>"
-	"." sent @punct #11->10
+	"." sent @punct #10->9
 
-# sent_id =
+# sent_id = kaleidoskop:02
 # text =
 # text[rus] =
 # labels = incomplete
@@ -54,7 +53,7 @@
 "<.>"
 	"." sent
 
-# sent_id =
+# sent_id = kaleidoskop:03
 # text =
 # text[rus] =
 # labels = incomplete
@@ -81,7 +80,7 @@
 "<.>"
 	"." sent @punct #11->10
 
-# sent_id =
+# sent_id = kaleidoskop:04
 # text =
 # text[rus] =
 # labels = incomplete
@@ -118,7 +117,7 @@
 "<.>"
 	"." sent @punct #16->15
 
-# sent_id =
+# sent_id = kaleidoskop:05
 # text =
 # text[rus] =
 # labels = incomplete
@@ -133,7 +132,7 @@
 "<.>"
 	"." sent @punct #5->2
 
-# sent_id =
+# sent_id = kaleidoskop:06
 # text =
 # text[rus] =
 # labels = incomplete
@@ -180,7 +179,7 @@
 "<.>"
 	"." sent
 
-# sent_id =
+# sent_id = kaleidoskop:07
 # text =
 # text[rus] =
 # labels = incomplete
@@ -207,7 +206,7 @@
 "<.>"
 	"." sent @punct #10->9
 
-# sent_id =
+# sent_id = kaleidoskop:08
 # text =
 # text[rus] =
 # labels = incomplete
@@ -240,7 +239,7 @@
 "<.>"
 	"." sent @punct
 
-# sent_id =
+# sent_id = kaleidoskop:09
 # text =
 # text[rus] =
 # labels = incomplete
@@ -283,7 +282,7 @@
 "<.>"
 	"." sent
 
-# sent_id =
+# sent_id = kaleidoskop:10
 # text =
 # text[rus] =
 # labels = incomplete
@@ -319,7 +318,7 @@
 "<.>"
 	"." sent
 
-# sent_id =
+# sent_id = kaleidoskop:11
 # text =
 # text[rus] =
 # labels = incomplete
@@ -348,7 +347,7 @@
 "<.>"
 	"." sent
 
-# sent_id =
+# sent_id = kaleidoskop:12
 # text = Прокуратура тӗрӗсленӗ тӑрӑх надзор органӗ Шупашкар хула администрацийӗн пуҫлӑхӗ ячӗпе асӑрхаттару хучӗ шӑрҫаланӑ.
 # text[rus] =
 # labels = incomplete
@@ -391,7 +390,7 @@
 "<.>"
 	"." sent @punct
 
-# sent_id =
+# sent_id = kaleidoskop:13
 # text =
 # text[rus] =
 # labels = incomplete
