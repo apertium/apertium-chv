@@ -1,6 +1,6 @@
 AC_PREREQ(2.52)
 
-AC_INIT([Apertium Chuvash], [0.1.0], [francis.tyers@gmail.com], [apertium-chv], [http://wiki.apertium.org/wiki/Apertium-chv])
+AC_INIT([Apertium Chuvash], [0.1.0], [francis.tyers@gmail.com], [apertium-chv], [https://wiki.apertium.org/wiki/Apertium-chv])
 AM_INIT_AUTOMAKE
 
 AC_PROG_LN_S
