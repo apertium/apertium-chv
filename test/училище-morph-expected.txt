@@ -1,0 +1,190 @@
+[-PFG1Kw-NbF3#0] ^училищисенчен/училище<n><px3sp><pl><abl>$
+[/-PFG1Kw-NbF3]
+[16w9AJP5c-7U#0] ^училищӗмсемшӗн/училище<n><px1sg><pl><ter>$
+[/16w9AJP5c-7U]
+[1tXEwBsLc5Dp#0] ^училищӗрсенчен/училище<n><px2pl><pl><abl>$
+[/1tXEwBsLc5Dp]
+[236nDgbGz7QY#0] ^училищӗшӗн/училище<n><ter>$
+[/236nDgbGz7QY]
+[2VQllehuqR41#0] ^училищӗмӗрӗн/училище<n><px1pl><gen>$
+[/2VQllehuqR41]
+[2j-bAbGx8a37#0] ^училищипе/училище<n><px3sp><ins>$
+[/2j-bAbGx8a37]
+[3KvdiQblo0CN#0] ^училищӗмӗр/училище<n><px1pl><nom>$
+[/3KvdiQblo0CN]
+[4KtKX9OwjSRh#0] ^училищӗсенчен/училище<n><pl><abl>$
+[/4KtKX9OwjSRh]
+[4WsDT4Zd8DpG#0] ^училищӗн/училище<n><gen>$
+[/4WsDT4Zd8DpG]
+[5KuJ6Vk-NDFp#0] ^училищӗсене/училище<n><pl><dat>$
+[/5KuJ6Vk-NDFp]
+[5LUbH0GFdKOo#0] ^училищисен/училище<n><px3sp><pl><gen>$
+[/5LUbH0GFdKOo]
+[5XKArzYZ-AZJ#0] ^училищӳне/училище<n><px2sg><dat>$
+[/5XKArzYZ-AZJ]
+[5ZulpZfUVCq7#0] ^училищӗсемсӗр/училище<n><pl>+сӑр<post>$
+[/5ZulpZfUVCq7]
+[63l-5S51jH0l#0] ^училищӳпе/училище<n><px2sg><ins>$
+[/63l-5S51jH0l]
+[69OkBL2eCGaN#0] ^училищӗрпе/училище<n><px2pl><ins>$
+[/69OkBL2eCGaN]
+[6X6arM1hTch9#0] ^училищӳнте/училище<n><px2sg><loc>$
+[/6X6arM1hTch9]
+[7Zuqso0UY_zy#0] ^училищӗмпе/училище<n><px1sg><ins>$
+[/7Zuqso0UY_zy]
+[8WoT1SRcqHqx#0] ^училищӗмӗрсене/училище<n><px1pl><pl><dat>$
+[/8WoT1SRcqHqx]
+[9FpoTY7LN1Ji#0] ^училищӗрсене/училище<n><px2pl><pl><dat>$
+[/9FpoTY7LN1Ji]
+[9XYgjxLavoJk#0] ^училищӗр/училище<n><px2pl><nom>$
+[/9XYgjxLavoJk]
+[9z26zRKVc9zz#0] ^училищӗне/училище<n><dat>$
+[/9z26zRKVc9zz]
+[Af2cJCfcekhN#0] ^училищӗмсенчен/училище<n><px1sg><pl><abl>$
+[/Af2cJCfcekhN]
+[B36Ov2ircArI#0] ^училищисемшӗн/училище<n><px3sp><pl><ter>$
+[/B36Ov2ircArI]
+[B8exOLulKYYx#0] ^училищӗмӗрпе/училище<n><px1pl><ins>$
+[/B8exOLulKYYx]
+[B8rAC76rIZvu#0] ^училищӗртен/училище<n><px2pl><abl>$
+[/B8rAC76rIZvu]
+[BCSX7E9-tbik#0] ^училищӳнтен/училище<n><px2sg><abl>$
+[/BCSX7E9-tbik]
+[BWfIMc6T335S#0] ^училищӗрсемшӗн/училище<n><px2pl><pl><ter>$
+[/BWfIMc6T335S]
+[Cmee9sNHx6mh#0] ^училищӗмрен/училище<n><px1sg><abl>$
+[/Cmee9sNHx6mh]
+[DswsmTjeexWh#0] ^училищишӗн/училище<n><px3sp><ter>$
+[/DswsmTjeexWh]
+[ECYkc2R-vOI5#0] ^училищӗмӗрте/училище<n><px1pl><loc>$
+[/ECYkc2R-vOI5]
+[GsXE2JwOR6-O#0] ^училищи/училище<n><px3sp><nom>$
+[/GsXE2JwOR6-O]
+[HHihms59LmhO#0] ^училищӳсемшӗн/училище<n><px2sg><pl><ter>$
+[/HHihms59LmhO]
+[HZtYKoo5hWOo#0] ^училищӳсене/училище<n><px2sg><pl><dat>$
+[/HZtYKoo5hWOo]
+[I10Ysnd1ID4E#0] ^училищӳсенче/училище<n><px2sg><pl><loc>$
+[/I10Ysnd1ID4E]
+[I2nqYUofWjD3#0] ^училищисемсӗр/училище<n><px3sp><pl>+сӑр<post>$
+[/I2nqYUofWjD3]
+[IOBBJUWmF9uU#0] ^училищӗмшӗн/училище<n><px1sg><ter>$
+[/IOBBJUWmF9uU]
+[J9rmCkR2qRGE#0] ^училищӗрӗн/училище<n><px2pl><gen>$
+[/J9rmCkR2qRGE]
+[LCZqDlAhQxIT#0] ^училищӗсем/училище<n><pl><nom>$
+[/LCZqDlAhQxIT]
+[LCjmmteBTnNK#0] ^училищӳсем/училище<n><px2sg><pl><nom>$
+[/LCjmmteBTnNK]
+[LzbufoiPb_Y9#0] ^училищисӗр/училище<n><px3sp>+сӑр<post>$
+[/LzbufoiPb_Y9]
+[MZzD0OmNJTW0#0] ^училищӗмсӗр/училище<n><px1sg>+сӑр<post>$
+[/MZzD0OmNJTW0]
+[NAVHaWSmKIKa#0] ^училищӳсемпе/училище<n><px2sg><pl><ins>$
+[/NAVHaWSmKIKa]
+[NhBp8cFhi9Hs#0] ^училищӗмсемсӗр/училище<n><px1sg><pl>+сӑр<post>$
+[/NhBp8cFhi9Hs]
+[O9N85MSWu6kn#0] ^училищӗмӗрсем/училище<n><px1pl><pl><nom>$
+[/O9N85MSWu6kn]
+[OM2e6vlKghtx#0] ^училищӳсӗр/училище<n><px2sg>+сӑр<post>$
+[/OM2e6vlKghtx]
+[OoVhKlbD8Si3#0] ^училищӗрсен/училище<n><px2pl><pl><gen>$
+[/OoVhKlbD8Si3]
+[Oqil_YA-yNWD#0] ^училищӳшӗн/училище<n><px2sg><ter>$
+[/Oqil_YA-yNWD]
+[QBaJSIP8cxlu#0] ^училищӗмӗрсемсӗр/училище<n><px1pl><pl>+сӑр<post>$
+[/QBaJSIP8cxlu]
+[RS6SagM_qtQm#0] ^училищӗмӗре/училище<n><px1pl><dat>$
+[/RS6SagM_qtQm]
+[S-JdSD41zQws#0] ^училищӗмӗрсемшӗн/училище<n><px1pl><pl><ter>$
+[/S-JdSD41zQws]
+[TGSO_onRWZ8y#0] ^училищине/училище<n><px3sp><dat>$
+[/TGSO_onRWZ8y]
+[TSNzTvlTuzVH#0] ^училищӗрсемсӗр/училище<n><px2pl><pl>+сӑр<post>$
+[/TSNzTvlTuzVH]
+[TdKs_cszsXfP#0] ^училищӗмсемпе/училище<n><px1sg><pl><ins>$
+[/TdKs_cszsXfP]
+[UERccXz77kj0#0] ^училище/училище<n><attr>/училище<n><nom>$
+[/UERccXz77kj0]
+[W3zLM5AIHl-v#0] ^училищӗрте/училище<n><px2pl><loc>$
+[/W3zLM5AIHl-v]
+[WWhnyAo84w4v#0] ^училищӳсемсӗр/училище<n><px2sg><pl>+сӑр<post>$
+[/WWhnyAo84w4v]
+[WoJDjiGxpj-L#0] ^училищисене/училище<n><px3sp><pl><dat>$
+[/WoJDjiGxpj-L]
+[X6hGQVUcD5Wy#0] ^училищӗрсем/училище<n><px2pl><pl><nom>$
+[/X6hGQVUcD5Wy]
+[XCGNfDgky_qe#0] ^училищӗпе/училище<n><ins>$
+[/XCGNfDgky_qe]
+[YcQK-d3lwX4Z#0] ^училищӗмӗрсенче/училище<n><px1pl><pl><loc>$
+[/YcQK-d3lwX4Z]
+[Ykzeut0t8Jpv#0] ^училищӳ/училище<n><px2sg><nom>$
+[/Ykzeut0t8Jpv]
+[ZIyPU61bUbGO#0] ^училищӗмсем/училище<n><px1sg><pl><nom>$
+[/ZIyPU61bUbGO]
+[_K_ZEIy-oTN_#0] ^училищӗмӗн/училище<n><px1sg><gen>$
+[/_K_ZEIy-oTN_]
+[_SMsYY-iaXIi#0] ^училищисемпе/училище<n><px3sp><pl><ins>$
+[/_SMsYY-iaXIi]
+[_YelUBYbMj5z#0] ^училищӗрен/училище<n><abl>$
+[/_YelUBYbMj5z]
+[b5iF8bJwN_td#0] ^училищисенче/училище<n><px3sp><pl><loc>$
+[/b5iF8bJwN_td]
+[dNlt9RvgoREi#0] ^училищинче/училище<n><px3sp><loc>$
+[/dNlt9RvgoREi]
+[eCUYQcWM5ldg#0] ^училищӗмӗрсен/училище<n><px1pl><pl><gen>$
+[/eCUYQcWM5ldg]
+[fJ7t45-ZPff3#0] ^училищӗмӗртен/училище<n><px1pl><abl>$
+[/fJ7t45-ZPff3]
+[hA7nreIQyR-V#0] ^училищӗмӗрсӗр/училище<n><px1pl>+сӑр<post>$
+[/hA7nreIQyR-V]
+[hMgezEuXOQ16#0] ^училищӗршӗн/училище<n><px2pl><ter>$
+[/hMgezEuXOQ16]
+[hO2jk0LTtpQ8#0] ^училищӗсемшӗн/училище<n><pl><ter>$
+[/hO2jk0LTtpQ8]
+[hk6WNAwdKLhL#0] ^училищӗмӗрсемпе/училище<n><px1pl><pl><ins>$
+[/hk6WNAwdKLhL]
+[jTGOQXB4HA-A#0] ^училищӗмӗршӗн/училище<n><px1pl><ter>$
+[/jTGOQXB4HA-A]
+[jjg7w6g1NoFk#0] ^училищӗмсенче/училище<n><px1sg><pl><loc>$
+[/jjg7w6g1NoFk]
+[jxcpXuQIy3xM#0] ^училищӗре/училище<n><loc>/училище<n><px2pl><dat>$
+[/jxcpXuQIy3xM]
+[k6gzGZ19GchU#0] ^училищӳсенчен/училище<n><px2sg><pl><abl>$
+[/k6gzGZ19GchU]
+[krDF6ubaUKEX#0] ^училищӗмсен/училище<n><px1sg><pl><gen>$
+[/krDF6ubaUKEX]
+[lxwPFSoETEj0#0] ^училищӗрсенче/училище<n><px2pl><pl><loc>$
+[/lxwPFSoETEj0]
+[nDxQ-ASKN-2m#0] ^училищӗм/училище<n><px1sg><nom>$
+[/nDxQ-ASKN-2m]
+[nvfM1tpZKykD#0] ^училищӗсен/училище<n><pl><gen>$
+[/nvfM1tpZKykD]
+[pnGg7Vq4cz8w#0] ^училищисем/училище<n><px3sp><pl><nom>$
+[/pnGg7Vq4cz8w]
+[pnjYys2gsbXH#0] ^училищинчен/училище<n><px3sp><abl>$
+[/pnjYys2gsbXH]
+[qwbJ4smZEJvi#0] ^училищӗрсӗр/училище<n><px2pl>+сӑр<post>$
+[/qwbJ4smZEJvi]
+[rK08FMvDw8jz#0] ^училищӗме/училище<n><px1sg><dat>$
+[/rK08FMvDw8jz]
+[rQgHoShkFTr5#0] ^училищӗмре/училище<n><px1sg><loc>$
+[/rQgHoShkFTr5]
+[rhlLfwAJZne8#0] ^училищӗсемпе/училище<n><pl><ins>$
+[/rhlLfwAJZne8]
+[tAOi_ubuOJ59#0] ^училищӗмӗрсенчен/училище<n><px1pl><pl><abl>$
+[/tAOi_ubuOJ59]
+[tAdvKNsdlb-5#0] ^училищӳн/училище<n><px2sg><gen>$
+[/tAdvKNsdlb-5]
+[tUxp1b2YctDN#0] ^училищин/училище<n><px3sp><gen>$
+[/tUxp1b2YctDN]
+[tnuSoznsmQcf#0] ^училищӳсен/училище<n><px2sg><pl><gen>$
+[/tnuSoznsmQcf]
+[v6utOob98UIa#0] ^училищӗрсемпе/училище<n><px2pl><pl><ins>$
+[/v6utOob98UIa]
+[vRI7HuyJie5A#0] ^училищӗмсене/училище<n><px1sg><pl><dat>$
+[/vRI7HuyJie5A]
+[wfPJhlXeVxlZ#0] ^училищӗсенче/училище<n><pl><loc>$
+[/wfPJhlXeVxlZ]
+[yAlxSZpT8HMQ#0] ^училищӗсӗр/училище<n>+сӑр<post>$
+[/yAlxSZpT8HMQ]

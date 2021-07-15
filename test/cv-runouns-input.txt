@@ -1,0 +1,54 @@
+# Russian nouns that behave normally
+стена
+стенан
+стенана
+стенара
+стенаран
+стенапа
+стенасӑр
+стенашӑн
+# Russian nouns that have reduced back vowels
+сцена
+сценӑн
+сценӑна
+сценӑра
+сценӑран
+сценӑпа
+сценӑсӑр
+сценӑшӑн
+# Russian nouns with blocked vowel harmony
+музей
+музейӑн
+музея
+музейра
+музейран
+музейпа
+музейсӑр
+музейшӑн
+# Russian nouns that have reduced front vowels
+училище
+училищӗн
+училищӗне
+училищӗре
+училищӗрен
+училищӗпе
+училищӗсӗр
+училищӗшӗн
+# Russian nouns with reduced back vowels and ь
+Петя
+Петьӑн
+Петьӑна
+Петьӑра
+Петьӑран
+Петьӑпа
+Петьӑсӑр
+Петьӑшӑн
+# Russian nouns with reduced front vowels and ь
+платье
+платйӗн
+платйӗне
+платйӗре
+платйӗрен
+платйӗпе
+платйӗсӗр
+платйӗшӗн

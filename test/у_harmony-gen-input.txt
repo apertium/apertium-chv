@@ -1,0 +1,12 @@
+# Regular У harmony
+^ял<n><px2sg><nom>$
+^ывӑл<n><px2sg><nom>$
+^тӗн<n><px2sg><nom>$
+^ҫерем<n><px2sg><nom>$
+# У harmony for words ending in vowels
+^кӗсье<n><px2sg><nom>$
+^анне<n><px2sg><nom>$
+^училище<n><px2sg><dat>$
+# У harmony for words ending in ь
+^супӑнь<n><px2sg><nom>$
+^тетрадь<n><px2sg><nom>$

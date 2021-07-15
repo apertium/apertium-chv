@@ -1,0 +1,188 @@
+[-YwFzTFOQpFj#0] ^июльтен/июль<n><abl>$
+[/-YwFzTFOQpFj]
+[00zn0qJOqdMd#0] ^июлӗсемсӗр/июль<n><px3sp><pl>+сӑр<post>$
+[/00zn0qJOqdMd]
+[3_NEM1xVWC3T#0] ^июлӗнче/июль<n><px3sp><loc>$
+[/3_NEM1xVWC3T]
+[3lUp7z2X7u3x#0] ^июлӗмре/июль<n><px1sg><loc>$
+[/3lUp7z2X7u3x]
+[3lXgZpnOE6ro#0] ^июлӗрсене/июль<n><px2pl><pl><dat>$
+[/3lXgZpnOE6ro]
+[4mauoCJpWRY2#0] ^июлӳсӗр/июль<n><px2sg>+сӑр<post>$
+[/4mauoCJpWRY2]
+[4qCl8IWquDQk#0] ^июлӗмӗрсӗр/июль<n><px1pl>+сӑр<post>$
+[/4qCl8IWquDQk]
+[6hYBW9UQuUJx#0] ^июлӗм/июль<n><px1sg><nom>$
+[/6hYBW9UQuUJx]
+[7Skbd9LClutx#0] ^июлӗсемшӗн/июль<n><px3sp><pl><ter>$
+[/7Skbd9LClutx]
+[8OVK_0dtiBNf#0] ^июлӗсенче/июль<n><px3sp><pl><loc>$
+[/8OVK_0dtiBNf]
+[AIIpZIoxu0Fk#0] ^июлӗсене/июль<n><px3sp><pl><dat>$
+[/AIIpZIoxu0Fk]
+[AX0N-lk1egmV#0] ^июлӗмӗрсен/июль<n><px1pl><pl><gen>$
+[/AX0N-lk1egmV]
+[BjAXxXTEs64r#0] ^июлӗмсӗр/июль<n><px1sg>+сӑр<post>$
+[/BjAXxXTEs64r]
+[Cf2GdlxNvkDv#0] ^июлӗрсенчен/июль<n><px2pl><pl><abl>$
+[/Cf2GdlxNvkDv]
+[DZ7ByjdmXGRY#0] ^июлӗрсемпе/июль<n><px2pl><pl><ins>$
+[/DZ7ByjdmXGRY]
+[FHVc1cAuAlkX#0] ^июлӗмӗрсемпе/июль<n><px1pl><pl><ins>$
+[/FHVc1cAuAlkX]
+[FvZUJuXb6pVd#0] ^июльсемшӗн/июль<n><pl><ter>$
+[/FvZUJuXb6pVd]
+[GagyX-klk3bx#0] ^июлӗмӗрсем/июль<n><px1pl><pl><nom>$
+[/GagyX-klk3bx]
+[GyFiyFIyCyi6#0] ^июлӗмсемшӗн/июль<n><px1sg><pl><ter>$
+[/GyFiyFIyCyi6]
+[HjkIjScRBfkX#0] ^июлӗсем/июль<n><px3sp><pl><nom>$
+[/HjkIjScRBfkX]
+[IHLa1p62Bheo#0] ^июлӗмсем/июль<n><px1sg><pl><nom>$
+[/IHLa1p62Bheo]
+[J-o-4yiOwRW1#0] ^июлӗр/июль<n><px2pl><nom>$
+[/J-o-4yiOwRW1]
+[JIGTbz8NWEeA#0] ^июльсемсӗр/июль<n><pl>+сӑр<post>$
+[/JIGTbz8NWEeA]
+[JYY3JXXU_vPj#0] ^июльсемпе/июль<n><pl><ins>$
+[/JYY3JXXU_vPj]
+[KB7n8n6sXN9_#0] ^июлӳ/июль<n><px2sg><nom>$
+[/KB7n8n6sXN9_]
+[KTM-GJEo39Bj#0] ^июлӳсенчен/июль<n><px2sg><pl><abl>$
+[/KTM-GJEo39Bj]
+[KcqR6ghalHo2#0] ^июлӗмсенчен/июль<n><px1sg><pl><abl>$
+[/KcqR6ghalHo2]
+[KvLscecjR4Fz#0] ^июлӗмрен/июль<n><px1sg><abl>$
+[/KvLscecjR4Fz]
+[KxiqQqB4sNFA#0] ^июльсен/июль<n><pl><gen>$
+[/KxiqQqB4sNFA]
+[LAoc5_aJZdAZ#0] ^июлӗнчен/июль<n><px3sp><abl>$
+[/LAoc5_aJZdAZ]
+[Lyk3qfG2bpQR#0] ^июлӳшӗн/июль<n><px2sg><ter>$
+[/Lyk3qfG2bpQR]
+[MGI_h9-FJFKH#0] ^июлӗмсемпе/июль<n><px1sg><pl><ins>$
+[/MGI_h9-FJFKH]
+[MoI4_GudntY4#0] ^июлӗмӗршӗн/июль<n><px1pl><ter>$
+[/MoI4_GudntY4]
+[Ncr22psJ8N7u#0] ^июлӗмӗрте/июль<n><px1pl><loc>$
+[/Ncr22psJ8N7u]
+[NyM94rsTBguI#0] ^июлӗмӗрсемсӗр/июль<n><px1pl><pl>+сӑр<post>$
+[/NyM94rsTBguI]
+[NzVgP2rqAX55#0] ^июльсенче/июль<n><pl><loc>$
+[/NzVgP2rqAX55]
+[P5ei37j7FiIH#0] ^июлӗмпе/июль<n><px1sg><ins>$
+[/P5ei37j7FiIH]
+[PrHc-rxhHzn8#0] ^июлӗршӗн/июль<n><px2pl><ter>$
+[/PrHc-rxhHzn8]
+[Q5VCZLMJYFUx#0] ^июлӗрсем/июль<n><px2pl><pl><nom>$
+[/Q5VCZLMJYFUx]
+[QmufEPe5HKcf#0] ^июлӗме/июль<n><px1sg><dat>$
+[/QmufEPe5HKcf]
+[Rhpva3myhdhK#0] ^июлӗсӗр/июль<n><px3sp>+сӑр<post>$
+[/Rhpva3myhdhK]
+[S2u725HQdSbX#0] ^июлӗрпе/июль<n><px2pl><ins>$
+[/S2u725HQdSbX]
+[S_H5IeyV2OEH#0] ^июлӗмӗрӗн/июль<n><px1pl><gen>$
+[/S_H5IeyV2OEH]
+[SfaoA011bhW7#0] ^июлӳсемшӗн/июль<n><px2sg><pl><ter>$
+[/SfaoA011bhW7]
+[ShCNKA3Io3t4#0] ^июль/июль<n><attr>/июль<n><nom>$
+[/ShCNKA3Io3t4]
+[T5aP99SAUThf#0] ^июлӳсенче/июль<n><px2sg><pl><loc>$
+[/T5aP99SAUThf]
+[TEF-Ww_RTkhK#0] ^июльсӗр/июль<n>+сӑр<post>$
+[/TEF-Ww_RTkhK]
+[U9meF9tTzZtT#0] ^июлӳнте/июль<n><px2sg><loc>$
+[/U9meF9tTzZtT]
+[WWXUlthK5lyW#0] ^июлӗрӗн/июль<n><px2pl><gen>$
+[/WWXUlthK5lyW]
+[WwGiadAZfA3l#0] ^июлӗртен/июль<n><px2pl><abl>$
+[/WwGiadAZfA3l]
+[Y9qxCus_Zk29#0] ^июлӗмӗре/июль<n><px1pl><dat>$
+[/Y9qxCus_Zk29]
+[YWehemRciavJ#0] ^июльсем/июль<n><pl><nom>$
+[/YWehemRciavJ]
+[YXr9qlVLIQ00#0] ^июлӗмӗртен/июль<n><px1pl><abl>$
+[/YXr9qlVLIQ00]
+[Z7FQpeA9xwCl#0] ^июлӗрте/июль<n><px2pl><loc>$
+[/Z7FQpeA9xwCl]
+[ZaPGrnUHOl5R#0] ^июльте/июль<n><loc>$
+[/ZaPGrnUHOl5R]
+[Ze6JG-MTtHUE#0] ^июлӗмсенче/июль<n><px1sg><pl><loc>$
+[/Ze6JG-MTtHUE]
+[ZgUe_wii5jql#0] ^июльшӗн/июль<n><ter>$
+[/ZgUe_wii5jql]
+[_AxF4CIZxsb7#0] ^июлӗрсемшӗн/июль<n><px2pl><pl><ter>$
+[/_AxF4CIZxsb7]
+[_lLxOCJuIi0H#0] ^июльсене/июль<n><pl><dat>$
+[/_lLxOCJuIi0H]
+[bIIIKhcpPFFn#0] ^июлӗмсене/июль<n><px1sg><pl><dat>$
+[/bIIIKhcpPFFn]
+[bed5743cDq0N#0] ^июлӗ/июль<n><px3sp><nom>$
+[/bed5743cDq0N]
+[cXyU2YFKBxYs#0] ^июлӳн/июль<n><px2sg><gen>$
+[/cXyU2YFKBxYs]
+[dALCDPmhAxZJ#0] ^июлӳнтен/июль<n><px2sg><abl>$
+[/dALCDPmhAxZJ]
+[fAJoQ8z8uF6j#0] ^июлӳсемпе/июль<n><px2sg><pl><ins>$
+[/fAJoQ8z8uF6j]
+[fBlpLbmsRlAv#0] ^июлӗсенчен/июль<n><px3sp><pl><abl>$
+[/fBlpLbmsRlAv]
+[hSg1JzTxNAtB#0] ^июльне/июль<n><px3sp><dat>/июль<n><px2sg><dat>$
+[/hSg1JzTxNAtB]
+[hW-8arGZb0rT#0] ^июлӗре/июль<n><px2pl><dat>$
+[/hW-8arGZb0rT]
+[ihcDfbTZgUey#0] ^июлӗмшӗн/июль<n><px1sg><ter>$
+[/ihcDfbTZgUey]
+[jHo2-AVKcmDw#0] ^июльпе/июль<n><ins>$
+[/jHo2-AVKcmDw]
+[jbyCnD9ROxKU#0] ^июлӗрсӗр/июль<n><px2pl>+сӑр<post>$
+[/jbyCnD9ROxKU]
+[oAq303jvQZWK#0] ^июлӗмӗрсенчен/июль<n><px1pl><pl><abl>$
+[/oAq303jvQZWK]
+[oEeFWj25ddud#0] ^июлӗмӗрсемшӗн/июль<n><px1pl><pl><ter>$
+[/oEeFWj25ddud]
+[oyIgPPShmFEQ#0] ^июлӗрсенче/июль<n><px2pl><pl><loc>$
+[/oyIgPPShmFEQ]
+[pGcjJaUOIz3F#0] ^июлӗшӗн/июль<n><px3sp><ter>$
+[/pGcjJaUOIz3F]
+[qOJEa4IgdN-N#0] ^июлӳсем/июль<n><px2sg><pl><nom>$
+[/qOJEa4IgdN-N]
+[r3LlHKg4NqQr#0] ^июлӗмӗр/июль<n><px1pl><nom>$
+[/r3LlHKg4NqQr]
+[r7-ya2X-2uWF#0] ^июлӗмсемсӗр/июль<n><px1sg><pl>+сӑр<post>$
+[/r7-ya2X-2uWF]
+[rNvmD9DpRUF9#0] ^июлӗрсемсӗр/июль<n><px2pl><pl>+сӑр<post>$
+[/rNvmD9DpRUF9]
+[rU2BKk_Ro8Xx#0] ^июлӗмӗрсене/июль<n><px1pl><pl><dat>$
+[/rU2BKk_Ro8Xx]
+[rhfS-KNj3-Pw#0] ^июлӗсемпе/июль<n><px3sp><pl><ins>$
+[/rhfS-KNj3-Pw]
+[sF528TBOIyZa#0] ^июлӗсен/июль<n><px3sp><pl><gen>$
+[/sF528TBOIyZa]
+[sM2QiEBIobUj#0] ^июлӳсен/июль<n><px2sg><pl><gen>$
+[/sM2QiEBIobUj]
+[sWrnV7LQQWaY#0] ^июлӳсемсӗр/июль<n><px2sg><pl>+сӑр<post>$
+[/sWrnV7LQQWaY]
+[t3Pi5OHtc_a7#0] ^июлӗмсен/июль<n><px1sg><pl><gen>$
+[/t3Pi5OHtc_a7]
+[vNkHmH-bNAAf#0] ^июлӗмӗрпе/июль<n><px1pl><ins>$
+[/vNkHmH-bNAAf]
+[vlsti-yftRcY#0] ^июлӗпе/июль<n><px3sp><ins>$
+[/vlsti-yftRcY]
+[vwcPYHvvRvqs#0] ^июлӗрсен/июль<n><px2pl><pl><gen>$
+[/vwcPYHvvRvqs]
+[wLeGps9etJZN#0] ^июлӗмӗн/июль<n><px1sg><gen>$
+[/wLeGps9etJZN]
+[wfi36lN_IuxU#0] ^июлӗн/июль<n><gen>/июль<n><px3sp><gen>$
+[/wfi36lN_IuxU]
+[xZeiS944Sqrw#0] ^июлӳсене/июль<n><px2sg><pl><dat>$
+[/xZeiS944Sqrw]
+[yExr7xaEc_RK#0] ^июлӗмӗрсенче/июль<n><px1pl><pl><loc>$
+[/yExr7xaEc_RK]
+[z81WJ-tm1RF5#0] ^июлӳпе/июль<n><px2sg><ins>$
+[/z81WJ-tm1RF5]
+[zG5_U7A0WB04#0] ^июле/июль<n><dat>$
+[/zG5_U7A0WB04]
+[zf-Q3n5TQEgV#0] ^июльсенчен/июль<n><pl><abl>$
+[/zf-Q3n5TQEgV]

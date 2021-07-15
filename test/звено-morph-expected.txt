@@ -1,0 +1,192 @@
+[-HSzbKIn_wFU#0] ^звеномсемпе/звено<n><px1sg><pl><ins>$
+[/-HSzbKIn_wFU]
+[-OfbWD1trhST#0] ^звенӑрсен/звено<n><px2pl><pl><gen>$
+[/-OfbWD1trhST]
+[-gpP3-MXopn-#0] ^звенусӑр/звено<n><px2sg>+сӑр<post>$
+[/-gpP3-MXopn-]
+[0-3d1si0m9F7#0] ^звеносенче/звено<n><pl><loc>$
+[/0-3d1si0m9F7]
+[0hftK3dp2GAt#0] ^звенӑр/звено<n><px2pl><nom>$
+[/0hftK3dp2GAt]
+[2kTh2BmmD18b#0] ^звенишӗн/звено<n><px3sp><ter>$
+[/2kTh2BmmD18b]
+[2q4TB7jZkuI8#0] ^звеномсенчен/звено<n><px1sg><pl><abl>$
+[/2q4TB7jZkuI8]
+[2xImj_76vMar#0] ^звени/звено<n><px3sp><nom>$
+[/2xImj_76vMar]
+[37uNP6pM0Ftb#0] ^звенун/звено<n><px2sg><gen>$
+[/37uNP6pM0Ftb]
+[3Bt8Xj9-uu-Z#0] ^звенуна/звено<n><px2sg><dat>$
+[/3Bt8Xj9-uu-Z]
+[3bzA0uAAqTIF#0] ^звеномӑртан/звено<n><px1pl><abl>$
+[/3bzA0uAAqTIF]
+[4XijVuIuTVNy#0] ^звенора/звено<n><loc>$
+[/4XijVuIuTVNy]
+[5tkB4gIdYhSr#0] ^звеномӑршӑн/звено<n><px1pl><ter>$
+[/5tkB4gIdYhSr]
+[7LV108IYE__U#0] ^звеномра/звено<n><px1sg><loc>$
+[/7LV108IYE__U]
+[8DNNnvNaeNNv#0] ^звеномӑрсемпе/звено<n><px1pl><pl><ins>$
+[/8DNNnvNaeNNv]
+[98_OjQyFVgxb#0] ^звеномсен/звено<n><px1sg><pl><gen>$
+[/98_OjQyFVgxb]
+[9gTung9eFABl#0] ^звеномсене/звено<n><px1sg><pl><dat>$
+[/9gTung9eFABl]
+[Aca_jYxa4fMq#0] ^звеносемсӗр/звено<n><pl>+сӑр<post>$
+[/Aca_jYxa4fMq]
+[Bp_y2trwgS0t#0] ^звенона/звено<n><dat>$
+[/Bp_y2trwgS0t]
+[C2ekddbNzOPF#0] ^звенушӑн/звено<n><px2sg><ter>$
+[/C2ekddbNzOPF]
+[CmGPbV1KSK1U#0] ^звеномӑрсенче/звено<n><px1pl><pl><loc>$
+[/CmGPbV1KSK1U]
+[ENRMiUwTVzGP#0] ^звенисенчен/звено<n><px3sp><pl><abl>$
+[/ENRMiUwTVzGP]
+[FF8kI4wWc8qY#0] ^звенусен/звено<n><px2sg><pl><gen>$
+[/FF8kI4wWc8qY]
+[G0Ms6p1Ec_CS#0] ^звеном/звено<n><px1sg><nom>$
+[/G0Ms6p1Ec_CS]
+[GIoA9QC2c19s#0] ^звенине/звено<n><px3sp><dat>$
+[/GIoA9QC2c19s]
+[H0Iipc1HrIIj#0] ^звенӑрта/звено<n><px2pl><loc>$
+[/H0Iipc1HrIIj]
+[HGSW_LC_yDSQ#0] ^звенусене/звено<n><px2sg><pl><dat>$
+[/HGSW_LC_yDSQ]
+[HmJ7ayGDreWz#0] ^звенинче/звено<n><px3sp><loc>$
+[/HmJ7ayGDreWz]
+[IWSuJoZgssm-#0] ^звенисемшӗн/звено<n><px3sp><pl><ter>$
+[/IWSuJoZgssm-]
+[IZZDFhmDrERb#0] ^звенусенчен/звено<n><px2sg><pl><abl>$
+[/IZZDFhmDrERb]
+[Jd_FhwumJuHt#0] ^звеномсемшӗн/звено<n><px1sg><pl><ter>$
+[/Jd_FhwumJuHt]
+[Kh0JN3u_40u0#0] ^звенунтан/звено<n><px2sg><abl>$
+[/Kh0JN3u_40u0]
+[Mqrz66I7f219#0] ^звенӑрсенче/звено<n><px2pl><pl><loc>$
+[/Mqrz66I7f219]
+[N8QVA2eH2Gp7#0] ^звеносем/звено<n><pl><nom>$
+[/N8QVA2eH2Gp7]
+[NSxJ8UYGCqKh#0] ^звеносемпе/звено<n><pl><ins>$
+[/NSxJ8UYGCqKh]
+[NjDWwIi_fqQr#0] ^звенисен/звено<n><px3sp><pl><gen>$
+[/NjDWwIi_fqQr]
+[NqNpjIFtbcpe#0] ^звенупа/звено<n><px2sg><ins>$
+[/NqNpjIFtbcpe]
+[O5rmd944AfWD#0] ^звенӑрсемшӗн/звено<n><px2pl><pl><ter>$
+[/O5rmd944AfWD]
+[OxWwFk0WJyKV#0] ^звену/звено<n><px2sg><nom>$
+[/OxWwFk0WJyKV]
+[PfuK5TKCON37#0] ^звенӑра/звено<n><px2pl><dat>$
+[/PfuK5TKCON37]
+[PgO-QfrUyMlV#0] ^звенипе/звено<n><px3sp><ins>$
+[/PgO-QfrUyMlV]
+[Q727oRvch-S9#0] ^звенӑрсем/звено<n><px2pl><pl><nom>$
+[/Q727oRvch-S9]
+[Q8jVpIOMMqQT#0] ^звеноран/звено<n><abl>$
+[/Q8jVpIOMMqQT]
+[Q8u1gwEXQR0P#0] ^звеномран/звено<n><px1sg><abl>$
+[/Q8u1gwEXQR0P]
+[RBpTuPqQ8QUb#0] ^звеномӑн/звено<n><px1sg><gen>$
+[/RBpTuPqQ8QUb]
+[Rg1DjD8zo6H6#0] ^звенопа/звено<n><ins>$
+[/Rg1DjD8zo6H6]
+[SnpsKvuefkQG#0] ^звеносӑр/звено<n>+сӑр<post>$
+[/SnpsKvuefkQG]
+[TtvAmX6JQmYp#0] ^звенусемшӗн/звено<n><px2sg><pl><ter>$
+[/TtvAmX6JQmYp]
+[VF0LGU-6Oqmt#0] ^звенисенче/звено<n><px3sp><pl><loc>$
+[/VF0LGU-6Oqmt]
+[VFCs94kq_zQZ#0] ^звенӑрсемсӗр/звено<n><px2pl><pl>+сӑр<post>$
+[/VFCs94kq_zQZ]
+[Vw3F63MXmDCb#0] ^звенисемсӗр/звено<n><px3sp><pl>+сӑр<post>$
+[/Vw3F63MXmDCb]
+[WcS2e4MMFc--#0] ^звено/звено<n><attr>/звено<n><nom>$
+[/WcS2e4MMFc--]
+[ZRrlnUnWWphV#0] ^звеномӑрӑн/звено<n><px1pl><gen>$
+[/ZRrlnUnWWphV]
+[bRLfdFHkNVay#0] ^звеномшӑн/звено<n><px1sg><ter>$
+[/bRLfdFHkNVay]
+[br8JOtwzJe21#0] ^звенунта/звено<n><px2sg><loc>$
+[/br8JOtwzJe21]
+[btMbrl_yic2U#0] ^звеномпа/звено<n><px1sg><ins>$
+[/btMbrl_yic2U]
+[cC_39zY8nleK#0] ^звеномсемсӗр/звено<n><px1sg><pl>+сӑр<post>$
+[/cC_39zY8nleK]
+[cjC2tkmRRdDn#0] ^звеномӑрсемсӗр/звено<n><px1pl><pl>+сӑр<post>$
+[/cjC2tkmRRdDn]
+[cuMW8vevnO1t#0] ^звенӑршӑн/звено<n><px2pl><ter>$
+[/cuMW8vevnO1t]
+[d8Wt6cdQatmT#0] ^звеномӑрсемшӗн/звено<n><px1pl><pl><ter>$
+[/d8Wt6cdQatmT]
+[don9VjIDrkYg#0] ^звеномӑрта/звено<n><px1pl><loc>$
+[/don9VjIDrkYg]
+[dzvIL9juNKFo#0] ^звенон/звено<n><gen>$
+[/dzvIL9juNKFo]
+[eHJugmf1LVRY#0] ^звеномӑрсенчен/звено<n><px1pl><pl><abl>$
+[/eHJugmf1LVRY]
+[fRf-I3PLnm2V#0] ^звеношӑн/звено<n><ter>$
+[/fRf-I3PLnm2V]
+[feGMzvMNyWr_#0] ^звенин/звено<n><px3sp><gen>$
+[/feGMzvMNyWr_]
+[fgFqR4mHrCfK#0] ^звенисемпе/звено<n><px3sp><pl><ins>$
+[/fgFqR4mHrCfK]
+[hdpRipVVyLzi#0] ^звенисем/звено<n><px3sp><pl><nom>$
+[/hdpRipVVyLzi]
+[iZSL8-AMUUH8#0] ^звенӑрсӑр/звено<n><px2pl>+сӑр<post>$
+[/iZSL8-AMUUH8]
+[jW1jyd8e465e#0] ^звенӑрсене/звено<n><px2pl><pl><dat>$
+[/jW1jyd8e465e]
+[kT26wdpytykJ#0] ^звеномӑра/звено<n><px1pl><dat>$
+[/kT26wdpytykJ]
+[kf6Axz8U_Hwh#0] ^звенӑрсенчен/звено<n><px2pl><pl><abl>$
+[/kf6Axz8U_Hwh]
+[lfI66J2-a9jk#0] ^звеномӑрсем/звено<n><px1pl><pl><nom>$
+[/lfI66J2-a9jk]
+[lkkOTNHGPol0#0] ^звенусенче/звено<n><px2sg><pl><loc>$
+[/lkkOTNHGPol0]
+[o4OiuL0cUH1P#0] ^звеномӑрсене/звено<n><px1pl><pl><dat>$
+[/o4OiuL0cUH1P]
+[pNOmTslvhL8q#0] ^звенусемсӗр/звено<n><px2sg><pl>+сӑр<post>$
+[/pNOmTslvhL8q]
+[q4g60UyjPnbb#0] ^звенисене/звено<n><px3sp><pl><dat>$
+[/q4g60UyjPnbb]
+[qRA4KMlxlWxl#0] ^звеносемшӗн/звено<n><pl><ter>$
+[/qRA4KMlxlWxl]
+[qhK0T7eFjCI-#0] ^звенинчен/звено<n><px3sp><abl>$
+[/qhK0T7eFjCI-]
+[rkd-K8mWJMx6#0] ^звеносене/звено<n><pl><dat>$
+[/rkd-K8mWJMx6]
+[rsiOEFI5BTHW#0] ^звенома/звено<n><px1sg><dat>$
+[/rsiOEFI5BTHW]
+[sDFl1p4KHlCd#0] ^звенӑрпа/звено<n><px2pl><ins>$
+[/sDFl1p4KHlCd]
+[sWgpiRJLjg7D#0] ^звенусемпе/звено<n><px2sg><pl><ins>$
+[/sWgpiRJLjg7D]
+[sa681ipHRZOd#0] ^звеномӑрсен/звено<n><px1pl><pl><gen>$
+[/sa681ipHRZOd]
+[tEkL7W1vTd1e#0] ^звенӑрӑн/звено<n><px2pl><gen>$
+[/tEkL7W1vTd1e]
+[v37qWhisKXu1#0] ^звеносенчен/звено<n><pl><abl>$
+[/v37qWhisKXu1]
+[vA8d-FJ8DsAM#0] ^звеномсем/звено<n><px1sg><pl><nom>$
+[/vA8d-FJ8DsAM]
+[vTf1JGcmiTqv#0] ^звеномӑрпа/звено<n><px1pl><ins>$
+[/vTf1JGcmiTqv]
+[vezZUMz_KoBm#0] ^звеномӑр/звено<n><px1pl><nom>$
+[/vezZUMz_KoBm]
+[vwPotwmH1vFR#0] ^звенисӗр/звено<n><px3sp>+сӑр<post>$
+[/vwPotwmH1vFR]
+[w8yEfDey-P6f#0] ^звеномӑрсӑр/звено<n><px1pl>+сӑр<post>$
+[/w8yEfDey-P6f]
+[wbPkxFvcd1vl#0] ^звенӑрсемпе/звено<n><px2pl><pl><ins>$
+[/wbPkxFvcd1vl]
+[xFjrGBoJ0cKG#0] ^звеномсӑр/звено<n><px1sg>+сӑр<post>$
+[/xFjrGBoJ0cKG]
+[xZRVFVwiDeGV#0] ^звенӑртан/звено<n><px2pl><abl>$
+[/xZRVFVwiDeGV]
+[xhqultFBBOxt#0] ^звеносен/звено<n><pl><gen>$
+[/xhqultFBBOxt]
+[yQ14SXAft3U3#0] ^звенусем/звено<n><px2sg><pl><nom>$
+[/yQ14SXAft3U3]
+[ziJiXbzDWixu#0] ^звеномсенче/звено<n><px1sg><pl><loc>$
+[/ziJiXbzDWixu]

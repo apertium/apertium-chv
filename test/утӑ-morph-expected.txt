@@ -1,0 +1,192 @@
+[-wg2mAiX76jH#0] ^уттӑмпа/утӑ<n><px1sg><ins>$
+[/-wg2mAiX76jH]
+[0FLfGF8ABDTv#0] ^утисем/*утисем$
+[/0FLfGF8ABDTv]
+[0eliN32vLeYT#0] ^уттӑмӑрсенчен/утӑ<n><px1pl><pl><abl>$
+[/0eliN32vLeYT]
+[0hc1JRnyu75X#0] ^уттусен/утӑ<n><px2sg><pl><gen>$
+[/0hc1JRnyu75X]
+[1Aq8RrQLRJkB#0] ^уттӑмӑртан/утӑ<n><px1pl><abl>$
+[/1Aq8RrQLRJkB]
+[2XSnMGxVAcOE#0] ^уттунта/утӑ<n><px2sg><loc>$
+[/2XSnMGxVAcOE]
+[2uh0m1SfjFl9#0] ^уттусемсӗр/утӑ<n><px2sg><pl>+сӑр<post>$
+[/2uh0m1SfjFl9]
+[2v-pdbd_IxMO#0] ^уттусем/утӑ<n><px2sg><pl><nom>$
+[/2v-pdbd_IxMO]
+[3Xux2xMewBHD#0] ^уттӑршӑн/утӑ<n><px2pl><ter>$
+[/3Xux2xMewBHD]
+[3_t7xJhTLhM6#0] ^уттӑра/утӑ<n><px2pl><dat>$
+[/3_t7xJhTLhM6]
+[4KVUYEfzQjiF#0] ^утисӗр/*утисӗр$
+[/4KVUYEfzQjiF]
+[5eFOl8-bnJ41#0] ^уттӑртан/утӑ<n><px2pl><abl>$
+[/5eFOl8-bnJ41]
+[8Qf7sYkgjuY0#0] ^уттӑмсемпе/утӑ<n><px1sg><pl><ins>$
+[/8Qf7sYkgjuY0]
+[9MyCVuLFAr0R#0] ^утисемпе/*утисемпе$
+[/9MyCVuLFAr0R]
+[9Xm0laVsFx0F#0] ^уттӑмӑрсемсӗр/утӑ<n><px1pl><pl>+сӑр<post>$
+[/9Xm0laVsFx0F]
+[9df6ldmQxLF4#0] ^уттӑмсенче/утӑ<n><px1sg><pl><loc>$
+[/9df6ldmQxLF4]
+[9fjod_y6rcF9#0] ^уттуна/утӑ<n><px2sg><dat>$
+[/9fjod_y6rcF9]
+[9jyLZQGOHznJ#0] ^уттӑр/утӑ<n><px2pl><nom>/ут<v><tv><imp><p3><sg>$
+[/9jyLZQGOHznJ]
+[ATn6gRSDpAI4#0] ^утӑсӑр/ут<v><tv><opt><p2><pl>/утӑ<n>+сӑр<post>$
+[/ATn6gRSDpAI4]
+[B6knfBEW1vGK#0] ^утӑсене/утӑ<n><pl><dat>$
+[/B6knfBEW1vGK]
+[CZw_5ZBjcUst#0] ^уттӑн/утӑ<n><gen>$
+[/CZw_5ZBjcUst]
+[CdJ-Rj4OrH-j#0] ^уттӑмран/утӑ<n><px1sg><abl>$
+[/CdJ-Rj4OrH-j]
+[D8OXrA79SzI9#0] ^уттӑмшӑн/утӑ<n><px1sg><ter>$
+[/D8OXrA79SzI9]
+[EBx4i4CgOE-Q#0] ^утӑшӑн/утӑ<n><ter>/ут<v><tv><coop><fut><p2><sg>/ут<v><tv><coop><pres><p2><sg>$
+[/EBx4i4CgOE-Q]
+[EWBShg41hS7A#0] ^утӑсенче/утӑ<n><pl><loc>$
+[/EWBShg41hS7A]
+[FRyrDCtVaHWe#0] ^утипе/*утипе$
+[/FRyrDCtVaHWe]
+[Fvqv4CaZ2O1z#0] ^уттӑмсем/утӑ<n><px1sg><pl><nom>$
+[/Fvqv4CaZ2O1z]
+[GfCzv5G14OqK#0] ^утисен/*утисен$
+[/GfCzv5G14OqK]
+[GtVBU9ln0z_u#0] ^утӑсемсӗр/утӑ<n><pl>+сӑр<post>$
+[/GtVBU9ln0z_u]
+[Hb9cHpmkTyte#0] ^утине/*утине$
+[/Hb9cHpmkTyte]
+[ImaZULsLbpKJ#0] ^утисемшӗн/*утисемшӗн$
+[/ImaZULsLbpKJ]
+[KJaMSu4KVgai#0] ^утӑсемшӗн/утӑ<n><pl><ter>$
+[/KJaMSu4KVgai]
+[LH87LIEsr2st#0] ^уттӑма/утӑ<n><px1sg><dat>$
+[/LH87LIEsr2st]
+[MZSFjWzS-DBT#0] ^уттӑмсӑр/утӑ<n><px1sg>+сӑр<post>$
+[/MZSFjWzS-DBT]
+[MvTk-NXmos_k#0] ^уттӑмӑр/утӑ<n><px1pl><nom>$
+[/MvTk-NXmos_k]
+[O4_x_1C86s13#0] ^утишӗн/*утишӗн$
+[/O4_x_1C86s13]
+[OMWvmSXVZWXB#0] ^уттӑм/утӑ<n><px1sg><nom>$
+[/OMWvmSXVZWXB]
+[P4RdCYBT0Gx0#0] ^уттӑрсем/утӑ<n><px2pl><pl><nom>$
+[/P4RdCYBT0Gx0]
+[PCCuRhnnITev#0] ^уттӑрсемпе/утӑ<n><px2pl><pl><ins>$
+[/PCCuRhnnITev]
+[PWr8niqPFlrk#0] ^уттӑмӑн/утӑ<n><px1sg><gen>$
+[/PWr8niqPFlrk]
+[QSbW4ax3WnB6#0] ^уттусӑр/утӑ<n><px2sg>+сӑр<post>$
+[/QSbW4ax3WnB6]
+[QSfDqvNlo5dd#0] ^уттӑмӑрта/утӑ<n><px1pl><loc>$
+[/QSfDqvNlo5dd]
+[RJuGgw3Kwt8d#0] ^утисенчен/*утисенчен$
+[/RJuGgw3Kwt8d]
+[SmS-RTrvBgEP#0] ^уттӑрсемшӗн/утӑ<n><px2pl><pl><ter>$
+[/SmS-RTrvBgEP]
+[TqeN4A-hMWrx#0] ^уттӑрсен/утӑ<n><px2pl><pl><gen>$
+[/TqeN4A-hMWrx]
+[UsUNtj6ggNTA#0] ^уттусемпе/утӑ<n><px2sg><pl><ins>$
+[/UsUNtj6ggNTA]
+[V6TYnSVN2Y6A#0] ^уттӑмӑрсӑр/утӑ<n><px1pl>+сӑр<post>$
+[/V6TYnSVN2Y6A]
+[VbacS3EcRwLC#0] ^уттӑмӑра/утӑ<n><px1pl><dat>$
+[/VbacS3EcRwLC]
+[VdC3I1U_k9GL#0] ^уттӑмӑрсем/утӑ<n><px1pl><pl><nom>$
+[/VdC3I1U_k9GL]
+[VvBjPgNZSzJR#0] ^уттӑмӑрсенче/утӑ<n><px1pl><pl><loc>$
+[/VvBjPgNZSzJR]
+[W6279IXziVtb#0] ^уттӑрта/утӑ<n><px2pl><loc>$
+[/W6279IXziVtb]
+[XoIUsqFVsM4G#0] ^уттунтан/утӑ<n><px2sg><abl>$
+[/XoIUsqFVsM4G]
+[YJjgSGy54rmc#0] ^уттӑмӑрпа/утӑ<n><px1pl><ins>$
+[/YJjgSGy54rmc]
+[ZRM7_v_n3uOS#0] ^утту/утӑ<n><px2sg><nom>$
+[/ZRM7_v_n3uOS]
+[_FE0vZygLkBr#0] ^утӑсен/утӑ<n><pl><gen>$
+[/_FE0vZygLkBr]
+[_Pwo2K-hOBEz#0] ^уттусене/утӑ<n><px2sg><pl><dat>$
+[/_Pwo2K-hOBEz]
+[_kBzaIOE0bDl#0] ^утисене/*утисене$
+[/_kBzaIOE0bDl]
+[aIjOxZIcQRED#0] ^уттӑрӑн/утӑ<n><px2pl><gen>$
+[/aIjOxZIcQRED]
+[aYv6iY8KhU4i#0] ^утӑсенчен/утӑ<n><pl><abl>$
+[/aYv6iY8KhU4i]
+[bNTMi5nTTOSv#0] ^уттусенче/утӑ<n><px2sg><pl><loc>$
+[/bNTMi5nTTOSv]
+[bpnu6rCCWcbs#0] ^утӑра/утӑ<n><loc>/ут<adj><subst><px2pl><dat>/ут<n><px2pl><dat>$
+[/bpnu6rCCWcbs]
+[cn9gveZi1uVS#0] ^уттӑмӑрсене/утӑ<n><px1pl><pl><dat>$
+[/cn9gveZi1uVS]
+[d6dY4w69m_z_#0] ^утӑпа/утӑ<n><ins>$
+[/d6dY4w69m_z_]
+[dNInPBOJTjRn#0] ^утинчен/*утинчен$
+[/dNInPBOJTjRn]
+[djPgagD96zvk#0] ^утинче/*утинче$
+[/djPgagD96zvk]
+[e9m6eIbW5TqR#0] ^уттӑмсене/утӑ<n><px1sg><pl><dat>$
+[/e9m6eIbW5TqR]
+[fLOeOrbo1nR_#0] ^уттӑмсенчен/утӑ<n><px1sg><pl><abl>$
+[/fLOeOrbo1nR_]
+[gEwUOMQm0jsS#0] ^утта/утӑ<n><dat>$
+[/gEwUOMQm0jsS]
+[gwp7Yek_ce6i#0] ^уттӑмсемшӗн/утӑ<n><px1sg><pl><ter>$
+[/gwp7Yek_ce6i]
+[htCK2HzXjzKY#0] ^уттӑмсен/утӑ<n><px1sg><pl><gen>$
+[/htCK2HzXjzKY]
+[jKMDrqIgmAUE#0] ^уттӑрсӑр/утӑ<n><px2pl>+сӑр<post>$
+[/jKMDrqIgmAUE]
+[jUUfns14DuM-#0] ^уттусенчен/утӑ<n><px2sg><pl><abl>$
+[/jUUfns14DuM-]
+[jV8jPBjIFveq#0] ^уттӑмсемсӗр/утӑ<n><px1sg><pl>+сӑр<post>$
+[/jV8jPBjIFveq]
+[kFnDPJ91aqUT#0] ^уттӑрсемсӗр/утӑ<n><px2pl><pl>+сӑр<post>$
+[/kFnDPJ91aqUT]
+[kG7U-qa1IvFS#0] ^уттун/утӑ<n><px2sg><gen>$
+[/kG7U-qa1IvFS]
+[lQzXj5ag5N4Y#0] ^утисемсӗр/*утисемсӗр$
+[/lQzXj5ag5N4Y]
+[m-kIuQw1JwJK#0] ^уттӑмӑрсен/утӑ<n><px1pl><pl><gen>$
+[/m-kIuQw1JwJK]
+[nAYRfjZmimJF#0] ^уттӑмӑрсемпе/утӑ<n><px1pl><pl><ins>$
+[/nAYRfjZmimJF]
+[oPSG9gYupwaC#0] ^уттӑрсенчен/утӑ<n><px2pl><pl><abl>$
+[/oPSG9gYupwaC]
+[p8xmlCOJjNW6#0] ^уттушӑн/утӑ<n><px2sg><ter>$
+[/p8xmlCOJjNW6]
+[puu65H727B1N#0] ^уттӑмра/утӑ<n><px1sg><loc>$
+[/puu65H727B1N]
+[q5Leum8MCvme#0] ^уттӑмӑршӑн/утӑ<n><px1pl><ter>$
+[/q5Leum8MCvme]
+[qjyyAPV99YSF#0] ^утин/ут<v><tv><opt><p3><sg>$
+[/qjyyAPV99YSF]
+[r4HqW-ii7joQ#0] ^ути/*ути$
+[/r4HqW-ii7joQ]
+[rSgXSXZbkuWt#0] ^уттӑмӑрсемшӗн/утӑ<n><px1pl><pl><ter>$
+[/rSgXSXZbkuWt]
+[s4ezeDLcaDxt#0] ^уттӑрпа/утӑ<n><px2pl><ins>$
+[/s4ezeDLcaDxt]
+[tok76bsXyO4X#0] ^утӑсемпе/утӑ<n><pl><ins>$
+[/tok76bsXyO4X]
+[uFAxjLAzdHOG#0] ^уттӑмӑрӑн/утӑ<n><px1pl><gen>$
+[/uFAxjLAzdHOG]
+[uMqG--qOeKiJ#0] ^уттӑрсене/утӑ<n><px2pl><pl><dat>$
+[/uMqG--qOeKiJ]
+[uyzrJ4XYY1F0#0] ^уттупа/утӑ<n><px2sg><ins>$
+[/uyzrJ4XYY1F0]
+[voF_9kzXDYYT#0] ^утӑсем/утӑ<n><pl><nom>$
+[/voF_9kzXDYYT]
+[wDbFx6kSQrR2#0] ^уттӑрсенче/утӑ<n><px2pl><pl><loc>$
+[/wDbFx6kSQrR2]
+[wK1w5I6UeLU0#0] ^утӑ/утӑ<n><attr>/утӑ<n><nom>$
+[/wK1w5I6UeLU0]
+[x2_vFpDgtWLD#0] ^уттусемшӗн/утӑ<n><px2sg><pl><ter>$
+[/x2_vFpDgtWLD]
+[zjdDPR9tnhwk#0] ^утисенче/*утисенче$
+[/zjdDPR9tnhwk]
+[zzrKSM-B5ceJ#0] ^утӑран/утӑ<n><abl>$
+[/zzrKSM-B5ceJ]

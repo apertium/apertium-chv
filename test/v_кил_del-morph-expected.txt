@@ -1,0 +1,104 @@
+[-yRGxizgj5il#0] ^килер/кил<v><iv><imp><p1><pl>$
+[/-yRGxizgj5il]
+[2jAC2r9A1295#0] ^килӗттӗн/кил<v><iv><cond><p2><sg>$
+[/2jAC2r9A1295]
+[394TYWak8l2H#0] ^килтӗр/килтӗ<n><px2pl><nom>/кил<v><iv><imp><p3><sg>/кил<v><iv><past><p2><pl>$
+[/394TYWak8l2H]
+[3DXVcomyL-V3#0] ^килеетпӗр/кил<v><iv><abil><pres><p1><pl>$
+[/3DXVcomyL-V3]
+[3Vy96DpJFMY2#0] ^килеетӗп/кил<v><iv><abil><pres><p1><sg>$
+[/3Vy96DpJFMY2]
+[4NQa1pCVaItt#0] ^килетӗн/кил<v><iv><dur><p1><sg><p2><sg>/кил<v><iv><pih><p1><sg><p2><sg>/кил<v><iv><pres><p2><sg>$
+[/4NQa1pCVaItt]
+[4T9fDQc8rvA4#0] ^килкелӗччӗҫ/*килкелӗччӗҫ$
+[/4T9fDQc8rvA4]
+[4u6OlGWV8Psq#0] ^килӗпин/кил<v><iv><opt><p1><sg>$
+[/4u6OlGWV8Psq]
+[59WM2ctpJNtL#0] ^килтӗмӗр/килтӗ<n><px1pl><nom>/кил<v><iv><past><p1><pl>$
+[/59WM2ctpJNtL]
+[6M5B-KPTE41Z#0] ^килетпӗр/кил<v><iv><pres><p1><pl>$
+[/6M5B-KPTE41Z]
+[6nKF1pbSvUO-#0] ^килчӗ/кил<v><iv><past><p3><sg>$
+[/6nKF1pbSvUO-]
+[7-qZTx_bJy2B#0] ^килеетӗр/кил<v><iv><abil><pres><p2><pl>$
+[/7-qZTx_bJy2B]
+[76POARdRpS55#0] ^килтӗм/килтӗ<n><px1sg><nom>/кил<v><iv><past><p1><sg>$
+[/76POARdRpS55]
+[7e8WzAlNzfWo#0] ^килӗттӗм/кил<v><iv><cond><p1><sg>$
+[/7e8WzAlNzfWo]
+[7f7sN8k1VO-e#0] ^килӗҫ/кил<v><iv><fut><p3><pl>$
+[/7f7sN8k1VO-e]
+[80reFszj-tVT#0] ^килӗҫин/кил<v><iv><opt><p3><pl>$
+[/80reFszj-tVT]
+[A6RjEUCJ9DmY#0] ^килкелет/*килкелет$
+[/A6RjEUCJ9DmY]
+[B_VvD9eqDT8e#0] ^килкелӗттӗм/*килкелӗттӗм$
+[/B_VvD9eqDT8e]
+[DC4eVZ0AiW1g#0] ^килкелетӗн/*килкелетӗн$
+[/DC4eVZ0AiW1g]
+[IagngWjgC9qB#0] ^килӗ/киль<n><px3sp><nom>/килӗ<n><attr>/килӗ<n><nom>/кил<adj>+и<subst><nom>/кил<adj><subst><px3sp><nom>/кил<n><px3sp><nom>/кил<v><iv><fut><p3><sg>$
+[/IagngWjgC9qB]
+[JDzFU3rKePgZ#0] ^килеет/кил<v><iv><abil><pres><p3><sg>$
+[/JDzFU3rKePgZ]
+[JhbTCkvNwsuj#0] ^килӗсӗр/кил<v><iv><opt><p2><pl>/киль<n><px3sp>+сӑр<post>/килӗ<n>+сӑр<post>/кил<adj>+и<subst>+сӑр<post>/кил<adj><subst><px3sp>+сӑр<post>/кил<n><px3sp>+сӑр<post>$
+[/JhbTCkvNwsuj]
+[LdUyckp8T2Zg#0] ^килкелетӗр/кил<v><iv><iter><imp><p3><sg>$
+[/LdUyckp8T2Zg]
+[MakESRXhbViv#0] ^килет/кил<v><iv><pres><p3><sg>$
+[/MakESRXhbViv]
+[MwolFIdrzzug#0] ^килеҫҫӗ/кил<v><iv><pres><p3><pl>$
+[/MwolFIdrzzug]
+[OORRokSwGAhM#0] ^килееҫҫӗ/кил<v><iv><abil><pres><p3><pl>$
+[/OORRokSwGAhM]
+[Q-VaWbzyIYNL#0] ^килӗп/кил<v><iv><fut><p1><sg>$
+[/Q-VaWbzyIYNL]
+[Re3rGdrTiF0x#0] ^килкелеҫҫӗ/*килкелеҫҫӗ$
+[/Re3rGdrTiF0x]
+[S-Zn0p4x7Mg3#0] ^килчӗҫ/кил<v><iv><past><p3><pl>$
+[/S-Zn0p4x7Mg3]
+[SyWQ4T8PXIfK#0] ^килкелӗччӗ/*килкелӗччӗ$
+[/SyWQ4T8PXIfK]
+[VLkJYVRV7kFo#0] ^килкелӗттӗр/*килкелӗттӗр$
+[/VLkJYVRV7kFo]
+[W9s1EStzqU3V#0] ^килеетӗн/кил<v><iv><abil><dur><p1><sg><p2><sg>/кил<v><iv><abil><pih><p1><sg><p2><sg>/кил<v><iv><abil><pres><p2><sg>$
+[/W9s1EStzqU3V]
+[Y784HNQ69HDM#0] ^килкелӗттӗн/*килкелӗттӗн$
+[/Y784HNQ69HDM]
+[ZhLFMkbSvrBx#0] ^кил/кил<adj>/кил<adj><subst><nom>/кил<n><attr>/кил<n><nom>/кил<v><iv><imp><p2><sg>$
+[/ZhLFMkbSvrBx]
+[ZxbPoiN5KstK#0] ^килетӗр/кил<v><iv><pres><p2><pl>$
+[/ZxbPoiN5KstK]
+[aWIf_NueRMzM#0] ^килин/кил<v><iv><opt><p3><sg>$
+[/aWIf_NueRMzM]
+[bxIT0sCudSTV#0] ^килӗн/киль<n><gen>/киль<n><px3sp><gen>/кил<adj>+и<subst><gen>/кил<adj><subst><gen>/кил<adj><subst><px3sp><gen>/кил<n><gen>/кил<n><px3sp><gen>/кил<v><iv><fut><p2><sg>/кил<v><iv><pass><imp><p2><sg>/кил<v><iv><pres><p2><sg>$
+[/bxIT0sCudSTV]
+[dGrRXYvROlbv#0] ^килӗттӗмӗр/кил<v><iv><cond><p1><pl>$
+[/dGrRXYvROlbv]
+[g6nWchIKK2cJ#0] ^килтӗн/килтӗ<n><gen>/кил<v><iv><past><p2><sg>$
+[/g6nWchIKK2cJ]
+[gch7EJ9c5BXt#0] ^килӗпӗр/кил<v><iv><fut><p1><pl>$
+[/gch7EJ9c5BXt]
+[kVetOS7yyZss#0] ^килӗччӗҫ/кил<v><iv><cond><p3><pl>$
+[/kVetOS7yyZss]
+[koZRnFLvMyCE#0] ^килкелетпӗр/*килкелетпӗр$
+[/koZRnFLvMyCE]
+[lKH11FI3CmQL#0] ^килӗччӗ/киль<n><px3sp><nom>+ӗ<cop><ifi>/килӗ<n><nom>+ӗ<cop><ifi>/кил<adj>+и<subst><nom>+ӗ<cop><ifi>/кил<adj><subst><px3sp><nom>+ӗ<cop><ifi>/кил<n><px3sp><nom>+ӗ<cop><ifi>/кил<v><iv><cond><p3><sg>/кил<v><iv><fut><p3><sg>+ӗ<cop><ifi>$
+[/lKH11FI3CmQL]
+[mNBY3cPMg-Hf#0] ^килем/кил<v><iv><imp><p1><sg>$
+[/mNBY3cPMg-Hf]
+[mQUc9k61PzBz#0] ^килӗттӗр/кил<v><iv><cond><p2><pl>$
+[/mQUc9k61PzBz]
+[n9OER09yMgHJ#0] ^килкелетӗп/*килкелетӗп$
+[/n9OER09yMgHJ]
+[r57Mur7_6Zz3#0] ^килетӗп/кил<v><iv><pres><p1><sg>$
+[/r57Mur7_6Zz3]
+[sqxOanMoxEqf#0] ^килӗпӗрин/кил<v><iv><opt><p1><pl>$
+[/sqxOanMoxEqf]
+[tNoEobSW-REX#0] ^килкелӗттӗмӗр/*килкелӗттӗмӗр$
+[/tNoEobSW-REX]
+[wKP9fDrUxohJ#0] ^килӗсӗн/кил<v><iv><opt><p2><sg>$
+[/wKP9fDrUxohJ]
+[y5i5QGplzstm#0] ^килччӗр/кил<v><iv><imp><p3><pl>$
+[/y5i5QGplzstm]
+[zzK3ErehJ-OC#0] ^килӗр/киль<n><px2pl><nom>/кил<adj><subst><px2pl><nom>/кил<n><px2pl><nom>/кил<v><iv><fut><p2><pl>/кил<v><iv><imp><p2><pl>$
+[/zzK3ErehJ-OC]

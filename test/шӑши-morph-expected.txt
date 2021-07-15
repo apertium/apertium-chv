@@ -1,0 +1,192 @@
+[0CBXNqrLcclo#0] ^шӑшисемшӗн/шӑши<n><pl><ter>$
+[/0CBXNqrLcclo]
+[1fJq8De6doXF#0] ^шӑшийӗртен/шӑши<n><px2pl><abl>$
+[/1fJq8De6doXF]
+[25cfFekLVRrv#0] ^шӑшийӗрӗн/шӑши<n><px2pl><gen>$
+[/25cfFekLVRrv]
+[3Kr_pvnH0zIh#0] ^шӑшийӳсемсӗр/шӑши<n><px2sg><pl>+сӑр<post>$
+[/3Kr_pvnH0zIh]
+[42_P9XWy-Zgv#0] ^шӑшийӗмӗрсене/шӑши<n><px1pl><pl><dat>$
+[/42_P9XWy-Zgv]
+[4WydURtbZwrG#0] ^шӑшийӗсене/шӑши<n><px3sp><pl><dat>$
+[/4WydURtbZwrG]
+[5OwjTx9wCDNJ#0] ^шӑшийӗмӗн/шӑши<n><px1sg><gen>$
+[/5OwjTx9wCDNJ]
+[8m2jWdlT2Rsi#0] ^шӑшийӗмӗрсемшӗн/шӑши<n><px1pl><pl><ter>$
+[/8m2jWdlT2Rsi]
+[94kKoZj5Ux3u#0] ^шӑши/шӑши<n><attr>/шӑши<n><nom>$
+[/94kKoZj5Ux3u]
+[9KnK-vcLl2Mh#0] ^шӑшипе/шӑши<n><ins>$
+[/9KnK-vcLl2Mh]
+[9gOjyiClTbai#0] ^шӑшийӗсемпе/шӑши<n><px3sp><pl><ins>$
+[/9gOjyiClTbai]
+[ANQIgG-mecwj#0] ^шӑшийӗмӗрпе/шӑши<n><px1pl><ins>$
+[/ANQIgG-mecwj]
+[B3ZrN9iQJGZT#0] ^шӑшисем/шӑши<n><pl><nom>$
+[/B3ZrN9iQJGZT]
+[BCdrQ51gQyWh#0] ^шӑшийӗрсене/шӑши<n><px2pl><pl><dat>$
+[/BCdrQ51gQyWh]
+[BrVy4wUGELaG#0] ^шӑшийӗмӗрсенче/шӑши<n><px1pl><pl><loc>$
+[/BrVy4wUGELaG]
+[Cvc7c9Q7gLEe#0] ^шӑшийӳсем/шӑши<n><px2sg><pl><nom>$
+[/Cvc7c9Q7gLEe]
+[D-pQV8KazC37#0] ^шӑшийӳсене/шӑши<n><px2sg><pl><dat>$
+[/D-pQV8KazC37]
+[DM4167OSs9-8#0] ^шӑшисемсӗр/шӑши<n><pl>+сӑр<post>$
+[/DM4167OSs9-8]
+[FJsNDlvDR2lT#0] ^шӑшийӳсен/шӑши<n><px2sg><pl><gen>$
+[/FJsNDlvDR2lT]
+[GEVgyPNxLv3z#0] ^шӑшийӗрсенчен/шӑши<n><px2pl><pl><abl>$
+[/GEVgyPNxLv3z]
+[GaaTHVxLlhde#0] ^шӑшийӳсемпе/шӑши<n><px2sg><pl><ins>$
+[/GaaTHVxLlhde]
+[GjM_n8DqfyCq#0] ^шӑшийӗмӗрсӗр/шӑши<n><px1pl>+сӑр<post>$
+[/GjM_n8DqfyCq]
+[KBQuntTYTjY5#0] ^шӑшийӗрсӗр/шӑши<n><px2pl>+сӑр<post>$
+[/KBQuntTYTjY5]
+[LD5mOXtk3B7W#0] ^шӑшийӳсенчен/шӑши<n><px2sg><pl><abl>$
+[/LD5mOXtk3B7W]
+[M06awiONaPWs#0] ^шӑшийӗ/шӑши<n><px3sp><nom>$
+[/M06awiONaPWs]
+[MB0ecuh_P-U0#0] ^шӑшийӗме/шӑши<n><px1sg><dat>$
+[/MB0ecuh_P-U0]
+[N6ujp5QGad5M#0] ^шӑшийӗм/шӑши<n><px1sg><nom>$
+[/N6ujp5QGad5M]
+[NY0dJFDF6Hmt#0] ^шӑшийӗмсене/шӑши<n><px1sg><pl><dat>$
+[/NY0dJFDF6Hmt]
+[OUnKFwA5nMs1#0] ^шӑшисене/шӑши<n><pl><dat>$
+[/OUnKFwA5nMs1]
+[OWyGPOekRDSi#0] ^шӑшисемпе/шӑши<n><pl><ins>$
+[/OWyGPOekRDSi]
+[OvAWVAtIwo8Q#0] ^шӑшийӗмӗрсемсӗр/шӑши<n><px1pl><pl>+сӑр<post>$
+[/OvAWVAtIwo8Q]
+[PXuPEXuzaSzz#0] ^шӑшийӗмӗрсенчен/шӑши<n><px1pl><pl><abl>$
+[/PXuPEXuzaSzz]
+[PuL5hK8ZSytb#0] ^шӑшийӗмӗрӗн/шӑши<n><px1pl><gen>$
+[/PuL5hK8ZSytb]
+[Qc1Ck6wWCmwQ#0] ^шӑшийӳсӗр/шӑши<n><px2sg>+сӑр<post>$
+[/Qc1Ck6wWCmwQ]
+[Qfz5aqvNDEqk#0] ^шӑшийӗсӗр/шӑши<n><px3sp>+сӑр<post>$
+[/Qfz5aqvNDEqk]
+[QxWiUYwWUvDc#0] ^шӑширен/шӑши<n><abl>$
+[/QxWiUYwWUvDc]
+[REBavzyQgmae#0] ^шӑшийӗрпе/шӑши<n><px2pl><ins>$
+[/REBavzyQgmae]
+[RvTvFnb3duT_#0] ^шӑшийӗмсемпе/шӑши<n><px1sg><pl><ins>$
+[/RvTvFnb3duT_]
+[S3ulVCy5cFm4#0] ^шӑшийӗмсенчен/шӑши<n><px1sg><pl><abl>$
+[/S3ulVCy5cFm4]
+[TUaLR7FnIlME#0] ^шӑшийӗсенче/шӑши<n><px3sp><pl><loc>$
+[/TUaLR7FnIlME]
+[Uxv9WD6JIPM_#0] ^шӑшийӗсемсӗр/шӑши<n><px3sp><pl>+сӑр<post>$
+[/Uxv9WD6JIPM_]
+[VFX22Z7_6bWg#0] ^шӑшийӗмсемшӗн/шӑши<n><px1sg><pl><ter>$
+[/VFX22Z7_6bWg]
+[VumnoEwhJksV#0] ^шӑшийӗпе/шӑши<n><px3sp><ins>$
+[/VumnoEwhJksV]
+[Wcr_c0CnXL2t#0] ^шӑшийӗн/шӑши<n><px3sp><gen>$
+[/Wcr_c0CnXL2t]
+[XB78PlOliQBM#0] ^шӑшийӗмсӗр/шӑши<n><px1sg>+сӑр<post>$
+[/XB78PlOliQBM]
+[XMtOmbam71as#0] ^шӑшийӳнтен/шӑши<n><px2sg><abl>$
+[/XMtOmbam71as]
+[Xve-QX2BRnGh#0] ^шӑшийӗмӗрсем/шӑши<n><px1pl><pl><nom>$
+[/Xve-QX2BRnGh]
+[Y5Vw4uMMaREV#0] ^шӑшийӳн/шӑши<n><px2sg><gen>$
+[/Y5Vw4uMMaREV]
+[YMR60jaJkNpG#0] ^шӑшийӗрсемсӗр/шӑши<n><px2pl><pl>+сӑр<post>$
+[/YMR60jaJkNpG]
+[YSvy8cPK9otF#0] ^шӑшийӗмре/шӑши<n><px1sg><loc>$
+[/YSvy8cPK9otF]
+[Yzzhn2mDkDkv#0] ^шӑшийӗсен/шӑши<n><px3sp><pl><gen>$
+[/Yzzhn2mDkDkv]
+[Z27pJ-NGzMCr#0] ^шӑшийӳнте/шӑши<n><px2sg><loc>$
+[/Z27pJ-NGzMCr]
+[_DA8eplo0rFs#0] ^шӑшисен/шӑши<n><pl><gen>$
+[/_DA8eplo0rFs]
+[bDt6z_p8oKgf#0] ^шӑшийӗмӗрте/шӑши<n><px1pl><loc>$
+[/bDt6z_p8oKgf]
+[brhP-B8vK0aM#0] ^шӑшийӗмшӗн/шӑши<n><px1sg><ter>$
+[/brhP-B8vK0aM]
+[bzqV7pSUvis9#0] ^шӑшийӗмӗрсен/шӑши<n><px1pl><pl><gen>$
+[/bzqV7pSUvis9]
+[c3LMrkK5sP-k#0] ^шӑшийӗмрен/шӑши<n><px1sg><abl>$
+[/c3LMrkK5sP-k]
+[cRFj6DZI_CRM#0] ^шӑшийӗмӗрсемпе/шӑши<n><px1pl><pl><ins>$
+[/cRFj6DZI_CRM]
+[dPuwEC7X1K-D#0] ^шӑшийӳне/шӑши<n><px2sg><dat>$
+[/dPuwEC7X1K-D]
+[egaf7ODesnmT#0] ^шӑшийӳсенче/шӑши<n><px2sg><pl><loc>$
+[/egaf7ODesnmT]
+[fTqejmPs9B8w#0] ^шӑшийӗмӗре/шӑши<n><px1pl><dat>$
+[/fTqejmPs9B8w]
+[gM8jTKfzzKcW#0] ^шӑшийӳшӗн/шӑши<n><px2sg><ter>$
+[/gM8jTKfzzKcW]
+[ibX99lqU9Ghl#0] ^шӑшийӗмсен/шӑши<n><px1sg><pl><gen>$
+[/ibX99lqU9Ghl]
+[jx3h2Z6XsQH5#0] ^шӑшийӗрсем/шӑши<n><px2pl><pl><nom>$
+[/jx3h2Z6XsQH5]
+[kjjDT5qkgr_f#0] ^шӑшийӗсемшӗн/шӑши<n><px3sp><pl><ter>$
+[/kjjDT5qkgr_f]
+[lI5yaWmFj0-8#0] ^шӑшие/шӑши<n><dat>$
+[/lI5yaWmFj0-8]
+[lPslD8uEQv04#0] ^шӑшисенчен/шӑши<n><pl><abl>$
+[/lPslD8uEQv04]
+[lYF5irdAFDQL#0] ^шӑшийӗшӗн/шӑши<n><px3sp><ter>$
+[/lYF5irdAFDQL]
+[l_3r4VtuoKbE#0] ^шӑшийӗмӗршӗн/шӑши<n><px1pl><ter>$
+[/l_3r4VtuoKbE]
+[lk7BJxlE7rW0#0] ^шӑшийӗре/шӑши<n><px2pl><dat>$
+[/lk7BJxlE7rW0]
+[lqSayxb793S5#0] ^шӑшийӗсенчен/шӑши<n><px3sp><pl><abl>$
+[/lqSayxb793S5]
+[m2SUh-toAsaB#0] ^шӑшийӳ/шӑши<n><px2sg><nom>$
+[/m2SUh-toAsaB]
+[mCGtnLRM5_qX#0] ^шӑшийӗмсенче/шӑши<n><px1sg><pl><loc>$
+[/mCGtnLRM5_qX]
+[mZSty5K-VzsC#0] ^шӑшисӗр/шӑши<n>+сӑр<post>$
+[/mZSty5K-VzsC]
+[o2ioNQZhXN5Q#0] ^шӑшийӳпе/шӑши<n><px2sg><ins>$
+[/o2ioNQZhXN5Q]
+[ogmZ1tdoKgVq#0] ^шӑшине/шӑши<n><px3sp><dat>/шӑши<n><px2sg><dat>$
+[/ogmZ1tdoKgVq]
+[ozZQR73jlYkJ#0] ^шӑшийӗмӗртен/шӑши<n><px1pl><abl>$
+[/ozZQR73jlYkJ]
+[qIz0kP8_JLUc#0] ^шӑшисенче/шӑши<n><pl><loc>$
+[/qIz0kP8_JLUc]
+[qabZDmIp189L#0] ^шӑшире/шӑши<n><loc>$
+[/qabZDmIp189L]
+[qjSZkE8kv0At#0] ^шӑшийӗрсемшӗн/шӑши<n><px2pl><pl><ter>$
+[/qjSZkE8kv0At]
+[s7mYcPOUEguV#0] ^шӑшийӗрсенче/шӑши<n><px2pl><pl><loc>$
+[/s7mYcPOUEguV]
+[sBskH6036LJy#0] ^шӑшийӗсем/шӑши<n><px3sp><pl><nom>$
+[/sBskH6036LJy]
+[sWJ4ZH6zmM3l#0] ^шӑшийӗнче/шӑши<n><px3sp><loc>$
+[/sWJ4ZH6zmM3l]
+[tbJX98nq0WlQ#0] ^шӑшийӗмӗр/шӑши<n><px1pl><nom>$
+[/tbJX98nq0WlQ]
+[tzkUwDfLbiHH#0] ^шӑшин/шӑши<n><gen>$
+[/tzkUwDfLbiHH]
+[uC_6jsCRGsvP#0] ^шӑшийӗрсемпе/шӑши<n><px2pl><pl><ins>$
+[/uC_6jsCRGsvP]
+[uQQqZuMNgsWN#0] ^шӑшийӳсемшӗн/шӑши<n><px2sg><pl><ter>$
+[/uQQqZuMNgsWN]
+[ui49occOPzEz#0] ^шӑшийӗмпе/шӑши<n><px1sg><ins>$
+[/ui49occOPzEz]
+[upVZCco0U0TE#0] ^шӑшийӗмсемсӗр/шӑши<n><px1sg><pl>+сӑр<post>$
+[/upVZCco0U0TE]
+[vnFRAhA6GYza#0] ^шӑшийӗмсем/шӑши<n><px1sg><pl><nom>$
+[/vnFRAhA6GYza]
+[x1QSiL3O7wa7#0] ^шӑшийӗнчен/шӑши<n><px3sp><abl>$
+[/x1QSiL3O7wa7]
+[xXCyIt1V8H4F#0] ^шӑшийӗрсен/шӑши<n><px2pl><pl><gen>$
+[/xXCyIt1V8H4F]
+[xucEADFI5ZLG#0] ^шӑшийӗршӗн/шӑши<n><px2pl><ter>$
+[/xucEADFI5ZLG]
+[yAYMj9oG0Eym#0] ^шӑшийӗрте/шӑши<n><px2pl><loc>$
+[/yAYMj9oG0Eym]
+[z2lXcbGTq6Ln#0] ^шӑшийӗр/шӑши<n><px2pl><nom>$
+[/z2lXcbGTq6Ln]
+[zPVDCPWcGvl3#0] ^шӑшишӗн/шӑши<n><ter>$
+[/zPVDCPWcGvl3]

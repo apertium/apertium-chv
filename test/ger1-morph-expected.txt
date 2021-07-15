@@ -1,0 +1,16 @@
+[3PDQrJhfrfp2#0] ^пулмасть/пул<v><iv><neg><pres><p3><sg>$
+[/3PDQrJhfrfp2]
+[6d8mio6uwGOs#0] ^ӗҫлеме/ӗҫлеме<n><attr>/ӗҫлеме<n><nom>/ӗҫле<v><iv><ger>/ӗҫле<v><iv><neg><imp><p2><sg>/ӗҫле<v><tv><ger>/ӗҫле<v><tv><neg><imp><p2><sg>$
+[/6d8mio6uwGOs]
+[7kvkQzjvwhgd#0] ^вуламасть/вула<v><iv><neg><pres><p3><sg>/вула<v><tv><neg><pres><p3><sg>$
+[/7kvkQzjvwhgd]
+[PjMr-WMvIpgD#0] ^илмест/ил<v><iv><neg><pres><p3><sg>/ил<v><tv><neg><pres><p3><sg>$
+[/PjMr-WMvIpgD]
+[UewNrpPV2oVT#0] ^ӗҫлемест/ӗҫле<v><iv><neg><pres><p3><sg>/ӗҫле<v><tv><neg><pres><p3><sg>$
+[/UewNrpPV2oVT]
+[vuQuAxkc_UD0#0] ^илме/ил<v><iv><ger>/ил<v><iv><neg><imp><p2><sg>/ил<v><tv><ger>/ил<v><tv><neg><imp><p2><sg>$
+[/vuQuAxkc_UD0]
+[wSWRBP451jfM#0] ^пулма/пул<v><iv><ger>/пул<v><iv><neg><imp><p2><sg>$
+[/wSWRBP451jfM]
+[wnCclFlhnGQN#0] ^вулама/вула<v><iv><ger>/вула<v><iv><neg><imp><p2><sg>/вула<v><tv><ger>/вула<v><tv><neg><imp><p2><sg>$
+[/wnCclFlhnGQN]

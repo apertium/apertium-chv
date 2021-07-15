@@ -1,0 +1,28 @@
+[0GVh1fvbzxZv#0] ^калин/кала<v><tv><opt><p3><sg>/калий<n><gen>/кали<n><gen>$
+[/0GVh1fvbzxZv]
+[0eirHZ62Ty5r#0] ^вӗрин/вӗре<v><iv><opt><p3><sg>/вӗре<v><tv><opt><p3><sg>/вӗри<adj><subst><gen>/вӗр<v><iv><opt><p3><sg>/вӗр<v><tv><opt><p3><sg>$
+[/0eirHZ62Ty5r]
+[80reFszj-tVT#0] ^килӗҫин/кил<v><iv><opt><p3><pl>$
+[/80reFszj-tVT]
+[9-Lci2-N3lNB#0] ^пуҫлин/пуҫла<v><tv><opt><p3><sg>/пуҫлӑ<adj>+и<subst><gen>/пуҫлӑ<adj><subst><px3sp><gen>$
+[/9-Lci2-N3lNB]
+[CxYXIWf46497#0] ^кайӗҫин/кай<v><iv><opt><p3><pl>$
+[/CxYXIWf46497]
+[DOvJAwuzzv_V#0] ^ҫийӗҫин/ҫи<v><tv><opt><p3><pl>$
+[/DOvJAwuzzv_V]
+[HYILuxZwEIdY#0] ^калӗҫин/кала<v><tv><opt><p3><pl>$
+[/HYILuxZwEIdY]
+[NkvkrN3KAQkZ#0] ^тӑвӗҫин/ту<v><tv><opt><p3><pl>$
+[/NkvkrN3KAQkZ]
+[WPLGfQ0QqTvA#0] ^вылӗҫин/*вылӗҫин$
+[/WPLGfQ0QqTvA]
+[aWIf_NueRMzM#0] ^килин/кил<v><iv><opt><p3><sg>$
+[/aWIf_NueRMzM]
+[d1x40cwg6IDO#0] ^кайин/кай<v><iv><opt><p3><sg>$
+[/d1x40cwg6IDO]
+[hBOiONCz1ZWB#0] ^тӑвин/*тӑвин$
+[/hBOiONCz1ZWB]
+[haOusSKH8xVc#0] ^вылин/*вылин$
+[/haOusSKH8xVc]
+[sI8UgPdtR1Ih#0] ^ҫийин/ҫи<v><tv><opt><p3><sg>$
+[/sI8UgPdtR1Ih]

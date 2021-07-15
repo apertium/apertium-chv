@@ -1,0 +1,6 @@
+# For some reason {а} in the present tense suffix doesn't fall in verbs like вула (ending in а)
+шырать
+вулатӑп
+ӗҫлетӗп
+пулатӑп
+илетӗп

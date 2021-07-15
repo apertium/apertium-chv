@@ -1,0 +1,54 @@
+# Russian nouns that behave normally
+^стена<n><nom>$
+^стена<n><gen>$
+^стена<n><dat>$
+^стена<n><loc>$
+^стена<n><abl>$
+^стена<n><ins>$
+^стена<n>+сӑр<post>$
+^стена<n><ter>$
+# Russian nouns that have reduced back vowels
+^сцена<n><nom>$
+^сцена<n><gen>$
+^сцена<n><dat>$
+^сцена<n><loc>$
+^сцена<n><abl>$
+^сцена<n><ins>$
+^сцена<n>+сӑр<post>$
+^сцена<n><ter>$
+# Russian nouns with blocked vowel harmony
+^музей<n><nom>$
+^музей<n><gen>$
+^музей<n><dat>$
+^музей<n><loc>$
+^музей<n><abl>$
+^музей<n><ins>$
+^музей<n>+сӑр<post>$
+^музей<n><ter>$
+# Russian nouns that have reduced front vowels
+^училище<n><nom>$
+^училище<n><gen>$
+^училище<n><dat>$
+^училище<n><loc>$
+^училище<n><abl>$
+^училище<n><ins>$
+^училище<n>+сӑр<post>$
+^училище<n><ter>$
+# Russian nouns with reduced back vowels and ь
+^Петя<np><ant><m><nom>$
+^Петя<np><ant><m><gen>$
+^Петя<np><ant><m><dat>$
+^Петя<np><ant><m><loc>$
+^Петя<np><ant><m><abl>$
+^Петя<np><ant><m><ins>$
+^Петя<np><ant><m>+сӑр<post>$
+^Петя<np><ant><m><ter>$
+# Russian nouns with reduced front vowels and ь
+^платье<n><nom>$
+^платье<n><gen>$
+^платье<n><dat>$
+^платье<n><loc>$
+^платье<n><abl>$
+^платье<n><ins>$
+^платье<n>+сӑр<post>$
+^платье<n><ter>$

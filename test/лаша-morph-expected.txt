@@ -1,0 +1,192 @@
+[-3AzEjCf6THq#0] ^лашӑрта/лаша<n><px2pl><loc>$
+[/-3AzEjCf6THq]
+[-dCjsHFNFfcB#0] ^лашасемшӗн/лаша<n><pl><ter>$
+[/-dCjsHFNFfcB]
+[0JMZbr-2C4-u#0] ^лашун/лаша<n><px2sg><gen>$
+[/0JMZbr-2C4-u]
+[0MN6MdyBoO0R#0] ^лашин/лаша<n><px3sp><gen>$
+[/0MN6MdyBoO0R]
+[1B-Kwmm-KYXz#0] ^лашисенче/лаша<n><px3sp><pl><loc>$
+[/1B-Kwmm-KYXz]
+[1KKQ5w6kjRUR#0] ^лашунта/лаша<n><px2sg><loc>$
+[/1KKQ5w6kjRUR]
+[1ceLWNA14PlT#0] ^лашусемпе/лаша<n><px2sg><pl><ins>$
+[/1ceLWNA14PlT]
+[1u5BXWENqjP4#0] ^лашӑрсенчен/лаша<n><px2pl><pl><abl>$
+[/1u5BXWENqjP4]
+[2CErItkNCeld#0] ^лашасенчен/лаша<n><pl><abl>$
+[/2CErItkNCeld]
+[3wnIMdj7-AmA#0] ^лашӑра/лаша<n><px2pl><dat>$
+[/3wnIMdj7-AmA]
+[44tDhNoYn7JV#0] ^лашасемпе/лаша<n><pl><ins>$
+[/44tDhNoYn7JV]
+[4CgBWJbX26ph#0] ^лашӑрсемшӗн/лаша<n><px2pl><pl><ter>$
+[/4CgBWJbX26ph]
+[4vaDsQ3JDOG8#0] ^лашинчен/лаша<n><px3sp><abl>$
+[/4vaDsQ3JDOG8]
+[57rSVsTGL5yt#0] ^лашасемсӗр/лаша<n><pl>+сӑр<post>$
+[/57rSVsTGL5yt]
+[5Ds2cfka9Gqy#0] ^лашамсемшӗн/лаша<n><px1sg><pl><ter>$
+[/5Ds2cfka9Gqy]
+[5SDDwUTEmPuo#0] ^лашинче/лаша<n><px3sp><loc>$
+[/5SDDwUTEmPuo]
+[68kh88TugMUl#0] ^лашине/лаша<n><px3sp><dat>$
+[/68kh88TugMUl]
+[6WsOIWi3vep6#0] ^лашусен/лаша<n><px2sg><pl><gen>$
+[/6WsOIWi3vep6]
+[6b9mooQpdAgH#0] ^лашан/лаша<n><gen>$
+[/6b9mooQpdAgH]
+[7NBUcB9kC3kj#0] ^лашӑрсенче/лаша<n><px2pl><pl><loc>$
+[/7NBUcB9kC3kj]
+[7iKW509_ho38#0] ^лашампа/лаша<n><px1sg><ins>$
+[/7iKW509_ho38]
+[7r7Js5LsUJsA#0] ^лашисен/лаша<n><px3sp><pl><gen>$
+[/7r7Js5LsUJsA]
+[9l-suJqtBnW2#0] ^лашамсемпе/лаша<n><px1sg><pl><ins>$
+[/9l-suJqtBnW2]
+[A5i-TP2KDz76#0] ^лашана/лаша<n><dat>$
+[/A5i-TP2KDz76]
+[C2GHVmWaP1na#0] ^лашӑрсемпе/лаша<n><px2pl><pl><ins>$
+[/C2GHVmWaP1na]
+[C8ryxza_41mf#0] ^лашусене/лаша<n><px2sg><pl><dat>$
+[/C8ryxza_41mf]
+[DAGxDnpmQ5Gd#0] ^лашисем/лаша<n><px3sp><pl><nom>$
+[/DAGxDnpmQ5Gd]
+[DGQ__q7ETSLQ#0] ^лашамӑрпа/лаша<n><px1pl><ins>$
+[/DGQ__q7ETSLQ]
+[DOC5LcdmC5V7#0] ^лашӑрсем/лаша<n><px2pl><pl><nom>$
+[/DOC5LcdmC5V7]
+[Dhh3kNVeSwYx#0] ^лашам/лаша<n><px1sg><nom>$
+[/Dhh3kNVeSwYx]
+[F0PkFuLEcYwg#0] ^лашамӑрсӑр/лаша<n><px1pl>+сӑр<post>$
+[/F0PkFuLEcYwg]
+[FQW1rLx6Th4R#0] ^лашисӗр/лаша<n><px3sp>+сӑр<post>$
+[/FQW1rLx6Th4R]
+[G20FC62MCcGK#0] ^лашусемсӗр/лаша<n><px2sg><pl>+сӑр<post>$
+[/G20FC62MCcGK]
+[HLEewf-eX3Te#0] ^лашӑр/лаша<n><px2pl><nom>$
+[/HLEewf-eX3Te]
+[HRinEgjyLkw3#0] ^лашу/лаша<n><px2sg><nom>$
+[/HRinEgjyLkw3]
+[Hw-qFwrOYs1r#0] ^лашамӑрсен/лаша<n><px1pl><pl><gen>$
+[/Hw-qFwrOYs1r]
+[I30YkmO8R3yx#0] ^лашамӑрсене/лаша<n><px1pl><pl><dat>$
+[/I30YkmO8R3yx]
+[J4dolgeLOpJN#0] ^лашамӑра/лаша<n><px1pl><dat>$
+[/J4dolgeLOpJN]
+[JlMbylYxiQLr#0] ^лашамран/лаша<n><px1sg><abl>$
+[/JlMbylYxiQLr]
+[LVuhdRfuOZZR#0] ^лашӑрсӑр/лаша<n><px2pl>+сӑр<post>$
+[/LVuhdRfuOZZR]
+[MIkM1owe8AtY#0] ^лашисемсӗр/лаша<n><px3sp><pl>+сӑр<post>$
+[/MIkM1owe8AtY]
+[MSfPe0bcUO99#0] ^лаши/лаша<n><px3sp><nom>$
+[/MSfPe0bcUO99]
+[NGw-bVVlbX33#0] ^лашамӑн/лаша<n><px1sg><gen>$
+[/NGw-bVVlbX33]
+[NRdA_KRkNfB0#0] ^лашамӑрсенчен/лаша<n><px1pl><pl><abl>$
+[/NRdA_KRkNfB0]
+[NlsjImLE-GRJ#0] ^лашамсен/лаша<n><px1sg><pl><gen>$
+[/NlsjImLE-GRJ]
+[OKmliuwutf2v#0] ^лашисемпе/лаша<n><px3sp><pl><ins>$
+[/OKmliuwutf2v]
+[PdJ3DlidHi4i#0] ^лашама/лаша<n><px1sg><dat>$
+[/PdJ3DlidHi4i]
+[QDApYOdf-4zv#0] ^лашамшӑн/лаша<n><px1sg><ter>$
+[/QDApYOdf-4zv]
+[RWMVv9cQjJWI#0] ^лашунтан/лаша<n><px2sg><abl>$
+[/RWMVv9cQjJWI]
+[TmMwyR70HbjY#0] ^лашамра/лаша<n><px1sg><loc>$
+[/TmMwyR70HbjY]
+[U8A5_O4g_VS3#0] ^лашасенче/лаша<n><pl><loc>$
+[/U8A5_O4g_VS3]
+[VBorj5u-MQKP#0] ^лашапа/лаша<n><ins>$
+[/VBorj5u-MQKP]
+[VI9KTpNPjqOD#0] ^лашаран/лаша<n><abl>$
+[/VI9KTpNPjqOD]
+[VSQ3vVVQIA_l#0] ^лашара/лаша<n><loc>$
+[/VSQ3vVVQIA_l]
+[WeYFL39BMNBJ#0] ^лашушӑн/лаша<n><px2sg><ter>$
+[/WeYFL39BMNBJ]
+[WgZvhsk9sWaa#0] ^лашӑршӑн/лаша<n><px2pl><ter>$
+[/WgZvhsk9sWaa]
+[Wjpz00VDbLkS#0] ^лашамӑрта/лаша<n><px1pl><loc>$
+[/Wjpz00VDbLkS]
+[XV_fd9WVP75W#0] ^лашасӑр/лаша<n>+сӑр<post>$
+[/XV_fd9WVP75W]
+[_l9nO8CfXm15#0] ^лашамсене/лаша<n><px1sg><pl><dat>$
+[/_l9nO8CfXm15]
+[_vqjwRVLaKjP#0] ^лашамсемсӗр/лаша<n><px1sg><pl>+сӑр<post>$
+[/_vqjwRVLaKjP]
+[a-nV94FguJfr#0] ^лашӑрсемсӗр/лаша<n><px2pl><pl>+сӑр<post>$
+[/a-nV94FguJfr]
+[atP_4-1Ta6Yy#0] ^лашамӑрсемпе/лаша<n><px1pl><pl><ins>$
+[/atP_4-1Ta6Yy]
+[b6JJRr_H2OKw#0] ^лашамӑр/лаша<n><px1pl><nom>$
+[/b6JJRr_H2OKw]
+[bdq9lWexFToY#0] ^лашусенчен/лаша<n><px2sg><pl><abl>$
+[/bdq9lWexFToY]
+[cK1-Chhlw5Rx#0] ^лашашӑн/лаша<n><ter>$
+[/cK1-Chhlw5Rx]
+[eDo9-_E6T3cz#0] ^лашамӑрсенче/лаша<n><px1pl><pl><loc>$
+[/eDo9-_E6T3cz]
+[eEhVB8zyP0P-#0] ^лашамӑртан/лаша<n><px1pl><abl>$
+[/eEhVB8zyP0P-]
+[ewP8lW-tLQrx#0] ^лашамӑршӑн/лаша<n><px1pl><ter>$
+[/ewP8lW-tLQrx]
+[gAjESP1RL9r4#0] ^лашӑртан/лаша<n><px2pl><abl>$
+[/gAjESP1RL9r4]
+[iRx5GWOC0Iog#0] ^лашамсенче/лаша<n><px1sg><pl><loc>$
+[/iRx5GWOC0Iog]
+[is_mT10aWXrt#0] ^лашамӑрсем/лаша<n><px1pl><pl><nom>$
+[/is_mT10aWXrt]
+[jOatL-MvkD-Y#0] ^лашасен/лаша<n><pl><gen>$
+[/jOatL-MvkD-Y]
+[klusIuUVHf4j#0] ^лашуна/лаша<n><px2sg><dat>$
+[/klusIuUVHf4j]
+[lB5EGSB0ZR0l#0] ^лашасене/лаша<n><pl><dat>$
+[/lB5EGSB0ZR0l]
+[lsC2KcbdmBKj#0] ^лашисемшӗн/лаша<n><px3sp><pl><ter>$
+[/lsC2KcbdmBKj]
+[mMIyYhJ2MtbS#0] ^лашисенчен/лаша<n><px3sp><pl><abl>$
+[/mMIyYhJ2MtbS]
+[mRvsXtqUh8OF#0] ^лашамсем/лаша<n><px1sg><pl><nom>$
+[/mRvsXtqUh8OF]
+[p8V7ByLlb50G#0] ^лашусӑр/лаша<n><px2sg>+сӑр<post>$
+[/p8V7ByLlb50G]
+[pEkfSl5ii7HE#0] ^лашусенче/лаша<n><px2sg><pl><loc>$
+[/pEkfSl5ii7HE]
+[pYkhWklyRoyS#0] ^лашишӗн/лаша<n><px3sp><ter>$
+[/pYkhWklyRoyS]
+[qG4BdYYUIT3Q#0] ^лашасем/лаша<n><pl><nom>$
+[/qG4BdYYUIT3Q]
+[sQxJBBs_7ZOw#0] ^лашӑрсене/лаша<n><px2pl><pl><dat>$
+[/sQxJBBs_7ZOw]
+[sSVByadzixwq#0] ^лашамӑрсемсӗр/лаша<n><px1pl><pl>+сӑр<post>$
+[/sSVByadzixwq]
+[srUsfvU-kFLb#0] ^лашусем/лаша<n><px2sg><pl><nom>$
+[/srUsfvU-kFLb]
+[tWX_ix1WvSlO#0] ^лашисене/лаша<n><px3sp><pl><dat>$
+[/tWX_ix1WvSlO]
+[tzvJFhEVwKw7#0] ^лашӑрпа/лаша<n><px2pl><ins>$
+[/tzvJFhEVwKw7]
+[uh_L8ZQxMIAw#0] ^лашипе/лаша<n><px3sp><ins>$
+[/uh_L8ZQxMIAw]
+[v2GhwYnduPVw#0] ^лашӑрӑн/лаша<n><px2pl><gen>$
+[/v2GhwYnduPVw]
+[vJedAoetnvWk#0] ^лашӑрсен/лаша<n><px2pl><pl><gen>$
+[/vJedAoetnvWk]
+[vhHQV2UFkWoj#0] ^лашупa/*лашупa$
+[/vhHQV2UFkWoj]
+[wYymmougk0U2#0] ^лашамсӑр/лаша<n><px1sg>+сӑр<post>$
+[/wYymmougk0U2]
+[xmAcFl_g9Zwh#0] ^лашусемшӗн/лаша<n><px2sg><pl><ter>$
+[/xmAcFl_g9Zwh]
+[xsoDLIzZcNBj#0] ^лашамӑрӑн/лаша<n><px1pl><gen>$
+[/xsoDLIzZcNBj]
+[yFdvBfsJ8tP1#0] ^лаша/лаша<n><attr>/лаша<n><nom>$
+[/yFdvBfsJ8tP1]
+[yRrM4_Gsl6vJ#0] ^лашамӑрсемшӗн/лаша<n><px1pl><pl><ter>$
+[/yRrM4_Gsl6vJ]
+[zbufEBisaAv9#0] ^лашамсенчен/лаша<n><px1sg><pl><abl>$
+[/zbufEBisaAv9]

@@ -1,0 +1,192 @@
+[-s4kob9zqBR6#0] ^пальтосем/пальто<n><pl><nom>$
+[/-s4kob9zqBR6]
+[05lqtKSnazuG#0] ^пальтосемсӗр/пальто<n><pl>+сӑр<post>$
+[/05lqtKSnazuG]
+[08Rs8LywgGVc#0] ^пальтосӑр/пальто<n>+сӑр<post>$
+[/08Rs8LywgGVc]
+[1-gH5MynseS0#0] ^пальторан/пальто<n><abl>$
+[/1-gH5MynseS0]
+[1mhxsOSVjtWl#0] ^пальтомӑрсен/пальто<n><px1pl><pl><gen>$
+[/1mhxsOSVjtWl]
+[2Wys2OokXT9B#0] ^пальтисӗр/пальто<n><px3sp>+сӑр<post>$
+[/2Wys2OokXT9B]
+[2eSmxIeGFdYh#0] ^пальто/пальто<n><attr>/пальто<n><nom>$
+[/2eSmxIeGFdYh]
+[2oJ_dRSbpO6Z#0] ^пальтон/пальто<n><gen>$
+[/2oJ_dRSbpO6Z]
+[34yi3X2cpM0j#0] ^пальтунта/пальто<n><px2sg><loc>$
+[/34yi3X2cpM0j]
+[3DYwKQ_wxdI5#0] ^пальтомӑрта/пальто<n><px1pl><loc>$
+[/3DYwKQ_wxdI5]
+[4uYrbSz8LHaG#0] ^пальтомӑрсенче/пальто<n><px1pl><pl><loc>$
+[/4uYrbSz8LHaG]
+[6W0DKbMoJTxG#0] ^пальтомсене/пальто<n><px1sg><pl><dat>$
+[/6W0DKbMoJTxG]
+[6ZwA8uhSZPSL#0] ^пальтисене/пальто<n><px3sp><pl><dat>$
+[/6ZwA8uhSZPSL]
+[7rctDkQ492IS#0] ^пальтусемшӗн/пальто<n><px2sg><pl><ter>$
+[/7rctDkQ492IS]
+[8baoHPF1_jw0#0] ^пальтисем/пальто<n><px3sp><pl><nom>$
+[/8baoHPF1_jw0]
+[8jbTwOEroDZc#0] ^пальтусем/пальто<n><px2sg><pl><nom>$
+[/8jbTwOEroDZc]
+[8mF5kAMNj8W9#0] ^пальти/пальто<n><px3sp><nom>$
+[/8mF5kAMNj8W9]
+[8s7INCikNfOE#0] ^пальтусӑр/пальто<n><px2sg>+сӑр<post>$
+[/8s7INCikNfOE]
+[C_tdXrZImfD7#0] ^пальтишӗн/пальто<n><px3sp><ter>$
+[/C_tdXrZImfD7]
+[DOcK_UbNCmsM#0] ^пальту/пальто<n><px2sg><nom>$
+[/DOcK_UbNCmsM]
+[E1MtPNVke_1u#0] ^пальтомӑршӑн/пальто<n><px1pl><ter>$
+[/E1MtPNVke_1u]
+[GDBJi3A_QoJJ#0] ^пальтомсем/пальто<n><px1sg><pl><nom>$
+[/GDBJi3A_QoJJ]
+[G_Z2SH9kzI2K#0] ^пальтомсенчен/пальто<n><px1sg><pl><abl>$
+[/G_Z2SH9kzI2K]
+[HLPZzAR3NzqX#0] ^пальтине/пальто<n><px3sp><dat>$
+[/HLPZzAR3NzqX]
+[Hs9geounILhQ#0] ^пальтомсенче/пальто<n><px1sg><pl><loc>$
+[/Hs9geounILhQ]
+[IlOzCYfwtppK#0] ^пальтомӑр/пальто<n><px1pl><nom>$
+[/IlOzCYfwtppK]
+[ImMOyPHGIgBV#0] ^пальтопа/пальто<n><ins>$
+[/ImMOyPHGIgBV]
+[LQ605CXSAjmq#0] ^пальтӑрсем/пальто<n><px2pl><pl><nom>$
+[/LQ605CXSAjmq]
+[LXcj47uLg3Qa#0] ^пальтома/пальто<n><px1sg><dat>$
+[/LXcj47uLg3Qa]
+[LYpD3mgwyh2w#0] ^пальтуна/пальто<n><px2sg><dat>$
+[/LYpD3mgwyh2w]
+[MPnWq0vWdeXR#0] ^пальтусенче/пальто<n><px2sg><pl><loc>$
+[/MPnWq0vWdeXR]
+[NdJGReogBlD9#0] ^пальтӑрсене/пальто<n><px2pl><pl><dat>$
+[/NdJGReogBlD9]
+[OJplbJg2rVJN#0] ^пальтӑр/пальто<n><px2pl><nom>$
+[/OJplbJg2rVJN]
+[OvjhGO6272WC#0] ^пальтинче/пальто<n><px3sp><loc>$
+[/OvjhGO6272WC]
+[PBWCCANRlAap#0] ^пальтисемшӗн/пальто<n><px3sp><pl><ter>$
+[/PBWCCANRlAap]
+[PG-s6czmCrAU#0] ^пальтун/пальто<n><px2sg><gen>$
+[/PG-s6czmCrAU]
+[PlIhOtBRPyw9#0] ^пальтосемпе/пальто<n><pl><ins>$
+[/PlIhOtBRPyw9]
+[QspKebGWCvi6#0] ^пальтосен/пальто<n><pl><gen>$
+[/QspKebGWCvi6]
+[ROI39J4h9cdL#0] ^пальтусемпе/пальто<n><px2sg><pl><ins>$
+[/ROI39J4h9cdL]
+[RS3oAUCP5nSD#0] ^пальтӑрсемсӗр/пальто<n><px2pl><pl>+сӑр<post>$
+[/RS3oAUCP5nSD]
+[Sw9MIA4xHbdh#0] ^пальтомран/пальто<n><px1sg><abl>$
+[/Sw9MIA4xHbdh]
+[TMf20uzxijj1#0] ^пальтомпа/пальто<n><px1sg><ins>$
+[/TMf20uzxijj1]
+[TYgQktO5c_Pj#0] ^пальтомсемсӗр/пальто<n><px1sg><pl>+сӑр<post>$
+[/TYgQktO5c_Pj]
+[TcoT26tGPYnZ#0] ^пальтӑрсемпе/пальто<n><px2pl><pl><ins>$
+[/TcoT26tGPYnZ]
+[UB28GBD3dI80#0] ^пальтомӑрпа/пальто<n><px1pl><ins>$
+[/UB28GBD3dI80]
+[UTLEEPK_fgIG#0] ^пальтин/пальто<n><px3sp><gen>$
+[/UTLEEPK_fgIG]
+[UmHGrjEQUXA5#0] ^пальтомӑрсемшӗн/пальто<n><px1pl><pl><ter>$
+[/UmHGrjEQUXA5]
+[V4zPfss2tPR5#0] ^пальтосенче/пальто<n><pl><loc>$
+[/V4zPfss2tPR5]
+[VI_gXz1SrgWC#0] ^пальтӑртан/пальто<n><px2pl><abl>$
+[/VI_gXz1SrgWC]
+[V_A57C2dDcRS#0] ^пальтомсемпе/пальто<n><px1sg><pl><ins>$
+[/V_A57C2dDcRS]
+[WNIwiMo3PJI2#0] ^пальтинчен/пальто<n><px3sp><abl>$
+[/WNIwiMo3PJI2]
+[WU8KZjiM-dI6#0] ^пальтомра/пальто<n><px1sg><loc>$
+[/WU8KZjiM-dI6]
+[Wf62IctgmC6p#0] ^пальтомӑрсӑр/пальто<n><px1pl>+сӑр<post>$
+[/Wf62IctgmC6p]
+[XDaPh-rreEie#0] ^пальтунтан/пальто<n><px2sg><abl>$
+[/XDaPh-rreEie]
+[XZusOYnR13Yb#0] ^пальтисен/пальто<n><px3sp><pl><gen>$
+[/XZusOYnR13Yb]
+[Xy-N97DFLOoL#0] ^пальтӑрсен/пальто<n><px2pl><pl><gen>$
+[/Xy-N97DFLOoL]
+[Y5cp2_x4H-NZ#0] ^пальтосене/пальто<n><pl><dat>$
+[/Y5cp2_x4H-NZ]
+[YOy6o0PWK5qV#0] ^пальтипе/пальто<n><px3sp><ins>$
+[/YOy6o0PWK5qV]
+[YV6rem3iZIOb#0] ^пальтомӑн/пальто<n><px1sg><gen>$
+[/YV6rem3iZIOb]
+[YljgN8DVfX5l#0] ^пальтӑрсенче/пальто<n><px2pl><pl><loc>$
+[/YljgN8DVfX5l]
+[ZJybjC08wyy6#0] ^пальтомӑртан/пальто<n><px1pl><abl>$
+[/ZJybjC08wyy6]
+[_EFrgo73VyeG#0] ^пальтомӑрсем/пальто<n><px1pl><pl><nom>$
+[/_EFrgo73VyeG]
+[_RoemJMZYpIe#0] ^пальтом/пальто<n><px1sg><nom>$
+[/_RoemJMZYpIe]
+[__xJzVM_ctvf#0] ^пальтомӑрсемпе/пальто<n><px1pl><pl><ins>$
+[/__xJzVM_ctvf]
+[a6HoumoLDlN3#0] ^пальтӑрсенчен/пальто<n><px2pl><pl><abl>$
+[/a6HoumoLDlN3]
+[aWNhBeyEvpRo#0] ^пальтусенчен/пальто<n><px2sg><pl><abl>$
+[/aWNhBeyEvpRo]
+[aqsmYJKninT8#0] ^пальтӑрсӑр/пальто<n><px2pl>+сӑр<post>$
+[/aqsmYJKninT8]
+[aw01GN4rOCr2#0] ^пальтисемсӗр/пальто<n><px3sp><pl>+сӑр<post>$
+[/aw01GN4rOCr2]
+[bp4OLo0LG6rM#0] ^пальтомшӑн/пальто<n><px1sg><ter>$
+[/bp4OLo0LG6rM]
+[cnZ_T3vntggF#0] ^пальтошӑн/пальто<n><ter>$
+[/cnZ_T3vntggF]
+[d7HgvRZXmHrE#0] ^пальтӑрта/пальто<n><px2pl><loc>$
+[/d7HgvRZXmHrE]
+[dYeZAL7Fmozh#0] ^пальтусемсӗр/пальто<n><px2sg><pl>+сӑр<post>$
+[/dYeZAL7Fmozh]
+[erL21PXHV8da#0] ^пальтусен/пальто<n><px2sg><pl><gen>$
+[/erL21PXHV8da]
+[g3u_zomwp0NE#0] ^пальтусене/пальто<n><px2sg><pl><dat>$
+[/g3u_zomwp0NE]
+[gHoGCFxeLH2p#0] ^пальтӑрӑн/пальто<n><px2pl><gen>$
+[/gHoGCFxeLH2p]
+[gjUfNO2qbq5A#0] ^пальтомсемшӗн/пальто<n><px1sg><pl><ter>$
+[/gjUfNO2qbq5A]
+[ji2KYuIiYea6#0] ^пальтӑршӑн/пальто<n><px2pl><ter>$
+[/ji2KYuIiYea6]
+[kDDIbiW26WpU#0] ^пальтомӑрсене/пальто<n><px1pl><pl><dat>$
+[/kDDIbiW26WpU]
+[leB-sZCr80D_#0] ^пальтомӑрсенчен/пальто<n><px1pl><pl><abl>$
+[/leB-sZCr80D_]
+[lv4_Fd2uWmKK#0] ^пальтисенчен/пальто<n><px3sp><pl><abl>$
+[/lv4_Fd2uWmKK]
+[oW6sKFsyC0gq#0] ^пальтомӑра/пальто<n><px1pl><dat>$
+[/oW6sKFsyC0gq]
+[pf9ftgp5zLMW#0] ^пальтосемшӗн/пальто<n><pl><ter>$
+[/pf9ftgp5zLMW]
+[pvI1zq2sqzEC#0] ^пальтомӑрсемсӗр/пальто<n><px1pl><pl>+сӑр<post>$
+[/pvI1zq2sqzEC]
+[qGCqzePlJMMR#0] ^пальтӑрпа/пальто<n><px2pl><ins>$
+[/qGCqzePlJMMR]
+[r3lUnmRJp6I1#0] ^пальтосенчен/пальто<n><pl><abl>$
+[/r3lUnmRJp6I1]
+[rU1eCZVjUhmK#0] ^пальтӑра/пальто<n><px2pl><dat>$
+[/rU1eCZVjUhmK]
+[sU4-59b9u2-8#0] ^пальтомсӑр/пальто<n><px1sg>+сӑр<post>$
+[/sU4-59b9u2-8]
+[sbaqA0pLUZuj#0] ^пальтӑрсемшӗн/пальто<n><px2pl><pl><ter>$
+[/sbaqA0pLUZuj]
+[uNWgSliXiS_D#0] ^пальтона/пальто<n><dat>$
+[/uNWgSliXiS_D]
+[uaPRsXmdI2Jm#0] ^пальтушӑн/пальто<n><px2sg><ter>$
+[/uaPRsXmdI2Jm]
+[vSY-rNrwoKiV#0] ^пальтисенче/пальто<n><px3sp><pl><loc>$
+[/vSY-rNrwoKiV]
+[vUfzTbfFL922#0] ^пальтомӑрӑн/пальто<n><px1pl><gen>$
+[/vUfzTbfFL922]
+[xAfF1d50rly3#0] ^пальтора/пальто<n><loc>$
+[/xAfF1d50rly3]
+[y6L55kyz5KyP#0] ^пальтупа/пальто<n><px2sg><ins>$
+[/y6L55kyz5KyP]
+[z5gf_n--UFKu#0] ^пальтомсен/пальто<n><px1sg><pl><gen>$
+[/z5gf_n--UFKu]
+[znRAyvZluvqV#0] ^пальтисемпе/пальто<n><px3sp><pl><ins>$
+[/znRAyvZluvqV]

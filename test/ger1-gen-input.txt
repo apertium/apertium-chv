@@ -1,0 +1,9 @@
+# Fall of м in ger1 (%>м%{А%}), but м does not fall e.g. in <neg><pres> (%>м%{А%}с%>т)
+^вула<v><tv><ger1>$
+^ӗҫле<v><iv><ger1>$
+^пул<v><iv><ger1>$
+^ил<v><iv><ger1>$
+^вула<v><tv><neg><pres><p3><sg>$
+^ӗҫле<v><iv><neg><pres><p3><sg>$
+^пул<v><iv><neg><pres><p3><sg>$
+^ил<v><iv><neg><pres><p3><sg>$

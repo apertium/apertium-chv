@@ -1,0 +1,190 @@
+[-US9AbMgIVey#0] ^барокки/барокко<n><px3sp><nom>$
+[/-US9AbMgIVey]
+[-zNuQZSlvTTP#0] ^бароккӑран/барокко<n><abl>$
+[/-zNuQZSlvTTP]
+[-zz3S4V15pjc#0] ^бароккинче/барокко<n><px3sp><loc>$
+[/-zz3S4V15pjc]
+[0nxMuJs0Wh7t#0] ^бароккӑсен/барокко<n><pl><gen>$
+[/0nxMuJs0Wh7t]
+[4V6NWN94CMUB#0] ^бароккӑмӑрӑн/барокко<n><px1pl><gen>$
+[/4V6NWN94CMUB]
+[4YqUJ8ufDQu8#0] ^бароккусен/барокко<n><px2sg><pl><gen>$
+[/4YqUJ8ufDQu8]
+[6KZBO8k9c5ly#0] ^бароккӑмӑрпа/барокко<n><px1pl><ins>$
+[/6KZBO8k9c5ly]
+[7G0xH7Y1HVUY#0] ^бароккисене/барокко<n><px3sp><pl><dat>$
+[/7G0xH7Y1HVUY]
+[7K-XUWoj1dXx#0] ^бароккӑм/барокко<n><px1sg><nom>$
+[/7K-XUWoj1dXx]
+[7sjFf1qv7Zi_#0] ^бароккӑмсен/барокко<n><px1sg><pl><gen>$
+[/7sjFf1qv7Zi_]
+[82kNXcRfSTwR#0] ^бароккӑмӑрсемпе/барокко<n><px1pl><pl><ins>$
+[/82kNXcRfSTwR]
+[82yYrIfaB3Mv#0] ^бароккусемпе/барокко<n><px2sg><pl><ins>$
+[/82yYrIfaB3Mv]
+[9LZijRpoR7J_#0] ^бароккипе/барокко<n><px3sp><ins>$
+[/9LZijRpoR7J_]
+[BTM69Exg6bwR#0] ^бароккине/барокко<n><px3sp><dat>$
+[/BTM69Exg6bwR]
+[CmCFL0Tpj_RN#0] ^бароккӑмӑрсӑр/барокко<n><px1pl>+сӑр<post>$
+[/CmCFL0Tpj_RN]
+[DtCmThsXEcQH#0] ^бароккӑсенчен/барокко<n><pl><abl>$
+[/DtCmThsXEcQH]
+[EZsx5SUfOi6D#0] ^бароккӑрсене/барокко<n><px2pl><pl><dat>$
+[/EZsx5SUfOi6D]
+[EpocRhpr98Aj#0] ^бароккӑмӑрсен/барокко<n><px1pl><pl><gen>$
+[/EpocRhpr98Aj]
+[FBqcrQdZyLAe#0] ^бароккисӗр/барокко<n><px3sp>+сӑр<post>$
+[/FBqcrQdZyLAe]
+[FlmAqKNoc-nW#0] ^бароккӑмсене/барокко<n><px1sg><pl><dat>$
+[/FlmAqKNoc-nW]
+[GWGASMRGv8p7#0] ^барокко/барокко<n><attr>/барокко<n><nom>$
+[/GWGASMRGv8p7]
+[GnPNxxOLacat#0] ^бароккӑрсен/барокко<n><px2pl><pl><gen>$
+[/GnPNxxOLacat]
+[HtSh5ZmLVQ3I#0] ^бароккӑсем/барокко<n><pl><nom>$
+[/HtSh5ZmLVQ3I]
+[IaVjV9Iew3ZL#0] ^бароккишӗн/барокко<n><px3sp><ter>$
+[/IaVjV9Iew3ZL]
+[IwF-fuH6JVpb#0] ^бароккӑмран/барокко<n><px1sg><abl>$
+[/IwF-fuH6JVpb]
+[J-EicE_emEBx#0] ^бароккӑрта/барокко<n><px2pl><loc>$
+[/J-EicE_emEBx]
+[KDOUI6gDkiq_#0] ^бароккунтан/барокко<n><px2sg><abl>$
+[/KDOUI6gDkiq_]
+[LpPm3__nHsd3#0] ^бароккӑмшӑн/барокко<n><px1sg><ter>$
+[/LpPm3__nHsd3]
+[NdwyR-4EX7l8#0] ^бароккӑрсемпе/барокко<n><px2pl><pl><ins>$
+[/NdwyR-4EX7l8]
+[NqXMPhMaL0s3#0] ^бароккӑр/барокко<n><px2pl><nom>$
+[/NqXMPhMaL0s3]
+[OGUFMZ4gp4Vj#0] ^бароккӑмӑрсем/барокко<n><px1pl><pl><nom>$
+[/OGUFMZ4gp4Vj]
+[OSyexspdJpba#0] ^барокку/барокко<n><px2sg><nom>$
+[/OSyexspdJpba]
+[PGKI9olaE1P7#0] ^бароккусем/барокко<n><px2sg><pl><nom>$
+[/PGKI9olaE1P7]
+[PMGw-aE4MUIH#0] ^бароккӑмӑрсене/барокко<n><px1pl><pl><dat>$
+[/PMGw-aE4MUIH]
+[PnGXV5U2VGgL#0] ^бароккӑмӑрсемшӗн/барокко<n><px1pl><pl><ter>$
+[/PnGXV5U2VGgL]
+[Q9kC6dhY1Lng#0] ^бароккӑрсемсӗр/барокко<n><px2pl><pl>+сӑр<post>$
+[/Q9kC6dhY1Lng]
+[R3BCmmB4bsTF#0] ^бароккисемпе/барокко<n><px3sp><pl><ins>$
+[/R3BCmmB4bsTF]
+[RoUTrdb26Uar#0] ^бароккӑрсенче/барокко<n><px2pl><pl><loc>$
+[/RoUTrdb26Uar]
+[RuM2ZcNDLx1k#0] ^бароккӑрсемшӗн/барокко<n><px2pl><pl><ter>$
+[/RuM2ZcNDLx1k]
+[RutUAIpf_WDL#0] ^бароккӑрсенчен/барокко<n><px2pl><pl><abl>$
+[/RutUAIpf_WDL]
+[SX65-9Xv5s7e#0] ^бароккӑн/барокко<n><gen>$
+[/SX65-9Xv5s7e]
+[Tkgpk0qdN6mT#0] ^бароккӑмӑршӑн/барокко<n><px1pl><ter>$
+[/Tkgpk0qdN6mT]
+[U8HpzSFze_YF#0] ^бароккисенче/барокко<n><px3sp><pl><loc>$
+[/U8HpzSFze_YF]
+[UhM93iPMznqv#0] ^бароккӑна/барокко<n><dat>$
+[/UhM93iPMznqv]
+[VM71tVvzu5fu#0] ^бароккисемшӗн/барокко<n><px3sp><pl><ter>$
+[/VM71tVvzu5fu]
+[VuQaKGfrHMM6#0] ^бароккисен/барокко<n><px3sp><pl><gen>$
+[/VuQaKGfrHMM6]
+[XXJBdH908gXH#0] ^бароккӑрсем/барокко<n><px2pl><pl><nom>$
+[/XXJBdH908gXH]
+[a0oOLrlRaOK5#0] ^бароккӑмра/барокко<n><px1sg><loc>$
+[/a0oOLrlRaOK5]
+[acqZjQf9gTUi#0] ^бароккӑпа/барокко<n><ins>$
+[/acqZjQf9gTUi]
+[asFPe_18dmv6#0] ^бароккӑсемсӗр/барокко<n><pl>+сӑр<post>$
+[/asFPe_18dmv6]
+[cuR40HLZ6MeF#0] ^бароккӑра/барокко<n><loc>/барокко<n><px2pl><dat>$
+[/cuR40HLZ6MeF]
+[cy3tA_QhQtOe#0] ^бароккин/барокко<n><px3sp><gen>$
+[/cy3tA_QhQtOe]
+[dIY6TZNSjfU9#0] ^бароккусенче/барокко<n><px2sg><pl><loc>$
+[/dIY6TZNSjfU9]
+[eYLlfHIJ0ysC#0] ^бароккӑсенче/барокко<n><pl><loc>$
+[/eYLlfHIJ0ysC]
+[ewdJAfJwgAbf#0] ^бароккӑмсенче/барокко<n><px1sg><pl><loc>$
+[/ewdJAfJwgAbf]
+[exZXTSao-Dml#0] ^бароккуна/барокко<n><px2sg><dat>$
+[/exZXTSao-Dml]
+[fzWGU3rO4oaN#0] ^бароккӑрпа/барокко<n><px2pl><ins>$
+[/fzWGU3rO4oaN]
+[ggcLpW3ntmMS#0] ^бароккӑмӑр/барокко<n><px1pl><nom>$
+[/ggcLpW3ntmMS]
+[h1zJonAdTzfF#0] ^бароккӑмсӑр/барокко<n><px1sg>+сӑр<post>$
+[/h1zJonAdTzfF]
+[hBhsd9YIwxwn#0] ^бароккупа/барокко<n><px2sg><ins>$
+[/hBhsd9YIwxwn]
+[h_1K7tIrCvwP#0] ^бароккӑсемпе/барокко<n><pl><ins>$
+[/h_1K7tIrCvwP]
+[hbKUlDu6JpLM#0] ^бароккунта/барокко<n><px2sg><loc>$
+[/hbKUlDu6JpLM]
+[iEwkTvp7yh5-#0] ^бароккӑмӑрта/барокко<n><px1pl><loc>$
+[/iEwkTvp7yh5-]
+[iISvWtRJoU5h#0] ^бароккусенчен/барокко<n><px2sg><pl><abl>$
+[/iISvWtRJoU5h]
+[iYfJ_bMBzYJe#0] ^бароккӑрсӑр/барокко<n><px2pl>+сӑр<post>$
+[/iYfJ_bMBzYJe]
+[irex5sARaGbE#0] ^бароккӑмӑртан/барокко<n><px1pl><abl>$
+[/irex5sARaGbE]
+[j_6_L30EnlvJ#0] ^бароккусӑр/барокко<n><px2sg>+сӑр<post>$
+[/j_6_L30EnlvJ]
+[kg-TBEVrB76K#0] ^бароккӑма/барокко<n><px1sg><dat>$
+[/kg-TBEVrB76K]
+[l1quo4CNJhtB#0] ^бароккӑсемшӗн/барокко<n><pl><ter>$
+[/l1quo4CNJhtB]
+[mMH2JFOz8QR1#0] ^бароккусемшӗн/барокко<n><px2sg><pl><ter>$
+[/mMH2JFOz8QR1]
+[mlNuEaFlJVtz#0] ^бароккӑмӑрсемсӗр/барокко<n><px1pl><pl>+сӑр<post>$
+[/mlNuEaFlJVtz]
+[nLXU5AexAIAj#0] ^бароккушӑн/барокко<n><px2sg><ter>$
+[/nLXU5AexAIAj]
+[nbWisKgyQMMc#0] ^бароккӑмсемшӗн/барокко<n><px1sg><pl><ter>$
+[/nbWisKgyQMMc]
+[pY9WSJ3MZVy-#0] ^бароккӑмсенчен/барокко<n><px1sg><pl><abl>$
+[/pY9WSJ3MZVy-]
+[ph9LfGLChwB5#0] ^бароккӑсӑр/барокко<n>+сӑр<post>$
+[/ph9LfGLChwB5]
+[phJG2hbSeD73#0] ^бароккӑсене/барокко<n><pl><dat>$
+[/phJG2hbSeD73]
+[qFhUrv11ayAN#0] ^бароккун/барокко<n><px2sg><gen>$
+[/qFhUrv11ayAN]
+[qmcLO5mzkv_u#0] ^дмӑрсенчен/*дмӑрсенчен$
+[/qmcLO5mzkv_u]
+[rg08DaU4UQH9#0] ^бароккӑмӑра/барокко<n><px1pl><dat>$
+[/rg08DaU4UQH9]
+[sK0ttt1ZyEC4#0] ^бароккисенчен/барокко<n><px3sp><pl><abl>$
+[/sK0ttt1ZyEC4]
+[sMlDL1AMfdza#0] ^бароккисем/барокко<n><px3sp><pl><nom>$
+[/sMlDL1AMfdza]
+[sQVIAuMkfrSE#0] ^бароккӑмсем/барокко<n><px1sg><pl><nom>$
+[/sQVIAuMkfrSE]
+[tB0mdSAEqKxj#0] ^бароккӑшӑн/барокко<n><ter>$
+[/tB0mdSAEqKxj]
+[tD56MxCveG5M#0] ^бароккусене/барокко<n><px2sg><pl><dat>$
+[/tD56MxCveG5M]
+[tTPOaPPpeRdz#0] ^бароккӑмӑн/барокко<n><px1sg><gen>$
+[/tTPOaPPpeRdz]
+[tWCBmtPcxAb7#0] ^бароккӑмпа/барокко<n><px1sg><ins>$
+[/tWCBmtPcxAb7]
+[th6EU9yq8XyS#0] ^бароккӑмӑрсенче/барокко<n><px1pl><pl><loc>$
+[/th6EU9yq8XyS]
+[tkAN0d2qtq2p#0] ^бароккӑртан/барокко<n><px2pl><abl>$
+[/tkAN0d2qtq2p]
+[u1lrxR2ynjyn#0] ^бароккӑршӑн/барокко<n><px2pl><ter>$
+[/u1lrxR2ynjyn]
+[v3yxuK5h64aP#0] ^бароккисемсӗр/барокко<n><px3sp><pl>+сӑр<post>$
+[/v3yxuK5h64aP]
+[v9DIMa58Rnmi#0] ^бароккӑмсемпе/барокко<n><px1sg><pl><ins>$
+[/v9DIMa58Rnmi]
+[vT6IFCr9z8z2#0] ^бароккӑмсемсӗр/барокко<n><px1sg><pl>+сӑр<post>$
+[/vT6IFCr9z8z2]
+[xxPP6j9atds6#0] ^бароккусемсӗр/барокко<n><px2sg><pl>+сӑр<post>$
+[/xxPP6j9atds6]
+[yTaD_kJKYpDM#0] ^бароккинчен/барокко<n><px3sp><abl>$
+[/yTaD_kJKYpDM]
+[zpMIzjEzIlGR#0] ^бароккӑрӑн/барокко<n><px2pl><gen>$
+[/zpMIzjEzIlGR]

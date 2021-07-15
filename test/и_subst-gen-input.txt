@@ -1,0 +1,17 @@
+# и <subst>
+^лайӑх<adj>+и<subst><nom>$
+^пысӑк<adj>+и<subst><nom>$
+^пӗчӗк<adj>+и<subst><nom>$
+^аван<adj>+и<subst><nom>$
+^тутлӑ<adj>+и<subst><nom>$
+^ҫурӑ<adj>+и<subst><nom>$
+^хура<adj>+и<subst><nom>$
+^хитре<adj>+и<subst><nom>$
+^лайӑх<adj>+и<subst><dat>$
+^лайӑх<adj>+и<subst><ins>$
+^лайӑх<adj>+и<subst><pl><nom>$
+^лайӑх<adj>+и<subst><pl><gen>$
+^лайӑх<adj>+ах<mod>$
+^лайӑх<adj><comp>$
+^аван<adj>+ах<mod>$
+^аван<adj><comp>$

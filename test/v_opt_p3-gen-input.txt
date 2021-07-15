@@ -1,0 +1,16 @@
+# <opt><p3><sg>
+^выля<v><tv><opt><p3><sg>$
+^кай<v><iv><opt><p3><sg>$
+^кала<v><tv><opt><p3><sg>$
+^кил<v><iv><opt><p3><sg>$
+^ҫи<v><tv><opt><p3><sg>$
+^ту<v><tv><opt><p3><sg>$
+^вӗре<v><iv><opt><p3><sg>$
+^пуҫла<v><tv><opt><p3><sg>$
+# <opt><p3><pl>
+^выля<v><tv><opt><p3><pl>$
+^кай<v><iv><opt><p3><pl>$
+^кала<v><tv><opt><p3><pl>$
+^кил<v><iv><opt><p3><pl>$
+^ҫи<v><tv><opt><p3><pl>$
+^ту<v><tv><opt><p3><pl>$

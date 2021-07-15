@@ -1,0 +1,192 @@
+[-2hO6ESnZLg2#0] ^чиккӗмсенче/чикӗ<n><px1sg><pl><loc>$
+[/-2hO6ESnZLg2]
+[-Co1fK_FqsZj#0] ^чиккӗмӗртен/чикӗ<n><px1pl><abl>$
+[/-Co1fK_FqsZj]
+[-SQv7-UEirPO#0] ^чиккӗршӗн/чикӗ<n><px2pl><ter>$
+[/-SQv7-UEirPO]
+[-f_TbceHmxxi#0] ^чиккӗрсем/чикӗ<n><px2pl><pl><nom>$
+[/-f_TbceHmxxi]
+[-z5D_p8Lb34V#0] ^чиккӗмсемсӗр/чикӗ<n><px1sg><pl>+сӑр<post>$
+[/-z5D_p8Lb34V]
+[0cpTzniYleq_#0] ^чиккӳсенче/чикӗ<n><px2sg><pl><loc>$
+[/0cpTzniYleq_]
+[0e7KUbaKZl6R#0] ^чиккӗрсемсӗр/чикӗ<n><px2pl><pl>+сӑр<post>$
+[/0e7KUbaKZl6R]
+[1iIUsjC1ryrk#0] ^чиккӳ/чикӗ<n><px2sg><nom>$
+[/1iIUsjC1ryrk]
+[28Hsz1uEzNJQ#0] ^чиккӳсем/чикӗ<n><px2sg><pl><nom>$
+[/28Hsz1uEzNJQ]
+[35GIvz9Sk2kO#0] ^чиккӗрсемпе/чикӗ<n><px2pl><pl><ins>$
+[/35GIvz9Sk2kO]
+[3GEWRyuYWDog#0] ^чиккӗрсенчен/чикӗ<n><px2pl><pl><abl>$
+[/3GEWRyuYWDog]
+[3N7YSqL99iJZ#0] ^чиккӳсен/чикӗ<n><px2sg><pl><gen>$
+[/3N7YSqL99iJZ]
+[3o7gLHLLOktg#0] ^чиккисенче/чикӗ<n><px3sp><pl><loc>$
+[/3o7gLHLLOktg]
+[412tgVuTWZBb#0] ^чикӗсемсӗр/чикӗ<n><pl>+сӑр<post>$
+[/412tgVuTWZBb]
+[5f0zK8nykBcB#0] ^чиккӗре/чикӗ<n><px2pl><dat>$
+[/5f0zK8nykBcB]
+[7Dkco2Fam4Hf#0] ^чиккин/чикӗ<n><px3sp><gen>$
+[/7Dkco2Fam4Hf]
+[7k4q738OddCC#0] ^чиккӗмрен/чикӗ<n><px1sg><abl>$
+[/7k4q738OddCC]
+[7xovUIaB_gQZ#0] ^чиккӗмӗрӗн/чикӗ<n><px1pl><gen>$
+[/7xovUIaB_gQZ]
+[8FsNnwDh-7qL#0] ^чиккӗрсӗр/чикӗ<n><px2pl>+сӑр<post>$
+[/8FsNnwDh-7qL]
+[8Pe_LdqGDnLY#0] ^чиккисенчен/чикӗ<n><px3sp><pl><abl>$
+[/8Pe_LdqGDnLY]
+[8WTGFcIznrjf#0] ^чиккӗмӗрсенчен/чикӗ<n><px1pl><pl><abl>$
+[/8WTGFcIznrjf]
+[8sN4bPu7rDrl#0] ^чикӗпе/чикӗ<n><ins>$
+[/8sN4bPu7rDrl]
+[9D7CbrYMl7mP#0] ^чиккӳсене/чикӗ<n><px2sg><pl><dat>$
+[/9D7CbrYMl7mP]
+[9OgWH_y_OATr#0] ^чиккӗр/чикӗ<n><px2pl><nom>$
+[/9OgWH_y_OATr]
+[9kF9O3cg1gnZ#0] ^чиккӗрсен/чикӗ<n><px2pl><pl><gen>$
+[/9kF9O3cg1gnZ]
+[9vptyHkjxykI#0] ^чиккӳшӗн/чикӗ<n><px2sg><ter>$
+[/9vptyHkjxykI]
+[B05Np7LOG0PK#0] ^чиккӗрсене/чикӗ<n><px2pl><pl><dat>$
+[/B05Np7LOG0PK]
+[BgXW_Mk3OJ3L#0] ^чиккӗмшӗн/чикӗ<n><px1sg><ter>$
+[/BgXW_Mk3OJ3L]
+[Bo0JoZF2BAKb#0] ^чикӗсен/чикӗ<n><pl><gen>$
+[/Bo0JoZF2BAKb]
+[DlrHCwwDb85e#0] ^чиккӗмсем/чикӗ<n><px1sg><pl><nom>$
+[/DlrHCwwDb85e]
+[Eu7_BXBxiU99#0] ^чиккӳнте/чикӗ<n><px2sg><loc>$
+[/Eu7_BXBxiU99]
+[FKUaKdVwqTJu#0] ^чиккӗрсенче/чикӗ<n><px2pl><pl><loc>$
+[/FKUaKdVwqTJu]
+[FnF9Tsgq_kNh#0] ^чикӗрен/чикӗ<n><abl>$
+[/FnF9Tsgq_kNh]
+[FwFpNW4gqX9O#0] ^чиккӳн/чикӗ<n><px2sg><gen>$
+[/FwFpNW4gqX9O]
+[HAKWm8MyaXlI#0] ^чиккисене/чикӗ<n><px3sp><pl><dat>$
+[/HAKWm8MyaXlI]
+[HYGRiFJiR98-#0] ^чиккӗмӗршӗн/чикӗ<n><px1pl><ter>$
+[/HYGRiFJiR98-]
+[ISkDt65ZOzVB#0] ^чиккипе/чикӗ<n><px3sp><ins>$
+[/ISkDt65ZOzVB]
+[JURn1n9aHd1n#0] ^чикӗсемшӗн/чикӗ<n><pl><ter>$
+[/JURn1n9aHd1n]
+[KHQEdL6OfInf#0] ^чиккӗртен/чикӗ<n><px2pl><abl>$
+[/KHQEdL6OfInf]
+[KLgnh5cxpl-U#0] ^чиккӳсемпе/чикӗ<n><px2sg><pl><ins>$
+[/KLgnh5cxpl-U]
+[Kr8TUJDC4JnK#0] ^чиккӗмӗрпе/чикӗ<n><px1pl><ins>$
+[/Kr8TUJDC4JnK]
+[LpD1tTIf_tNE#0] ^чиккисемпе/чикӗ<n><px3sp><pl><ins>$
+[/LpD1tTIf_tNE]
+[MRYvEMuex4X3#0] ^чиккӗмсемпе/чикӗ<n><px1sg><pl><ins>$
+[/MRYvEMuex4X3]
+[N00gRaN-aN_k#0] ^чиккӗмсенчен/чикӗ<n><px1sg><pl><abl>$
+[/N00gRaN-aN_k]
+[NFd_NToDLF9x#0] ^чиккӗмӗн/чикӗ<n><px1sg><gen>$
+[/NFd_NToDLF9x]
+[NIWHvIFizCqS#0] ^чиккӳсемшӗн/чикӗ<n><px2sg><pl><ter>$
+[/NIWHvIFizCqS]
+[NNIErHh1iD9C#0] ^чиккӗмӗрсемсӗр/чикӗ<n><px1pl><pl>+сӑр<post>$
+[/NNIErHh1iD9C]
+[NVl8AdNrGttH#0] ^чикӗшӗн/чикӗш<v><iv><fut><p2><sg>/чикӗш<v><iv><pres><p2><sg>/чикӗш<v><tv><fut><p2><sg>/чикӗш<v><tv><pres><p2><sg>/чикӗ<n><ter>/чик<v><iv><coop><fut><p2><sg>/чик<v><iv><coop><pres><p2><sg>/чик<v><tv><coop><fut><p2><sg>/чик<v><tv><coop><pres><p2><sg>$
+[/NVl8AdNrGttH]
+[Njeksk8Klyar#0] ^чиккӳпе/чикӗ<n><px2sg><ins>$
+[/Njeksk8Klyar]
+[OjAPyWv5j9ZQ#0] ^чиккӳсемсӗр/чикӗ<n><px2sg><pl>+сӑр<post>$
+[/OjAPyWv5j9ZQ]
+[PBDScZVmX1r7#0] ^чиккӗмре/чикӗ<n><px1sg><loc>$
+[/PBDScZVmX1r7]
+[PX4krLwtogXf#0] ^чиккӗмӗрсӗр/чикӗ<n><px1pl>+сӑр<post>$
+[/PX4krLwtogXf]
+[PdGi1DfvwJjP#0] ^чиккӗм/чикӗ<n><px1sg><nom>$
+[/PdGi1DfvwJjP]
+[Qh57iqMKjDyM#0] ^чиккӗрте/чикӗ<n><px2pl><loc>$
+[/Qh57iqMKjDyM]
+[ThMN8scnNrVS#0] ^чиккӗмӗрсемпе/чикӗ<n><px1pl><pl><ins>$
+[/ThMN8scnNrVS]
+[VYZtxhXdTWOh#0] ^чиккӳсӗр/чикӗ<n><px2sg>+сӑр<post>$
+[/VYZtxhXdTWOh]
+[VeZKYzXqtphV#0] ^чиккӳне/чикӗ<n><px2sg><dat>$
+[/VeZKYzXqtphV]
+[X7CuBikkKLdl#0] ^чиккисемшӗн/чикӗ<n><px3sp><pl><ter>$
+[/X7CuBikkKLdl]
+[YxXom3hFruBp#0] ^чиккӗмпе/чикӗ<n><px1sg><ins>$
+[/YxXom3hFruBp]
+[Z6M-dM9wfJTM#0] ^чиккӗмӗрсем/чикӗ<n><px1pl><pl><nom>$
+[/Z6M-dM9wfJTM]
+[Z8M1S7-O0-aV#0] ^чиккисемсӗр/чикӗ<n><px3sp><pl>+сӑр<post>$
+[/Z8M1S7-O0-aV]
+[Z9U-kxJM-C6C#0] ^чиккӗмӗре/чикӗ<n><px1pl><dat>$
+[/Z9U-kxJM-C6C]
+[_AWt4AhMLEfK#0] ^чиккӳнтен/чикӗ<n><px2sg><abl>$
+[/_AWt4AhMLEfK]
+[aYupHQlZjUOq#0] ^чиккӗрсемшӗн/чикӗ<n><px2pl><pl><ter>$
+[/aYupHQlZjUOq]
+[amlhSxkWcPxL#0] ^чиккӗн/чикӗ<n><gen>$
+[/amlhSxkWcPxL]
+[anzo9AmfIcSw#0] ^чиккинче/чикӗ<n><px3sp><loc>$
+[/anzo9AmfIcSw]
+[bU2YYPy5nKSv#0] ^чиккӗрпе/чикӗ<n><px2pl><ins>$
+[/bU2YYPy5nKSv]
+[c9edHrkUzyDH#0] ^чикки/чикӗ<n><px3sp><nom>$
+[/c9edHrkUzyDH]
+[cL5ghE7--0Ad#0] ^чиккӗмӗрте/чикӗ<n><px1pl><loc>$
+[/cL5ghE7--0Ad]
+[cmuYeY0HeztN#0] ^чикӗсене/чикӗ<n><pl><dat>$
+[/cmuYeY0HeztN]
+[dWgI1ASJIMZv#0] ^чиккине/чикӗ<n><px3sp><dat>$
+[/dWgI1ASJIMZv]
+[dXJn6NeElTRf#0] ^чиккӗмсен/чикӗ<n><px1sg><pl><gen>$
+[/dXJn6NeElTRf]
+[eFpqfTyCOyv1#0] ^чиккӗмӗрсенче/чикӗ<n><px1pl><pl><loc>$
+[/eFpqfTyCOyv1]
+[eKMqTSP0zt_d#0] ^чикӗсӗр/чикӗсӗр<adj>/чикӗсӗр<adj><subst><nom>/чик<v><iv><opt><p2><pl>/чик<v><tv><opt><p2><pl>/чикӗ<n>+сӑр<post>$
+[/eKMqTSP0zt_d]
+[eaOR5mtCuJQZ#0] ^чикӗсенчен/чикӗ<n><pl><abl>$
+[/eaOR5mtCuJQZ]
+[elmdBSBanXx7#0] ^чиккӗмӗрсене/чикӗ<n><px1pl><pl><dat>$
+[/elmdBSBanXx7]
+[fHCVDwQ_AoR8#0] ^чиккишӗн/чикӗ<n><px3sp><ter>$
+[/fHCVDwQ_AoR8]
+[fqOnATptWjGQ#0] ^чиккисӗр/чикӗ<n><px3sp>+сӑр<post>$
+[/fqOnATptWjGQ]
+[h5oyOY6jFyKL#0] ^чиккисен/чикӗ<n><px3sp><pl><gen>$
+[/h5oyOY6jFyKL]
+[iV606rs0qexs#0] ^чиккӗмсемшӗн/чикӗ<n><px1sg><pl><ter>$
+[/iV606rs0qexs]
+[itIl27vPHZcK#0] ^чиккӗме/чикӗ<n><px1sg><dat>$
+[/itIl27vPHZcK]
+[lCfcZ5mJabIJ#0] ^чикӗсем/чикӗ<n><pl><nom>$
+[/lCfcZ5mJabIJ]
+[lb7LKDmSXfBL#0] ^чикӗре/чике<n><px2pl><dat>/чикӗ<n><loc>$
+[/lb7LKDmSXfBL]
+[mIPGGAzWZviD#0] ^чиккинчен/чикӗ<n><px3sp><abl>$
+[/mIPGGAzWZviD]
+[nifFrBX7arkT#0] ^чиккӗрӗн/чикӗ<n><px2pl><gen>$
+[/nifFrBX7arkT]
+[rXkmLX9sV093#0] ^чиккӗмӗрсемшӗн/чикӗ<n><px1pl><pl><ter>$
+[/rXkmLX9sV093]
+[rm2oLi9F6fpX#0] ^чиккӳсенчен/чикӗ<n><px2sg><pl><abl>$
+[/rm2oLi9F6fpX]
+[s-dnujbn-cPL#0] ^чикке/чикӗ<n><dat>$
+[/s-dnujbn-cPL]
+[sA-AmOGrWcjI#0] ^чиккисем/чикӗ<n><px3sp><pl><nom>$
+[/sA-AmOGrWcjI]
+[sYgcDBGEbb0I#0] ^чикӗсенче/чикӗ<n><pl><loc>$
+[/sYgcDBGEbb0I]
+[t1GZJDL_bIpI#0] ^чиккӗмӗрсен/чикӗ<n><px1pl><pl><gen>$
+[/t1GZJDL_bIpI]
+[uaey7NvUCEi2#0] ^чикӗсемпе/чикӗ<n><pl><ins>$
+[/uaey7NvUCEi2]
+[vAGb_yC-sTDl#0] ^чиккӗмсене/чикӗ<n><px1sg><pl><dat>$
+[/vAGb_yC-sTDl]
+[wZASWjHRBUMw#0] ^чиккӗмӗр/чикӗ<n><px1pl><nom>$
+[/wZASWjHRBUMw]
+[yafClwRAEE5A#0] ^чиккӗмсӗр/чикӗ<n><px1sg>+сӑр<post>$
+[/yafClwRAEE5A]
+[zUFWLu8U2zG3#0] ^чикӗ/чикӗ<n><attr>/чикӗ<n><nom>/чик<v><iv><fut><p3><sg>/чик<v><tv><fut><p3><sg>$
+[/zUFWLu8U2zG3]

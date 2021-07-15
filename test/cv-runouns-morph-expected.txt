@@ -1,0 +1,96 @@
+[1dUg_uA_tmtl#0] ^платйӗне/платье<n><dat>$
+[/1dUg_uA_tmtl]
+[236nDgbGz7QY#0] ^училищӗшӗн/училище<n><ter>$
+[/236nDgbGz7QY]
+[2Qj0f5Pui1Mr#0] ^сценӑшӑн/сцена<n><ter>$
+[/2Qj0f5Pui1Mr]
+[4UPAf9dAZL3b#0] ^музей/музей<n><attr>/музей<n><nom>$
+[/4UPAf9dAZL3b]
+[4WsDT4Zd8DpG#0] ^училищӗн/училище<n><gen>$
+[/4WsDT4Zd8DpG]
+[4Y7dYKR_d6By#0] ^платйӗпе/платье<n><ins>$
+[/4Y7dYKR_d6By]
+[6UDohECdYXHR#0] ^сценӑн/сцена<n><gen>$
+[/6UDohECdYXHR]
+[8gFpgHgvtBtL#0] ^сценӑсӑр/сцена<n>+сӑр<post>$
+[/8gFpgHgvtBtL]
+[8ns_aJvdrk1R#0] ^стена/стена<n><attr>/стена<n><nom>$
+[/8ns_aJvdrk1R]
+[8sqxXFuNvZpm#0] ^музейшӑн/музей<n><ter>$
+[/8sqxXFuNvZpm]
+[9z26zRKVc9zz#0] ^училищӗне/училище<n><dat>$
+[/9z26zRKVc9zz]
+[CUvoTxRQP2H9#0] ^Петьӑран/Петя<np><ant><m><abl>$
+[/CUvoTxRQP2H9]
+[EJDeREhYn2v_#0] ^стенан/стена<n><gen>$
+[/EJDeREhYn2v_]
+[Ec2QT_a329pe#0] ^платье/платье<n><attr>/платье<n><nom>$
+[/Ec2QT_a329pe]
+[F43FagY3Z2pH#0] ^Петьӑра/Петя<np><ant><m><loc>/Петя<np><ant><m><px2pl><dat>$
+[/F43FagY3Z2pH]
+[FZTRKg4tumrn#0] ^Петя/Петя<np><ant><m><nom>$
+[/FZTRKg4tumrn]
+[Hs0fP0HmhJ6f#0] ^платйӗрен/платье<n><abl>$
+[/Hs0fP0HmhJ6f]
+[Hwx8GFdt0GUK#0] ^музейсӑр/музей<n>+сӑр<post>$
+[/Hwx8GFdt0GUK]
+[I5VxW1ujVqdm#0] ^стенасӑр/стена<n>+сӑр<post>$
+[/I5VxW1ujVqdm]
+[KYTwe-40YLVz#0] ^платйӗшӗн/платье<n><ter>$
+[/KYTwe-40YLVz]
+[PVX67Dyww3Mg#0] ^стенара/стена<n><loc>$
+[/PVX67Dyww3Mg]
+[U4e0PTa1fNpw#0] ^стенана/стена<n><dat>$
+[/U4e0PTa1fNpw]
+[U8OddD9a3CNE#0] ^сцена/сцена<n><attr>/сцена<n><nom>$
+[/U8OddD9a3CNE]
+[UERccXz77kj0#0] ^училище/училище<n><attr>/училище<n><nom>$
+[/UERccXz77kj0]
+[WtCEE4aoQ_p6#0] ^платйӗсӗр/платье<n>+сӑр<post>$
+[/WtCEE4aoQ_p6]
+[XCGNfDgky_qe#0] ^училищӗпе/училище<n><ins>$
+[/XCGNfDgky_qe]
+[Ygf1wQ0eLNXE#0] ^музейра/музей<n><loc>$
+[/Ygf1wQ0eLNXE]
+[Zfuc4p1uRTOH#0] ^сценӑна/сцена<n><dat>$
+[/Zfuc4p1uRTOH]
+[_84NSwqi35u9#0] ^сценӑпа/сцена<n><ins>$
+[/_84NSwqi35u9]
+[_Tf48eOovVdJ#0] ^сценӑра/сцена<n><loc>/сцена<n><px2pl><dat>$
+[/_Tf48eOovVdJ]
+[_YelUBYbMj5z#0] ^училищӗрен/училище<n><abl>$
+[/_YelUBYbMj5z]
+[_bzW84muE4S0#0] ^музейӑн/музей<n><gen>$
+[/_bzW84muE4S0]
+[aCWtVgWAIxo_#0] ^Петьӑшӑн/Петя<np><ant><m><ter>$
+[/aCWtVgWAIxo_]
+[bkaB-gUJWc3G#0] ^Петьӑсӑр/Петя<np><ant><m>+сӑр<post>$
+[/bkaB-gUJWc3G]
+[ddvlVRnAkjjE#0] ^стенаран/стена<n><abl>$
+[/ddvlVRnAkjjE]
+[eeQ-JmiHC8i3#0] ^стенашӑн/стена<n><ter>$
+[/eeQ-JmiHC8i3]
+[iVjxlMz9Vhfh#0] ^сценӑран/сцена<n><abl>$
+[/iVjxlMz9Vhfh]
+[iorD3QBUJFbQ#0] ^музейран/музей<n><abl>$
+[/iorD3QBUJFbQ]
+[jhfswl8N4DjV#0] ^стенапа/стена<n><ins>$
+[/jhfswl8N4DjV]
+[jxcpXuQIy3xM#0] ^училищӗре/училище<n><loc>/училище<n><px2pl><dat>$
+[/jxcpXuQIy3xM]
+[lkmOsVKktwvn#0] ^платйӗн/платье<n><gen>$
+[/lkmOsVKktwvn]
+[mRRUm_Iwj-ga#0] ^Петьӑна/Петя<np><ant><m><dat>$
+[/mRRUm_Iwj-ga]
+[qjqc9UJqn08s#0] ^Петьӑн/Петя<np><ant><m><gen>$
+[/qjqc9UJqn08s]
+[stk4Pe__wJ8e#0] ^Петьӑпа/Петя<np><ant><m><ins>$
+[/stk4Pe__wJ8e]
+[tUxvSmvBKg8t#0] ^музея/музей<n><dat>/музей<n><px2sg><dat>$
+[/tUxvSmvBKg8t]
+[yAlxSZpT8HMQ#0] ^училищӗсӗр/училище<n>+сӑр<post>$
+[/yAlxSZpT8HMQ]
+[z7rnGNr-4vHQ#0] ^музейпа/музей<n><ins>$
+[/z7rnGNr-4vHQ]
+[zr2M5kEFonik#0] ^платйӗре/платье<n><loc>/платье<n><px2pl><dat>$
+[/zr2M5kEFonik]

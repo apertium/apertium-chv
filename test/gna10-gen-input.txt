@@ -1,0 +1,3 @@
+# The gna10 verb form
+^кил<v><iv><gna10>$
+^кай<v><iv><gna10>$

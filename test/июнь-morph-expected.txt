@@ -1,0 +1,188 @@
+[-mg7LgyfCbc2#0] ^июнӗмшӗн/июнь<n><px1sg><ter>$
+[/-mg7LgyfCbc2]
+[0ULJJBNGohhd#0] ^июньпе/июнь<n><ins>$
+[/0ULJJBNGohhd]
+[22Jo9Obk9S7J#0] ^июнӗмсемпе/июнь<n><px1sg><pl><ins>$
+[/22Jo9Obk9S7J]
+[3X2apYN9oPBI#0] ^июнӳн/июнь<n><px2sg><gen>$
+[/3X2apYN9oPBI]
+[3_IuZIk3uCTM#0] ^июнӗмӗрсем/июнь<n><px1pl><pl><nom>$
+[/3_IuZIk3uCTM]
+[4AXouDQtbYXE#0] ^июнӗпе/июнь<n><px3sp><ins>$
+[/4AXouDQtbYXE]
+[55QNSlVxcvzO#0] ^июньсемшӗн/июнь<n><pl><ter>$
+[/55QNSlVxcvzO]
+[6NOilyU3LQT8#0] ^июнӗмӗрсемшӗн/июнь<n><px1pl><pl><ter>$
+[/6NOilyU3LQT8]
+[7eoIRHdQaH3u#0] ^июнӗмсенче/июнь<n><px1sg><pl><loc>$
+[/7eoIRHdQaH3u]
+[8LWF2NbBF2eG#0] ^июнӳнте/июнь<n><px2sg><loc>$
+[/8LWF2NbBF2eG]
+[8QQ3iF0YUVah#0] ^июнӳ/июнь<n><px2sg><nom>$
+[/8QQ3iF0YUVah]
+[8eLhY1jXIjOn#0] ^июнӳпе/июнь<n><px2sg><ins>$
+[/8eLhY1jXIjOn]
+[8kRe8uexQGM4#0] ^июнӳнтен/июнь<n><px2sg><abl>$
+[/8kRe8uexQGM4]
+[9UXGiYQ1VbAV#0] ^июнӗмрен/июнь<n><px1sg><abl>$
+[/9UXGiYQ1VbAV]
+[9cwIlpYsrIgO#0] ^июнӳсӗр/июнь<n><px2sg>+сӑр<post>$
+[/9cwIlpYsrIgO]
+[DrFr_-btj2n2#0] ^июнӗмӗрсене/июнь<n><px1pl><pl><dat>$
+[/DrFr_-btj2n2]
+[DwAB6-CJWsbV#0] ^июнӗрсемшӗн/июнь<n><px2pl><pl><ter>$
+[/DwAB6-CJWsbV]
+[EuiSaP-lc9cM#0] ^июнӳсенчен/июнь<n><px2sg><pl><abl>$
+[/EuiSaP-lc9cM]
+[Ij2gyepV5wpa#0] ^июнӗсемпе/июнь<n><px3sp><pl><ins>$
+[/Ij2gyepV5wpa]
+[JzIQZYKWN9x4#0] ^июнӗсемсӗр/июнь<n><px3sp><pl>+сӑр<post>$
+[/JzIQZYKWN9x4]
+[KPdonvW5KtuC#0] ^июнӗмсемшӗн/июнь<n><px1sg><pl><ter>$
+[/KPdonvW5KtuC]
+[KUqxS8MmoQsG#0] ^июнӗрсенчен/июнь<n><px2pl><pl><abl>$
+[/KUqxS8MmoQsG]
+[K_7jlctZFGq-#0] ^июнӗрсемсӗр/июнь<n><px2pl><pl>+сӑр<post>$
+[/K_7jlctZFGq-]
+[Le9e2LKEJugN#0] ^июньсен/июнь<n><pl><gen>$
+[/Le9e2LKEJugN]
+[MLk1B8TJbuQt#0] ^июнӗрсенче/июнь<n><px2pl><pl><loc>$
+[/MLk1B8TJbuQt]
+[N2G3l0r90nFg#0] ^июньшӗн/июнь<n><ter>$
+[/N2G3l0r90nFg]
+[NNyqnEC5Dtax#0] ^июнӗсен/июнь<n><px3sp><pl><gen>$
+[/NNyqnEC5Dtax]
+[NVdhC28fKb8n#0] ^июнӗрсем/июнь<n><px2pl><pl><nom>$
+[/NVdhC28fKb8n]
+[NmW06vY0FjzX#0] ^июнӗмре/июнь<n><px1sg><loc>$
+[/NmW06vY0FjzX]
+[Now6nZpVkq2u#0] ^июнӗмсем/июнь<n><px1sg><pl><nom>$
+[/Now6nZpVkq2u]
+[OURgk6dgmaIy#0] ^июнӗмӗрсен/июнь<n><px1pl><pl><gen>$
+[/OURgk6dgmaIy]
+[OWY0s24OJpP9#0] ^июньне/июнь<n><px3sp><dat>/июнь<n><px2sg><dat>$
+[/OWY0s24OJpP9]
+[Of_v43cdysFV#0] ^июнӗсӗр/июнь<n><px3sp>+сӑр<post>$
+[/Of_v43cdysFV]
+[Pp66rFs8Truv#0] ^июнӗмӗрпе/июнь<n><px1pl><ins>$
+[/Pp66rFs8Truv]
+[PrZT_0iaqp2v#0] ^июнӗме/июнь<n><px1sg><dat>$
+[/PrZT_0iaqp2v]
+[ROwd7M4lAw2Z#0] ^июньсемпе/июнь<n><pl><ins>$
+[/ROwd7M4lAw2Z]
+[SvLeMyNdt6Gx#0] ^июнӗрсен/июнь<n><px2pl><pl><gen>$
+[/SvLeMyNdt6Gx]
+[T0VZuVwV7fhG#0] ^июнӗн/июнь<n><gen>/июнь<n><px3sp><gen>$
+[/T0VZuVwV7fhG]
+[TMA_2yGbBH34#0] ^июнӗмӗртен/июнь<n><px1pl><abl>$
+[/TMA_2yGbBH34]
+[TmiZKt_HnCkZ#0] ^июне/июнь<n><dat>$
+[/TmiZKt_HnCkZ]
+[UgedNz29TU76#0] ^июнӳсенче/июнь<n><px2sg><pl><loc>$
+[/UgedNz29TU76]
+[UytTpZYVpFd8#0] ^июнӗрте/июнь<n><px2pl><loc>$
+[/UytTpZYVpFd8]
+[VFcwgHk3fo8l#0] ^июнӗрсене/июнь<n><px2pl><pl><dat>$
+[/VFcwgHk3fo8l]
+[Vr0i8xsNOtxH#0] ^июньсем/июнь<n><pl><nom>$
+[/Vr0i8xsNOtxH]
+[WjGDNcQSMpOB#0] ^июнӗмӗрсемпе/июнь<n><px1pl><pl><ins>$
+[/WjGDNcQSMpOB]
+[YRxYt-tv4k4B#0] ^июнӳшӗн/июнь<n><px2sg><ter>$
+[/YRxYt-tv4k4B]
+[_RsFYHrKsR5_#0] ^июнӗмӗрсенчен/июнь<n><px1pl><pl><abl>$
+[/_RsFYHrKsR5_]
+[_pW_FGXTBb9P#0] ^июнӗмӗрсӗр/июнь<n><px1pl>+сӑр<post>$
+[/_pW_FGXTBb9P]
+[aD5p-l2TbJ8N#0] ^июнӳсем/июнь<n><px2sg><pl><nom>$
+[/aD5p-l2TbJ8N]
+[bW5oHR2fQHbR#0] ^июнӗрсӗр/июнь<n><px2pl>+сӑр<post>$
+[/bW5oHR2fQHbR]
+[bbTZXDzUKLef#0] ^июньсенчен/июнь<n><pl><abl>$
+[/bbTZXDzUKLef]
+[cqsgNVRRuEIy#0] ^июнӳсемшӗн/июнь<n><px2sg><pl><ter>$
+[/cqsgNVRRuEIy]
+[crS2znL4ZIia#0] ^июнӗмсене/июнь<n><px1sg><pl><dat>$
+[/crS2znL4ZIia]
+[dGUuN0Qt6Crq#0] ^июнӗмӗр/июнь<n><px1pl><nom>$
+[/dGUuN0Qt6Crq]
+[fsOBaE8YjwRp#0] ^июньтен/июнь<n><abl>$
+[/fsOBaE8YjwRp]
+[fvi-oIHmDHnI#0] ^июнӗмӗршӗн/июнь<n><px1pl><ter>$
+[/fvi-oIHmDHnI]
+[fxq-7hi2mFOq#0] ^июнӗре/июнь<n><px2pl><dat>$
+[/fxq-7hi2mFOq]
+[gKBpqJKfDWLh#0] ^июнӗмсенчен/июнь<n><px1sg><pl><abl>$
+[/gKBpqJKfDWLh]
+[gS99FDDZOaM1#0] ^июнӗмӗрте/июнь<n><px1pl><loc>$
+[/gS99FDDZOaM1]
+[gkbhbTAASzgU#0] ^июнӗ/июнь<n><px3sp><nom>$
+[/gkbhbTAASzgU]
+[h8lE8xB7BIkj#0] ^июнӗмӗре/июнь<n><px1pl><dat>$
+[/h8lE8xB7BIkj]
+[hJGtYLSJBySo#0] ^июнӗсенче/июнь<n><px3sp><pl><loc>$
+[/hJGtYLSJBySo]
+[hZ2dBn9m6JQK#0] ^июнӗнчен/июнь<n><px3sp><abl>$
+[/hZ2dBn9m6JQK]
+[i9ZNgfGSiAsf#0] ^июнӗрӗн/июнь<n><px2pl><gen>$
+[/i9ZNgfGSiAsf]
+[jH9gnIumhG_C#0] ^июнӗртен/июнь<n><px2pl><abl>$
+[/jH9gnIumhG_C]
+[kbEdioi8Iu04#0] ^июнӗрсемпе/июнь<n><px2pl><pl><ins>$
+[/kbEdioi8Iu04]
+[mD3hLqyZg93V#0] ^июнӗмӗрсенче/июнь<n><px1pl><pl><loc>$
+[/mD3hLqyZg93V]
+[mFpBe2ikj-au#0] ^июньсенче/июнь<n><pl><loc>$
+[/mFpBe2ikj-au]
+[mkTO5Qw0GR7o#0] ^июнӗсем/июнь<n><px3sp><pl><nom>$
+[/mkTO5Qw0GR7o]
+[n1h2mbvHNH01#0] ^июнӗр/июнь<n><px2pl><nom>$
+[/n1h2mbvHNH01]
+[nHtAII7qwhEM#0] ^июнӗсенчен/июнь<n><px3sp><pl><abl>$
+[/nHtAII7qwhEM]
+[nLqD_WH3kvPK#0] ^июнӳсене/июнь<n><px2sg><pl><dat>$
+[/nLqD_WH3kvPK]
+[nz0YY7PYmiM7#0] ^июнӳсен/июнь<n><px2sg><pl><gen>$
+[/nz0YY7PYmiM7]
+[oirQ0b06IgNx#0] ^июнӗрпе/июнь<n><px2pl><ins>$
+[/oirQ0b06IgNx]
+[pPiHQ1MLJ7eC#0] ^июнӗмпе/июнь<n><px1sg><ins>$
+[/pPiHQ1MLJ7eC]
+[qIdIU0IQUC4a#0] ^июнӗмӗрӗн/июнь<n><px1pl><gen>$
+[/qIdIU0IQUC4a]
+[qmLcJlS2yzg6#0] ^июнӳсемпе/июнь<n><px2sg><pl><ins>$
+[/qmLcJlS2yzg6]
+[rcfy--0rn8Pa#0] ^июнӗмсен/июнь<n><px1sg><pl><gen>$
+[/rcfy--0rn8Pa]
+[rxBeCK6nTrcG#0] ^июнӗсене/июнь<n><px3sp><pl><dat>$
+[/rxBeCK6nTrcG]
+[sOHlOnzcIwOi#0] ^июнӗм/июнь<n><px1sg><nom>$
+[/sOHlOnzcIwOi]
+[tge6oF45Hduq#0] ^июнӗмӗн/июнь<n><px1sg><gen>$
+[/tge6oF45Hduq]
+[txCYqK-xMqMk#0] ^июнь/июнь<n><attr>/июнь<n><nom>$
+[/txCYqK-xMqMk]
+[uaBabYx3hHxL#0] ^июнӗмӗрсемсӗр/июнь<n><px1pl><pl>+сӑр<post>$
+[/uaBabYx3hHxL]
+[ueXQmAIBXMdR#0] ^июнӗмсемсӗр/июнь<n><px1sg><pl>+сӑр<post>$
+[/ueXQmAIBXMdR]
+[uhWgClH2XFMu#0] ^июнӗшӗн/июнь<n><px3sp><ter>$
+[/uhWgClH2XFMu]
+[vIg7Z2D8BwBp#0] ^июньсемсӗр/июнь<n><pl>+сӑр<post>$
+[/vIg7Z2D8BwBp]
+[wy9_BQBUFUio#0] ^июньсӗр/июнь<n>+сӑр<post>$
+[/wy9_BQBUFUio]
+[x-8J7Olo-5Wn#0] ^июньте/июнь<n><loc>$
+[/x-8J7Olo-5Wn]
+[x6a_BXTVIo-h#0] ^июнӗнче/июнь<n><px3sp><loc>$
+[/x6a_BXTVIo-h]
+[xHJRXhObV-P0#0] ^июнӗршӗн/июнь<n><px2pl><ter>$
+[/xHJRXhObV-P0]
+[xsEdwl3WZQr4#0] ^июнӗмсӗр/июнь<n><px1sg>+сӑр<post>$
+[/xsEdwl3WZQr4]
+[y094RezahdXQ#0] ^июнӗсемшӗн/июнь<n><px3sp><pl><ter>$
+[/y094RezahdXQ]
+[yhTN2dwYis_4#0] ^июньсене/июнь<n><pl><dat>$
+[/yhTN2dwYis_4]
+[ypzPL6ulG3XU#0] ^июнӳсемсӗр/июнь<n><px2sg><pl>+сӑр<post>$
+[/ypzPL6ulG3XU]

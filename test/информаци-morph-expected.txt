@@ -1,0 +1,192 @@
+[0H6gepDsbtC8#0] ^информацисене/информаци<n><pl><dat>$
+[/0H6gepDsbtC8]
+[0YWbA-nM3Ruv#0] ^информаци/информаци<n><attr>/информаци<n><nom>$
+[/0YWbA-nM3Ruv]
+[0gpaB2VuOTQs#0] ^информацийӗ/информаци<n><px3sp><nom>$
+[/0gpaB2VuOTQs]
+[1xYeARIxchoA#0] ^информацийӗмӗрсенчен/информаци<n><px1pl><pl><abl>$
+[/1xYeARIxchoA]
+[25l-MOxLykl5#0] ^информацийӗсем/информаци<n><px3sp><pl><nom>$
+[/25l-MOxLykl5]
+[2Gg4gj4THc3S#0] ^информацийӗмӗрсем/информаци<n><px1pl><pl><nom>$
+[/2Gg4gj4THc3S]
+[2Ulpe2e6zmhH#0] ^информацийӳсене/информаци<n><px2sg><pl><dat>$
+[/2Ulpe2e6zmhH]
+[360fGXW38Zkm#0] ^информацийӗмӗн/информаци<n><px1sg><gen>$
+[/360fGXW38Zkm]
+[38Y5MZBQOgis#0] ^информацие/информаци<n><dat>$
+[/38Y5MZBQOgis]
+[3GcOeSYXBQYr#0] ^информацийӳ/информаци<n><px2sg><nom>$
+[/3GcOeSYXBQYr]
+[47k2vZLVMNOh#0] ^информацийӗмсемсӗр/информаци<n><px1sg><pl>+сӑр<post>$
+[/47k2vZLVMNOh]
+[55mm_SGvh1YB#0] ^информацийӗмпе/информаци<n><px1sg><ins>$
+[/55mm_SGvh1YB]
+[6MHneP6h52Y4#0] ^информацийӗмӗртен/информаци<n><px1pl><abl>$
+[/6MHneP6h52Y4]
+[7zibkbNcWLig#0] ^информацисемсӗр/информаци<n><pl>+сӑр<post>$
+[/7zibkbNcWLig]
+[98Ip06MUBICW#0] ^информацийӗмӗрте/информаци<n><px1pl><loc>$
+[/98Ip06MUBICW]
+[ASNC0QNmNr7k#0] ^информацийӗрпе/информаци<n><px2pl><ins>$
+[/ASNC0QNmNr7k]
+[ApYkUA6UAfGY#0] ^информацийӗмсен/информаци<n><px1sg><pl><gen>$
+[/ApYkUA6UAfGY]
+[BuUKg227A647#0] ^информацийӗмсемшӗн/информаци<n><px1sg><pl><ter>$
+[/BuUKg227A647]
+[CgKXxJAWa0dI#0] ^информацийӗнче/информаци<n><px3sp><loc>$
+[/CgKXxJAWa0dI]
+[EvGFjyNo9RxN#0] ^информацийӗн/информаци<n><px3sp><gen>$
+[/EvGFjyNo9RxN]
+[ICd2qAFWeKM7#0] ^информацийӗмӗрсен/информаци<n><px1pl><pl><gen>$
+[/ICd2qAFWeKM7]
+[IWOse2HFRW26#0] ^информацийӳпе/информаци<n><px2sg><ins>$
+[/IWOse2HFRW26]
+[J6xb94AFAkyw#0] ^информацийӳсен/информаци<n><px2sg><pl><gen>$
+[/J6xb94AFAkyw]
+[JLO9DbXlJEy5#0] ^информацисенче/информаци<n><pl><loc>$
+[/JLO9DbXlJEy5]
+[JNMEllXt_BGU#0] ^информацийӗрсенче/информаци<n><px2pl><pl><loc>$
+[/JNMEllXt_BGU]
+[KDP5dnYyIs36#0] ^информацийӗмӗр/информаци<n><px1pl><nom>$
+[/KDP5dnYyIs36]
+[KzM9P6qRIli8#0] ^информацийӗмсӗр/информаци<n><px1sg>+сӑр<post>$
+[/KzM9P6qRIli8]
+[LyKwSi1FJ1SA#0] ^информацийӗмӗре/информаци<n><px1pl><dat>$
+[/LyKwSi1FJ1SA]
+[M08e8XB6Vpfu#0] ^информацийӗмӗршӗн/информаци<n><px1pl><ter>$
+[/M08e8XB6Vpfu]
+[MAR2LVOaBW8c#0] ^информацийӗмӗрсӗр/информаци<n><px1pl>+сӑр<post>$
+[/MAR2LVOaBW8c]
+[MZoYL509gwJd#0] ^информацийӗпе/информаци<n><px3sp><ins>$
+[/MZoYL509gwJd]
+[NCqZ4PBj2Vuc#0] ^информацирен/информаци<n><abl>$
+[/NCqZ4PBj2Vuc]
+[OOHJD6dhSOD6#0] ^информацийӗмӗрӗн/информаци<n><px1pl><gen>$
+[/OOHJD6dhSOD6]
+[PFI78HjcdAD-#0] ^информацийӗрсемпе/информаци<n><px2pl><pl><ins>$
+[/PFI78HjcdAD-]
+[PcYgXkt2DqUH#0] ^информацисен/информаци<n><pl><gen>$
+[/PcYgXkt2DqUH]
+[PxeExPigLcdW#0] ^информацийӳсенчен/информаци<n><px2sg><pl><abl>$
+[/PxeExPigLcdW]
+[QWfObS4nC_vI#0] ^информацийӗмӗрсемсӗр/информаци<n><px1pl><pl>+сӑр<post>$
+[/QWfObS4nC_vI]
+[R719nfLoDidR#0] ^информацийӗм/информаци<n><px1sg><nom>$
+[/R719nfLoDidR]
+[RJrZlttkN4qP#0] ^информацишӗн/информаци<n><ter>$
+[/RJrZlttkN4qP]
+[RnhTeY-eh03d#0] ^информацийӗмӗрпе/информаци<n><px1pl><ins>$
+[/RnhTeY-eh03d]
+[TzuV-IyKkGac#0] ^информацийӗрсемсӗр/информаци<n><px2pl><pl>+сӑр<post>$
+[/TzuV-IyKkGac]
+[UKR9R4KYaong#0] ^информацин/информаци<n><gen>$
+[/UKR9R4KYaong]
+[Uj2jIm10vuF6#0] ^информацийӗмре/информаци<n><px1sg><loc>$
+[/Uj2jIm10vuF6]
+[VEQIRvX8SkS7#0] ^информацийӳсем/информаци<n><px2sg><pl><nom>$
+[/VEQIRvX8SkS7]
+[WnbSNz9S2faC#0] ^информацийӗсенчен/информаци<n><px3sp><pl><abl>$
+[/WnbSNz9S2faC]
+[WpFR0INCy4o9#0] ^информацийӗмшӗн/информаци<n><px1sg><ter>$
+[/WpFR0INCy4o9]
+[WrG3Y3uZFim9#0] ^информацийӳсемшӗн/информаци<n><px2sg><pl><ter>$
+[/WrG3Y3uZFim9]
+[XqsyUJj6nCvW#0] ^информацийӗре/информаци<n><px2pl><dat>$
+[/XqsyUJj6nCvW]
+[XwqZQ8qxD68P#0] ^информацийӗме/информаци<n><px1sg><dat>$
+[/XwqZQ8qxD68P]
+[Y0obqyslGezj#0] ^информацийӳсӗр/информаци<n><px2sg>+сӑр<post>$
+[/Y0obqyslGezj]
+[Z7IDm0rE8Ekb#0] ^информацийӗсемсӗр/информаци<n><px3sp><pl>+сӑр<post>$
+[/Z7IDm0rE8Ekb]
+[Zb0b4WYj_ASK#0] ^информацисенчен/информаци<n><pl><abl>$
+[/Zb0b4WYj_ASK]
+[_K-PPKGv0pJ7#0] ^информацийӳнтен/информаци<n><px2sg><abl>$
+[/_K-PPKGv0pJ7]
+[_iF_RrX7wu21#0] ^информацийӗсене/информаци<n><px3sp><pl><dat>$
+[/_iF_RrX7wu21]
+[aLOVleNO_hK6#0] ^информацисем/информаци<n><pl><nom>$
+[/aLOVleNO_hK6]
+[apkJ-VPA75sj#0] ^информацийӗрӗн/информаци<n><px2pl><gen>$
+[/apkJ-VPA75sj]
+[bgJrYLhwrZaa#0] ^информацийӗмӗрсемшӗн/информаци<n><px1pl><pl><ter>$
+[/bgJrYLhwrZaa]
+[bsGhWDK4HTUM#0] ^информацийӗмсенче/информаци<n><px1sg><pl><loc>$
+[/bsGhWDK4HTUM]
+[cvoqW-6AsLCQ#0] ^информацийӗмсенчен/информаци<n><px1sg><pl><abl>$
+[/cvoqW-6AsLCQ]
+[g29PSxetNgtJ#0] ^информацийӗсенче/информаци<n><px3sp><pl><loc>$
+[/g29PSxetNgtJ]
+[gEJdzmcKJc5O#0] ^информацийӳсемсӗр/информаци<n><px2sg><pl>+сӑр<post>$
+[/gEJdzmcKJc5O]
+[gnFeTbipV3fv#0] ^информацийӳсенче/информаци<n><px2sg><pl><loc>$
+[/gnFeTbipV3fv]
+[h0h4FomuxwmY#0] ^информацийӗртен/информаци<n><px2pl><abl>$
+[/h0h4FomuxwmY]
+[i-dY5K19KI9k#0] ^информацийӳсемпе/информаци<n><px2sg><pl><ins>$
+[/i-dY5K19KI9k]
+[iIfoLQOD-fcS#0] ^информацире/информаци<n><loc>$
+[/iIfoLQOD-fcS]
+[jRpCa44ODuq-#0] ^информацийӳнте/информаци<n><px2sg><loc>$
+[/jRpCa44ODuq-]
+[jdBcaNGI2JID#0] ^информацийӳшӗн/информаци<n><px2sg><ter>$
+[/jdBcaNGI2JID]
+[ji7UbL7jZi1A#0] ^информацийӗр/информаци<n><px2pl><nom>$
+[/ji7UbL7jZi1A]
+[l0MA5nbc_Lh3#0] ^информацисӗр/информаци<n>+сӑр<post>$
+[/l0MA5nbc_Lh3]
+[m9xeRglJ2o_X#0] ^информацисемпе/информаци<n><pl><ins>$
+[/m9xeRglJ2o_X]
+[mCV-2lHxBlpE#0] ^информацийӗрсен/информаци<n><px2pl><pl><gen>$
+[/mCV-2lHxBlpE]
+[mr6YWz_cF2L_#0] ^информацийӗршӗн/информаци<n><px2pl><ter>$
+[/mr6YWz_cF2L_]
+[mvIwUiIrQu-Y#0] ^информацийӗсемшӗн/информаци<n><px3sp><pl><ter>$
+[/mvIwUiIrQu-Y]
+[nMmo6ycVGlbE#0] ^информацийӗрсемшӗн/информаци<n><px2pl><pl><ter>$
+[/nMmo6ycVGlbE]
+[n_Lm16smpPMF#0] ^информацийӗмрен/информаци<n><px1sg><abl>$
+[/n_Lm16smpPMF]
+[nsBaJNuZ3w4z#0] ^информацийӗмсем/информаци<n><px1sg><pl><nom>$
+[/nsBaJNuZ3w4z]
+[o4clR2bVpn2F#0] ^информацийӗрте/информаци<n><px2pl><loc>$
+[/o4clR2bVpn2F]
+[oC40Y1jqx-c3#0] ^информацийӳн/информаци<n><px2sg><gen>$
+[/oC40Y1jqx-c3]
+[oZM6VkCYBjir#0] ^информацийӗшӗн/информаци<n><px3sp><ter>$
+[/oZM6VkCYBjir]
+[od8kVotj6JfL#0] ^информацийӳне/информаци<n><px2sg><dat>$
+[/od8kVotj6JfL]
+[on4o0xnaNc-X#0] ^информацийӗрсене/информаци<n><px2pl><pl><dat>$
+[/on4o0xnaNc-X]
+[op_XXDjgBpjO#0] ^информацийӗмӗрсенче/информаци<n><px1pl><pl><loc>$
+[/op_XXDjgBpjO]
+[qCjxG0XsrLJ0#0] ^информацийӗнчен/информаци<n><px3sp><abl>$
+[/qCjxG0XsrLJ0]
+[qIHbh7H7VdpO#0] ^информацийӗмӗрсене/информаци<n><px1pl><pl><dat>$
+[/qIHbh7H7VdpO]
+[rTA9Bg_PUjPr#0] ^информацийӗмӗрсемпе/информаци<n><px1pl><pl><ins>$
+[/rTA9Bg_PUjPr]
+[s0-Xc5zj6qk4#0] ^информацийӗсемпе/информаци<n><px3sp><pl><ins>$
+[/s0-Xc5zj6qk4]
+[sFxUxmxAiZ6r#0] ^информацийӗрсем/информаци<n><px2pl><pl><nom>$
+[/sFxUxmxAiZ6r]
+[sXEBQj11V8aV#0] ^информацийӗсӗр/информаци<n><px3sp>+сӑр<post>$
+[/sXEBQj11V8aV]
+[t4_D2t8VnXS-#0] ^информацийӗмсемпе/информаци<n><px1sg><pl><ins>$
+[/t4_D2t8VnXS-]
+[uIjp3hle09aF#0] ^информаципе/информаци<n><ins>$
+[/uIjp3hle09aF]
+[vFEmZCP_NU-F#0] ^информацийӗрсенчен/информаци<n><px2pl><pl><abl>$
+[/vFEmZCP_NU-F]
+[wUPOj0M_MzOJ#0] ^информацийӗрсӗр/информаци<n><px2pl>+сӑр<post>$
+[/wUPOj0M_MzOJ]
+[yxxhPP1O3zlm#0] ^информацине/информаци<n><px3sp><dat>/информаци<n><px2sg><dat>$
+[/yxxhPP1O3zlm]
+[zF9lhAn44YKN#0] ^информацисемшӗн/информаци<n><pl><ter>$
+[/zF9lhAn44YKN]
+[zlGIm_liaMWe#0] ^информацийӗмсене/информаци<n><px1sg><pl><dat>$
+[/zlGIm_liaMWe]
+[zp2ZT9F9ZBL0#0] ^информацийӗсен/информаци<n><px3sp><pl><gen>$
+[/zp2ZT9F9ZBL0]

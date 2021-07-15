@@ -1,0 +1,192 @@
+[0XwXvESqL1tl#0] ^пурттушӑн/пуртӑ<n><px2sg><ter>$
+[/0XwXvESqL1tl]
+[0h0mGJmC5WfU#0] ^пурттӑрта/пуртӑ<n><px2pl><loc>$
+[/0h0mGJmC5WfU]
+[1DygdrnrItZX#0] ^пуртӑпа/пуртӑ<n><ins>$
+[/1DygdrnrItZX]
+[1KeLvjAviJw6#0] ^пуртӑсӑр/пуртӑ<n>+сӑр<post>$
+[/1KeLvjAviJw6]
+[20y0c_iwsVNF#0] ^пурттусӑр/пуртӑ<n><px2sg>+сӑр<post>$
+[/20y0c_iwsVNF]
+[25EvHUs07xy0#0] ^пурттӑма/пуртӑ<n><px1sg><dat>$
+[/25EvHUs07xy0]
+[56V_aqG_MgE7#0] ^пурттун/пуртӑ<n><px2sg><gen>$
+[/56V_aqG_MgE7]
+[588Hz7GZcWMe#0] ^пурттисемшӗн/пуртӑ<n><px3sp><pl><ter>$
+[/588Hz7GZcWMe]
+[5NnwXJVAo_5S#0] ^пурттисемсӗр/пуртӑ<n><px3sp><pl>+сӑр<post>$
+[/5NnwXJVAo_5S]
+[5PhZzBipFxKh#0] ^пурттисенче/пуртӑ<n><px3sp><pl><loc>$
+[/5PhZzBipFxKh]
+[5q6QK_ztvHMQ#0] ^пурттисене/пуртӑ<n><px3sp><pl><dat>$
+[/5q6QK_ztvHMQ]
+[73LoUnJFVB42#0] ^пурттӑр/пуртӑ<n><px2pl><nom>$
+[/73LoUnJFVB42]
+[7pHetgU2WXWr#0] ^пуртӑран/пуртӑ<n><abl>$
+[/7pHetgU2WXWr]
+[8BMEDmSYVcuw#0] ^пурттӑмсемсӗр/пуртӑ<n><px1sg><pl>+сӑр<post>$
+[/8BMEDmSYVcuw]
+[8anZ0FfK-hPC#0] ^пуртӑсемпе/пуртӑ<n><pl><ins>$
+[/8anZ0FfK-hPC]
+[9E3wvKhOhUiW#0] ^пурттисӗр/пуртӑ<n><px3sp>+сӑр<post>$
+[/9E3wvKhOhUiW]
+[9MvnaUHhcbYI#0] ^пурттӑмсене/пуртӑ<n><px1sg><pl><dat>$
+[/9MvnaUHhcbYI]
+[BnCa_9PQ6PHr#0] ^пуртӑсен/пуртӑ<n><pl><gen>$
+[/BnCa_9PQ6PHr]
+[CfVUboRz6u9W#0] ^пурттӑмсенче/пуртӑ<n><px1sg><pl><loc>$
+[/CfVUboRz6u9W]
+[DbPFLLx03xoR#0] ^пурттисем/пуртӑ<n><px3sp><pl><nom>$
+[/DbPFLLx03xoR]
+[EIxZui4MpQ_7#0] ^пурттӑмӑрсемсӗр/пуртӑ<n><px1pl><pl>+сӑр<post>$
+[/EIxZui4MpQ_7]
+[EKvx70TcnKs0#0] ^пуртту/пуртӑ<n><px2sg><nom>$
+[/EKvx70TcnKs0]
+[EyI48xZlHHw4#0] ^пурттӑмӑрсенчен/пуртӑ<n><px1pl><pl><abl>$
+[/EyI48xZlHHw4]
+[FEbI7V9fi7_9#0] ^пурттӑмсен/пуртӑ<n><px1sg><pl><gen>$
+[/FEbI7V9fi7_9]
+[FaL_D18mUqFf#0] ^пурттӑрсен/пуртӑ<n><px2pl><pl><gen>$
+[/FaL_D18mUqFf]
+[G5dSrOy9oM5_#0] ^пурттӑмӑрӑн/пуртӑ<n><px1pl><gen>$
+[/G5dSrOy9oM5_]
+[GGbzWWo8vUFR#0] ^пуртӑсенче/пуртӑ<n><pl><loc>$
+[/GGbzWWo8vUFR]
+[Haoj0UQuEZI0#0] ^пурттуна/пуртӑ<n><px2sg><dat>$
+[/Haoj0UQuEZI0]
+[IH6Y05fs4xUE#0] ^пурттине/пуртӑ<n><px3sp><dat>$
+[/IH6Y05fs4xUE]
+[KmlhfGF8ISTv#0] ^пурттишӗн/пуртӑ<n><px3sp><ter>$
+[/KmlhfGF8ISTv]
+[Lf1UYGHHCjGn#0] ^пурттӑрсенче/пуртӑ<n><px2pl><pl><loc>$
+[/Lf1UYGHHCjGn]
+[M1sa-vKMLBun#0] ^пурттусемсӗр/пуртӑ<n><px2sg><pl>+сӑр<post>$
+[/M1sa-vKMLBun]
+[NBvhRtkCjFVt#0] ^пурттунтан/пуртӑ<n><px2sg><abl>$
+[/NBvhRtkCjFVt]
+[NPe2sl-9loQK#0] ^пурттӑмӑрсене/пуртӑ<n><px1pl><pl><dat>$
+[/NPe2sl-9loQK]
+[NqrOObat0Kgt#0] ^пурттӑрсемпе/пуртӑ<n><px2pl><pl><ins>$
+[/NqrOObat0Kgt]
+[P29w1ehOdkq5#0] ^пурттӑрсем/пуртӑ<n><px2pl><pl><nom>$
+[/P29w1ehOdkq5]
+[PXDHkcqRRmf1#0] ^пурттӑрсене/пуртӑ<n><px2pl><pl><dat>$
+[/PXDHkcqRRmf1]
+[QjTG6-euN9vU#0] ^пурттинче/пуртӑ<n><px3sp><loc>$
+[/QjTG6-euN9vU]
+[Ss_7YroUBxm9#0] ^пуртӑра/пуртӑ<n><loc>$
+[/Ss_7YroUBxm9]
+[TX9azGzy_nMi#0] ^пурттӑрӑн/пуртӑ<n><px2pl><gen>$
+[/TX9azGzy_nMi]
+[T_U36lISm9Ac#0] ^пурттинчен/пуртӑ<n><px3sp><abl>$
+[/T_U36lISm9Ac]
+[TcBHd793v8Wm#0] ^пурттӑрсемшӗн/пуртӑ<n><px2pl><pl><ter>$
+[/TcBHd793v8Wm]
+[TdDO5qtq6tF0#0] ^пурттӑмӑрсен/пуртӑ<n><px1pl><pl><gen>$
+[/TdDO5qtq6tF0]
+[Tdhv94-yT7fT#0] ^пурттӑмсем/пуртӑ<n><px1sg><pl><nom>$
+[/Tdhv94-yT7fT]
+[UTvY0ivX1_BJ#0] ^пурттӑрсӑр/пуртӑ<n><px2pl>+сӑр<post>$
+[/UTvY0ivX1_BJ]
+[UwcSAE7eP6Ym#0] ^пурттусемпе/пуртӑ<n><px2sg><pl><ins>$
+[/UwcSAE7eP6Ym]
+[Vp6ZvA5lShTh#0] ^пурттунта/пуртӑ<n><px2sg><loc>$
+[/Vp6ZvA5lShTh]
+[W2Vb5PAtcqmT#0] ^пурттӑрсенчен/пуртӑ<n><px2pl><pl><abl>$
+[/W2Vb5PAtcqmT]
+[XUYPMkBd5lP9#0] ^пурттӑмсенчен/пуртӑ<n><px1sg><pl><abl>$
+[/XUYPMkBd5lP9]
+[XcTrjLKpoa35#0] ^пуртӑ/пуртӑ<n><attr>/пуртӑ<n><nom>$
+[/XcTrjLKpoa35]
+[ZLeCBooTzaMk#0] ^пурттусенчен/пуртӑ<n><px2sg><pl><abl>$
+[/ZLeCBooTzaMk]
+[Zp43hLnc3TdH#0] ^пуртӑсене/пуртӑ<n><pl><dat>$
+[/Zp43hLnc3TdH]
+[_PYRyW-fOZCG#0] ^пурттӑршӑн/пуртӑ<n><px2pl><ter>$
+[/_PYRyW-fOZCG]
+[aMD803Zc97b7#0] ^пурттӑрпа/пуртӑ<n><px2pl><ins>$
+[/aMD803Zc97b7]
+[b3If5hL2__Fg#0] ^пурттӑмӑршӑн/пуртӑ<n><px1pl><ter>$
+[/b3If5hL2__Fg]
+[bYk0RNxedVz3#0] ^пурттисен/пуртӑ<n><px3sp><pl><gen>$
+[/bYk0RNxedVz3]
+[bYkIqDsAjQr-#0] ^пурттӑмсемпе/пуртӑ<n><px1sg><pl><ins>$
+[/bYkIqDsAjQr-]
+[c8-HOabZai1T#0] ^пурттисенчен/пуртӑ<n><px3sp><pl><abl>$
+[/c8-HOabZai1T]
+[cCoqtZgzZPPw#0] ^пурттӑмӑр/пуртӑ<n><px1pl><nom>$
+[/cCoqtZgzZPPw]
+[cfuE348K1Cqq#0] ^пурттӑмӑра/пуртӑ<n><px1pl><dat>$
+[/cfuE348K1Cqq]
+[cl13PHOHy-hP#0] ^пурттусемшӗн/пуртӑ<n><px2sg><pl><ter>$
+[/cl13PHOHy-hP]
+[dIFAdU7nfGgd#0] ^пурттӑмӑрпа/пуртӑ<n><px1pl><ins>$
+[/dIFAdU7nfGgd]
+[deWqyyqoJQmD#0] ^пурттусем/пуртӑ<n><px2sg><pl><nom>$
+[/deWqyyqoJQmD]
+[eeTKWbBnE2ts#0] ^пурттӑмӑрсӑр/пуртӑ<n><px1pl>+сӑр<post>$
+[/eeTKWbBnE2ts]
+[fANXbxTLsTCh#0] ^пурттӑмпа/пуртӑ<n><px1sg><ins>$
+[/fANXbxTLsTCh]
+[frO7RX9dpznZ#0] ^пурттин/пуртӑ<n><px3sp><gen>$
+[/frO7RX9dpznZ]
+[hvVklz8XZKlQ#0] ^пурттӑн/пуртӑ<n><gen>$
+[/hvVklz8XZKlQ]
+[i0xf0hNXllO2#0] ^пурттӑмӑн/пуртӑ<n><px1sg><gen>$
+[/i0xf0hNXllO2]
+[iJNXJh16JNpc#0] ^пурттусене/пуртӑ<n><px2sg><pl><dat>$
+[/iJNXJh16JNpc]
+[jcrf0v8Vxzsn#0] ^пурттӑмӑрсемпе/пуртӑ<n><px1pl><pl><ins>$
+[/jcrf0v8Vxzsn]
+[k8te_nB_5FBZ#0] ^пурттусенче/пуртӑ<n><px2sg><pl><loc>$
+[/k8te_nB_5FBZ]
+[l6h0pDLZAfiN#0] ^пурттӑра/пуртӑ<n><px2pl><dat>$
+[/l6h0pDLZAfiN]
+[llklh9YIdS6S#0] ^пурттӑмӑртан/пуртӑ<n><px1pl><abl>$
+[/llklh9YIdS6S]
+[lmaW5f5RuC6j#0] ^пурттӑмсемшӗн/пуртӑ<n><px1sg><pl><ter>$
+[/lmaW5f5RuC6j]
+[m-Uo-6xpHr0m#0] ^пуртӑсем/пуртӑ<n><pl><nom>$
+[/m-Uo-6xpHr0m]
+[mXMw1EHDZ_nE#0] ^пурттӑмшӑн/пуртӑ<n><px1sg><ter>$
+[/mXMw1EHDZ_nE]
+[mn2oCdE-8sBO#0] ^пурттӑмӑрсемшӗн/пуртӑ<n><px1pl><pl><ter>$
+[/mn2oCdE-8sBO]
+[mzHdIKadwtZn#0] ^пуртта/пуртӑ<n><dat>$
+[/mzHdIKadwtZn]
+[nrJAD05akvDn#0] ^пурттӑм/пуртӑ<n><px1sg><nom>$
+[/nrJAD05akvDn]
+[oJD2Yuu_L9y4#0] ^пуртӑсемсӗр/пуртӑ<n><pl>+сӑр<post>$
+[/oJD2Yuu_L9y4]
+[okj_3FC_0vC_#0] ^пурттусен/пуртӑ<n><px2sg><pl><gen>$
+[/okj_3FC_0vC_]
+[qyO25Us8-cRp#0] ^пуртӑсемшӗн/пуртӑ<n><pl><ter>$
+[/qyO25Us8-cRp]
+[rFxC9UJ7uLrn#0] ^пурттӑмра/пуртӑ<n><px1sg><loc>$
+[/rFxC9UJ7uLrn]
+[rJ1YsS2cw61d#0] ^пурттупа/пуртӑ<n><px2sg><ins>$
+[/rJ1YsS2cw61d]
+[rnvdd7syENce#0] ^пурттисемпе/пуртӑ<n><px3sp><pl><ins>$
+[/rnvdd7syENce]
+[sKBDsbNGXb8X#0] ^пуртти/пуртӑ<n><px3sp><nom>$
+[/sKBDsbNGXb8X]
+[vNuMDksDgoOT#0] ^пурттипе/пуртӑ<n><px3sp><ins>$
+[/vNuMDksDgoOT]
+[vadyA_4jxuSL#0] ^пурттӑмӑрсенче/пуртӑ<n><px1pl><pl><loc>$
+[/vadyA_4jxuSL]
+[vyHTSxQHLNQv#0] ^пурттӑмсӑр/пуртӑ<n><px1sg>+сӑр<post>$
+[/vyHTSxQHLNQv]
+[wf5EvKfV384h#0] ^пурттӑмран/пуртӑ<n><px1sg><abl>$
+[/wf5EvKfV384h]
+[wor9wyJYfbsE#0] ^пурттӑмӑрсем/пуртӑ<n><px1pl><pl><nom>$
+[/wor9wyJYfbsE]
+[wvicSO1Ha8ZZ#0] ^пурттӑртан/пуртӑ<n><px2pl><abl>$
+[/wvicSO1Ha8ZZ]
+[wyneR2a4s8vj#0] ^пурттӑрсемсӗр/пуртӑ<n><px2pl><pl>+сӑр<post>$
+[/wyneR2a4s8vj]
+[x6CPL1xjv1SB#0] ^пуртӑшӑн/пуртӑ<n><ter>$
+[/x6CPL1xjv1SB]
+[y2kmURBXJQIG#0] ^пурттӑмӑрта/пуртӑ<n><px1pl><loc>$
+[/y2kmURBXJQIG]
+[yGMxGkRxxOQx#0] ^пуртӑсенчен/пуртӑ<n><pl><abl>$
+[/yGMxGkRxxOQx]

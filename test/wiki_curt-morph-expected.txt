@@ -1,0 +1,3856 @@
+[-2VrKdc20lxm#0] ^тимӗрҫӗсӗр/тимӗрҫӗ<n>+сӑр<post>$
+[/-2VrKdc20lxm]
+[-3XhcRgMHbx-#0] ^музейӗве/*музейӗве$
+[/-3XhcRgMHbx-]
+[-5Q7WTvo6m1J#0] ^вӑйӑсене/вӑйӑ<n><pl><dat>$
+[/-5Q7WTvo6m1J]
+[-639vrBrvqMI#0] ^тухьясемсӗр/тухья<n><pl>+сӑр<post>$
+[/-639vrBrvqMI]
+[-EhuzcvRTVsD#0] ^тетрадӗме/тетрадь<n><px1sg><dat>$
+[/-EhuzcvRTVsD]
+[-HLVTSutHDDw#0] ^кенгурупа/кенгуру<n><ins>/кенгуру<n><px2sg><ins>$
+[/-HLVTSutHDDw]
+[-Herv7Ndfwlo#0] ^кроликран/кролик<n><abl>$
+[/-Herv7Ndfwlo]
+[-K-tKlmeEQle#0] ^делосемпе/*делосемпе$
+[/-K-tKlmeEQle]
+[-SlY7DgrjAEj#0] ^менюпа/меню<n><ins>/меню<n><px2sg><ins>$
+[/-SlY7DgrjAEj]
+[-XaWbZTgQUkv#0] ^металӑм/металл<n><px1sg><nom>$
+[/-XaWbZTgQUkv]
+[-_I16DWPniJj#0] ^Ивановскаясенчен/*Ивановскаясенчен$
+[/-_I16DWPniJj]
+[-dCjsHFNFfcB#0] ^лашасемшӗн/лаша<n><pl><ter>$
+[/-dCjsHFNFfcB]
+[-s4kob9zqBR6#0] ^пальтосем/пальто<n><pl><nom>$
+[/-s4kob9zqBR6]
+[-xlySxjN3G-q#0] ^аллейӑсемшӗн/аллея<n><pl><ter>$
+[/-xlySxjN3G-q]
+[016suTGMd316#0] ^хӑйӑвна/*хӑйӑвна$
+[/016suTGMd316]
+[04GZsLUbqq-v#0] ^тенкӳн/тенкӗ<n><px2sg><gen>$
+[/04GZsLUbqq-v]
+[04ghCGedTLDE#0] ^стихимӗрe/*стихимӗрe$
+[/04ghCGedTLDE]
+[05lqtKSnazuG#0] ^пальтосемсӗр/пальто<n><pl>+сӑр<post>$
+[/05lqtKSnazuG]
+[062mjOrDdkuF#0] ^сӑвӑсемсӗр/сӑвӑ<n><pl>+сӑр<post>$
+[/062mjOrDdkuF]
+[08Rs8LywgGVc#0] ^пальтосӑр/пальто<n>+сӑр<post>$
+[/08Rs8LywgGVc]
+[0CBXNqrLcclo#0] ^шӑшисемшӗн/шӑши<n><pl><ter>$
+[/0CBXNqrLcclo]
+[0ExuZ1PX-OkM#0] ^чӗрӗпӗмӗре/чӗрӗп<n><px1pl><dat>$
+[/0ExuZ1PX-OkM]
+[0H6gepDsbtC8#0] ^информацисене/информаци<n><pl><dat>$
+[/0H6gepDsbtC8]
+[0HoENYgX2-vD#0] ^Ивановскайине/Ивановский<np><cog><f><px3sp><dat>$
+[/0HoENYgX2-vD]
+[0JMZbr-2C4-u#0] ^лашун/лаша<n><px2sg><gen>$
+[/0JMZbr-2C4-u]
+[0MN6MdyBoO0R#0] ^лашин/лаша<n><px3sp><gen>$
+[/0MN6MdyBoO0R]
+[0NMc3_-6gOyg#0] ^музейрен/музей<n><abl>$
+[/0NMc3_-6gOyg]
+[0NY5qCqGmpOp#0] ^хӑюсем/хӑю<adj><subst><pl><nom>/хӑю<adj><subst><px2sg><pl><nom>/хӑю<n><pl><nom>$
+[/0NY5qCqGmpOp]
+[0NdFftEEcEsI#0] ^тетрадь/тетрадь<n><attr>/тетрадь<n><nom>$
+[/0NdFftEEcEsI]
+[0PAGjkw_48zK#0] ^платйӗсем/платье<n><pl><nom>$
+[/0PAGjkw_48zK]
+[0Pa7AHInR_4J#0] ^литературун/литература<n><px2sg><gen>$
+[/0Pa7AHInR_4J]
+[0RuAeu2KBV78#0] ^ҫынуна/*ҫынуна$
+[/0RuAeu2KBV78]
+[0SIxv1rutCj1#0] ^кӗсьӗре/*кӗсьӗре$
+[/0SIxv1rutCj1]
+[0ULJJBNGohhd#0] ^июньпе/июнь<n><ins>$
+[/0ULJJBNGohhd]
+[0V29REKV9nZz#0] ^шоссесем/шоссе<n><pl><nom>$
+[/0V29REKV9nZz]
+[0XTWzKx9-U2o#0] ^тухйӑра/тухья<n><px2pl><dat>$
+[/0XTWzKx9-U2o]
+[0YMXB__fGoff#0] ^йӗпсӗр/йӗпсе<n><px2pl><nom>/йӗп<n>+сӑр<post>$
+[/0YMXB__fGoff]
+[0YSfuKOymkks#0] ^пӗвӗн/пӳ<n><gen>/пӳ<n><px3sp><gen>$
+[/0YSfuKOymkks]
+[0YWbA-nM3Ruv#0] ^информаци/информаци<n><attr>/информаци<n><nom>$
+[/0YWbA-nM3Ruv]
+[0ZBZepedJvSF#0] ^хӑюсен/хӑю<adj><subst><pl><gen>/хӑю<adj><subst><px2sg><pl><gen>/хӑю<n><pl><gen>$
+[/0ZBZepedJvSF]
+[0bUEIP0UB_ti#0] ^тупа/тупа<n><attr>/тупа<n><nom>/ту<adj><subst><ins>/ту<adj><subst><px2sg><ins>/ту<n><ins>$
+[/0bUEIP0UB_ti]
+[0fvtDfll2_pe#0] ^вӑкӑртан/вӑкӑр<n><abl>$
+[/0fvtDfll2_pe]
+[0gXmNutJ3l68#0] ^стихийӳ/стихи<n><px2sg><nom>$
+[/0gXmNutJ3l68]
+[0gpaB2VuOTQs#0] ^информацийӗ/информаци<n><px3sp><nom>$
+[/0gpaB2VuOTQs]
+[0jhjZ2v_gYEA#0] ^литературӑсен/литература<n><pl><gen>$
+[/0jhjZ2v_gYEA]
+[0mcEJ705RLRJ#0] ^урамӑмӑр/урам<n><px1pl><nom>$
+[/0mcEJ705RLRJ]
+[0pUu9mex_1UB#0] ^тенкӳне/тенкӗ<n><px2sg><dat>$
+[/0pUu9mex_1UB]
+[0t-d-ZIJbhYA#0] ^пӳсене/пӳ<n><pl><dat>$
+[/0t-d-ZIJbhYA]
+[0xDaN2eL2ppE#0] ^сӑввун/сӑвӑ<n><px2sg><gen>$
+[/0xDaN2eL2ppE]
+[0zgUAb-GVdRX#0] ^автобусӑва/*автобусӑва$
+[/0zgUAb-GVdRX]
+[1-gH5MynseS0#0] ^пальторан/пальто<n><abl>$
+[/1-gH5MynseS0]
+[1119rdJF-0LB#0] ^кроликӑва/*кроликӑва$
+[/1119rdJF-0LB]
+[14eNQr3IvZUd#0] ^класун/класс<n><px2sg><gen>$
+[/14eNQr3IvZUd]
+[16CiIHtyZWac#0] ^чейӳне/чей<n><px2sg><dat>$
+[/16CiIHtyZWac]
+[1BKvnWYY4GRF#0] ^кӳлӗшӗн/кӳлӗ<n><ter>/кӳл<v><iv><coop><fut><p2><sg>/кӳл<v><iv><coop><pres><p2><sg>/кӳл<v><tv><coop><fut><p2><sg>/кӳл<v><tv><coop><pres><p2><sg>$
+[/1BKvnWYY4GRF]
+[1BlNZf1Ztitl#0] ^кофӗшӗн/кофе<n><ter>$
+[/1BlNZf1Ztitl]
+[1DygdrnrItZX#0] ^пуртӑпа/пуртӑ<n><ins>$
+[/1DygdrnrItZX]
+[1KeLvjAviJw6#0] ^пуртӑсӑр/пуртӑ<n>+сӑр<post>$
+[/1KeLvjAviJw6]
+[1KtDKmy-Zcyq#0] ^складӑрӑн/склад<n><px2pl><gen>$
+[/1KtDKmy-Zcyq]
+[1LuPgiGdZpv_#0] ^шоссесемсӗр/шоссе<n><pl>+сӑр<post>$
+[/1LuPgiGdZpv_]
+[1Pd9kuVphJs7#0] ^пулӑсенче/пулӑ<n><pl><loc>$
+[/1Pd9kuVphJs7]
+[1SSmI7SaAsiF#0] ^тухьясенчен/тухья<n><pl><abl>$
+[/1SSmI7SaAsiF]
+[1TfEb3XVO6yG#0] ^хурҫӑсӑр/хурҫӑ<n>+сӑр<post>$
+[/1TfEb3XVO6yG]
+[1V8TvF1OCF5Y#0] ^сарайсемшӗн/сарай<n><pl><ter>$
+[/1V8TvF1OCF5Y]
+[1VQ-9ghkuzPn#0] ^класӗ/класс<n><px3sp><nom>$
+[/1VQ-9ghkuzPn]
+[1VvaWlNG3LJz#0] ^литературуна/литература<n><px2sg><dat>$
+[/1VvaWlNG3LJz]
+[1W2aCRFaR2RR#0] ^аллейӑсӑр/аллея<n>+сӑр<post>$
+[/1W2aCRFaR2RR]
+[1ZiiN4Mmfnga#0] ^кенгурусемсӗр/кенгуру<n><pl>+сӑр<post>/кенгуру<n><px2sg><pl>+сӑр<post>$
+[/1ZiiN4Mmfnga]
+[1aSG7KIycDIS#0] ^Саши/Саша<np><ant><f><px3sp><nom>/Саша<np><ant><m><px3sp><nom>$
+[/1aSG7KIycDIS]
+[1dUg_uA_tmtl#0] ^платйӗне/платье<n><dat>$
+[/1dUg_uA_tmtl]
+[1eo1LlNlCpw_#0] ^сӑвӑшӑн/су<v><iv><coop><fut><p2><sg>/су<v><iv><coop><pres><p2><sg>/су<v><tv><coop><fut><p2><sg>/су<v><tv><coop><pres><p2><sg>/сӑвӑ<n><ter>$
+[/1eo1LlNlCpw_]
+[1hO5EIO4L2Mx#0] ^кенгурумӑрӑн/кенгуру<n><px1pl><gen>$
+[/1hO5EIO4L2Mx]
+[1iIUsjC1ryrk#0] ^чиккӳ/чикӗ<n><px2sg><nom>$
+[/1iIUsjC1ryrk]
+[1nJoPYR5yTCp#0] ^хӗвелпе/хӗвел<adj><subst><ins>/хӗвел<n><ins>$
+[/1nJoPYR5yTCp]
+[1oAM5y3_oANh#0] ^деломӑн/*деломӑн$
+[/1oAM5y3_oANh]
+[1oEZTjsHVVVU#0] ^аллейӑсен/аллея<n><pl><gen>$
+[/1oEZTjsHVVVU]
+[1q0onVJjtiot#0] ^музейсемсӗр/музей<n><pl>+сӑр<post>$
+[/1q0onVJjtiot]
+[1qA4jsZT-DUJ#0] ^музее/музей<n><dat>/музей<n><px2sg><dat>$
+[/1qA4jsZT-DUJ]
+[1txgPtO9Zvz_#0] ^Сашӑсем/Саша<np><ant><f><pl><nom>/Саша<np><ant><m><pl><nom>$
+[/1txgPtO9Zvz_]
+[1upbqHmH28eu#0] ^ҫыннӑмӑрӑн/ҫын<n><px1pl><gen>$
+[/1upbqHmH28eu]
+[1zMKPjvJXzzE#0] ^тухйӑр/тухья<n><px2pl><nom>$
+[/1zMKPjvJXzzE]
+[22lLwK6_cNlM#0] ^чӗрӗпсемпе/чӗрӗп<n><pl><ins>$
+[/22lLwK6_cNlM]
+[236nDgbGz7QY#0] ^училищӗшӗн/училище<n><ter>$
+[/236nDgbGz7QY]
+[23FkcTtL9TBY#0] ^Сашӑсенче/Саша<np><ant><f><pl><loc>/Саша<np><ant><m><pl><loc>$
+[/23FkcTtL9TBY]
+[2498kzv7kkz_#0] ^йӗпсем/йӗпсе<n><px1sg><nom>/йӗп<n><pl><nom>$
+[/2498kzv7kkz_]
+[25CGGDgGWrHz#0] ^вӑйӑсемсӗр/вӑйӑ<n><pl>+сӑр<post>$
+[/25CGGDgGWrHz]
+[25EvHUs07xy0#0] ^пурттӑма/пуртӑ<n><px1sg><dat>$
+[/25EvHUs07xy0]
+[25cfFekLVRrv#0] ^шӑшийӗрӗн/шӑши<n><px2pl><gen>$
+[/25cfFekLVRrv]
+[26ITT2TioliL#0] ^складӑр/склад<n><px2pl><nom>$
+[/26ITT2TioliL]
+[26MNBwjoHbwS#0] ^кӗсйӳ/кӗсье<n><px2sg><nom>$
+[/26MNBwjoHbwS]
+[27iTX91HvAm-#0] ^урамӑм/урам<n><px1sg><nom>$
+[/27iTX91HvAm-]
+[2CErItkNCeld#0] ^лашасенчен/лаша<n><pl><abl>$
+[/2CErItkNCeld]
+[2FwRS8iBfEHq#0] ^тенкӗ/тенкӗ<n><attr>/тенкӗ<n><nom>$
+[/2FwRS8iBfEHq]
+[2I8KBFaBW25O#0] ^июльре/июль<n><loc>$
+[/2I8KBFaBW25O]
+[2JSEw5OOp8TM#0] ^менюсемшӗн/меню<n><pl><ter>/меню<n><px2sg><pl><ter>$
+[/2JSEw5OOp8TM]
+[2JWs81UwAUou#0] ^ҫыннӑрӑн/ҫын<n><px2pl><gen>$
+[/2JWs81UwAUou]
+[2M7wXe8ikEnw#0] ^уйсенче/уй<adj><subst><pl><loc>/уй<n><pl><loc>$
+[/2M7wXe8ikEnw]
+[2NKmxEWtitX0#0] ^йӗппӗн/*йӗппӗн$
+[/2NKmxEWtitX0]
+[2VQllehuqR41#0] ^училищӗмӗрӗн/училище<n><px1pl><gen>$
+[/2VQllehuqR41]
+[2W-FbTWEzUHM#0] ^проспектӑр/проспект<n><px2pl><nom>$
+[/2W-FbTWEzUHM]
+[2WH2ejSqfpzX#0] ^ӗҫӗр/ӗҫ<n><px2pl><nom>/ӗҫ<v><iv><fut><p2><pl>/ӗҫ<v><iv><imp><p2><pl>/ӗҫ<v><tv><fut><p2><pl>/ӗҫ<v><tv><imp><p2><pl>$
+[/2WH2ejSqfpzX]
+[2Y7GPn7NURRn#0] ^сарайсӑр/сарай<n>+сӑр<post>$
+[/2Y7GPn7NURRn]
+[2bXT1QCMyCDG#0] ^складне/склад<n><px3sp><dat>$
+[/2bXT1QCMyCDG]
+[2cwj7GkArZLT#0] ^автантан/автан<n><abl>$
+[/2cwj7GkArZLT]
+[2eSmxIeGFdYh#0] ^пальто/пальто<n><attr>/пальто<n><nom>$
+[/2eSmxIeGFdYh]
+[2fdraAH-IfqQ#0] ^кукӑлӗн/кукӑль<n><gen>/кукӑль<n><px3sp><gen>$
+[/2fdraAH-IfqQ]
+[2hj2sDITTu9S#0] ^аллейӑсемпе/аллея<n><pl><ins>$
+[/2hj2sDITTu9S]
+[2jlU9dlkGl3B#0] ^чӗрӗпӗмӗн/чӗрӗп<n><px1sg><gen>$
+[/2jlU9dlkGl3B]
+[2oJ_dRSbpO6Z#0] ^пальтон/пальто<n><gen>$
+[/2oJ_dRSbpO6Z]
+[2rCTRzBGog0X#0] ^аллейӑра/аллея<n><loc>/аллея<n><px2pl><dat>$
+[/2rCTRzBGog0X]
+[2rEAFvLz6HB6#0] ^кроликсен/кролик<n><pl><gen>$
+[/2rEAFvLz6HB6]
+[2tabP6S4S473#0] ^кӗсйин/кӗсье<n><px3sp><gen>$
+[/2tabP6S4S473]
+[2u-jZ-EaPYba#0] ^хурҫин/хурҫӑ<n><px3sp><gen>$
+[/2u-jZ-EaPYba]
+[2wU44lbKXNcT#0] ^Ивановӑсемшӗн/Иваново<np><top><pl><ter>/Иванов<np><cog><f><pl><ter>$
+[/2wU44lbKXNcT]
+[2x35KNMLZOid#0] ^ҫурта/ҫурта<n><attr>/ҫурта<n><nom>/ҫурт<n><dat>/ҫур<n><loc>$
+[/2x35KNMLZOid]
+[2xG7rtvZYbBW#0] ^кӳлӗ/кӳле<v><iv><fut><p3><sg>/кӳле<v><tv><fut><p3><sg>/кӳлӗ<n><attr>/кӳлӗ<n><nom>/кӳл<v><iv><fut><p3><sg>/кӳл<v><tv><fut><p3><sg>$
+[/2xG7rtvZYbBW]
+[31uvuVE8UNIG#0] ^тухьям/тухья<n><px1sg><nom>$
+[/31uvuVE8UNIG]
+[360fGXW38Zkm#0] ^информацийӗмӗн/информаци<n><px1sg><gen>$
+[/360fGXW38Zkm]
+[38Y5MZBQOgis#0] ^информацие/информаци<n><dat>$
+[/38Y5MZBQOgis]
+[38bgYG-ZjLrr#0] ^Ивановӑмӑра/Иваново<np><top><px1pl><dat>/Иванов<np><cog><f><px1pl><dat>/Иванов<np><cog><m><px1pl><dat>$
+[/38bgYG-ZjLrr]
+[3B38RkfuXUjA#0] ^Сашӑм/Саша<np><ant><f><px1sg><nom>/Саша<np><ant><m><px1sg><nom>$
+[/3B38RkfuXUjA]
+[3GcOeSYXBQYr#0] ^информацийӳ/информаци<n><px2sg><nom>$
+[/3GcOeSYXBQYr]
+[3KvdiQblo0CN#0] ^училищӗмӗр/училище<n><px1pl><nom>$
+[/3KvdiQblo0CN]
+[3QmvBswq3IHd#0] ^Порттӑр/*Порттӑр$
+[/3QmvBswq3IHd]
+[3S_MIjwhmZyY#0] ^тухйин/тухья<n><px3sp><gen>$
+[/3S_MIjwhmZyY]
+[3X2apYN9oPBI#0] ^июнӳн/июнь<n><px2sg><gen>$
+[/3X2apYN9oPBI]
+[3X5buOmVWrpi#0] ^делосем/*делосем$
+[/3X5buOmVWrpi]
+[3YZIYec1m7AB#0] ^менюна/меню<n><dat>/меню<n><px2sg><dat>$
+[/3YZIYec1m7AB]
+[3bCifBz2_62V#0] ^чейсенче/чей<n><pl><loc>$
+[/3bCifBz2_62V]
+[3cP0vsZfvTdo#0] ^кинона/кино<n><dat>$
+[/3cP0vsZfvTdo]
+[3gWwT_yFe6Mz#0] ^хурҫӑсемсӗр/хурҫӑ<n><pl>+сӑр<post>$
+[/3gWwT_yFe6Mz]
+[3pgxUpUHGRc3#0] ^ҫыннине/ҫын<n><px3sp><dat>$
+[/3pgxUpUHGRc3]
+[3sueF5dFMwti#0] ^хӗвелсене/хӗвел<adj><subst><pl><dat>/хӗвел<n><pl><dat>$
+[/3sueF5dFMwti]
+[3u8uxHxnpNld#0] ^кроликӑм/кролик<n><px1sg><nom>$
+[/3u8uxHxnpNld]
+[3wnIMdj7-AmA#0] ^лашӑра/лаша<n><px2pl><dat>$
+[/3wnIMdj7-AmA]
+[40z9SkRwmKe4#0] ^урамсене/урам<n><pl><dat>/ура<n><px1sg><pl><dat>$
+[/40z9SkRwmKe4]
+[412tgVuTWZBb#0] ^чикӗсемсӗр/чикӗ<n><pl>+сӑр<post>$
+[/412tgVuTWZBb]
+[44tDhNoYn7JV#0] ^лашасемпе/лаша<n><pl><ins>$
+[/44tDhNoYn7JV]
+[46xXQztZZc0T#0] ^делорӑн/*делорӑн$
+[/46xXQztZZc0T]
+[49Cc7MHrT0SB#0] ^вӑйӑсенчен/вӑйӑ<n><pl><abl>$
+[/49Cc7MHrT0SB]
+[4CdhU4jE-YQO#0] ^тетрадьсенчен/тетрадь<n><pl><abl>$
+[/4CdhU4jE-YQO]
+[4EFd2mR5drQ9#0] ^Баку/бак<n><px2sg><nom>$
+[/4EFd2mR5drQ9]
+[4HuTRG1GoEeo#0] ^кӗнекепе/кӗнеке<n><ins>$
+[/4HuTRG1GoEeo]
+[4KtKX9OwjSRh#0] ^училищӗсенчен/училище<n><pl><abl>$
+[/4KtKX9OwjSRh]
+[4Rb6QQ9srMI6#0] ^июньре/июнь<n><loc>$
+[/4Rb6QQ9srMI6]
+[4UPAf9dAZL3b#0] ^музей/музей<n><attr>/музей<n><nom>$
+[/4UPAf9dAZL3b]
+[4V3d1XZN4Y0j#0] ^тенкӗрен/тенкӗ<n><abl>$
+[/4V3d1XZN4Y0j]
+[4VfbXIYr0j9t#0] ^автанӑрӑн/автан<n><px2pl><gen>$
+[/4VfbXIYr0j9t]
+[4WsDT4Zd8DpG#0] ^училищӗн/училище<n><gen>$
+[/4WsDT4Zd8DpG]
+[4Y7dYKR_d6By#0] ^платйӗпе/платье<n><ins>$
+[/4Y7dYKR_d6By]
+[4ZL1MP6mLDHb#0] ^стихисене/стихи<n><pl><dat>$
+[/4ZL1MP6mLDHb]
+[4h12Z9EXcTMa#0] ^стихисем/стихи<n><pl><nom>$
+[/4h12Z9EXcTMa]
+[4kyHm30J-V_m#0] ^вӑкӑрна/вӑкӑр<n><px2sg><dat>$
+[/4kyHm30J-V_m]
+[4mSKxVGq1Wzi#0] ^складӑм/склад<n><px1sg><nom>$
+[/4mSKxVGq1Wzi]
+[4qPzQOEM6Ovg#0] ^кӗнекӗрӗн/кӗнеке<n><px2pl><gen>$
+[/4qPzQOEM6Ovg]
+[4reWsXb3mlxm#0] ^автанӗ/автан<n><px3sp><nom>$
+[/4reWsXb3mlxm]
+[4vexOXuMf3Cy#0] ^хурҫӑмӑра/хурҫӑ<n><px1pl><dat>$
+[/4vexOXuMf3Cy]
+[4xKOWOk4xDA6#0] ^ӗҫе/ӗҫ<n><dat>$
+[/4xKOWOk4xDA6]
+[4xsNZDTVdQ1r#0] ^кинуна/кино<n><px2sg><dat>$
+[/4xsNZDTVdQ1r]
+[4z5p_WiqtBru#0] ^кӗнекесемпе/кӗнеке<n><pl><ins>$
+[/4z5p_WiqtBru]
+[52VKAcyTzs5w#0] ^влаҫшӑн/власть<n><ter>$
+[/52VKAcyTzs5w]
+[55QNSlVxcvzO#0] ^июньсемшӗн/июнь<n><pl><ter>$
+[/55QNSlVxcvzO]
+[56V_aqG_MgE7#0] ^пурттун/пуртӑ<n><px2sg><gen>$
+[/56V_aqG_MgE7]
+[57rSVsTGL5yt#0] ^лашасемсӗр/лаша<n><pl>+сӑр<post>$
+[/57rSVsTGL5yt]
+[5FL4xTpYWLNc#0] ^автобус/автобус<n><attr>/автобус<n><nom>$
+[/5FL4xTpYWLNc]
+[5KuJ6Vk-NDFp#0] ^училищӗсене/училище<n><pl><dat>$
+[/5KuJ6Vk-NDFp]
+[5LbZ_FRVoGsr#0] ^урам/урам<n><attr>/урам<n><nom>/ура<n><px1sg><nom>/ур<v><iv><imp><p1><sg>/ур<v><tv><imp><p1><sg>$
+[/5LbZ_FRVoGsr]
+[5OwjTx9wCDNJ#0] ^шӑшийӗмӗн/шӑши<n><px1sg><gen>$
+[/5OwjTx9wCDNJ]
+[5Qr1Y3lyZMfk#0] ^тенкӗсем/тенкӗ<n><pl><nom>$
+[/5Qr1Y3lyZMfk]
+[5RfBlcLO5cE1#0] ^вӑкӑрсемшӗн/вӑкӑр<n><pl><ter>$
+[/5RfBlcLO5cE1]
+[5SRW_GDDE9-f#0] ^хӗвелӗн/хӗвелӗн<adv>/хӗвел<adj>+и<subst><gen>/хӗвел<adj><subst><gen>/хӗвел<adj><subst><px3sp><gen>/хӗвел<n><gen>/хӗвел<n><px3sp><gen>$
+[/5SRW_GDDE9-f]
+[5UBIZJyZYC2p#0] ^тетрадне/*тетрадне$
+[/5UBIZJyZYC2p]
+[5VZyGnn38Voq#0] ^ӗҫӗрӗн/ӗҫ<n><px2pl><gen>$
+[/5VZyGnn38Voq]
+[5XKArzYZ-AZJ#0] ^училищӳне/училище<n><px2sg><dat>$
+[/5XKArzYZ-AZJ]
+[5XqtnedvaW0A#0] ^тетрадьсем/тетрадь<n><pl><nom>$
+[/5XqtnedvaW0A]
+[5ZulpZfUVCq7#0] ^училищӗсемсӗр/училище<n><pl>+сӑр<post>$
+[/5ZulpZfUVCq7]
+[5_nE2fraD4Qo#0] ^каҫмамӑра/каҫма<n><px1pl><dat>$
+[/5_nE2fraD4Qo]
+[5f0zK8nykBcB#0] ^чиккӗре/чикӗ<n><px2pl><dat>$
+[/5f0zK8nykBcB]
+[5ftI16TPrs1t#0] ^пӗвӗме/пӳ<n><px1sg><dat>$
+[/5ftI16TPrs1t]
+[5jQ2tx4bSApu#0] ^Порттӑмӑра/*Порттӑмӑра$
+[/5jQ2tx4bSApu]
+[5mBIIoOpw-ox#0] ^склад/склад<n><attr>/склад<n><nom>$
+[/5mBIIoOpw-ox]
+[5pVsoEPdd0bS#0] ^июлӗве/*июлӗве$
+[/5pVsoEPdd0bS]
+[5qHxXkm8WapP#0] ^деловӗн/*деловӗн$
+[/5qHxXkm8WapP]
+[5rvNEMSDGZ2n#0] ^кӳллӗмӗр/кӳлӗ<n><px1pl><nom>$
+[/5rvNEMSDGZ2n]
+[5sF-P2g6hEZo#0] ^стенасемшӗн/стена<n><pl><ter>$
+[/5sF-P2g6hEZo]
+[5sa1oLbBUyqo#0] ^хурҫуна/хурҫӑ<n><px2sg><dat>$
+[/5sa1oLbBUyqo]
+[5xKu0kpmd1Vp#0] ^тӑва/ту<n><dat>$
+[/5xKu0kpmd1Vp]
+[60mzzQtv8xUo#0] ^ӗҫре/ӗҫ<n><loc>$
+[/60mzzQtv8xUo]
+[68kh88TugMUl#0] ^лашине/лаша<n><px3sp><dat>$
+[/68kh88TugMUl]
+[6BMRlCR3BbJp#0] ^чейсене/чей<n><pl><dat>$
+[/6BMRlCR3BbJp]
+[6DN04pzyyoPc#0] ^кӳллӗре/кӳлӗ<n><px2pl><dat>$
+[/6DN04pzyyoPc]
+[6EeqLyofik8_#0] ^влаҫӑр/власть<n><px2pl><nom>$
+[/6EeqLyofik8_]
+[6GlAEi8Xz6qZ#0] ^сӑввӑмӑр/сӑвӑ<n><px1pl><nom>$
+[/6GlAEi8Xz6qZ]
+[6JLbI9og7Weo#0] ^супӑньсемсӗр/супӑнь<n><pl>+сӑр<post>$
+[/6JLbI9og7Weo]
+[6LJlxmmXfHV5#0] ^вӑййӑмӑр/вӑйӑ<n><px1pl><nom>$
+[/6LJlxmmXfHV5]
+[6L_qksi_kPt6#0] ^тимӗрҫӗрен/тимӗрҫӗ<n><abl>$
+[/6L_qksi_kPt6]
+[6LrZvh2xT5Np#0] ^Золотницкийӗре/Золотницкий<np><cog><m><px2pl><dat>$
+[/6LrZvh2xT5Np]
+[6Q1W3eqZpzgi#0] ^няньӑсӑр/няня<n>+сӑр<post>$
+[/6Q1W3eqZpzgi]
+[6QHC954nDU9f#0] ^тухьяна/тухья<n><dat>$
+[/6QHC954nDU9f]
+[6S5x0vVsF0s6#0] ^кӗсьемӗн/кӗсье<n><px1sg><gen>$
+[/6S5x0vVsF0s6]
+[6b9mooQpdAgH#0] ^лашан/лаша<n><gen>$
+[/6b9mooQpdAgH]
+[6bGl32PZ14Ej#0] ^пулӑсен/пулӑ<n><pl><gen>$
+[/6bGl32PZ14Ej]
+[6cgOfFxCDgbf#0] ^няньӑсене/няня<n><pl><dat>$
+[/6cgOfFxCDgbf]
+[6dAzAnA_MSIj#0] ^автобуссене/автобус<n><pl><dat>$
+[/6dAzAnA_MSIj]
+[6edZaUoFnQnk#0] ^няньӑра/няня<n><loc>/няня<n><px2pl><dat>$
+[/6edZaUoFnQnk]
+[6gGFHgcPb9V_#0] ^кукӑльсӗр/кукӑль<n>+сӑр<post>$
+[/6gGFHgcPb9V_]
+[6hYBW9UQuUJx#0] ^июлӗм/июль<n><px1sg><nom>$
+[/6hYBW9UQuUJx]
+[6irIfBO_kFSZ#0] ^сӑвӑран/сӑвӑ<n><abl>$
+[/6irIfBO_kFSZ]
+[6loDMIaclPf9#0] ^металсен/металл<n><pl><gen>$
+[/6loDMIaclPf9]
+[6nWzIh0zp3j3#0] ^класӑр/класс<n><px2pl><nom>$
+[/6nWzIh0zp3j3]
+[6o72wjwYNYoY#0] ^стенӑр/стена<n><px2pl><nom>$
+[/6o72wjwYNYoY]
+[6pyuf7h3u4BD#0] ^влаҫсем/власть<n><pl><nom>$
+[/6pyuf7h3u4BD]
+[6sdIvaWeT_K2#0] ^платйӗсемсӗр/платье<n><pl>+сӑр<post>$
+[/6sdIvaWeT_K2]
+[6u_1Q2Z-F0Gn#0] ^тимӗрҫӗр/тимӗрҫӗ<n><px2pl><nom>$
+[/6u_1Q2Z-F0Gn]
+[6wwHPJppsLjx#0] ^хӑюсемсӗр/хӑю<adj><subst><pl>+сӑр<post>/хӑю<adj><subst><px2sg><pl>+сӑр<post>/хӑю<n><pl>+сӑр<post>$
+[/6wwHPJppsLjx]
+[6xCPxmZr1zZ1#0] ^кукӑлӗрӗн/кукӑль<n><px2pl><gen>$
+[/6xCPxmZr1zZ1]
+[6xgxrUIlfqyr#0] ^ҫурчӗн/ҫурт<n><px3sp><gen>$
+[/6xgxrUIlfqyr]
+[6yRBcAEkgSnX#0] ^платйӗмӗр/*платйӗмӗр$
+[/6yRBcAEkgSnX]
+[71E48Seo7Z0N#0] ^музейсенче/музей<n><pl><loc>$
+[/71E48Seo7Z0N]
+[73LoUnJFVB42#0] ^пурттӑр/пуртӑ<n><px2pl><nom>$
+[/73LoUnJFVB42]
+[79b59gKJNlKm#0] ^платйӗмӗрӗн/*платйӗмӗрӗн$
+[/79b59gKJNlKm]
+[7Dkco2Fam4Hf#0] ^чиккин/чикӗ<n><px3sp><gen>$
+[/7Dkco2Fam4Hf]
+[7FHmKvFcaP34#0] ^супӑнӗме/супӑнь<n><px1sg><dat>$
+[/7FHmKvFcaP34]
+[7GoFMRDQBi4H#0] ^кӗнекешӗн/кӗнеке<n><ter>$
+[/7GoFMRDQBi4H]
+[7HIbI5P5qjcl#0] ^кенгурувӗн/*кенгурувӗн$
+[/7HIbI5P5qjcl]
+[7IOR_VG99bfw#0] ^каҫма/каҫма<n><attr>/каҫма<n><nom>/каҫ<v><iv><ger>/каҫ<v><iv><neg><imp><p2><sg>/каҫ<v><tv><ger>/каҫ<v><tv><neg><imp><p2><sg>$
+[/7IOR_VG99bfw]
+[7KoBSR1_V_R_#0] ^класӑмӑн/класс<n><px1sg><gen>$
+[/7KoBSR1_V_R_]
+[7MMQsNM905ef#0] ^уйӑмӑр/уй<adj><subst><px1pl><nom>/уй<n><px1pl><nom>$
+[/7MMQsNM905ef]
+[7MrLbT8peSeF#0] ^хӑю/хӑю<adj>/хӑю<adj><subst><nom>/хӑю<adj><subst><px2sg><nom>/хӑю<n><attr>/хӑю<n><nom>$
+[/7MrLbT8peSeF]
+[7Nx8HMsCNlFZ#0] ^стихийӳн/стихи<n><px2sg><gen>$
+[/7Nx8HMsCNlFZ]
+[7Owl5UPDaUPA#0] ^чӗрӗпӗр/чӗрӗп<n><px2pl><nom>/чӗр<v><iv><fut><p1><pl>/чӗр<v><tv><fut><p1><pl>$
+[/7Owl5UPDaUPA]
+[7Q8bEwDhjEBG#0] ^чейӗмӗрӗн/чей<n><px1pl><gen>$
+[/7Q8bEwDhjEBG]
+[7QW1IpySQpxK#0] ^делора/*делора$
+[/7QW1IpySQpxK]
+[7XsgaIi26eYg#0] ^пӳпе/пӳ<n><ins>$
+[/7XsgaIi26eYg]
+[7ftQuUiRxF1f#0] ^проспектне/проспект<n><px3sp><dat>$
+[/7ftQuUiRxF1f]
+[7fvfBiXIxwjA#0] ^пӗвне/пӳ<n><px3sp><dat>/пӳ<n><px2sg><dat>$
+[/7fvfBiXIxwjA]
+[7k4IzJHAsAoY#0] ^сарайран/сарай<n><abl>$
+[/7k4IzJHAsAoY]
+[7pHetgU2WXWr#0] ^пуртӑран/пуртӑ<n><abl>$
+[/7pHetgU2WXWr]
+[7pZv7FIsNFFm#0] ^складсем/склад<n><pl><nom>$
+[/7pZv7FIsNFFm]
+[7s4FsuiDdL1a#0] ^металӑр/металл<n><px2pl><nom>$
+[/7s4FsuiDdL1a]
+[7tzIYhH4qOyZ#0] ^тимӗрҫӗмӗн/тимӗрҫӗ<n><px1sg><gen>$
+[/7tzIYhH4qOyZ]
+[7wTzksRF3Sm4#0] ^вӑййа/вӑйӑ<n><dat>$
+[/7wTzksRF3Sm4]
+[7xovUIaB_gQZ#0] ^чиккӗмӗрӗн/чикӗ<n><px1pl><gen>$
+[/7xovUIaB_gQZ]
+[7zibkbNcWLig#0] ^информацисемсӗр/информаци<n><pl>+сӑр<post>$
+[/7zibkbNcWLig]
+[7zjYW2oGmIc4#0] ^урамӑмӑра/урам<n><px1pl><dat>$
+[/7zjYW2oGmIc4]
+[82GNno2CYTc8#0] ^кӳллӳ/кӳлӗ<n><px2sg><nom>$
+[/82GNno2CYTc8]
+[82ZSSPu4W2m_#0] ^кӗсьӗр/*кӗсьӗр$
+[/82ZSSPu4W2m_]
+[82iCDT1_LPFg#0] ^уйпа/уй<adj><subst><ins>/уй<n><ins>$
+[/82iCDT1_LPFg]
+[84vBv7jnyCGn#0] ^ӗҫсенчен/ӗҫ<n><pl><abl>$
+[/84vBv7jnyCGn]
+[877vMxHUzrtl#0] ^класшӑн/класс<n><ter>$
+[/877vMxHUzrtl]
+[8BHvE7jflh9K#0] ^аллеюн/аллея<n><px2sg><gen>$
+[/8BHvE7jflh9K]
+[8G9YHvYTykaD#0] ^Ивановскайин/Ивановский<np><cog><f><px3sp><gen>$
+[/8G9YHvYTykaD]
+[8GposyiZZYQC#0] ^уйӑрӑн/уйӑр<v><iv><fut><p2><sg>/уйӑр<v><iv><pres><p2><sg>/уйӑр<v><tv><fut><p2><sg>/уйӑр<v><tv><pres><p2><sg>/уй<adj><subst><px2pl><gen>/уй<n><px2pl><gen>/уя<v><iv><past><p2><sg>/уя<v><tv><past><p2><sg>$
+[/8GposyiZZYQC]
+[8HouYM5JxqAA#0] ^сарайсемсӗр/сарай<n><pl>+сӑр<post>$
+[/8HouYM5JxqAA]
+[8IRlMmGhz_FO#0] ^аллейӑрӑн/аллея<n><px2pl><gen>$
+[/8IRlMmGhz_FO]
+[8NX0pp8cYB0N#0] ^пуллӑмӑр/пулӑ<n><px1pl><nom>/пулӗ<adj><subst><px1pl><nom>$
+[/8NX0pp8cYB0N]
+[8O0fh_lntzom#0] ^сӑвӑсенче/сӑвӑ<n><pl><loc>$
+[/8O0fh_lntzom]
+[8PKcI6vlOQPD#0] ^сарайсем/сарай<n><pl><nom>$
+[/8PKcI6vlOQPD]
+[8QQ3iF0YUVah#0] ^июнӳ/июнь<n><px2sg><nom>$
+[/8QQ3iF0YUVah]
+[8QhyQbG-kBGb#0] ^Золотницкий/Золотницкий<np><cog><m><nom>$
+[/8QhyQbG-kBGb]
+[8RMComrxHLR4#0] ^тимӗрҫӗрӗн/тимӗрҫӗ<n><px2pl><gen>$
+[/8RMComrxHLR4]
+[8TYXSCMOKBpe#0] ^кӗнекене/кӗнеке<n><dat>$
+[/8TYXSCMOKBpe]
+[8_bzRMVrxl_8#0] ^литературӑсемшӗн/литература<n><pl><ter>$
+[/8_bzRMVrxl_8]
+[8anZ0FfK-hPC#0] ^пуртӑсемпе/пуртӑ<n><pl><ins>$
+[/8anZ0FfK-hPC]
+[8dIyaMnNXtup#0] ^Ивановскаяра/*Ивановскаяра$
+[/8dIyaMnNXtup]
+[8eN0ehhAMY_F#0] ^ӗҫӗме/ӗҫ<n><px1sg><dat>$
+[/8eN0ehhAMY_F]
+[8edg2ynXpmG7#0] ^супӑньсемпе/супӑнь<n><pl><ins>$
+[/8edg2ynXpmG7]
+[8ejqE5EzFXRd#0] ^урамра/урам<n><loc>/ура<n><px1sg><loc>$
+[/8ejqE5EzFXRd]
+[8ftM4Nnt7DSM#0] ^влаҫӑра/власть<n><px2pl><dat>$
+[/8ftM4Nnt7DSM]
+[8lq4HgdT14Hr#0] ^музейӗмӗре/музей<n><px1pl><dat>$
+[/8lq4HgdT14Hr]
+[8ns_aJvdrk1R#0] ^стена/стена<n><attr>/стена<n><nom>$
+[/8ns_aJvdrk1R]
+[8ptQD82KKRa4#0] ^кӗсьене/кӗсье<n><dat>$
+[/8ptQD82KKRa4]
+[8rMR-RSh5Abr#0] ^Ивановун/Иваново<np><top><px2sg><gen>/Иванов<np><cog><f><px2sg><gen>/Иванов<np><cog><m><px2sg><gen>$
+[/8rMR-RSh5Abr]
+[8rpg7AA-c6hJ#0] ^вӑкӑрӑра/вӑкӑр<n><px2pl><dat>$
+[/8rpg7AA-c6hJ]
+[8sN4bPu7rDrl#0] ^чикӗпе/чикӗ<n><ins>$
+[/8sN4bPu7rDrl]
+[8wi9O6OSWQgh#0] ^тӑвӑра/ту<n><px2pl><dat>/тӑвӑр<adj><subst><dat>$
+[/8wi9O6OSWQgh]
+[8x0eI7IHjS7N#0] ^металӑмӑр/металл<n><px1pl><nom>$
+[/8x0eI7IHjS7N]
+[9-Nza_u9crlG#0] ^делома/*делома$
+[/9-Nza_u9crlG]
+[9-qiGfcMays4#0] ^Бакувӑма/*Бакувӑма$
+[/9-qiGfcMays4]
+[93UNbmkamRvs#0] ^вӑййӑр/вӑйӑ<n><px2pl><nom>$
+[/93UNbmkamRvs]
+[94kKoZj5Ux3u#0] ^шӑши/шӑши<n><attr>/шӑши<n><nom>$
+[/94kKoZj5Ux3u]
+[960XV-7r3Jce#0] ^автобусӑрӑн/автобус<n><px2pl><gen>$
+[/960XV-7r3Jce]
+[9C7SSSXm9H10#0] ^тетрадьсемпе/тетрадь<n><pl><ins>$
+[/9C7SSSXm9H10]
+[9IcmUcNDkF1R#0] ^менюсемпе/меню<n><pl><ins>/меню<n><px2sg><pl><ins>$
+[/9IcmUcNDkF1R]
+[9KnK-vcLl2Mh#0] ^шӑшипе/шӑши<n><ins>$
+[/9KnK-vcLl2Mh]
+[9OgWH_y_OATr#0] ^чиккӗр/чикӗ<n><px2pl><nom>$
+[/9OgWH_y_OATr]
+[9URLax4qpyYk#0] ^аллейӑр/аллея<n><px2pl><nom>$
+[/9URLax4qpyYk]
+[9WVjNtO7Odb6#0] ^автан/автан<n><attr>/автан<n><nom>$
+[/9WVjNtO7Odb6]
+[9XYgjxLavoJk#0] ^училищӗр/училище<n><px2pl><nom>$
+[/9XYgjxLavoJk]
+[9mINQ7FMbRak#0] ^стенине/стена<n><px3sp><dat>$
+[/9mINQ7FMbRak]
+[9o9HgXi1fZ63#0] ^литературӑран/литература<n><abl>$
+[/9o9HgXi1fZ63]
+[9oO8wDcaDrzs#0] ^класу/класс<n><px2sg><nom>$
+[/9oO8wDcaDrzs]
+[9tlZQmTCaGYG#0] ^ҫынра/ҫын<n><loc>$
+[/9tlZQmTCaGYG]
+[9uZABRG8L3Jp#0] ^кофӗне/кофе<n><dat>$
+[/9uZABRG8L3Jp]
+[9vBSz2JeX1rJ#0] ^Бакувӑмӑрӑн/*Бакувӑмӑрӑн$
+[/9vBSz2JeX1rJ]
+[9z26zRKVc9zz#0] ^училищӗне/училище<n><dat>$
+[/9z26zRKVc9zz]
+[A1cCidcZDtjv#0] ^тетрадӗрӗн/тетрадь<n><px2pl><gen>$
+[/A1cCidcZDtjv]
+[A5i-TP2KDz76#0] ^лашана/лаша<n><dat>$
+[/A5i-TP2KDz76]
+[A7i96XeWX7dp#0] ^менюсемсӗр/меню<n><pl>+сӑр<post>/меню<n><px2sg><pl>+сӑр<post>$
+[/A7i96XeWX7dp]
+[AACCcCv024G9#0] ^тимӗрҫӳн/тимӗрҫӗ<n><px2sg><gen>$
+[/AACCcCv024G9]
+[AC_MEdL3yeMh#0] ^няньӑр/няня<n><px2pl><nom>$
+[/AC_MEdL3yeMh]
+[AG6cXbnwolCj#0] ^Ивановскаяпа/*Ивановскаяпа$
+[/AG6cXbnwolCj]
+[AHPGoGZxelec#0] ^Сашине/Саша<np><ant><f><px3sp><dat>/Саша<np><ant><m><px3sp><dat>$
+[/AHPGoGZxelec]
+[AHtlYMKHNE00#0] ^няньӑсем/няня<n><pl><nom>$
+[/AHtlYMKHNE00]
+[AOMEo-i-O4S5#0] ^литературӑмӑн/литература<n><px1sg><gen>$
+[/AOMEo-i-O4S5]
+[AQzIyrP6WjFb#0] ^ҫуртӑр/ҫурта<n><px2pl><nom>/ҫурт<n><px2pl><nom>/ҫур<v><iv><imp><p3><sg>/ҫур<v><iv><past><p2><pl>/ҫур<v><tv><imp><p3><sg>/ҫур<v><tv><past><p2><pl>$
+[/AQzIyrP6WjFb]
+[ARTJbHB-DcLn#0] ^стихисемпе/стихи<n><pl><ins>$
+[/ARTJbHB-DcLn]
+[ATQT5-KjxbxQ#0] ^музейсене/музей<n><pl><dat>$
+[/ATQT5-KjxbxQ]
+[Ac6ill4uiYGK#0] ^тимӗрҫӗсемшӗн/тимӗрҫӗ<n><pl><ter>$
+[/Ac6ill4uiYGK]
+[AgHL6uTx_0-c#0] ^сӑвву/сӑвӑ<n><px2sg><nom>$
+[/AgHL6uTx_0-c]
+[Ajgw6HEpHBo_#0] ^каҫмамӑрӑн/каҫма<n><px1pl><gen>$
+[/Ajgw6HEpHBo_]
+[Ar0r1NbxJRBy#0] ^стенамӑра/стена<n><px1pl><dat>$
+[/Ar0r1NbxJRBy]
+[AssxpmtGLR82#0] ^Ивановскайӑр/Ивановский<np><cog><f><px2pl><nom>$
+[/AssxpmtGLR82]
+[AvJBUxlXQsBe#0] ^хӑюсене/хӑю<adj><subst><pl><dat>/хӑю<adj><subst><px2sg><pl><dat>/хӑю<n><pl><dat>$
+[/AvJBUxlXQsBe]
+[AvZaEA6PV83F#0] ^тенкӗсӗр/тенкӗ<n>+сӑр<post>$
+[/AvZaEA6PV83F]
+[Aw9iJKdayh-g#0] ^кӗсьешӗн/кӗсье<n><ter>$
+[/Aw9iJKdayh-g]
+[AwBHJ25qImNy#0] ^чейсен/чей<n><pl><gen>$
+[/AwBHJ25qImNy]
+[AwiXCYi_z2yf#0] ^кӳлӗсенчен/кӳлӗ<n><pl><abl>$
+[/AwiXCYi_z2yf]
+[Ax2W32jGtcpm#0] ^аллейӑсемсӗр/аллея<n><pl>+сӑр<post>$
+[/Ax2W32jGtcpm]
+[Ay18uJnv8gMe#0] ^стихийӳнe/*стихийӳнe$
+[/Ay18uJnv8gMe]
+[B-4nG7uWA0BP#0] ^сараю/сарай<n><px2sg><nom>$
+[/B-4nG7uWA0BP]
+[B-XFM_xZT7tF#0] ^кукӑлӳн/кукӑль<n><px2sg><gen>$
+[/B-XFM_xZT7tF]
+[B3ZrN9iQJGZT#0] ^шӑшисем/шӑши<n><pl><nom>$
+[/B3ZrN9iQJGZT]
+[B4_TFC6p32EK#0] ^уйсем/уй<adj><subst><pl><nom>/уй<n><pl><nom>$
+[/B4_TFC6p32EK]
+[B5gZTxXufjj3#0] ^сарайӑма/сарай<n><px1sg><dat>$
+[/B5gZTxXufjj3]
+[B6N-iKMVJ1Eb#0] ^пӳсемшӗн/пӳ<n><pl><ter>$
+[/B6N-iKMVJ1Eb]
+[BD4jtn2nUI9S#0] ^чейӗм/чей<n><px1sg><nom>$
+[/BD4jtn2nUI9S]
+[BFGuE_iJcWUz#0] ^пӗвӳ/пӗве<n><px2sg><nom>/пӳ<n><px2sg><nom>$
+[/BFGuE_iJcWUz]
+[BGIkSFwedEZq#0] ^платйӗсен/платье<n><pl><gen>$
+[/BGIkSFwedEZq]
+[BGdogqIR0tH7#0] ^Сашу/Саша<np><ant><f><px2sg><nom>/Саша<np><ant><m><px2sg><nom>$
+[/BGdogqIR0tH7]
+[BMrjT9UEkiSs#0] ^проспектӑн/проспект<n><gen>$
+[/BMrjT9UEkiSs]
+[BNNzDvfyzr5c#0] ^тетрадӗмӗре/тетрадь<n><px1pl><dat>$
+[/BNNzDvfyzr5c]
+[BPNze_8JrL6k#0] ^хӑюсенчен/хӑю<adj><subst><pl><abl>/хӑю<adj><subst><px2sg><pl><abl>/хӑю<n><pl><abl>$
+[/BPNze_8JrL6k]
+[BQ_nM0M6_kze#0] ^шоссемӗре/шоссе<n><px1pl><dat>$
+[/BQ_nM0M6_kze]
+[BVxMLHBPrWT4#0] ^стихире/стихи<n><loc>$
+[/BVxMLHBPrWT4]
+[BYHaFJgYlaNG#0] ^тӑвӑмӑра/ту<n><px1pl><dat>/тӑвӑм<n><px2pl><dat>$
+[/BYHaFJgYlaNG]
+[BbJbvivwz72M#0] ^Ивановӑсемпе/Иваново<np><top><pl><ins>/Иванов<np><cog><f><pl><ins>$
+[/BbJbvivwz72M]
+[BbgO4cq4r6hv#0] ^аллейи/аллея<n><px3sp><nom>$
+[/BbgO4cq4r6hv]
+[BiV-ZgcI0SPJ#0] ^тетрадьсене/тетрадь<n><pl><dat>$
+[/BiV-ZgcI0SPJ]
+[BjRj_yyezLd4#0] ^деломӑр/*деломӑр$
+[/BjRj_yyezLd4]
+[BnCa_9PQ6PHr#0] ^пуртӑсен/пуртӑ<n><pl><gen>$
+[/BnCa_9PQ6PHr]
+[Bo-Zp_ypOSPr#0] ^хурҫӑра/хурҫӑ<n><loc>/хурҫӑ<n><px2pl><dat>$
+[/Bo-Zp_ypOSPr]
+[Bo0JoZF2BAKb#0] ^чикӗсен/чикӗ<n><pl><gen>$
+[/Bo0JoZF2BAKb]
+[Bo1Q1Iy4MFWg#0] ^влаҫсӑр/власть<n>+сӑр<post>$
+[/Bo1Q1Iy4MFWg]
+[BsvH5mULROz-#0] ^Сашӑпа/Саша<np><ant><f><ins>/Саша<np><ant><m><ins>$
+[/BsvH5mULROz-]
+[Bu44sGy9lf5X#0] ^шоссесенче/шоссе<n><pl><loc>$
+[/Bu44sGy9lf5X]
+[Bwh7v0AQZfkC#0] ^киношӑн/кино<n><ter>$
+[/Bwh7v0AQZfkC]
+[C2WFx9Wn1N0X#0] ^тетрадӗн/тетрадь<n><gen>$
+[/C2WFx9Wn1N0X]
+[C5jlMDR44Cvz#0] ^кофӗмӗр/кофе<n><px1pl><nom>$
+[/C5jlMDR44Cvz]
+[C6AjgcFDZqku#0] ^чӗрӗпӗрӗн/чӗрӗп<n><px2pl><gen>$
+[/C6AjgcFDZqku]
+[C6WAuleSzLYv#0] ^йӗпсенче/йӗп<n><pl><loc>$
+[/C6WAuleSzLYv]
+[C9WBUGO-GGx7#0] ^уйӑр/уйӑр<v><iv><imp><p2><sg>/уйӑр<v><tv><imp><p2><sg>/уй<adj><subst><px2pl><nom>/уй<n><px2pl><nom>$
+[/C9WBUGO-GGx7]
+[CBnobiZ5lO4X#0] ^ҫуртсемпе/ҫурт<n><pl><ins>$
+[/CBnobiZ5lO4X]
+[CCVm6L1Ln9EJ#0] ^Ивановӑсенче/Иваново<np><top><pl><loc>/Иванов<np><cog><f><pl><loc>$
+[/CCVm6L1Ln9EJ]
+[COH522RyiRVA#0] ^шоссесен/шоссе<n><pl><gen>$
+[/COH522RyiRVA]
+[COwR4jColSwE#0] ^кӗнекӗре/кӗнеке<n><px2pl><dat>$
+[/COwR4jColSwE]
+[CQgdwQKP4RfA#0] ^кроликӑрӑн/кролик<n><px2pl><gen>$
+[/CQgdwQKP4RfA]
+[CRb0kLClO167#0] ^автанна/автан<n><px2sg><dat>$
+[/CRb0kLClO167]
+[Cc7m60cBIEUW#0] ^чейсенчен/чей<n><pl><abl>$
+[/Cc7m60cBIEUW]
+[CctQEifFFgrR#0] ^стенасемсӗр/стена<n><pl>+сӑр<post>$
+[/CctQEifFFgrR]
+[CdTIXWHey4Ax#0] ^тенкӗпе/тенкӗ<n><ins>$
+[/CdTIXWHey4Ax]
+[CfTb_td-3bpy#0] ^пуллӑр/пулӑ<n><px2pl><nom>$
+[/CfTb_td-3bpy]
+[CfWKIKNKVsXp#0] ^чӗрӗпсенче/чӗрӗп<n><pl><loc>$
+[/CfWKIKNKVsXp]
+[CjYZ-P337VOY#0] ^сарайсемпе/сарай<n><pl><ins>$
+[/CjYZ-P337VOY]
+[CrBhMOwz9HAQ#0] ^тӑву/ту<n><px2sg><nom>/тӑву<n><attr>/тӑву<n><nom>$
+[/CrBhMOwz9HAQ]
+[CtZWtMhwK6is#0] ^кӗнекере/кӗнеке<n><loc>$
+[/CtZWtMhwK6is]
+[Cuj5GPxvb4B_#0] ^классене/класс<n><pl><dat>$
+[/Cuj5GPxvb4B_]
+[CvJjRuKWteC_#0] ^платйӗсенчен/платье<n><pl><abl>$
+[/CvJjRuKWteC_]
+[Cx-2F5Gj4Q74#0] ^тенкӗсемшӗн/тенкӗ<n><pl><ter>$
+[/Cx-2F5Gj4Q74]
+[Cy93iIKk0k-R#0] ^ӗҫӗре/ӗҫ<n><px2pl><dat>$
+[/Cy93iIKk0k-R]
+[D-8dyQblM6nx#0] ^урамӗн/урам<n><px3sp><gen>$
+[/D-8dyQblM6nx]
+[D2lAleKruOCc#0] ^вӑййу/вӑйӑ<n><px2sg><nom>$
+[/D2lAleKruOCc]
+[D6wqr0pq55Mp#0] ^ӗҫсене/ӗҫ<n><pl><dat>$
+[/D6wqr0pq55Mp]
+[D7VAsWbh2dIu#0] ^Ивановӑр/Иваново<np><top><px2pl><nom>/Иванов<np><cog><f><px2pl><nom>/Иванов<np><cog><m><px2pl><nom>$
+[/D7VAsWbh2dIu]
+[D7uELWg87013#0] ^стихисемшӗн/стихи<n><pl><ter>$
+[/D7uELWg87013]
+[DA9Gc-womGSC#0] ^Золотницкийӳн/Золотницкий<np><cog><m><px2sg><gen>$
+[/DA9Gc-womGSC]
+[DDYAqzJGJqZq#0] ^сӑвӑсенчен/сӑвӑ<n><pl><abl>$
+[/DDYAqzJGJqZq]
+[DIK5G9aixbvc#0] ^кукӑльсемпе/кукӑль<n><pl><ins>$
+[/DIK5G9aixbvc]
+[DJs6ptsNDvY9#0] ^литературӑсемсӗр/литература<n><pl>+сӑр<post>$
+[/DJs6ptsNDvY9]
+[DM4167OSs9-8#0] ^шӑшисемсӗр/шӑши<n><pl>+сӑр<post>$
+[/DM4167OSs9-8]
+[DN1HcetSbqnF#0] ^кӗнекесене/кӗнеке<n><pl><dat>$
+[/DN1HcetSbqnF]
+[DNOrU64MOVS8#0] ^йӗппӳ/*йӗппӳ$
+[/DNOrU64MOVS8]
+[DOcK_UbNCmsM#0] ^пальту/пальто<n><px2sg><nom>$
+[/DOcK_UbNCmsM]
+[DOiIgdPT5Ig6#0] ^няньӑна/няня<n><dat>$
+[/DOiIgdPT5Ig6]
+[DSWNiEN3sJic#0] ^хӑюсенче/хӑю<adj><subst><pl><loc>/хӑю<adj><subst><px2sg><pl><loc>/хӑю<n><pl><loc>$
+[/DSWNiEN3sJic]
+[DYb1pikjdoZA#0] ^ҫуртун/ҫурта<n><px2sg><gen>/ҫурт<n><px2sg><gen>$
+[/DYb1pikjdoZA]
+[Dbzm06JRi0zV#0] ^пулӑра/пуля<n><px2pl><dat>/пулӑ<n><loc>/пул<n><px2pl><dat>$
+[/Dbzm06JRi0zV]
+[Dhh3kNVeSwYx#0] ^лашам/лаша<n><px1sg><nom>$
+[/Dhh3kNVeSwYx]
+[DrzyOvw_Zs9B#0] ^вӑййӑмӑрӑн/вӑйӑ<n><px1pl><gen>$
+[/DrzyOvw_Zs9B]
+[DuIP1eU4mwf2#0] ^Ивановскаясенче/*Ивановскаясенче$
+[/DuIP1eU4mwf2]
+[DwO582WImYmq#0] ^кӳлӗре/кӳлӗ<n><loc>$
+[/DwO582WImYmq]
+[Dx94RSHJlkcF#0] ^металун/металл<n><px2sg><gen>$
+[/Dx94RSHJlkcF]
+[Dxks4weVo699#0] ^хурҫӑшӑн/хурҫӑ<n><ter>$
+[/Dxks4weVo699]
+[DylMft7ZT-OP#0] ^делосӑр/*делосӑр$
+[/DylMft7ZT-OP]
+[Dz4-LTyhyDdx#0] ^кукӑлне/*кукӑлне$
+[/Dz4-LTyhyDdx]
+[E2nStGeqTfA4#0] ^июньрен/июнь<n><abl>$
+[/E2nStGeqTfA4]
+[E3PQmD8ryFst#0] ^пӳ/пӳ<n><attr>/пӳ<n><nom>$
+[/E3PQmD8ryFst]
+[EB2MUh0u4Tdd#0] ^влаҫу/власть<n><px2sg><nom>$
+[/EB2MUh0u4Tdd]
+[EDx_NwULVXrz#0] ^шоссем/шоссе<n><px1sg><nom>$
+[/EDx_NwULVXrz]
+[EFX1z4WisbMN#0] ^проспектсемшӗн/проспект<n><pl><ter>$
+[/EFX1z4WisbMN]
+[EJDeREhYn2v_#0] ^стенан/стена<n><gen>$
+[/EJDeREhYn2v_]
+[EKvx70TcnKs0#0] ^пуртту/пуртӑ<n><px2sg><nom>$
+[/EKvx70TcnKs0]
+[ELNoXLo-vN-m#0] ^кроликӑма/кролик<n><px1sg><dat>$
+[/ELNoXLo-vN-m]
+[EOuMnj7IvRAH#0] ^няньӑсенче/няня<n><pl><loc>$
+[/EOuMnj7IvRAH]
+[EQ14Av62yvMx#0] ^уя/уй<adj><subst><dat>/уй<n><dat>/уя<v><iv><imp><p2><sg>/уя<v><tv><imp><p2><sg>$
+[/EQ14Av62yvMx]
+[EQB_wD7HdpD4#0] ^Ивановӑсемсӗр/Иваново<np><top><pl>+сӑр<post>/Иванов<np><cog><f><pl>+сӑр<post>$
+[/EQB_wD7HdpD4]
+[ESBKc4-UWP5o#0] ^аллейӑна/аллея<n><dat>$
+[/ESBKc4-UWP5o]
+[ESHRFNrzRCXm#0] ^тӑвӑмӑр/ту<n><px1pl><nom>/тӑвӑм<n><px2pl><nom>$
+[/ESHRFNrzRCXm]
+[EV3UTrTYOAqA#0] ^кӗнекесенче/кӗнеке<n><pl><loc>$
+[/EV3UTrTYOAqA]
+[EXFBHkc43zOF#0] ^тура/тура<n><attr>/тура<n><nom>/тура<v><iv><imp><p2><sg>/тура<v><tv><imp><p2><sg>/тур<adj><subst><dat>/тур<n><dat>/ту<adj><subst><loc>/ту<n><loc>$
+[/EXFBHkc43zOF]
+[EYOffuhG5KIC#0] ^няньӑсемпе/няня<n><pl><ins>$
+[/EYOffuhG5KIC]
+[E_hn6QErDzGn#0] ^чӗрӗпсемшӗн/чӗрӗп<n><pl><ter>$
+[/E_hn6QErDzGn]
+[E_msDgVpfVPv#0] ^тетрадьсӗр/тетрадь<n>+сӑр<post>$
+[/E_msDgVpfVPv]
+[EafelV7Oq0ap#0] ^хурҫӑпа/хурҫӑ<n><ins>$
+[/EafelV7Oq0ap]
+[Ec2QT_a329pe#0] ^платье/платье<n><attr>/платье<n><nom>$
+[/Ec2QT_a329pe]
+[EcIYDx9EmkE6#0] ^Золотницкисӗр/Золотницкий<np><cog><m>+сӑр<post>$
+[/EcIYDx9EmkE6]
+[EiuBzRrvx0kA#0] ^Золотницкисем/Золотницкий<np><cog><m><pl><nom>$
+[/EiuBzRrvx0kA]
+[EkZB0p6HW8m3#0] ^платйӗмӗре/*платйӗмӗре$
+[/EkZB0p6HW8m3]
+[ElgnSNnMHpq9#0] ^пӳсемсӗр/пӳ<n><pl>+сӑр<post>$
+[/ElgnSNnMHpq9]
+[EmVHslT25plq#0] ^хӑюсемшӗн/хӑю<adj><subst><pl><ter>/хӑю<adj><subst><px2sg><pl><ter>/хӑю<n><pl><ter>$
+[/EmVHslT25plq]
+[Erj80Mtyg633#0] ^пӳсенче/пӳ<n><pl><loc>$
+[/Erj80Mtyg633]
+[Es009zr9ESNz#0] ^уйсемсӗр/уй<adj><subst><pl>+сӑр<post>/уй<n><pl>+сӑр<post>$
+[/Es009zr9ESNz]
+[Eus0n2j7T-Je#0] ^проспект/проспект<n><attr>/проспект<n><nom>$
+[/Eus0n2j7T-Je]
+[EvGFjyNo9RxN#0] ^информацийӗн/информаци<n><px3sp><gen>$
+[/EvGFjyNo9RxN]
+[EwIZaKvWVlsX#0] ^ҫынсен/ҫын<n><pl><gen>$
+[/EwIZaKvWVlsX]
+[Ex68iLt9OzZ1#0] ^уйӑмӑн/уй<adj><subst><px1sg><gen>/уй<n><px1sg><gen>$
+[/Ex68iLt9OzZ1]
+[F1vteSxsfsNj#0] ^Порттӑмӑрӑн/*Порттӑмӑрӑн$
+[/F1vteSxsfsNj]
+[F57qpkOo2HFJ#0] ^проспекту/проспект<n><px2sg><nom>$
+[/F57qpkOo2HFJ]
+[F7lNuN7qACsv#0] ^складпа/склад<n><ins>$
+[/F7lNuN7qACsv]
+[F9QpbAjBvI0V#0] ^Бакура/*Бакура$
+[/F9QpbAjBvI0V]
+[FHP9FD4ToBjG#0] ^сӑвӑсемпе/сӑвӑ<n><pl><ins>$
+[/FHP9FD4ToBjG]
+[FLri5G9fEM6r#0] ^кӗсьеме/кӗсье<n><px1sg><dat>$
+[/FLri5G9fEM6r]
+[FM53TEQTU1vR#0] ^автанӑр/автан<n><px2pl><nom>$
+[/FM53TEQTU1vR]
+[FM6gLKqcM28V#0] ^платйӳн/платье<n><px2sg><gen>$
+[/FM6gLKqcM28V]
+[FO9NFg3pC_5k#0] ^чӗрӗпсӗр/чӗрӗп<n>+сӑр<post>$
+[/FO9NFg3pC_5k]
+[FQOQvs8blQ8K#0] ^тимӗрҫӗпе/тимӗрҫӗ<n><ins>$
+[/FQOQvs8blQ8K]
+[FRrU7PEs0ROz#0] ^кӗсьесен/кӗсье<n><pl><gen>$
+[/FRrU7PEs0ROz]
+[FT2nccl2ZMYf#0] ^ҫыннӑн/ҫын<n><gen>$
+[/FT2nccl2ZMYf]
+[FUfke8Nc95XJ#0] ^тетрадӗре/тетрадь<n><px2pl><dat>$
+[/FUfke8Nc95XJ]
+[Fb3c241-djIf#0] ^Ивановскаясемсӗр/*Ивановскаясемсӗр$
+[/Fb3c241-djIf]
+[Fm8m10sofXxt#0] ^пуллӑмӑра/пулӑ<n><px1pl><dat>/пулӗ<adj><subst><px1pl><dat>$
+[/Fm8m10sofXxt]
+[FnEU1W7zL1u4#0] ^киносенче/кино<n><pl><loc>$
+[/FnEU1W7zL1u4]
+[FnF9Tsgq_kNh#0] ^чикӗрен/чикӗ<n><abl>$
+[/FnF9Tsgq_kNh]
+[FsEswvRyYW3-#0] ^ӗҫӗмӗн/ӗҫ<n><px1sg><gen>$
+[/FsEswvRyYW3-]
+[FtH_dXLa3MF1#0] ^сӑввӑм/сӑвӑ<n><px1sg><nom>$
+[/FtH_dXLa3MF1]
+[FvZUJuXb6pVd#0] ^июльсемшӗн/июль<n><pl><ter>$
+[/FvZUJuXb6pVd]
+[FwFpNW4gqX9O#0] ^чиккӳн/чикӗ<n><px2sg><gen>$
+[/FwFpNW4gqX9O]
+[G5EqO1Z8EfRU#0] ^вӑййӑрӑн/вӑйӑ<n><px2pl><gen>$
+[/G5EqO1Z8EfRU]
+[G5c7cRUTJZ_x#0] ^делосенче/*делосенче$
+[/G5c7cRUTJZ_x]
+[G5dSrOy9oM5_#0] ^пурттӑмӑрӑн/пуртӑ<n><px1pl><gen>$
+[/G5dSrOy9oM5_]
+[G7AKJmOFuQq0#0] ^влаҫне/власть<n><px3sp><dat>$
+[/G7AKJmOFuQq0]
+[G7WD6iNKOm7X#0] ^ӗҫсемшӗн/ӗҫ<n><pl><ter>$
+[/G7WD6iNKOm7X]
+[G89bVrsCHREV#0] ^киносен/кино<n><pl><gen>$
+[/G89bVrsCHREV]
+[GA05MfyiDDVg#0] ^Бакувӑм/*Бакувӑм$
+[/GA05MfyiDDVg]
+[GGbzWWo8vUFR#0] ^пуртӑсенче/пуртӑ<n><pl><loc>$
+[/GGbzWWo8vUFR]
+[GIICwdxHuh-P#0] ^Сашӑсӑр/Саша<np><ant><f>+сӑр<post>/Саша<np><ant><m>+сӑр<post>$
+[/GIICwdxHuh-P]
+[GLZ9_Nh-VEHb#0] ^аллейӑмӑр/аллея<n><px1pl><nom>$
+[/GLZ9_Nh-VEHb]
+[GNmVAh1zSpF4#0] ^металсемсӗр/металл<n><pl>+сӑр<post>$
+[/GNmVAh1zSpF4]
+[GP0_NRL3lIl1#0] ^вӑййӑм/вӑйӑ<n><px1sg><nom>$
+[/GP0_NRL3lIl1]
+[GPoB7p-bTiC2#0] ^складсенчен/склад<n><pl><abl>$
+[/GPoB7p-bTiC2]
+[GRKaX2orPQxU#0] ^проспектсенчен/проспект<n><pl><abl>$
+[/GRKaX2orPQxU]
+[GSct8bSryWZj#0] ^хӑйӑвне/хӑю<n><px3sp><dat>$
+[/GSct8bSryWZj]
+[GVGDW8a4098L#0] ^тухьясем/тухья<n><pl><nom>$
+[/GVGDW8a4098L]
+[GaRHVKgId0JD#0] ^металра/металл<n><loc>$
+[/GaRHVKgId0JD]
+[GcRSdzKPl1pV#0] ^Золотницкимӗр/*Золотницкимӗр$
+[/GcRSdzKPl1pV]
+[GerCkVupnNR_#0] ^кофӗсенчен/кофе<n><pl><abl>$
+[/GerCkVupnNR_]
+[GlFn3ozqkE3s#0] ^кукӑль/кукӑль<n><attr>/кукӑль<n><nom>$
+[/GlFn3ozqkE3s]
+[Gn4qMQcAvCk_#0] ^Иванови/Иваново<np><top><px3sp><nom>/Иванов<np><cog><f><px3sp><nom>$
+[/Gn4qMQcAvCk_]
+[GsXE2JwOR6-O#0] ^училищи/училище<n><px3sp><nom>$
+[/GsXE2JwOR6-O]
+[Gt_8tnR5th33#0] ^менюӗн/меню<n><px3sp><gen>$
+[/Gt_8tnR5th33]
+[GwatWv49um9L#0] ^кукӑльсем/кукӑль<n><pl><nom>$
+[/GwatWv49um9L]
+[GzbCVY84Q7HA#0] ^литературӑсенче/литература<n><pl><loc>$
+[/GzbCVY84Q7HA]
+[H0YeVBGYN3z6#0] ^шоссӳ/шоссе<n><px2sg><nom>$
+[/H0YeVBGYN3z6]
+[H21joRXH6EY3#0] ^деловӗне/*деловӗне$
+[/H21joRXH6EY3]
+[H2UwzWTwDs4b#0] ^хурҫӑсенче/хурҫӑ<n><pl><loc>$
+[/H2UwzWTwDs4b]
+[H2gLKKnH8Nym#0] ^кӗнекемӗрӗн/кӗнеке<n><px1pl><gen>$
+[/H2gLKKnH8Nym]
+[H5TyngpAbcrz#0] ^кроликӑра/кролик<n><px2pl><dat>$
+[/H5TyngpAbcrz]
+[H7-YsiHGZF9U#0] ^ую/уй<adj><subst><px2sg><nom>/уй<n><px2sg><nom>$
+[/H7-YsiHGZF9U]
+[H94KHnsHuv_7#0] ^автобусӑм/автобус<n><px1sg><nom>$
+[/H94KHnsHuv_7]
+[HBkPvRNaPQiX#0] ^Ивановскаян/*Ивановскаян$
+[/HBkPvRNaPQiX]
+[HDavdyMCZmXk#0] ^кӗнекӳ/кӗнеке<n><px2sg><nom>$
+[/HDavdyMCZmXk]
+[HGcwXg4u9DHI#0] ^ҫуртсем/ҫурт<n><pl><nom>$
+[/HGcwXg4u9DHI]
+[HGx9c80Txt6C#0] ^делоран/*делоран$
+[/HGx9c80Txt6C]
+[HHAINNFOALT0#0] ^менюне/*менюне$
+[/HHAINNFOALT0]
+[HLEewf-eX3Te#0] ^лашӑр/лаша<n><px2pl><nom>$
+[/HLEewf-eX3Te]
+[HModzikCxGw8#0] ^Сашӑсемшӗн/Саша<np><ant><f><pl><ter>/Саша<np><ant><m><pl><ter>$
+[/HModzikCxGw8]
+[HOEy3GOOIo3D#0] ^йӗппӗме/*йӗппӗме$
+[/HOEy3GOOIo3D]
+[HRinEgjyLkw3#0] ^лашу/лаша<n><px2sg><nom>$
+[/HRinEgjyLkw3]
+[HV0GyVwXbmmw#0] ^пӳсӗр/пӳсӗр<n><attr>/пӳсӗр<n><nom>/пӳс<n><px2pl><nom>/пӳ<n>+сӑр<post>$
+[/HV0GyVwXbmmw]
+[HW-ShhC1e3og#0] ^Бакувӑр/*Бакувӑр$
+[/HW-ShhC1e3og]
+[HWo804DxV7Mm#0] ^няньӑран/няня<n><abl>$
+[/HWo804DxV7Mm]
+[HXULvYj9bi9b#0] ^тимӗрҫӗме/тимӗрҫӗ<n><px1sg><dat>$
+[/HXULvYj9bi9b]
+[HY0ClRe0hAyv#0] ^сӑвӑ/сӑвӑ<n><attr>/сӑвӑ<n><nom>$
+[/HY0ClRe0hAyv]
+[H_LlAf6wLb0u#0] ^каҫмуна/каҫма<n><px2sg><dat>$
+[/H_LlAf6wLb0u]
+[H_ddOnK189yA#0] ^стенасен/стена<n><pl><gen>$
+[/H_ddOnK189yA]
+[Haoj0UQuEZI0#0] ^пурттуна/пуртӑ<n><px2sg><dat>$
+[/Haoj0UQuEZI0]
+[Hfv8DnyVjGmj#0] ^классем/класс<n><pl><nom>$
+[/Hfv8DnyVjGmj]
+[HgweKhgsdZWS#0] ^склада/склад<n><dat>$
+[/HgweKhgsdZWS]
+[HiCTBHHHy54x#0] ^уйсене/уй<adj><subst><pl><dat>/уй<n><pl><dat>$
+[/HiCTBHHHy54x]
+[Hmx85InY_Vs5#0] ^Иванова/Иванов<np><cog><f><nom>/Иванов<np><cog><m><dat>$
+[/Hmx85InY_Vs5]
+[Hn8ivfIpWDJh#0] ^йӗппе/йӗп<n><ins>$
+[/Hn8ivfIpWDJh]
+[HnOyo4UbJkAl#0] ^каҫмӑр/каҫма<n><px2pl><nom>/каҫ<v><iv><neg><fut><p2><pl>/каҫ<v><tv><neg><fut><p2><pl>$
+[/HnOyo4UbJkAl]
+[HoeGPKJvFir0#0] ^музейсӗр/музей<n>+сӑр<post>$
+[/HoeGPKJvFir0]
+[HomxnfmDrh68#0] ^уйӑра/уй<adj><subst><px2pl><dat>/уй<n><px2pl><dat>$
+[/HomxnfmDrh68]
+[HpRjbB8NiWah#0] ^проспектсемпе/проспект<n><pl><ins>$
+[/HpRjbB8NiWah]
+[Hs0fP0HmhJ6f#0] ^платйӗрен/платье<n><abl>$
+[/Hs0fP0HmhJ6f]
+[Hu-f8CbdvaJY#0] ^Ивановӑмӑрӑн/Иваново<np><top><px1pl><gen>/Иванов<np><cog><f><px1pl><gen>/Иванов<np><cog><m><px1pl><gen>$
+[/Hu-f8CbdvaJY]
+[HujB4WYk8bqi#0] ^тимӗрҫне/*тимӗрҫне$
+[/HujB4WYk8bqi]
+[HupPZApd7g9i#0] ^менюсенче/меню<n><pl><loc>/меню<n><px2sg><pl><loc>$
+[/HupPZApd7g9i]
+[HysPIAmBJoMD#0] ^кукӑле/кукӑль<n><dat>$
+[/HysPIAmBJoMD]
+[HzW9ixPV5KVC#0] ^урамне/урам<n><px3sp><dat>$
+[/HzW9ixPV5KVC]
+[I1rpT_pwNRD3#0] ^влаҫӑн/власть<n><gen>$
+[/I1rpT_pwNRD3]
+[I4KO17C610CV#0] ^хӑйӑвӑмӑр/хӑю<n><px1pl><nom>$
+[/I4KO17C610CV]
+[I5VxW1ujVqdm#0] ^стенасӑр/стена<n>+сӑр<post>$
+[/I5VxW1ujVqdm]
+[IA15eGLxJtzF#0] ^Ивановскайи/Ивановский<np><cog><f><px3sp><nom>$
+[/IA15eGLxJtzF]
+[IAqOemoE8NJO#0] ^литературу/литература<n><px2sg><nom>$
+[/IAqOemoE8NJO]
+[IBfkaIMm-xdc#0] ^кофе/кофе<n><attr>/кофе<n><nom>$
+[/IBfkaIMm-xdc]
+[IC2yA1VuWCWt#0] ^кукӑльсен/кукӑль<n><pl><gen>$
+[/IC2yA1VuWCWt]
+[IClYjIubOrJa#0] ^кӗнекемӗн/кӗнеке<n><px1sg><gen>$
+[/IClYjIubOrJa]
+[IFVFMpHrsY01#0] ^менюн/меню<n><gen>/меню<n><px2sg><gen>$
+[/IFVFMpHrsY01]
+[IFtUW3Jpcd7K#0] ^кӳлӗсемшӗн/кӳлӗ<n><pl><ter>$
+[/IFtUW3Jpcd7K]
+[IH6Y05fs4xUE#0] ^пурттине/пуртӑ<n><px3sp><dat>$
+[/IH6Y05fs4xUE]
+[IMU5l1O4pTrv#0] ^вӑкӑрӑн/вӑкӑр<n><gen>$
+[/IMU5l1O4pTrv]
+[IQqAXMcLGbVi#0] ^класӑм/класс<n><px1sg><nom>$
+[/IQqAXMcLGbVi]
+[IVkhoIwYcNz3#0] ^автанӑмӑр/автан<n><px1pl><nom>$
+[/IVkhoIwYcNz3]
+[Ib-TACtkhN__#0] ^йӗппӳне/*йӗппӳне$
+[/Ib-TACtkhN__]
+[Ib52DfKz0se-#0] ^хӗвелӗрӗн/хӗвел<adj><subst><px2pl><gen>/хӗвел<n><px2pl><gen>$
+[/Ib52DfKz0se-]
+[Icwi1J2Bl1hm#0] ^кинора/кино<n><loc>$
+[/Icwi1J2Bl1hm]
+[IdSpXn02mbII#0] ^кофӗпе/кофе<n><ins>$
+[/IdSpXn02mbII]
+[Iddpvo6psEoo#0] ^чейӗрӗн/чейӗр<n><gen>/чейӗр<n><px3sp><gen>/чей<n><px2pl><gen>$
+[/Iddpvo6psEoo]
+[IeKl49vEdIXX#0] ^тенкӗре/тенкӗ<n><loc>/тенкӗ<n><px2pl><dat>$
+[/IeKl49vEdIXX]
+[Ify0gy5EV8PJ#0] ^музейӳ/музей<n><px2sg><nom>$
+[/Ify0gy5EV8PJ]
+[IihOn1mYpgKm#0] ^кофӗсем/кофе<n><pl><nom>$
+[/IihOn1mYpgKm]
+[IkhOsv_gYz1Y#0] ^ураму/урам<n><px2sg><nom>$
+[/IkhOsv_gYz1Y]
+[IlOzCYfwtppK#0] ^пальтомӑр/пальто<n><px1pl><nom>$
+[/IlOzCYfwtppK]
+[ImMOyPHGIgBV#0] ^пальтопа/пальто<n><ins>$
+[/ImMOyPHGIgBV]
+[Io8I9bwUMako#0] ^Ивановскаюн/Ивановский<np><cog><f><px2sg><gen>$
+[/Io8I9bwUMako]
+[IrCg3Z4X2npV#0] ^Портупа/порт<n><px2sg><ins>$
+[/IrCg3Z4X2npV]
+[IrcerR7V8hXx#0] ^чейӗмӗн/чей<n><px1sg><gen>$
+[/IrcerR7V8hXx]
+[IsOEPTzIEVQ2#0] ^тимӗрҫӗмӗре/тимӗрҫӗ<n><px1pl><dat>$
+[/IsOEPTzIEVQ2]
+[ItxEb2YLBUxG#0] ^шоссен/шоссе<n><gen>$
+[/ItxEb2YLBUxG]
+[Iy1k4LN2pyxl#0] ^Портти/*Портти$
+[/Iy1k4LN2pyxl]
+[J-o-4yiOwRW1#0] ^июлӗр/июль<n><px2pl><nom>$
+[/J-o-4yiOwRW1]
+[J149-7PleQjN#0] ^тимӗрҫӗре/тимӗрҫӗ<n><loc>/тимӗрҫӗ<n><px2pl><dat>$
+[/J149-7PleQjN]
+[J2-oPRwgQ2U7#0] ^чейшӗн/чей<n><ter>$
+[/J2-oPRwgQ2U7]
+[J4dolgeLOpJN#0] ^лашамӑра/лаша<n><px1pl><dat>$
+[/J4dolgeLOpJN]
+[J5RvjQenctKI#0] ^няньӑм/няня<n><px1sg><nom>$
+[/J5RvjQenctKI]
+[J86Y6MOULzwI#0] ^июнне/*июнне$
+[/J86Y6MOULzwI]
+[J9rmCkR2qRGE#0] ^училищӗрӗн/училище<n><px2pl><gen>$
+[/J9rmCkR2qRGE]
+[JC0rLX8VSiSm#0] ^автансем/автан<n><pl><nom>$
+[/JC0rLX8VSiSm]
+[JDCZ9WhrN5k0#0] ^киносемшӗн/кино<n><pl><ter>$
+[/JDCZ9WhrN5k0]
+[JGsxLemivYnK#0] ^кроликпа/кролик<n><ins>$
+[/JGsxLemivYnK]
+[JIGTbz8NWEeA#0] ^июльсемсӗр/июль<n><pl>+сӑр<post>$
+[/JIGTbz8NWEeA]
+[JLO9DbXlJEy5#0] ^информацисенче/информаци<n><pl><loc>$
+[/JLO9DbXlJEy5]
+[JRegcbNUoXNq#0] ^уйне/уй<adj>+и<subst><dat>/уй<adj><subst><px3sp><dat>/уй<n><px3sp><dat>$
+[/JRegcbNUoXNq]
+[JRg6gevomcFc#0] ^тӑвӑмӑрӑн/ту<n><px1pl><gen>/тӑвӑм<n><px2pl><gen>$
+[/JRg6gevomcFc]
+[JURn1n9aHd1n#0] ^чикӗсемшӗн/чикӗ<n><pl><ter>$
+[/JURn1n9aHd1n]
+[JVOw8emnO0r3#0] ^тимӗрҫӗсен/тимӗрҫӗ<n><pl><gen>$
+[/JVOw8emnO0r3]
+[JYGrMUjXbq7z#0] ^кроликсенчен/кролик<n><pl><abl>$
+[/JYGrMUjXbq7z]
+[JYY3JXXU_vPj#0] ^июльсемпе/июль<n><pl><ins>$
+[/JYY3JXXU_vPj]
+[J_dxwkmYR3r3#0] ^кофӗсемпе/кофе<n><pl><ins>$
+[/J_dxwkmYR3r3]
+[Jb9A2mfgqv4U#0] ^Ивановине/Иваново<np><top><px3sp><dat>/Иванов<np><cog><f><px3sp><dat>$
+[/Jb9A2mfgqv4U]
+[JbKyNDA2hiWa#0] ^кенгурушӑн/кенгуру<n><px2sg><ter>/кенгуру<n><ter>$
+[/JbKyNDA2hiWa]
+[Jew3p3Gqmm61#0] ^чейсемшӗн/чей<n><pl><ter>$
+[/Jew3p3Gqmm61]
+[Jg1h1De8uHfd#0] ^пуллун/пулӑ<n><px2sg><gen>/пулӗ<adj><subst><px2sg><gen>$
+[/Jg1h1De8uHfd]
+[JiVgh2cyA_8P#0] ^автобуссӑр/автобус<n>+сӑр<post>$
+[/JiVgh2cyA_8P]
+[JtK2NYr6WLF6#0] ^хӗвел/хӗвел<adj>/хӗвел<adj><subst><nom>/хӗвел<n><attr>/хӗвел<n><nom>$
+[/JtK2NYr6WLF6]
+[K-rWLK3mY1hr#0] ^пальтовӗ/*пальтовӗ$
+[/K-rWLK3mY1hr]
+[K0qYv0YufBwI#0] ^пӳре/пӳре<n><attr>/пӳре<n><nom>/пӳ<n><loc>$
+[/K0qYv0YufBwI]
+[K1NRjE-XNmGe#0] ^кофӗсене/кофе<n><pl><dat>$
+[/K1NRjE-XNmGe]
+[K4mFhM2nxV07#0] ^тимӗрҫӳ/тимӗрҫӗ<n><px2sg><nom>$
+[/K4mFhM2nxV07]
+[K6VvSEO-EsnV#0] ^хӑюсемпе/хӑю<adj><subst><pl><ins>/хӑю<adj><subst><px2sg><pl><ins>/хӑю<n><pl><ins>$
+[/K6VvSEO-EsnV]
+[K6gpaNr7GMpn#0] ^хурҫӑмӑр/хурҫӑ<n><px1pl><nom>$
+[/K6gpaNr7GMpn]
+[K8e_hy7gif7R#0] ^Ивановскаясемпе/*Ивановскаясемпе$
+[/K8e_hy7gif7R]
+[KB7n8n6sXN9_#0] ^июлӳ/июль<n><px2sg><nom>$
+[/KB7n8n6sXN9_]
+[KBmqfQRiQm3p#0] ^Золотницкийине/*Золотницкийине$
+[/KBmqfQRiQm3p]
+[KDP5dnYyIs36#0] ^информацийӗмӗр/информаци<n><px1pl><nom>$
+[/KDP5dnYyIs36]
+[KDSbx4OoQlSY#0] ^кукӑлӗмӗр/кукӑль<n><px1pl><nom>$
+[/KDSbx4OoQlSY]
+[KEdlg8LeKpcm#0] ^литературӑмӑра/литература<n><px1pl><dat>$
+[/KEdlg8LeKpcm]
+[KI0j_I_VCYTp#0] ^хӑйӑвӑмӑра/хӑю<n><px1pl><dat>$
+[/KI0j_I_VCYTp]
+[KLcXGKWIladp#0] ^вӑкӑрсенчен/вӑкӑр<n><pl><abl>$
+[/KLcXGKWIladp]
+[KNyIu_-eTEOI#0] ^платйӗсемпе/платье<n><pl><ins>$
+[/KNyIu_-eTEOI]
+[KUSdCQNQLbDL#0] ^автанӑра/автан<n><px2pl><dat>$
+[/KUSdCQNQLbDL]
+[KVKQrrnd-jka#0] ^ҫыншӑн/ҫын<n><ter>$
+[/KVKQrrnd-jka]
+[KYTwe-40YLVz#0] ^платйӗшӗн/платье<n><ter>$
+[/KYTwe-40YLVz]
+[KaUuKIwSctpm#0] ^классемсӗр/класс<n><pl>+сӑр<post>$
+[/KaUuKIwSctpm]
+[KaV6rs-GN9Ux#0] ^каҫмине/каҫма<n><px3sp><dat>/каҫ<v><iv><ger><px3sp><dat>/каҫ<v><tv><ger><px3sp><dat>$
+[/KaV6rs-GN9Ux]
+[KaYhDkxxi-UR#0] ^кӳллӗр/кӳлӗ<n><px2pl><nom>$
+[/KaYhDkxxi-UR]
+[Kf5-Nfl6sBnf#0] ^йӗппӳн/*йӗппӳн$
+[/Kf5-Nfl6sBnf]
+[Kfx-LZcjHZfZ#0] ^сӑввӑмӑрӑн/сӑвӑ<n><px1pl><gen>$
+[/Kfx-LZcjHZfZ]
+[KmSs5csLJTm-#0] ^няньӑсемсӗр/няня<n><pl>+сӑр<post>$
+[/KmSs5csLJTm-]
+[KugMI-q7IW1b#0] ^чейӳ/чей<n><px2sg><nom>$
+[/KugMI-q7IW1b]
+[KwkVgG0KXGrj#0] ^автобуссемпе/автобус<n><pl><ins>$
+[/KwkVgG0KXGrj]
+[KxN_2LsIXpcV#0] ^ҫуртран/ҫурт<n><abl>$
+[/KxN_2LsIXpcV]
+[KxiqQqB4sNFA#0] ^июльсен/июль<n><pl><gen>$
+[/KxiqQqB4sNFA]
+[L0RdRm2DPnsB#0] ^складсемшӗн/склад<n><pl><ter>$
+[/L0RdRm2DPnsB]
+[L5Vi0SAcxJ9D#0] ^тусен/ту<adj><subst><pl><gen>/ту<adj><subst><px2sg><pl><gen>/ту<n><pl><gen>$
+[/L5Vi0SAcxJ9D]
+[L6F-vEf-9kOP#0] ^шоссесӗр/шоссе<n>+сӑр<post>$
+[/L6F-vEf-9kOP]
+[L6_aTVEmTNIP#0] ^платйӗсенче/платье<n><pl><loc>$
+[/L6_aTVEmTNIP]
+[L8bOApiiVp40#0] ^Порттӑн/*Порттӑн$
+[/L8bOApiiVp40]
+[LBKBSJ7Sc9Xy#0] ^киносемсӗр/кино<n><pl>+сӑр<post>$
+[/LBKBSJ7Sc9Xy]
+[LBi2SFnoldDf#0] ^хурҫӑмӑрӑн/хурҫӑ<n><px1pl><gen>$
+[/LBi2SFnoldDf]
+[LBsfaIKObrSk#0] ^Порттине/*Порттине$
+[/LBsfaIKObrSk]
+[LCZqDlAhQxIT#0] ^училищӗсем/училище<n><pl><nom>$
+[/LCZqDlAhQxIT]
+[LFinV1YOof1J#0] ^кенгуруна/кенгуру<n><dat>/кенгуру<n><px2sg><dat>$
+[/LFinV1YOof1J]
+[LJ-eQ99SaIXv#0] ^хӗвелсен/хӗвел<adj><subst><pl><gen>/хӗвел<n><pl><gen>$
+[/LJ-eQ99SaIXv]
+[LKMDcS4ElLf9#0] ^хӗвелӗме/хӗвел<adj><subst><px1sg><dat>/хӗвел<n><px1sg><dat>$
+[/LKMDcS4ElLf9]
+[LQJijtOUucEz#0] ^автобуспа/автобус<n><ins>$
+[/LQJijtOUucEz]
+[LXcj47uLg3Qa#0] ^пальтома/пальто<n><px1sg><dat>$
+[/LXcj47uLg3Qa]
+[LY-X_ORgc6VC#0] ^чее/чее<adj>/чее<adj><subst><nom>/чей<n><dat>/чей<n><px2sg><dat>$
+[/LY-X_ORgc6VC]
+[LYpD3mgwyh2w#0] ^пальтуна/пальто<n><px2sg><dat>$
+[/LYpD3mgwyh2w]
+[LaYKnP7IQwAi#0] ^металсемшӗн/металл<n><pl><ter>$
+[/LaYKnP7IQwAi]
+[Lb-AWZ6j6rvO#0] ^металӑра/металл<n><px2pl><dat>$
+[/Lb-AWZ6j6rvO]
+[Le9e2LKEJugN#0] ^июньсен/июнь<n><pl><gen>$
+[/Le9e2LKEJugN]
+[Lfk6iyBsBUYr#0] ^урамсен/урам<n><pl><gen>/ура<n><px1sg><pl><gen>$
+[/Lfk6iyBsBUYr]
+[LiD5WBPDxJ-E#0] ^тетрадӗр/тетрадь<n><px2pl><nom>$
+[/LiD5WBPDxJ-E]
+[LlcuLmLqx526#0] ^чӗрӗпӗ/чӗрӗп<n><px3sp><nom>$
+[/LlcuLmLqx526]
+[LnM4nTzhl_4W#0] ^чейӳн/чей<n><px2sg><gen>$
+[/LnM4nTzhl_4W]
+[LnZ8-6tsBQX9#0] ^уйра/уй<adj><subst><loc>/уй<n><loc>$
+[/LnZ8-6tsBQX9]
+[Lnxig2VHX5qB#0] ^чейӗре/чейӗр<n><dat>/чей<n><px2pl><dat>$
+[/Lnxig2VHX5qB]
+[Lo05vkaob1OY#0] ^тусемшӗн/ту<adj><subst><pl><ter>/ту<adj><subst><px2sg><pl><ter>/ту<n><pl><ter>$
+[/Lo05vkaob1OY]
+[LoTp7mSKafQy#0] ^Ивановская/Ивановский<np><cog><f><nom>$
+[/LoTp7mSKafQy]
+[LpdZMm28UYZA#0] ^пулӑ/пулӑ<n><attr>/пулӑ<n><nom>/па<n><px2sg>+ллӑ<post>$
+[/LpdZMm28UYZA]
+[LpglDHIbO-CN#0] ^кенгурусемшӗн/кенгуру<n><pl><ter>/кенгуру<n><px2sg><pl><ter>$
+[/LpglDHIbO-CN]
+[LrC5deBtc4JD#0] ^кӗнекемӗр/кӗнеке<n><px1pl><nom>$
+[/LrC5deBtc4JD]
+[LxbN3bnv_gye#0] ^хӗвелне/хӗвел<adj>+и<subst><dat>/хӗвел<adj><subst><px3sp><dat>/хӗвел<n><px3sp><dat>/хӗвел<n><px2sg><dat>$
+[/LxbN3bnv_gye]
+[LyKwSi1FJ1SA#0] ^информацийӗмӗре/информаци<n><px1pl><dat>$
+[/LyKwSi1FJ1SA]
+[M06awiONaPWs#0] ^шӑшийӗ/шӑши<n><px3sp><nom>$
+[/M06awiONaPWs]
+[M4bSnS-qwCGZ#0] ^тусемпе/ту<adj><subst><pl><ins>/ту<adj><subst><px2sg><pl><ins>/ту<n><pl><ins>$
+[/M4bSnS-qwCGZ]
+[M7vCZ2qrwtch#0] ^пулӑран/пулӑ<n><abl>$
+[/M7vCZ2qrwtch]
+[M8LtTHDTsHyr#0] ^кӗнекемӗре/кӗнеке<n><px1pl><dat>$
+[/M8LtTHDTsHyr]
+[MB0ecuh_P-U0#0] ^шӑшийӗме/шӑши<n><px1sg><dat>$
+[/MB0ecuh_P-U0]
+[MD9mwza3oyNn#0] ^платйӳне/платье<n><px2sg><dat>$
+[/MD9mwza3oyNn]
+[MEEpmuLXT3pi#0] ^тетрадӳ/тетрадь<n><px2sg><nom>$
+[/MEEpmuLXT3pi]
+[MEZJMzOmS5iU#0] ^хӗвелӗре/хӗвел<adj><subst><px2pl><dat>/хӗвел<n><px2pl><dat>$
+[/MEZJMzOmS5iU]
+[MFE3JdxI7pEW#0] ^шӑшийне/*шӑшийне$
+[/MFE3JdxI7pEW]
+[MHIOdrFKL370#0] ^кину/кино<n><px2sg><nom>$
+[/MHIOdrFKL370]
+[MOnaNu8ALlx6#0] ^Ивановскаясене/*Ивановскаясене$
+[/MOnaNu8ALlx6]
+[MPto7ZUjVhxp#0] ^стихисенче/стихи<n><pl><loc>$
+[/MPto7ZUjVhxp]
+[MQkO99Uq8Ndl#0] ^складсемпе/склад<n><pl><ins>$
+[/MQkO99Uq8Ndl]
+[MRH9f3Nv5ZQ9#0] ^ҫуртсенче/ҫурт<n><pl><loc>$
+[/MRH9f3Nv5ZQ9]
+[MSRhaCj0pM6b#0] ^кукӑлӗмӗн/кукӑль<n><px1sg><gen>$
+[/MSRhaCj0pM6b]
+[MSfPe0bcUO99#0] ^лаши/лаша<n><px3sp><nom>$
+[/MSfPe0bcUO99]
+[MTZBMyXy5mLD#0] ^Ивановскаямӑра/*Ивановскаямӑра$
+[/MTZBMyXy5mLD]
+[MVSnW5PUQbS0#0] ^проспектра/проспект<n><loc>$
+[/MVSnW5PUQbS0]
+[MXK43852KgIH#0] ^хӑйӑвун/хӑю<n><px2sg><gen>$
+[/MXK43852KgIH]
+[Mb3OeOEYcjIG#0] ^ӗҫӗ/ӗҫ<n><px3sp><nom>/ӗҫ<v><iv><fut><p3><sg>/ӗҫ<v><tv><fut><p3><sg>$
+[/Mb3OeOEYcjIG]
+[MbQV-JLPKVm4#0] ^музейӳн/музей<n><px2sg><gen>$
+[/MbQV-JLPKVm4]
+[Mc5X9zOuB2qe#0] ^автобусне/автобус<n><px3sp><dat>$
+[/Mc5X9zOuB2qe]
+[McLCfZZmYmFN#0] ^тимӗрҫӗн/тимӗрҫӗ<n><gen>$
+[/McLCfZZmYmFN]
+[Me0VmPkA-cTj#0] ^тенкӗшӗн/тенкӗ<n><ter>$
+[/Me0VmPkA-cTj]
+[MgJPMSlHc84t#0] ^Золотницкирен/Золотницкий<np><cog><m><abl>$
+[/MgJPMSlHc84t]
+[MgMjLUZdndXu#0] ^ӗҫсен/ӗҫ<n><pl><gen>/ӗҫ<v><iv><gna_cond>/ӗҫ<v><tv><gna_cond>$
+[/MgMjLUZdndXu]
+[MhGMeJ01crsp#0] ^Золотницкисен/Золотницкий<np><cog><m><pl><gen>$
+[/MhGMeJ01crsp]
+[MhbR8EEJuLDa#0] ^кӳлӗсен/кӳлӗ<n><pl><gen>$
+[/MhbR8EEJuLDa]
+[Mi9MBvxLCY4r#0] ^тухйи/тухья<n><px3sp><nom>$
+[/Mi9MBvxLCY4r]
+[MigW-FBt4eMM#0] ^складсемсӗр/склад<n><pl>+сӑр<post>$
+[/MigW-FBt4eMM]
+[Mlj-syC7-ve9#0] ^хурҫӑн/хурҫӑ<n><gen>$
+[/Mlj-syC7-ve9]
+[MnhtnS_5MJ0f#0] ^няньӑн/няня<n><gen>$
+[/MnhtnS_5MJ0f]
+[MpA8sROT49AG#0] ^автанӑма/автан<n><px1sg><dat>$
+[/MpA8sROT49AG]
+[MseaBGhlXesC#0] ^проспектӑмӑра/проспект<n><px1pl><dat>$
+[/MseaBGhlXesC]
+[MvCzDxzKRbnO#0] ^няньӑмӑр/няня<n><px1pl><nom>$
+[/MvCzDxzKRbnO]
+[MxGE6Sw-HBeZ#0] ^пуллӑн/пулӑ<n><gen>/пулӗ<adj><subst><gen>$
+[/MxGE6Sw-HBeZ]
+[MxLQy29_dtLs#0] ^автанун/автан<n><px2sg><gen>$
+[/MxLQy29_dtLs]
+[N161HWKAl1tL#0] ^вӑкӑрӑма/вӑкӑр<n><px1sg><dat>$
+[/N161HWKAl1tL]
+[N2G3l0r90nFg#0] ^июньшӗн/июнь<n><ter>$
+[/N2G3l0r90nFg]
+[N6ujp5QGad5M#0] ^шӑшийӗм/шӑши<n><px1sg><nom>$
+[/N6ujp5QGad5M]
+[NAWclxvN76Iq#0] ^сарайӑмӑр/сарай<n><px1pl><nom>$
+[/NAWclxvN76Iq]
+[NAyKGoWYWNKP#0] ^Ивановӑран/Иваново<np><top><abl>/Иванов<np><cog><f><abl>$
+[/NAyKGoWYWNKP]
+[NCcn82-G7KGv#0] ^супӑнӳ/супӑнь<n><px2sg><nom>$
+[/NCcn82-G7KGv]
+[NCqZ4PBj2Vuc#0] ^информацирен/информаци<n><abl>$
+[/NCqZ4PBj2Vuc]
+[NFd_NToDLF9x#0] ^чиккӗмӗн/чикӗ<n><px1sg><gen>$
+[/NFd_NToDLF9x]
+[NGw-bVVlbX33#0] ^лашамӑн/лаша<n><px1sg><gen>$
+[/NGw-bVVlbX33]
+[NPwJ9-ak6jMf#0] ^стенасенче/стена<n><pl><loc>$
+[/NPwJ9-ak6jMf]
+[NQFaJLBbDIR0#0] ^литературӑра/литература<n><loc>/литература<n><px2pl><dat>$
+[/NQFaJLBbDIR0]
+[NQq0p1xGn5fT#0] ^урамӑн/урам<n><gen>/ура<n><px1sg><gen>$
+[/NQq0p1xGn5fT]
+[NTOLH9Xf6H77#0] ^кинӑрӑн/кино<n><px2pl><gen>$
+[/NTOLH9Xf6H77]
+[NVUrQx9ja2Tz#0] ^менюӗ/меню<n><px3sp><nom>$
+[/NVUrQx9ja2Tz]
+[NVl8AdNrGttH#0] ^чикӗшӗн/чикӗш<v><iv><fut><p2><sg>/чикӗш<v><iv><pres><p2><sg>/чикӗш<v><tv><fut><p2><sg>/чикӗш<v><tv><pres><p2><sg>/чикӗ<n><ter>/чик<v><iv><coop><fut><p2><sg>/чик<v><iv><coop><pres><p2><sg>/чик<v><tv><coop><fut><p2><sg>/чик<v><tv><coop><pres><p2><sg>$
+[/NVl8AdNrGttH]
+[NW4NndAVnXsV#0] ^июльрен/июль<n><abl>$
+[/NW4NndAVnXsV]
+[NXG8-Qz7pokp#0] ^супӑнӗн/супӑнь<n><gen>/супӑнь<n><px3sp><gen>$
+[/NXG8-Qz7pokp]
+[Nb45gOpK-3Tv#0] ^хӑйӑвӑр/хӑю<n><px2pl><nom>$
+[/Nb45gOpK-3Tv]
+[NgR_QfGtBnop#0] ^кукӑльсене/кукӑль<n><pl><dat>$
+[/NgR_QfGtBnop]
+[NhEnfR1rWXwD#0] ^хурҫӑсен/хурҫӑ<n><pl><gen>$
+[/NhEnfR1rWXwD]
+[NqFnU4st_D9p#0] ^шоссемӗн/шоссе<n><px1sg><gen>$
+[/NqFnU4st_D9p]
+[Nuy87HoR5L0c#0] ^автобусун/автобус<n><px2sg><gen>$
+[/Nuy87HoR5L0c]
+[NzVgP2rqAX55#0] ^июльсенче/июль<n><pl><loc>$
+[/NzVgP2rqAX55]
+[O1tWvtvS0OUQ#0] ^ҫуртсен/ҫурт<n><pl><gen>$
+[/O1tWvtvS0OUQ]
+[O2sWKnMbpLlr#0] ^ӗҫӳ/ӗҫ<n><px2sg><nom>$
+[/O2sWKnMbpLlr]
+[O62TVUM-4tOG#0] ^стихин/стихи<n><gen>$
+[/O62TVUM-4tOG]
+[OJplbJg2rVJN#0] ^пальтӑр/пальто<n><px2pl><nom>$
+[/OJplbJg2rVJN]
+[OK02nBwMpglg#0] ^вӑкӑрсемсӗр/вӑкӑр<n><pl>+сӑр<post>$
+[/OK02nBwMpglg]
+[OKbGbyWkrGpx#0] ^Ивановскаясемшӗн/*Ивановскаясемшӗн$
+[/OKbGbyWkrGpx]
+[OOHJD6dhSOD6#0] ^информацийӗмӗрӗн/информаци<n><px1pl><gen>$
+[/OOHJD6dhSOD6]
+[OQ5hxlJ7JZ37#0] ^кукӑльшӗн/кукӑль<n><ter>$
+[/OQ5hxlJ7JZ37]
+[OS30xkCRCR6K#0] ^сӑввӑмӑн/сӑвӑ<n><px1sg><gen>$
+[/OS30xkCRCR6K]
+[OT3c0s7RDlxn#0] ^кӗнекесемшӗн/кӗнеке<n><pl><ter>$
+[/OT3c0s7RDlxn]
+[OUnKFwA5nMs1#0] ^шӑшисене/шӑши<n><pl><dat>$
+[/OUnKFwA5nMs1]
+[OWyGPOekRDSi#0] ^шӑшисемпе/шӑши<n><pl><ins>$
+[/OWyGPOekRDSi]
+[OX57Z_BIbmpb#0] ^ҫуртшӑн/ҫурт<n><ter>$
+[/OX57Z_BIbmpb]
+[OXar9SRAMk2c#0] ^стихимe/*стихимe$
+[/OXar9SRAMk2c]
+[OalGC_bn66-j#0] ^пулли/пулле<n><px3sp><nom>/пулӑ<n><px3sp><nom>/пулӗ<adj>+и<subst><nom>/пулӗ<adj><subst><px3sp><nom>$
+[/OalGC_bn66-j]
+[OdR4RLpyWBVC#0] ^тетрадӗм/тетрадь<n><px1sg><nom>$
+[/OdR4RLpyWBVC]
+[OfXnE4NyE8Ix#0] ^тенкӗрӗн/тенкӗ<n><px2pl><gen>$
+[/OfXnE4NyE8Ix]
+[OlTLRqzSPYSY#0] ^тетрадьсемшӗн/тетрадь<n><pl><ter>$
+[/OlTLRqzSPYSY]
+[OlTrX_riOKBe#0] ^пӗвӗмӗрӗн/пӳ<n><px1pl><gen>$
+[/OlTrX_riOKBe]
+[OrLz3kU3ZTGz#0] ^вӑййӑмӑра/вӑйӑ<n><px1pl><dat>$
+[/OrLz3kU3ZTGz]
+[OtI9JAmjsNjS#0] ^тенкӗсенчен/тенкӗ<n><pl><abl>$
+[/OtI9JAmjsNjS]
+[OtVrMw4oOIDi#0] ^кӳллӗн/кӳлӗ<n><gen>$
+[/OtVrMw4oOIDi]
+[OuoFmxQid7Q3#0] ^стенуна/стена<n><px2sg><dat>$
+[/OuoFmxQid7Q3]
+[OvMQId8b6GC7#0] ^тенкӗм/тенкӗ<n><px1sg><nom>$
+[/OvMQId8b6GC7]
+[OvYA2j0ckBbj#0] ^тенкӗмӗн/тенкӗ<n><px1sg><gen>$
+[/OvYA2j0ckBbj]
+[OxSwmJt0mWek#0] ^каҫмаран/каҫма<n><abl>$
+[/OxSwmJt0mWek]
+[OyuSE1XdmrzT#0] ^кӗсьемӗр/кӗсье<n><px1pl><nom>$
+[/OyuSE1XdmrzT]
+[P93KJb4Ouxh_#0] ^тетрадӗмӗн/тетрадь<n><px1sg><gen>$
+[/P93KJb4Ouxh_]
+[PDqO7R0fDBic#0] ^вӑкӑрӗн/вӑкӑр<n><px3sp><gen>$
+[/PDqO7R0fDBic]
+[PF_3Qess1vq1#0] ^Ивановскаясен/*Ивановскаясен$
+[/PF_3Qess1vq1]
+[PG-s6czmCrAU#0] ^пальтун/пальто<n><px2sg><gen>$
+[/PG-s6czmCrAU]
+[PHYA4tj1Rcbk#0] ^шоссерӗн/*шоссерӗн$
+[/PHYA4tj1Rcbk]
+[PIf8CnW_SxGQ#0] ^Порттӑра/*Порттӑра$
+[/PIf8CnW_SxGQ]
+[PJSnBFC4oU_E#0] ^каҫмӑрӑн/каҫма<n><px2pl><gen>$
+[/PJSnBFC4oU_E]
+[PMNovo7zGFLe#0] ^кроликсемпе/кролик<n><pl><ins>$
+[/PMNovo7zGFLe]
+[PNVqZ2THiVaD#0] ^складӑмӑн/склад<n><px1sg><gen>$
+[/PNVqZ2THiVaD]
+[PQRu5KqjrmyJ#0] ^ҫынсенче/ҫын<n><pl><loc>$
+[/PQRu5KqjrmyJ]
+[PVX67Dyww3Mg#0] ^стенара/стена<n><loc>$
+[/PVX67Dyww3Mg]
+[PY-ni98K5nKH#0] ^супӑнӗре/супӑнь<n><px2pl><dat>$
+[/PY-ni98K5nKH]
+[P_empM9hE_Nl#0] ^кофӗрӗн/кофе<n><px2pl><gen>$
+[/P_empM9hE_Nl]
+[PaNHvKsvA9yn#0] ^Бакуран/*Бакуран$
+[/PaNHvKsvA9yn]
+[PbY5fdyzywCp#0] ^ҫуртӑм/ҫурт<n><px1sg><nom>/ҫур<v><iv><past><p1><sg>/ҫур<v><tv><past><p1><sg>$
+[/PbY5fdyzywCp]
+[PbeuS6_ly7eD#0] ^Золотницкийӳ/Золотницкий<np><cog><m><px2sg><nom>$
+[/PbeuS6_ly7eD]
+[PcYgXkt2DqUH#0] ^информацисен/информаци<n><pl><gen>$
+[/PcYgXkt2DqUH]
+[PciI-K7AC_8y#0] ^менюшӑн/меню<n><px2sg><ter>/меню<n><ter>$
+[/PciI-K7AC_8y]
+[PdGi1DfvwJjP#0] ^чиккӗм/чикӗ<n><px1sg><nom>$
+[/PdGi1DfvwJjP]
+[PdJ3DlidHi4i#0] ^лашама/лаша<n><px1sg><dat>$
+[/PdJ3DlidHi4i]
+[Pfx53Qz8TahW#0] ^уйсемшӗн/уй<adj><subst><pl><ter>/уй<n><pl><ter>$
+[/Pfx53Qz8TahW]
+[Pg6lgJco6ekb#0] ^хурҫӑмӑн/хурҫӑ<n><px1sg><gen>$
+[/Pg6lgJco6ekb]
+[PgZ_LQxUADuo#0] ^пӗвӗмӗн/пӳ<n><px1sg><gen>$
+[/PgZ_LQxUADuo]
+[PgytZKz5sFaM#0] ^стенамӑн/стена<n><px1sg><gen>$
+[/PgytZKz5sFaM]
+[Pi4PZoREaSB6#0] ^Бакусӑр/бак<n><px2sg>+сӑр<post>$
+[/Pi4PZoREaSB6]
+[PiKpEJWTOC0R#0] ^шоссесенчен/шоссе<n><pl><abl>$
+[/PiKpEJWTOC0R]
+[PlIhOtBRPyw9#0] ^пальтосемпе/пальто<n><pl><ins>$
+[/PlIhOtBRPyw9]
+[PnPVDiVldiPN#0] ^Сашӑсемпе/Саша<np><ant><f><pl><ins>/Саша<np><ant><m><pl><ins>$
+[/PnPVDiVldiPN]
+[PojB7zScs2P1#0] ^шоссе/шоссе<n><attr>/шоссе<n><nom>$
+[/PojB7zScs2P1]
+[Pr9FOEiItE3_#0] ^кӗнекем/кӗнеке<n><px1sg><nom>$
+[/Pr9FOEiItE3_]
+[PrZT_0iaqp2v#0] ^июнӗме/июнь<n><px1sg><dat>$
+[/PrZT_0iaqp2v]
+[PuDjtNSZdoV0#0] ^ҫурту/ҫурта<n><px2sg><nom>/ҫурт<n><px2sg><nom>$
+[/PuDjtNSZdoV0]
+[PuL5hK8ZSytb#0] ^шӑшийӗмӗрӗн/шӑши<n><px1pl><gen>$
+[/PuL5hK8ZSytb]
+[PwJd9VP0HLme#0] ^сарайпа/сарай<n><ins>$
+[/PwJd9VP0HLme]
+[Px3o-qj6NeVt#0] ^Ивановскаюна/Ивановский<np><cog><f><px2sg><dat>$
+[/Px3o-qj6NeVt]
+[PxaI2mA9Dit6#0] ^кӗнекеме/кӗнеке<n><px1sg><dat>$
+[/PxaI2mA9Dit6]
+[PyzT0q1PRq74#0] ^ҫынсенчен/ҫын<n><pl><abl>$
+[/PyzT0q1PRq74]
+[PzN6R-S6nphe#0] ^супӑнӗмӗре/супӑнь<n><px1pl><dat>$
+[/PzN6R-S6nphe]
+[PzrswTFY7Hk-#0] ^музейсенчен/музей<n><pl><abl>$
+[/PzrswTFY7Hk-]
+[Q0FfBGcB0nl6#0] ^автобусу/автобус<n><px2sg><nom>$
+[/Q0FfBGcB0nl6]
+[Q3SQC1WBRwx9#0] ^кенгурувӗне/*кенгурувӗне$
+[/Q3SQC1WBRwx9]
+[Q3sPTF57Vdut#0] ^чейӗн/чей<n><gen>/чей<n><px3sp><gen>$
+[/Q3sPTF57Vdut]
+[Q8XbtxijXTAs#0] ^чӗрӗпсем/чӗрӗп<n><pl><nom>$
+[/Q8XbtxijXTAs]
+[Q8pYklgNo-fz#0] ^тенкӗмӗре/тенкӗ<n><px1pl><dat>$
+[/Q8pYklgNo-fz]
+[Q9ija_Hj8tpH#0] ^делосене/*делосене$
+[/Q9ija_Hj8tpH]
+[QGJq5pWQjJ7J#0] ^каҫмун/каҫма<n><px2sg><gen>$
+[/QGJq5pWQjJ7J]
+[QHkWZHa9kcBc#0] ^тусенчен/ту<adj><subst><pl><abl>/ту<adj><subst><px2sg><pl><abl>/ту<n><pl><abl>$
+[/QHkWZHa9kcBc]
+[QKalD1pbaEfv#0] ^вӑйӑпа/вӑйӑ<n><ins>$
+[/QKalD1pbaEfv]
+[QOFvvBIxJpzi#0] ^Золотницкийӗр/Золотницкий<np><cog><m><px2pl><nom>$
+[/QOFvvBIxJpzi]
+[QOoDx2R85UHN#0] ^хӑюпа/хӑю<adj><subst><ins>/хӑю<adj><subst><px2sg><ins>/хӑю<n><ins>$
+[/QOoDx2R85UHN]
+[QP7YHWDPMJUA#0] ^каҫмамӑр/каҫма<n><px1pl><nom>$
+[/QP7YHWDPMJUA]
+[QShihcnSwA0M#0] ^пулӑсем/пулӑ<n><pl><nom>$
+[/QShihcnSwA0M]
+[QV7fGQ_T52LJ#0] ^тенкӗсемсӗр/тенкӗ<n><pl>+сӑр<post>$
+[/QV7fGQ_T52LJ]
+[QYy6_Ql7AEiG#0] ^сарайне/сарай<n><px3sp><dat>$
+[/QYy6_Ql7AEiG]
+[QbtYb-6okfT9#0] ^делосен/*делосен$
+[/QbtYb-6okfT9]
+[QfEZbskVJuLh#0] ^уйӑмӑра/уй<adj><subst><px1pl><dat>/уй<n><px1pl><dat>$
+[/QfEZbskVJuLh]
+[QgpKc9lsUo-2#0] ^каҫмӑра/каҫма<n><px2pl><dat>$
+[/QgpKc9lsUo-2]
+[Qh4ZdYNKCbgE#0] ^тетрадьре/тетрадь<n><loc>$
+[/Qh4ZdYNKCbgE]
+[QlWxiJYLTJzZ#0] ^проспектӑмӑрӑн/проспект<n><px1pl><gen>$
+[/QlWxiJYLTJzZ]
+[QmufEPe5HKcf#0] ^июлӗме/июль<n><px1sg><dat>$
+[/QmufEPe5HKcf]
+[QqXL7WsC0PP6#0] ^Ивановӑм/Иваново<np><top><px1sg><nom>/Иванов<np><cog><f><px1sg><nom>/Иванов<np><cog><m><px1sg><nom>$
+[/QqXL7WsC0PP6]
+[QspKebGWCvi6#0] ^пальтосен/пальто<n><pl><gen>$
+[/QspKebGWCvi6]
+[QxWiUYwWUvDc#0] ^шӑширен/шӑши<n><abl>$
+[/QxWiUYwWUvDc]
+[QxhcoTNXHGXn#0] ^сӑвӑсене/сӑвӑ<n><pl><dat>$
+[/QxhcoTNXHGXn]
+[QzkqYX9fn4WA#0] ^металӑмӑра/металл<n><px1pl><dat>$
+[/QzkqYX9fn4WA]
+[R6ZADU7RMT7n#0] ^чӗрӗпӗмӗрӗн/чӗрӗп<n><px1pl><gen>$
+[/R6ZADU7RMT7n]
+[R719nfLoDidR#0] ^информацийӗм/информаци<n><px1sg><nom>$
+[/R719nfLoDidR]
+[R79yjfhowNme#0] ^шоссере/шоссе<n><loc>$
+[/R79yjfhowNme]
+[R9PWpG96pMis#0] ^аллейӑпа/аллея<n><ins>$
+[/R9PWpG96pMis]
+[RDxtvaR2VOjW#0] ^Ивановскаясем/*Ивановскаясем$
+[/RDxtvaR2VOjW]
+[RGU-zo7PbN2D#0] ^каҫмасӑр/каҫ<v><iv><gna_neg>/каҫ<v><tv><gna_neg>/каҫма<n>+сӑр<post>$
+[/RGU-zo7PbN2D]
+[RGsWX_EckDKs#0] ^уйӑн/уй<adj><subst><gen>/уй<n><gen>/уя<v><iv><fut><p2><sg>/уя<v><iv><pres><p2><sg>/уя<v><tv><fut><p2><sg>/уя<v><tv><pres><p2><sg>$
+[/RGsWX_EckDKs]
+[RJrZlttkN4qP#0] ^информацишӗн/информаци<n><ter>$
+[/RJrZlttkN4qP]
+[RLUTe7W8cTcb#0] ^супӑнӗмӗн/супӑнь<n><px1sg><gen>$
+[/RLUTe7W8cTcb]
+[RLj5hVNRk2wv#0] ^стихимӗр/*стихимӗр$
+[/RLj5hVNRk2wv]
+[RN2SCi4i4--d#0] ^кофӗсӗр/кофе<n>+сӑр<post>$
+[/RN2SCi4i4--d]
+[ROOQc4DB0Hxd#0] ^меню/меню<n><attr>/меню<n><nom>/меню<n><px2sg><nom>$
+[/ROOQc4DB0Hxd]
+[ROwd7M4lAw2Z#0] ^июньсемпе/июнь<n><pl><ins>$
+[/ROwd7M4lAw2Z]
+[RRfLCpf3pFm1#0] ^кӗнекерен/кӗнеке<n><abl>$
+[/RRfLCpf3pFm1]
+[RS6SagM_qtQm#0] ^училищӗмӗре/училище<n><px1pl><dat>$
+[/RS6SagM_qtQm]
+[ReFwHjX7Ih65#0] ^урамна/урам<n><px2sg><dat>$
+[/ReFwHjX7Ih65]
+[RfXtNqFPH0yq#0] ^сӑввӑмӑра/сӑвӑ<n><px1pl><dat>$
+[/RfXtNqFPH0yq]
+[Ri2C5lc1YEmx#0] ^ҫыннӑр/ҫын<n><px2pl><nom>$
+[/Ri2C5lc1YEmx]
+[RiX6RV7W8WwT#0] ^класпа/класс<n><ins>$
+[/RiX6RV7W8WwT]
+[RjF41X3u8twn#0] ^урамӑрӑн/урам<n><px2pl><gen>/ура<n><px1pl><gen>$
+[/RjF41X3u8twn]
+[RjbCPJYYfEzG#0] ^ҫын/ҫын<n><attr>/ҫын<n><nom>$
+[/RjbCPJYYfEzG]
+[Rl7AWGeNBr9S#0] ^стенин/стена<n><px3sp><gen>$
+[/Rl7AWGeNBr9S]
+[RnDXE2tZqX9E#0] ^стихисен/стихи<n><pl><gen>$
+[/RnDXE2tZqX9E]
+[RotArhNAhF53#0] ^няньӑшӑн/няня<n><ter>$
+[/RotArhNAhF53]
+[RqPOxnEEJQFs#0] ^Ивановскаямӑр/*Ивановскаямӑр$
+[/RqPOxnEEJQFs]
+[Rqhgqj5MeCnr#0] ^Бакувӑра/*Бакувӑра$
+[/Rqhgqj5MeCnr]
+[RtfDJI-nBrum#0] ^складӑмӑр/склад<n><px1pl><nom>$
+[/RtfDJI-nBrum]
+[RwIQBriBanqM#0] ^тухьясемшӗн/тухья<n><pl><ter>$
+[/RwIQBriBanqM]
+[RwoSmUcIRucp#0] ^сӑвви/сӑвӑ<n><px3sp><nom>$
+[/RwoSmUcIRucp]
+[Rxbt4L3cl2ZO#0] ^киномӑрӑн/кино<n><px1pl><gen>$
+[/Rxbt4L3cl2ZO]
+[RxcpHX-HKWjL#0] ^склачӗн/склад<n><px3sp><gen>$
+[/RxcpHX-HKWjL]
+[RzN-lJd9rqmn#0] ^металран/металл<n><abl>$
+[/RzN-lJd9rqmn]
+[RzfcmLf-HNQ2#0] ^стихисенчен/стихи<n><pl><abl>$
+[/RzfcmLf-HNQ2]
+[Rzn22HVg-_Ta#0] ^кукӑлӗмӗрӗн/кукӑль<n><px1pl><gen>$
+[/Rzn22HVg-_Ta]
+[S6QLlFVbe0dF#0] ^ҫуртсене/ҫурт<n><pl><dat>$
+[/S6QLlFVbe0dF]
+[S6mu20Jj4aRJ#0] ^Ивановӑсем/Иваново<np><top><pl><nom>/Иванов<np><cog><f><pl><nom>$
+[/S6mu20Jj4aRJ]
+[SAE24b1Ad161#0] ^киновӗ/кино<n><px3sp><nom>$
+[/SAE24b1Ad161]
+[SBVV0fvIyF3o#0] ^музейӗрӗн/музей<n><px2pl><gen>$
+[/SBVV0fvIyF3o]
+[SCV9joyKZZ1D#0] ^кӗсьен/кӗсье<n><gen>$
+[/SCV9joyKZZ1D]
+[SCfVuwHWNyNp#0] ^пӗве/пӗве<n><attr>/пӗве<n><nom>/пӗве<v><iv><imp><p2><sg>/пӗве<v><tv><imp><p2><sg>/пӳ<n><dat>$
+[/SCfVuwHWNyNp]
+[SEN5LHIEPY6u#0] ^уйӑмӑрӑн/уй<adj><subst><px1pl><gen>/уй<n><px1pl><gen>$
+[/SEN5LHIEPY6u]
+[SEyla4rpSz5D#0] ^тенкине/тенкӗ<n><px3sp><dat>$
+[/SEyla4rpSz5D]
+[SFWB8RsMMY6x#0] ^ҫынни/ҫын<n><px3sp><nom>$
+[/SFWB8RsMMY6x]
+[SGfXRQIlbrsd#0] ^ҫуртӑмӑн/ҫурт<n><px1sg><gen>$
+[/SGfXRQIlbrsd]
+[SHFRteCwuKHp#0] ^Золотницкисене/Золотницкий<np><cog><m><pl><dat>$
+[/SHFRteCwuKHp]
+[SLJPAGHWINuR#0] ^кӗсьем/кӗсье<n><px1sg><nom>$
+[/SLJPAGHWINuR]
+[SQL1ihnSGhTR#0] ^автобуссемсӗр/автобус<n><pl>+сӑр<post>$
+[/SQL1ihnSGhTR]
+[SQQm8SOb1qWj#0] ^Сашӑшӑн/Саша<np><ant><f><ter>/Саша<np><ant><m><ter>$
+[/SQQm8SOb1qWj]
+[SRhHCwKF1ieM#0] ^музейӗмӗн/музей<n><px1sg><gen>$
+[/SRhHCwKF1ieM]
+[SU7QHhxpy86G#0] ^кинӑра/кино<n><px2pl><dat>$
+[/SU7QHhxpy86G]
+[SV2znKEP_Z32#0] ^урамсем/урам<n><pl><nom>/ура<n><px1sg><pl><nom>$
+[/SV2znKEP_Z32]
+[SYv1SZvFPIJy#0] ^складун/склад<n><px2sg><gen>$
+[/SYv1SZvFPIJy]
+[SZoWFB7uEFIj#0] ^тенкӗсемпе/тенкӗ<n><pl><ins>$
+[/SZoWFB7uEFIj]
+[S_A2YI0CFQS5#0] ^кӗсьерен/кӗсье<n><abl>$
+[/S_A2YI0CFQS5]
+[S_H5IeyV2OEH#0] ^июлӗмӗрӗн/июль<n><px1pl><gen>$
+[/S_H5IeyV2OEH]
+[S_XE42tDNSux#0] ^стихишӗн/стихи<n><ter>$
+[/S_XE42tDNSux]
+[SaA3p3zBw5Ig#0] ^хурҫӑсем/хурҫӑ<n><pl><nom>$
+[/SaA3p3zBw5Ig]
+[SanFA5mVKgwP#0] ^пулӑсемпе/пулӑ<n><pl><ins>$
+[/SanFA5mVKgwP]
+[SbSfO5skq-qg#0] ^тимӗрҫӗм/тимӗрҫӗ<n><px1sg><nom>$
+[/SbSfO5skq-qg]
+[SbqnzXwiuOUF#0] ^кенгурусем/кенгуру<n><pl><nom>/кенгуру<n><px2sg><pl><nom>$
+[/SbqnzXwiuOUF]
+[SeG3wqZmoMss#0] ^ҫуртсӑр/ҫуртсӑр<adj>/ҫуртсӑр<adj><subst><nom>/ҫурт<n>+сӑр<post>$
+[/SeG3wqZmoMss]
+[ShCNKA3Io3t4#0] ^июль/июль<n><attr>/июль<n><nom>$
+[/ShCNKA3Io3t4]
+[SiGs4i2ltjKV#0] ^Ивановӑсенчен/Иваново<np><top><pl><abl>/Иванов<np><cog><f><pl><abl>$
+[/SiGs4i2ltjKV]
+[SiZgOvamJ9U7#0] ^ӗҫсемсӗр/ӗҫ<n><pl>+сӑр<post>$
+[/SiZgOvamJ9U7]
+[SkU7CpGxf-V9#0] ^делошӑн/*делошӑн$
+[/SkU7CpGxf-V9]
+[SlEn88IDSFDX#0] ^аллейӑм/аллея<n><px1sg><nom>$
+[/SlEn88IDSFDX]
+[Sloyt04hbSoo#0] ^хурҫӑсемпе/хурҫӑ<n><pl><ins>$
+[/Sloyt04hbSoo]
+[Sn2SRqEy7xjx#0] ^ҫуртӑра/ҫурта<n><px2pl><dat>/ҫурт<n><px2pl><dat>$
+[/Sn2SRqEy7xjx]
+[SnHEvDRZcxbq#0] ^урамсемшӗн/урам<n><pl><ter>/ура<n><px1sg><pl><ter>$
+[/SnHEvDRZcxbq]
+[SoQsEFW7U_JL#0] ^Сашӑмӑн/Саша<np><ant><f><px1sg><gen>/Саша<np><ant><m><px1sg><gen>$
+[/SoQsEFW7U_JL]
+[SsRRq_XkSXY2#0] ^шӑшийӗве/*шӑшийӗве$
+[/SsRRq_XkSXY2]
+[Ss_7YroUBxm9#0] ^пуртӑра/пуртӑ<n><loc>$
+[/Ss_7YroUBxm9]
+[StRSzajGR7hx#0] ^класӑмӑрӑн/класс<n><px1pl><gen>$
+[/StRSzajGR7hx]
+[Svu2BfBXnhmc#0] ^супӑнь/супӑнь<n><attr>/супӑнь<n><nom>$
+[/Svu2BfBXnhmc]
+[T0VZuVwV7fhG#0] ^июнӗн/июнь<n><gen>/июнь<n><px3sp><gen>$
+[/T0VZuVwV7fhG]
+[T2wWtz_r-xmy#0] ^кӳлӗсене/кӳлӗ<n><pl><dat>$
+[/T2wWtz_r-xmy]
+[T5JbUA72YA7-#0] ^кроликун/кролик<n><px2sg><gen>$
+[/T5JbUA72YA7-]
+[T7tgQnUWrqWC#0] ^музейӗме/музей<n><px1sg><dat>$
+[/T7tgQnUWrqWC]
+[TD7qTF_W4Y4i#0] ^пулӑшӑн/пулӑш<v><iv><fut><p2><sg>/пулӑш<v><iv><pres><p2><sg>/пулӑш<v><tv><fut><p2><sg>/пулӑш<v><tv><pres><p2><sg>/пулӑ<n><ter>/пул<v><iv><coop><fut><p2><sg>/пул<v><iv><coop><pres><p2><sg>$
+[/TD7qTF_W4Y4i]
+[TDfnpVThmVol#0] ^делосемсӗр/*делосемсӗр$
+[/TDfnpVThmVol]
+[TEF-Ww_RTkhK#0] ^июльсӗр/июль<n>+сӑр<post>$
+[/TEF-Ww_RTkhK]
+[TGSO_onRWZ8y#0] ^училищине/училище<n><px3sp><dat>$
+[/TGSO_onRWZ8y]
+[TKLC8dkrmvm8#0] ^хӗвелшӗн/хӗвел<adj><subst><ter>/хӗвел<n><ter>$
+[/TKLC8dkrmvm8]
+[TTEDBFRPqKmL#0] ^пуллӑра/пулӑ<n><px2pl><dat>$
+[/TTEDBFRPqKmL]
+[TTmWERKDMSIZ#0] ^влаҫсемсӗр/власть<n><pl>+сӑр<post>$
+[/TTmWERKDMSIZ]
+[TX9azGzy_nMi#0] ^пурттӑрӑн/пуртӑ<n><px2pl><gen>$
+[/TX9azGzy_nMi]
+[TXZNr4s7rE3q#0] ^тетрадьсемсӗр/тетрадь<n><pl>+сӑр<post>$
+[/TXZNr4s7rE3q]
+[T_pHOjPMGftm#0] ^урамӗ/урам<n><px3sp><nom>$
+[/T_pHOjPMGftm]
+[TaXJGj5AvIip#0] ^хурҫун/хурҫӑ<n><px2sg><gen>$
+[/TaXJGj5AvIip]
+[Tb5i5WHGvb5f#0] ^хӗвелсемшӗн/хӗвел<adj><subst><pl><ter>/хӗвел<n><pl><ter>$
+[/Tb5i5WHGvb5f]
+[TbfHtJlB5tM2#0] ^власть/власть<n><attr>/власть<n><nom>$
+[/TbfHtJlB5tM2]
+[TdHUTLAfLKxB#0] ^стену/стена<n><px2sg><nom>$
+[/TdHUTLAfLKxB]
+[TgBgDOT2uxwf#0] ^проспектсемсӗр/проспект<n><pl>+сӑр<post>$
+[/TgBgDOT2uxwf]
+[TkIFe3yPiM_n#0] ^йӗппӗре/*йӗппӗре$
+[/TkIFe3yPiM_n]
+[TkmA0bvLI5vy#0] ^влаҫӑм/власть<n><px1sg><nom>$
+[/TkmA0bvLI5vy]
+[TmiZKt_HnCkZ#0] ^июне/июнь<n><dat>$
+[/TmiZKt_HnCkZ]
+[TowdKfTZI0o0#0] ^автобусӑр/автобус<n><px2pl><nom>$
+[/TowdKfTZI0o0]
+[ToyxFJJg_kmb#0] ^аллея/аллея<n><attr>/аллея<n><nom>$
+[/ToyxFJJg_kmb]
+[TrCZ1zGBBg4_#0] ^автанне/автан<n><px3sp><dat>$
+[/TrCZ1zGBBg4_]
+[Ts3pyST0_KFA#0] ^Порттӑрӑн/*Порттӑрӑн$
+[/Ts3pyST0_KFA]
+[Ttmu2fNk4HXh#0] ^пӗвӗмӗр/пӳ<n><px1pl><nom>$
+[/Ttmu2fNk4HXh]
+[TvsTk3LRFBtb#0] ^няни/няня<n><px3sp><nom>$
+[/TvsTk3LRFBtb]
+[TwdtXYOcK7yj#0] ^стихимӗрӗн/*стихимӗрӗн$
+[/TwdtXYOcK7yj]
+[U0c1c3Bo1h_3#0] ^ҫуртӑн/ҫурт<n><gen>/ҫур<v><iv><past><p2><sg>/ҫур<v><tv><past><p2><sg>$
+[/U0c1c3Bo1h_3]
+[U4e0PTa1fNpw#0] ^стенана/стена<n><dat>$
+[/U4e0PTa1fNpw]
+[U4t8axc1a5UO#0] ^вӑйӑран/вӑйӑ<n><abl>$
+[/U4t8axc1a5UO]
+[U6G7pGY4QmsU#0] ^музейсен/музей<n><pl><gen>$
+[/U6G7pGY4QmsU]
+[U8A5_O4g_VS3#0] ^лашасенче/лаша<n><pl><loc>$
+[/U8A5_O4g_VS3]
+[U8zAwHh8wJh-#0] ^музейӗн/музей<n><gen>/музей<n><px3sp><gen>$
+[/U8zAwHh8wJh-]
+[UAVcpSyNLKqe#0] ^Ивановскаяран/*Ивановскаяран$
+[/UAVcpSyNLKqe]
+[UBOE_Ut-DYNE#0] ^влаҫна/власть<n><px2sg><dat>$
+[/UBOE_Ut-DYNE]
+[UERccXz77kj0#0] ^училище/училище<n><attr>/училище<n><nom>$
+[/UERccXz77kj0]
+[UFsD4_ETIl2d#0] ^автобуса/автобус<n><dat>$
+[/UFsD4_ETIl2d]
+[UH2_3ZYgsc36#0] ^класран/класс<n><abl>$
+[/UH2_3ZYgsc36]
+[UHKnfdw0fSRw#0] ^вӑйӑсӑр/вӑй<v><iv><opt><p2><pl>/вӑй<v><tv><opt><p2><pl>/вӑйӑ<n>+сӑр<post>$
+[/UHKnfdw0fSRw]
+[UIaOzklcDgyA#0] ^тӑвӑм/ту<n><px1sg><nom>/тӑвӑм<n><attr>/тӑвӑм<n><nom>$
+[/UIaOzklcDgyA]
+[UL0UP7hjWS-_#0] ^йӗпсемшӗн/йӗпсе<n><px1sg><ter>/йӗп<n><pl><ter>$
+[/UL0UP7hjWS-_]
+[URaFqcc4R2CU#0] ^Золотницкийӗрӗн/Золотницкий<np><cog><m><px2pl><gen>$
+[/URaFqcc4R2CU]
+[UU3CKg8_QTWd#0] ^чӗрӗп/чӗрӗп<n><attr>/чӗрӗп<n><nom>/чӗр<v><iv><fut><p1><sg>/чӗр<v><tv><fut><p1><sg>$
+[/UU3CKg8_QTWd]
+[UWXnWV2ISKgt#0] ^информацийӗве/*информацийӗве$
+[/UWXnWV2ISKgt]
+[UXq4vGnzrdQC#0] ^хӗвелӗмӗрӗн/хӗвел<adj><subst><px1pl><gen>/хӗвел<n><px1pl><gen>$
+[/UXq4vGnzrdQC]
+[Uaxt8J_ZGySK#0] ^супӑньсене/супӑнь<n><pl><dat>$
+[/Uaxt8J_ZGySK]
+[Uc3MuCNtifMt#0] ^класс/класс<n><attr>/класс<n><nom>$
+[/Uc3MuCNtifMt]
+[UcFtxSKANIgr#0] ^склачӗ/склад<n><px3sp><nom>$
+[/UcFtxSKANIgr]
+[UeD9z7TIZXLC#0] ^кенгурусенчен/кенгуру<n><pl><abl>/кенгуру<n><px2sg><pl><abl>$
+[/UeD9z7TIZXLC]
+[UffrbZ72aJ70#0] ^ҫуртӑмӑра/ҫурт<n><px1pl><dat>$
+[/UffrbZ72aJ70]
+[Ug--N5JpMYZa#0] ^тухьямӑрӑн/тухья<n><px1pl><gen>$
+[/Ug--N5JpMYZa]
+[UgVI3PMvmtEg#0] ^тетрадьшӗн/тетрадь<n><ter>$
+[/UgVI3PMvmtEg]
+[UlHMkm20zl8B#0] ^платйӗсене/платье<n><pl><dat>$
+[/UlHMkm20zl8B]
+[UlrIz76UNVlD#0] ^вӑкӑрта/вӑкӑр<n><loc>$
+[/UlrIz76UNVlD]
+[UlrTOIw74OEd#0] ^тусемсӗр/ту<adj><subst><pl>+сӑр<post>/ту<adj><subst><px2sg><pl>+сӑр<post>/ту<n><pl>+сӑр<post>$
+[/UlrTOIw74OEd]
+[UosI3axwjI5Z#0] ^пуллин/пулле<n><px3sp><gen>/пулӑ<n><px3sp><gen>/пулӗ<adj>+и<subst><gen>/пулӗ<adj><subst><px3sp><gen>$
+[/UosI3axwjI5Z]
+[UsQhtO1v9VDF#0] ^кӳлӗсенче/кӳлӗ<n><pl><loc>$
+[/UsQhtO1v9VDF]
+[UvMMvMZsDfrz#0] ^автобуссенче/автобус<n><pl><loc>$
+[/UvMMvMZsDfrz]
+[V-TuetvefbqA#0] ^тимӗрҫӗсемсӗр/тимӗрҫӗ<n><pl>+сӑр<post>$
+[/V-TuetvefbqA]
+[V1D3tXPWOoqw#0] ^литературӑшӑн/литература<n><ter>$
+[/V1D3tXPWOoqw]
+[V1y08gTw4HMo#0] ^ҫурт/ҫурт<n><attr>/ҫурт<n><nom>$
+[/V1y08gTw4HMo]
+[V4lot2utKsoF#0] ^кӗнеке/кӗнеке<n><attr>/кӗнеке<n><nom>$
+[/V4lot2utKsoF]
+[V4zPfss2tPR5#0] ^пальтосенче/пальто<n><pl><loc>$
+[/V4zPfss2tPR5]
+[V543HmXsfQeT#0] ^тухьясен/тухья<n><pl><gen>$
+[/V543HmXsfQeT]
+[V5o8eviAaVc7#0] ^кроликсемшӗн/кролик<n><pl><ter>$
+[/V5o8eviAaVc7]
+[V6-zjTONvatC#0] ^уйсен/уй<adj><subst><pl><gen>/уй<n><pl><gen>$
+[/V6-zjTONvatC]
+[V7rMpK32TSym#0] ^урамӑмӑрӑн/урам<n><px1pl><gen>$
+[/V7rMpK32TSym]
+[V8Kfr3vMcvAw#0] ^кӗсьесемпе/кӗсье<n><pl><ins>$
+[/V8Kfr3vMcvAw]
+[VBorj5u-MQKP#0] ^лашапа/лаша<n><ins>$
+[/VBorj5u-MQKP]
+[VDdq82ceh6pk#0] ^хӗвелӗмӗн/хӗвел<adj><subst><px1sg><gen>/хӗвел<n><px1sg><gen>$
+[/VDdq82ceh6pk]
+[VHCkl6zxDps5#0] ^музейре/музей<n><loc>$
+[/VHCkl6zxDps5]
+[VI9KTpNPjqOD#0] ^лашаран/лаша<n><abl>$
+[/VI9KTpNPjqOD]
+[VKMUkd2SSOxk#0] ^вӑйӑсемшӗн/вӑйӑ<n><pl><ter>$
+[/VKMUkd2SSOxk]
+[VMWCAnovYJWm#0] ^Сашӑма/Саша<np><ant><f><px1sg><dat>/Саша<np><ant><m><px1sg><dat>$
+[/VMWCAnovYJWm]
+[VOrX6TWDBSEq#0] ^сӑвӑсем/сӑвӑ<n><pl><nom>$
+[/VOrX6TWDBSEq]
+[VRMUkkMAg4h9#0] ^чейсӗр/чей<n>+сӑр<post>$
+[/VRMUkkMAg4h9]
+[VSFPBlsvbi4T#0] ^кӳлли/кӳлӗ<n><px3sp><nom>$
+[/VSFPBlsvbi4T]
+[VSQ3vVVQIA_l#0] ^лашара/лаша<n><loc>$
+[/VSQ3vVVQIA_l]
+[VW58AY5Oi_rL#0] ^пӗвӗре/пӗве<n><px2pl><dat>/пӗвӗ<n><loc>/пӳ<n><px2pl><dat>$
+[/VW58AY5Oi_rL]
+[VXSwbIkPdFYh#0] ^Золотницкисемсӗр/Золотницкий<np><cog><m><pl>+сӑр<post>$
+[/VXSwbIkPdFYh]
+[VY2ARL-Kjd1z#0] ^Портура/*Портура$
+[/VY2ARL-Kjd1z]
+[VYdOfvsFnyMg#0] ^класне/класс<n><px3sp><dat>$
+[/VYdOfvsFnyMg]
+[VdggeDll8Q9G#0] ^уйсемпе/уй<adj><subst><pl><ins>/уй<n><pl><ins>$
+[/VdggeDll8Q9G]
+[VeZKYzXqtphV#0] ^чиккӳне/чикӗ<n><px2sg><dat>$
+[/VeZKYzXqtphV]
+[VfhtNImJUZVE#0] ^метална/металл<n><px2sg><dat>$
+[/VfhtNImJUZVE]
+[Vj3ns2DdEqPp#0] ^платйин/платье<n><px3sp><gen>$
+[/Vj3ns2DdEqPp]
+[Vr0i8xsNOtxH#0] ^июньсем/июнь<n><pl><nom>$
+[/Vr0i8xsNOtxH]
+[VrLsVAbCYsTv#0] ^тухью/тухья<n><px2sg><nom>$
+[/VrLsVAbCYsTv]
+[VreTURsbK4fa#0] ^ӗҫӗмӗрӗн/ӗҫ<n><px1pl><gen>$
+[/VreTURsbK4fa]
+[VuOOBfZ_eOZn#0] ^пулӑсӑр/пул<v><iv><opt><p2><pl>/пулӑ<n>+сӑр<post>$
+[/VuOOBfZ_eOZn]
+[VwRt2Me1kYWC#0] ^уйӗ/уй<adj>+и<subst><nom>/уй<adj><subst><px3sp><nom>/уй<n><px3sp><nom>$
+[/VwRt2Me1kYWC]
+[Vwqp4V_7MV6J#0] ^чейсемсӗр/чей<n><pl>+сӑр<post>$
+[/Vwqp4V_7MV6J]
+[W1btHqNQHwq7#0] ^делом/*делом$
+[/W1btHqNQHwq7]
+[W3Z9hcNbM5zr#0] ^кроликне/кролик<n><px3sp><dat>$
+[/W3Z9hcNbM5zr]
+[W3gxDiySgS3U#0] ^пуллине/пулле<n><px3sp><dat>/пулӑ<n><px3sp><dat>/пулӗ<adj>+и<subst><dat>/пулӗ<adj><subst><px3sp><dat>$
+[/W3gxDiySgS3U]
+[W4kegVc6ZX2d#0] ^Золотницкийи/*Золотницкийи$
+[/W4kegVc6ZX2d]
+[W4o-gciWPpmq#0] ^влаҫӗ/власть<n><px3sp><nom>$
+[/W4o-gciWPpmq]
+[W6p3lsk0trfk#0] ^вӑйӑра/вӑйӑ<n><loc>/вӑй<adj><subst><px2pl><dat>/вӑй<n><px2pl><dat>$
+[/W6p3lsk0trfk]
+[WFY17ojQLWoJ#0] ^Сашӑсемсӗр/Саша<np><ant><f><pl>+сӑр<post>/Саша<np><ant><m><pl>+сӑр<post>$
+[/WFY17ojQLWoJ]
+[WGeH3jclZ7Mc#0] ^тимӗрҫӗмӗрӗн/тимӗрҫӗ<n><px1pl><gen>$
+[/WGeH3jclZ7Mc]
+[WKZHG1U-KZz4#0] ^автансенче/автан<n><pl><loc>$
+[/WKZHG1U-KZz4]
+[WQ4GER9sCUY_#0] ^платйӗрӗн/платье<n><px2pl><gen>$
+[/WQ4GER9sCUY_]
+[WU2CuqvI_ewX#0] ^кенгурумӑр/кенгуру<n><px1pl><nom>$
+[/WU2CuqvI_ewX]
+[WUbS_fjn-JM3#0] ^хӗвелсем/хӗвел<adj><subst><pl><nom>/хӗвел<n><pl><nom>$
+[/WUbS_fjn-JM3]
+[WWXUlthK5lyW#0] ^июлӗрӗн/июль<n><px2pl><gen>$
+[/WWXUlthK5lyW]
+[WXBbGvCCOi_t#0] ^хурҫӑсенчен/хурҫӑ<n><pl><abl>$
+[/WXBbGvCCOi_t]
+[WbQGILKj5Lew#0] ^тенкин/тенкӗ<n><px3sp><gen>$
+[/WbQGILKj5Lew]
+[WcfBcAQ-lwtx#0] ^деломӑра/*деломӑра$
+[/WcfBcAQ-lwtx]
+[Wcr_c0CnXL2t#0] ^шӑшийӗн/шӑши<n><px3sp><gen>$
+[/Wcr_c0CnXL2t]
+[Wgo8u7NCGmGV#0] ^менюра/меню<n><loc>$
+[/Wgo8u7NCGmGV]
+[Wmi8CpKH8qSb#0] ^вӑйӑсенче/вӑйӑ<n><pl><loc>$
+[/Wmi8CpKH8qSb]
+[Wn9uPk8odVid#0] ^стенасемпе/стена<n><pl><ins>$
+[/Wn9uPk8odVid]
+[WnQ8HUSU-s97#0] ^няньӑсенчен/няня<n><pl><abl>$
+[/WnQ8HUSU-s97]
+[WtCEE4aoQ_p6#0] ^платйӗсӗр/платье<n>+сӑр<post>$
+[/WtCEE4aoQ_p6]
+[WuAqBWVCDjIx#0] ^автобусӑмӑн/автобус<n><px1sg><gen>$
+[/WuAqBWVCDjIx]
+[WvMbzt0TPGuo#0] ^кӳллӗмӗре/кӳлӗ<n><px1pl><dat>$
+[/WvMbzt0TPGuo]
+[WwuJbYcMJ4Ks#0] ^литературӑсенчен/литература<n><pl><abl>$
+[/WwuJbYcMJ4Ks]
+[Wwy0xGHz8Gly#0] ^пулӑпа/пулӑ<n><ins>$
+[/Wwy0xGHz8Gly]
+[X-gt6QGY0Y-9#0] ^кӳллӳне/кӳлӗ<n><px2sg><dat>$
+[/X-gt6QGY0Y-9]
+[X3jW-xB2RN0r#0] ^делон/*делон$
+[/X3jW-xB2RN0r]
+[X7AD06K4KSwv#0] ^супӑнӗр/супӑнь<n><px2pl><nom>$
+[/X7AD06K4KSwv]
+[X7kzxyelFnsI#0] ^сарайӗн/сарай<n><px3sp><gen>$
+[/X7kzxyelFnsI]
+[X8oZR4I5xVGj#0] ^тухйӑрӑн/тухья<n><px2pl><gen>$
+[/X8oZR4I5xVGj]
+[XCGNfDgky_qe#0] ^училищӗпе/училище<n><ins>$
+[/XCGNfDgky_qe]
+[XDood7BiJw-c#0] ^ҫыннӑмӑра/ҫын<n><px1pl><dat>$
+[/XDood7BiJw-c]
+[XJdsWSAdZyUE#0] ^шоссешӗн/шоссе<n><ter>$
+[/XJdsWSAdZyUE]
+[XK-6rcl6tB6D#0] ^тенкӗр/тенкӗ<n><px2pl><nom>$
+[/XK-6rcl6tB6D]
+[XKgNBr79ErF0#0] ^кинома/кино<n><px1sg><dat>$
+[/XKgNBr79ErF0]
+[XMZ1FDnPavuH#0] ^кроликӑр/кролик<n><px2pl><nom>$
+[/XMZ1FDnPavuH]
+[XNgaS7qqfYf3#0] ^чейӗмӗре/чей<n><px1pl><dat>$
+[/XNgaS7qqfYf3]
+[XNkuZrHjmqmi#0] ^супӑньре/супӑнь<n><loc>$
+[/XNkuZrHjmqmi]
+[XQJ7WM-JcSy4#0] ^платйӗм/*платйӗм$
+[/XQJ7WM-JcSy4]
+[XRSRGACszjg5#0] ^литературӑсемпе/литература<n><pl><ins>$
+[/XRSRGACszjg5]
+[XSviZmE7zT4V#0] ^пуллӑма/пулӑ<n><px1sg><dat>/пулӗ<adj><subst><px1sg><dat>$
+[/XSviZmE7zT4V]
+[XV_fd9WVP75W#0] ^лашасӑр/лаша<n>+сӑр<post>$
+[/XV_fd9WVP75W]
+[X_QKYCOuWQEc#0] ^чӗрӗпӗм/чӗрӗп<n><px1sg><nom>$
+[/X_QKYCOuWQEc]
+[Xa9PMBeuhB5I#0] ^супӑнӗм/супӑнь<n><px1sg><nom>$
+[/Xa9PMBeuhB5I]
+[XaQwqNvSOBUf#0] ^музейӗмӗр/музей<n><px1pl><nom>$
+[/XaQwqNvSOBUf]
+[XcTrjLKpoa35#0] ^пуртӑ/пуртӑ<n><attr>/пуртӑ<n><nom>$
+[/XcTrjLKpoa35]
+[XeAze_pGW-rK#0] ^Саша/Саша<np><ant><f><nom>/Саша<np><ant><m><nom>$
+[/XeAze_pGW-rK]
+[XglkwKoEplHv#0] ^Сашуна/Саша<np><ant><f><px2sg><dat>/Саша<np><ant><m><px2sg><dat>$
+[/XglkwKoEplHv]
+[XhS_W52zLKeE#0] ^сарайӑмӑра/сарай<n><px1pl><dat>$
+[/XhS_W52zLKeE]
+[Xj-u1CWj4CVC#0] ^тимӗрҫӗшӗн/тимӗрҫӗ<n><ter>$
+[/Xj-u1CWj4CVC]
+[XkRtKMacSh6s#0] ^стихисемсӗр/стихи<n><pl>+сӑр<post>$
+[/XkRtKMacSh6s]
+[Xkxq4n02LjKU#0] ^Бакун/бак<n><px2sg><gen>$
+[/Xkxq4n02LjKU]
+[XnxMpyYbrSly#0] ^хӗвелсӗр/хӗвел<adj><subst>+сӑр<post>/хӗвел<n>+сӑр<post>$
+[/XnxMpyYbrSly]
+[XpkGCRJL_FIG#0] ^кофӗсемсӗр/кофе<n><pl>+сӑр<post>$
+[/XpkGCRJL_FIG]
+[XqVtq_YJwA-a#0] ^няньӑмӑн/няня<n><px1sg><gen>$
+[/XqVtq_YJwA-a]
+[XqsyUJj6nCvW#0] ^информацийӗре/информаци<n><px2pl><dat>$
+[/XqsyUJj6nCvW]
+[XwF59G9GJR_q#0] ^складӑма/склад<n><px1sg><dat>$
+[/XwF59G9GJR_q]
+[XwqZQ8qxD68P#0] ^информацийӗме/информаци<n><px1sg><dat>$
+[/XwqZQ8qxD68P]
+[XxrqhCCleDjD#0] ^платйӗме/*платйӗме$
+[/XxrqhCCleDjD]
+[XzVvgzsWbyF7#0] ^кукӑльсемшӗн/кукӑль<n><pl><ter>$
+[/XzVvgzsWbyF7]
+[Y1Z4I0FNacGm#0] ^Бакувӑмӑн/*Бакувӑмӑн$
+[/Y1Z4I0FNacGm]
+[Y3jRXNM3JojC#0] ^чӗрӗпӗве/*чӗрӗпӗве$
+[/Y3jRXNM3JojC]
+[Y5Vw4uMMaREV#0] ^шӑшийӳн/шӑши<n><px2sg><gen>$
+[/Y5Vw4uMMaREV]
+[Y5cp2_x4H-NZ#0] ^пальтосене/пальто<n><pl><dat>$
+[/Y5cp2_x4H-NZ]
+[Y9qxCus_Zk29#0] ^июлӗмӗре/июль<n><px1pl><dat>$
+[/Y9qxCus_Zk29]
+[YACCfm5jwGGJ#0] ^тухьяшӑн/тухья<n><ter>$
+[/YACCfm5jwGGJ]
+[YAf6GUPJf1qt#0] ^тӑвне/ту<n><px3sp><dat>$
+[/YAf6GUPJf1qt]
+[YBB56YGtMmjs#0] ^Бакувӗ/*Бакувӗ$
+[/YBB56YGtMmjs]
+[YC_sIwMgFLQl#0] ^супӑнӗрӗн/супӑнь<n><px2pl><gen>$
+[/YC_sIwMgFLQl]
+[YEV9l8UTHdU8#0] ^автансемпе/автан<n><pl><ins>$
+[/YEV9l8UTHdU8]
+[YLjQcmnDL1OC#0] ^пӳрен/пӳрен<n><attr>/пӳрен<n><nom>/пӳре<n><gen>/пӳ<n><abl>$
+[/YLjQcmnDL1OC]
+[YNj8zMKVzqSN#0] ^Сашун/Саша<np><ant><f><px2sg><gen>/Саша<np><ant><m><px2sg><gen>$
+[/YNj8zMKVzqSN]
+[YPD_X-vxLSJE#0] ^влаҫӑма/власть<n><px1sg><dat>$
+[/YPD_X-vxLSJE]
+[YQUkh1o4WYxj#0] ^хӑйӑвӗ/хӑю<n><px3sp><nom>$
+[/YQUkh1o4WYxj]
+[YV6rem3iZIOb#0] ^пальтомӑн/пальто<n><px1sg><gen>$
+[/YV6rem3iZIOb]
+[YVP0im-3sU6d#0] ^чейне/чей<n><px3sp><dat>$
+[/YVP0im-3sU6d]
+[YWehemRciavJ#0] ^июльсем/июль<n><pl><nom>$
+[/YWehemRciavJ]
+[YX-5UoeDpBPf#0] ^чейӗмӗр/чей<n><px1pl><nom>$
+[/YX-5UoeDpBPf]
+[Y_NAnlmmppBw#0] ^тӑвӑр/ту<n><px2pl><nom>/ту<v><tv><fut><p2><pl>/ту<v><tv><imp><p2><pl>/тӑвӑр<adj>/тӑвӑр<adj><subst><nom>/тӑвӑр<adv>$
+[/Y_NAnlmmppBw]
+[YadkP5VEgnF_#0] ^хӗвелрен/*хӗвелрен$
+[/YadkP5VEgnF_]
+[YcFv27mSQhqU#0] ^тенки/тенкӗ<n><px3sp><nom>$
+[/YcFv27mSQhqU]
+[Yi7ozghsBJH8#0] ^влаҫӑрӑн/власть<n><px2pl><gen>$
+[/Yi7ozghsBJH8]
+[YieFu8XNo9RN#0] ^сарайшӑн/сарай<n><ter>$
+[/YieFu8XNo9RN]
+[Ykzeut0t8Jpv#0] ^училищӳ/училище<n><px2sg><nom>$
+[/Ykzeut0t8Jpv]
+[YpGsR54DprUB#0] ^сарай/сарай<n><attr>/сарай<n><nom>/сар<v><iv><abil><imp><p2><sg>/сар<v><tv><abil><imp><p2><sg>$
+[/YpGsR54DprUB]
+[Yr2TR1sqDCpy#0] ^аллейӑмӑра/аллея<n><px1pl><dat>$
+[/Yr2TR1sqDCpy]
+[Yrw49b3eNQCR#0] ^урамсемпе/урам<n><pl><ins>/ура<n><px1sg><pl><ins>$
+[/Yrw49b3eNQCR]
+[Yv-x0A53An5s#0] ^музейӗре/музей<n><px2pl><dat>$
+[/Yv-x0A53An5s]
+[Yzt1LNbR-lEh#0] ^вӑкӑрсене/вӑкӑр<n><pl><dat>$
+[/Yzt1LNbR-lEh]
+[YztBsfxTNvTb#0] ^хӑюшӑн/хӑю<adj><subst><px2sg><ter>/хӑю<adj><subst><ter>/хӑю<n><ter>$
+[/YztBsfxTNvTb]
+[YzxcTsS1XZQ4#0] ^кӳллӗм/кӳлӗ<n><px1sg><nom>$
+[/YzxcTsS1XZQ4]
+[Z3CPAigR1tc-#0] ^хӗвелӗм/хӗвел<adj><subst><px1sg><nom>/хӗвел<n><px1sg><nom>$
+[/Z3CPAigR1tc-]
+[Z9U-kxJM-C6C#0] ^чиккӗмӗре/чикӗ<n><px1pl><dat>$
+[/Z9U-kxJM-C6C]
+[ZACqXH1c8A_e#0] ^пӗвӗр/пӗве<n><px2pl><nom>/пӳ<n><px2pl><nom>$
+[/ZACqXH1c8A_e]
+[ZBerF97ZP5Yy#0] ^Сашӑмӑрӑн/Саша<np><ant><f><px1pl><gen>/Саша<np><ant><m><px1pl><gen>$
+[/ZBerF97ZP5Yy]
+[ZD_vEkt2tGHx#0] ^тимӗрҫӗсемпе/тимӗрҫӗ<n><pl><ins>$
+[/ZD_vEkt2tGHx]
+[ZEqITgLCCXsQ#0] ^кӗсйи/кӗсье<n><px3sp><nom>$
+[/ZEqITgLCCXsQ]
+[ZGdN8XUfS7Zm#0] ^каҫмасемшӗн/каҫма<n><pl><ter>$
+[/ZGdN8XUfS7Zm]
+[ZIhjit97cAje#0] ^киносӑр/кино<n>+сӑр<post>$
+[/ZIhjit97cAje]
+[ZIxvsqx-o_Z5#0] ^Порттин/*Порттин$
+[/ZIxvsqx-o_Z5]
+[ZJ8eGvmBAomT#0] ^сарайсенчен/сарай<n><pl><abl>$
+[/ZJ8eGvmBAomT]
+[ZJA2TpacdfRG#0] ^тухйине/тухья<n><px3sp><dat>$
+[/ZJA2TpacdfRG]
+[ZJdRJeMkvJhw#0] ^чӗрӗпсене/чӗрӗп<n><pl><dat>$
+[/ZJdRJeMkvJhw]
+[ZKrvkkxX3HRG#0] ^йӗппӗр/*йӗппӗр$
+[/ZKrvkkxX3HRG]
+[ZKwTN583xmzb#0] ^урамун/урам<n><px2sg><gen>$
+[/ZKwTN583xmzb]
+[ZM_Fw57ynfgq#0] ^сӑввуна/сӑвӑ<n><px2sg><dat>$
+[/ZM_Fw57ynfgq]
+[ZMj8SSlnkhs9#0] ^хӑюсӑр/хӑюсӑр<adj>/хӑюсӑр<adj><subst><nom>/хӑю<adj><subst>+сӑр<post>/хӑю<adj><subst><px2sg>+сӑр<post>/хӑю<n>+сӑр<post>$
+[/ZMj8SSlnkhs9]
+[ZR3UcDQOUtqM#0] ^супӑньсенче/супӑнь<n><pl><loc>$
+[/ZR3UcDQOUtqM]
+[ZRUzG8sLb49z#0] ^йӗппӗрӗн/*йӗппӗрӗн$
+[/ZRUzG8sLb49z]
+[ZUSPRVyg_GgJ#0] ^хурҫине/хурҫӑ<n><px3sp><dat>$
+[/ZUSPRVyg_GgJ]
+[ZW2JtJuzcZ6e#0] ^кенгурун/кенгуру<n><gen>/кенгуру<n><px2sg><gen>$
+[/ZW2JtJuzcZ6e]
+[ZZdWSrFclFy0#0] ^шоссерен/шоссе<n><abl>$
+[/ZZdWSrFclFy0]
+[Zb0b4WYj_ASK#0] ^информацисенчен/информаци<n><pl><abl>$
+[/Zb0b4WYj_ASK]
+[ZgUe_wii5jql#0] ^июльшӗн/июль<n><ter>$
+[/ZgUe_wii5jql]
+[Zj9Z2OlANhaf#0] ^ҫынсемшӗн/ҫын<n><pl><ter>$
+[/Zj9Z2OlANhaf]
+[ZjRFMcl2nr-b#0] ^ӗҫпе/ӗҫ<n><ins>$
+[/ZjRFMcl2nr-b]
+[ZneOMFwfko1X#0] ^ҫыннун/ҫын<n><px2sg><gen>$
+[/ZneOMFwfko1X]
+[ZnwlnPMJO-FD#0] ^проспектун/проспект<n><px2sg><gen>$
+[/ZnwlnPMJO-FD]
+[Zp43hLnc3TdH#0] ^пуртӑсене/пуртӑ<n><pl><dat>$
+[/Zp43hLnc3TdH]
+[Zq_NcrYno17Z#0] ^музейӗ/музей<n><px3sp><nom>$
+[/Zq_NcrYno17Z]
+[Zt_ZcNiQW4wU#0] ^ҫыннӑмӑр/ҫын<n><px1pl><nom>$
+[/Zt_ZcNiQW4wU]
+[ZvyIF1_-FhMe#0] ^каҫмана/каҫма<n><dat>/каҫ<v><iv><neg><ger_past>/каҫ<v><iv><neg><gpr_pres><subst><dat>/каҫ<v><tv><neg><ger_past>/каҫ<v><tv><neg><gpr_pres><subst><dat>$
+[/ZvyIF1_-FhMe]
+[Zx2AM7sMUfB_#0] ^шоссӳн/шоссе<n><px2sg><gen>$
+[/Zx2AM7sMUfB_]
+[ZxJvjq6CFNDq#0] ^пулла/пулӑ<n><dat>/пулӗ<adj><subst><dat>$
+[/ZxJvjq6CFNDq]
+[ZykZ0nfNr4GM#0] ^кӗсьесемшӗн/кӗсье<n><pl><ter>$
+[/ZykZ0nfNr4GM]
+[_0FannYb-eLZ#0] ^ӗҫ/ӗҫ<n><attr>/ӗҫ<n><nom>/ӗҫ<v><iv><imp><p2><sg>/ӗҫ<v><tv><imp><p2><sg>$
+[/_0FannYb-eLZ]
+[_3Moa64C3uVq#0] ^пуллӑмӑн/пулӑ<n><px1sg><gen>/пулӗ<adj><subst><px1sg><gen>$
+[/_3Moa64C3uVq]
+[_4qdOs3txVbd#0] ^складу/склад<n><px2sg><nom>$
+[/_4qdOs3txVbd]
+[_5YHxmhI1aA_#0] ^автанӑн/автан<n><gen>$
+[/_5YHxmhI1aA_]
+[_6xmEv4wL7nO#0] ^металсем/металл<n><pl><nom>$
+[/_6xmEv4wL7nO]
+[_7neFenBhAQl#0] ^супӑньсен/супӑнь<n><pl><gen>$
+[/_7neFenBhAQl]
+[_At3Tzr65bQi#0] ^автансен/автан<n><pl><gen>$
+[/_At3Tzr65bQi]
+[_B2_0oHzInDp#0] ^проспектӑмӑн/проспект<n><px1sg><gen>$
+[/_B2_0oHzInDp]
+[_CAiTP-OfVBU#0] ^Портусӑр/порт<n><px2sg>+сӑр<post>$
+[/_CAiTP-OfVBU]
+[_DA8eplo0rFs#0] ^шӑшисен/шӑши<n><pl><gen>$
+[/_DA8eplo0rFs]
+[_IZ2JJUYkJT4#0] ^кӗсйӳн/кӗсье<n><px2sg><gen>$
+[/_IZ2JJUYkJT4]
+[_JazYSwykmXZ#0] ^ту/ту<adj>/ту<adj><subst><nom>/ту<adj><subst><px2sg><nom>/ту<n><attr>/ту<n><nom>/ту<v><tv><imp><p2><sg>$
+[/_JazYSwykmXZ]
+[_KHJZK7o4Su3#0] ^няня/няня<n><attr>/няня<n><nom>$
+[/_KHJZK7o4Su3]
+[_K_ZEIy-oTN_#0] ^училищӗмӗн/училище<n><px1sg><gen>$
+[/_K_ZEIy-oTN_]
+[_MFEhEQIkpHU#0] ^литературӑм/литература<n><px1sg><nom>$
+[/_MFEhEQIkpHU]
+[_QbQbq5k42Z5#0] ^класӑмӑра/класс<n><px1pl><dat>$
+[/_QbQbq5k42Z5]
+[_Qu1oB5xr7Wv#0] ^шоссин/шоссе<n><px3sp><gen>$
+[/_Qu1oB5xr7Wv]
+[_RoemJMZYpIe#0] ^пальтом/пальто<n><px1sg><nom>$
+[/_RoemJMZYpIe]
+[_S8dvsJJWdG0#0] ^йӗппӗмӗрӗн/*йӗппӗмӗрӗн$
+[/_S8dvsJJWdG0]
+[_Sp2Rt_TqomN#0] ^кино/кино<n><attr>/кино<n><nom>$
+[/_Sp2Rt_TqomN]
+[_UevvHY4b1gP#0] ^Бакуне/*Бакуне$
+[/_UevvHY4b1gP]
+[_VUNvHd_N58f#0] ^Иванову/Иваново<np><top><px2sg><nom>/Иванов<np><cog><f><px2sg><nom>/Иванов<np><cog><m><px2sg><nom>$
+[/_VUNvHd_N58f]
+[_YFYi5c5MoUt#0] ^кофи/кофе<n><px3sp><nom>$
+[/_YFYi5c5MoUt]
+[_YUdOobPPYIh#0] ^влаҫӑмӑн/власть<n><px1sg><gen>$
+[/_YUdOobPPYIh]
+[_YelUBYbMj5z#0] ^училищӗрен/училище<n><abl>$
+[/_YelUBYbMj5z]
+[_eOV_0B7aPmu#0] ^автансемшӗн/автан<n><pl><ter>$
+[/_eOV_0B7aPmu]
+[_hEMhxrAQmY7#0] ^проспектсӑр/проспект<n>+сӑр<post>$
+[/_hEMhxrAQmY7]
+[_jGZdkF-aWi3#0] ^каҫмасен/каҫма<n><pl><gen>$
+[/_jGZdkF-aWi3]
+[_jdeQAuvdewl#0] ^влаҫран/власть<n><abl>$
+[/_jdeQAuvdewl]
+[_l5OP-sFpeUq#0] ^тенкӳ/тенкӗ<n><px2sg><nom>$
+[/_l5OP-sFpeUq]
+[_lLxOCJuIi0H#0] ^июльсене/июль<n><pl><dat>$
+[/_lLxOCJuIi0H]
+[_lN39Tt8rPAe#0] ^вӑйӑшӑн/вӑйӑ<n><ter>/вӑй<v><iv><coop><fut><p2><sg>/вӑй<v><iv><coop><pres><p2><sg>/вӑй<v><tv><coop><fut><p2><sg>/вӑй<v><tv><coop><pres><p2><sg>$
+[/_lN39Tt8rPAe]
+[_pH1xp0lJfJJ#0] ^ҫынну/ҫын<n><px2sg><nom>$
+[/_pH1xp0lJfJJ]
+[_qxVj9FL2nsZ#0] ^кенгурусенче/кенгуру<n><pl><loc>/кенгуру<n><px2sg><pl><loc>$
+[/_qxVj9FL2nsZ]
+[_rY0P1Hx5riR#0] ^музейсемшӗн/музей<n><pl><ter>$
+[/_rY0P1Hx5riR]
+[_r_CFYpftPAP#0] ^чейре/чей<n><loc>$
+[/_r_CFYpftPAP]
+[_tILMqKRa5f_#0] ^чейӗ/чей<n><px3sp><nom>$
+[/_tILMqKRa5f_]
+[_tNPn0P68v8v#0] ^тӑвун/ту<n><px2sg><gen>$
+[/_tNPn0P68v8v]
+[_w1z0r-8HnhD#0] ^ҫуртӑмӑрӑн/ҫурт<n><px1pl><gen>$
+[/_w1z0r-8HnhD]
+[_w7dtxhwsQ2H#0] ^вӑкӑрсемпе/вӑкӑр<n><pl><ins>$
+[/_w7dtxhwsQ2H]
+[_ymAYuGA1A2S#0] ^кӗнекесӗр/кӗнеке<n>+сӑр<post>$
+[/_ymAYuGA1A2S]
+[_yxwSDFXbLH1#0] ^кӳллӗмӗрӗн/кӳлӗ<n><px1pl><gen>$
+[/_yxwSDFXbLH1]
+[a0FYBnEDY5p_#0] ^классен/класс<n><pl><gen>$
+[/a0FYBnEDY5p_]
+[a5IU_PbOkJAV#0] ^чӗрӗпе/чӗрӗп<n><dat>/чӗрӗ<adj><subst><ins>/чӗрӗ<n><ins>/чӗр<adj>+и<subst><ins>/чӗр<adj><subst><px3sp><ins>/чӗр<n><px3sp><ins>$
+[/a5IU_PbOkJAV]
+[a8DscIWOPJWO#0] ^вӑйӑ/вӑйӑ<n><attr>/вӑйӑ<n><nom>$
+[/a8DscIWOPJWO]
+[a8MAVPpbQFWe#0] ^шоссесемпе/шоссе<n><pl><ins>$
+[/a8MAVPpbQFWe]
+[aAAQOdWaiO0l#0] ^кӗсйине/кӗсье<n><px3sp><dat>$
+[/aAAQOdWaiO0l]
+[aDbk-efaa_C7#0] ^сарайсен/сарай<n><pl><gen>$
+[/aDbk-efaa_C7]
+[aLOVleNO_hK6#0] ^информацисем/информаци<n><pl><nom>$
+[/aLOVleNO_hK6]
+[aLy2QQmOcuQL#0] ^уйран/уйран<n><attr>/уйран<n><nom>/уй<adj><subst><abl>/уй<n><abl>$
+[/aLy2QQmOcuQL]
+[aOsuuhsY8RhJ#0] ^ҫыннин/ҫын<n><px3sp><gen>$
+[/aOsuuhsY8RhJ]
+[aQYYQNrqjoOG#0] ^чейӗр/чейӗр<n><attr>/чейӗр<n><nom>/чей<n><px2pl><nom>$
+[/aQYYQNrqjoOG]
+[aTJ9xFvwwhIp#0] ^сӑввӑрӑн/сӑвӑ<n><px2pl><gen>$
+[/aTJ9xFvwwhIp]
+[aTafJWDijejF#0] ^вӑкӑру/вӑкӑр<n><px2sg><nom>$
+[/aTafJWDijejF]
+[aTquIanvFYZI#0] ^кӗсьесем/кӗсье<n><pl><nom>$
+[/aTquIanvFYZI]
+[aXDBaHOXSzfD#0] ^йӗппин/йӗп<n><px3sp><gen>$
+[/aXDBaHOXSzfD]
+[acVnOmF_4NtA#0] ^тенке/тенкӗ<n><dat>$
+[/acVnOmF_4NtA]
+[ah3sAkHgvUlN#0] ^кофӗсен/кофе<n><pl><gen>$
+[/ah3sAkHgvUlN]
+[aiTS3JrE8dmP#0] ^кукӑлӳ/кукӑль<n><px2sg><nom>$
+[/aiTS3JrE8dmP]
+[amlhSxkWcPxL#0] ^чиккӗн/чикӗ<n><gen>$
+[/amlhSxkWcPxL]
+[aozIkWIPHKQ-#0] ^кофӗсенче/кофе<n><pl><loc>$
+[/aozIkWIPHKQ-]
+[apkJ-VPA75sj#0] ^информацийӗрӗн/информаци<n><px2pl><gen>$
+[/apkJ-VPA75sj]
+[argc27SJAdop#0] ^стихисӗр/стихи<n>+сӑр<post>$
+[/argc27SJAdop]
+[aszTdLBEgp9q#0] ^менювӑма/*менювӑма$
+[/aszTdLBEgp9q]
+[axB2Y-To2YG4#0] ^Золотницкисемпе/Золотницкий<np><cog><m><pl><ins>$
+[/axB2Y-To2YG4]
+[ayWvH7VXguC2#0] ^стенамӑрӑн/стена<n><px1pl><gen>$
+[/ayWvH7VXguC2]
+[azhhnSswnB-G#0] ^кӗнекесен/кӗнеке<n><pl><gen>$
+[/azhhnSswnB-G]
+[azsSpNROSLYR#0] ^хурҫӑсене/хурҫӑ<n><pl><dat>$
+[/azsSpNROSLYR]
+[b0-695LpRuq4#0] ^Ивановскайӑра/Ивановский<np><cog><f><loc>/Ивановский<np><cog><f><px2pl><dat>$
+[/b0-695LpRuq4]
+[b011QT-VPVpT#0] ^чӗрӗпӗмӗр/чӗрӗп<n><px1pl><nom>$
+[/b011QT-VPVpT]
+[b0F2jmTX9ViD#0] ^хӑйӑвӑм/хӑю<n><px1sg><nom>$
+[/b0F2jmTX9ViD]
+[b4xYaUepY63i#0] ^ӗҫӗн/ӗҫ<n><gen>/ӗҫ<n><px3sp><gen>/ӗҫ<v><iv><fut><p2><sg>/ӗҫ<v><iv><pres><p2><sg>/ӗҫ<v><tv><fut><p2><sg>/ӗҫ<v><tv><pres><p2><sg>$
+[/b4xYaUepY63i]
+[b6JJRr_H2OKw#0] ^лашамӑр/лаша<n><px1pl><nom>$
+[/b6JJRr_H2OKw]
+[b7FDk9rU4uGp#0] ^вӑкӑрӑрӑн/вӑкӑр<n><px2pl><gen>$
+[/b7FDk9rU4uGp]
+[b8BslacRL14d#0] ^июнӗве/*июнӗве$
+[/b8BslacRL14d]
+[b9EI0CHJsnNv#0] ^шоссепе/шоссе<n><ins>$
+[/b9EI0CHJsnNv]
+[b9FcTN03hZNa#0] ^складсенче/склад<n><pl><loc>$
+[/b9FcTN03hZNa]
+[bBZI6oEU6njM#0] ^кӳлле/кӳлӗ<n><dat>$
+[/bBZI6oEU6njM]
+[bBll6ZAhwkLf#0] ^кенгурӑр/кенгуру<n><px2pl><nom>$
+[/bBll6ZAhwkLf]
+[bHrJ68e7V2We#0] ^каҫмасемсӗр/каҫма<n><pl>+сӑр<post>$
+[/bHrJ68e7V2We]
+[bKdU70QJbbif#0] ^кроликсемсӗр/кролик<n><pl>+сӑр<post>$
+[/bKdU70QJbbif]
+[bRCh9aLH9t3V#0] ^вӑйӑсемпе/вӑйӑ<n><pl><ins>$
+[/bRCh9aLH9t3V]
+[bR_Ry7jen5kW#0] ^литератури/литература<n><px3sp><nom>$
+[/bR_Ry7jen5kW]
+[bT0BbHte6r8k#0] ^тусене/ту<adj><subst><pl><dat>/ту<adj><subst><px2sg><pl><dat>/ту<n><pl><dat>$
+[/bT0BbHte6r8k]
+[bVfcrq0NdgF0#0] ^чӗрӗпсемсӗр/чӗрӗп<n><pl>+сӑр<post>$
+[/bVfcrq0NdgF0]
+[bZlgiViXLzY6#0] ^кофине/кофе<n><px3sp><dat>$
+[/bZlgiViXLzY6]
+[bbTZXDzUKLef#0] ^июньсенчен/июнь<n><pl><abl>$
+[/bbTZXDzUKLef]
+[bbh-eCLTRBpA#0] ^металӑмӑн/металл<n><px1sg><gen>$
+[/bbh-eCLTRBpA]
+[bed5743cDq0N#0] ^июлӗ/июль<n><px3sp><nom>$
+[/bed5743cDq0N]
+[bfV2-vAeB8h0#0] ^аллею/аллея<n><px2sg><nom>$
+[/bfV2-vAeB8h0]
+[bi8rFRpdayG4#0] ^хурҫи/хурҫӑ<n><px3sp><nom>/хур<n>+ҫи<post>$
+[/bi8rFRpdayG4]
+[bkNcl8BrkkXT#0] ^кофӗн/кофе<n><gen>$
+[/bkNcl8BrkkXT]
+[blHRbo0XACCS#0] ^тухьяран/тухья<n><abl>$
+[/blHRbo0XACCS]
+[blPZF6yL3SCr#0] ^Ивановӑмӑр/Иваново<np><top><px1pl><nom>/Иванов<np><cog><f><px1pl><nom>/Иванов<np><cog><m><px1pl><nom>$
+[/blPZF6yL3SCr]
+[bmdqTIuQLU4u#0] ^киновӗне/кино<n><px3sp><dat>$
+[/bmdqTIuQLU4u]
+[bmqZCNfgdxrs#0] ^ҫынсене/ҫын<n><pl><dat>$
+[/bmqZCNfgdxrs]
+[bpW37IAqF3lx#0] ^Бакувӗн/*Бакувӗн$
+[/bpW37IAqF3lx]
+[bskwByp1vj_V#0] ^классемшӗн/класс<n><pl><ter>$
+[/bskwByp1vj_V]
+[bsxhyYSd2KYD#0] ^пуллу/пулӑ<n><px2sg><nom>/пулӗ<adj><subst><px2sg><nom>$
+[/bsxhyYSd2KYD]
+[buryzSxTE7IS#0] ^тетрадьпе/тетрадь<n><ins>$
+[/buryzSxTE7IS]
+[bwUHN5flqPjX#0] ^Бакувӑрӑн/*Бакувӑрӑн$
+[/bwUHN5flqPjX]
+[c-RB0s7LM1JR#0] ^чейсемпе/чей<n><pl><ins>$
+[/c-RB0s7LM1JR]
+[c-xYQlEG0vKJ#0] ^чӗрӗпре/чӗрӗп<n><loc>$
+[/c-xYQlEG0vKJ]
+[c3FYhnevG4D2#0] ^кукӑлӗмӗре/кукӑль<n><px1pl><dat>$
+[/c3FYhnevG4D2]
+[c3T0-B1ETZL7#0] ^делор/*делор$
+[/c3T0-B1ETZL7]
+[c7G62ezBUc_V#0] ^киномӑра/кино<n><px1pl><dat>$
+[/c7G62ezBUc_V]
+[c9edHrkUzyDH#0] ^чикки/чикӗ<n><px3sp><nom>$
+[/c9edHrkUzyDH]
+[cAvJtYZEJZjS#0] ^класа/класс<n><dat>$
+[/cAvJtYZEJZjS]
+[cC3fX0pj425c#0] ^класӑн/класс<n><gen>$
+[/cC3fX0pj425c]
+[cCRV4mQMZhuk#0] ^проспектсем/проспект<n><pl><nom>$
+[/cCRV4mQMZhuk]
+[cCoqtZgzZPPw#0] ^пурттӑмӑр/пуртӑ<n><px1pl><nom>$
+[/cCoqtZgzZPPw]
+[cFVYUnLHGPwi#0] ^кӳллӗме/кӳлӗ<n><px1sg><dat>$
+[/cFVYUnLHGPwi]
+[cGajgfQRVO16#0] ^сӑввине/сӑвӑ<n><px3sp><dat>$
+[/cGajgfQRVO16]
+[cJAFlgUUPKHv#0] ^сӑввӑн/сӑвӑ<n><gen>$
+[/cJAFlgUUPKHv]
+[cK1-Chhlw5Rx#0] ^лашашӑн/лаша<n><ter>$
+[/cK1-Chhlw5Rx]
+[cKYJUkcQ2hyu#0] ^вӑкӑрӑм/вӑкӑр<n><px1sg><nom>$
+[/cKYJUkcQ2hyu]
+[cNcwafr784B2#0] ^йӗпсене/йӗпсе<n><dat>/йӗп<n><pl><dat>/йӗпсе<n><px2sg><dat>$
+[/cNcwafr784B2]
+[cUCbTv2rgZGe#0] ^няню/няня<n><px2sg><nom>$
+[/cUCbTv2rgZGe]
+[cXyU2YFKBxYs#0] ^июлӳн/июль<n><px2sg><gen>$
+[/cXyU2YFKBxYs]
+[cYz3E7KofC55#0] ^супӑнӗмӗр/супӑнь<n><px1pl><nom>$
+[/cYz3E7KofC55]
+[cbvI4rrch6rw#0] ^Ивановӑсене/Иваново<np><top><pl><dat>/Иванов<np><cog><f><pl><dat>$
+[/cbvI4rrch6rw]
+[cfuE348K1Cqq#0] ^пурттӑмӑра/пуртӑ<n><px1pl><dat>$
+[/cfuE348K1Cqq]
+[cgZIfT85L0VD#0] ^каҫмама/каҫма<n><px1sg><dat>/каҫ<v><iv><neg><ger>/каҫ<v><tv><neg><ger>$
+[/cgZIfT85L0VD]
+[ciiNTJu7o3Eg#0] ^Золотницкимӗн/*Золотницкимӗн$
+[/ciiNTJu7o3Eg]
+[clomGn5Bx7_7#0] ^йӗппӗмӗн/*йӗппӗмӗн$
+[/clomGn5Bx7_7]
+[clwRp-E1aWUb#0] ^Ивановӑра/Иваново<np><top><loc>/Иваново<np><top><px2pl><dat>/Иванов<np><cog><f><loc>/Иванов<np><cog><f><px2pl><dat>/Иванов<np><cog><m><px2pl><dat>$
+[/clwRp-E1aWUb]
+[cm6H_n9g3ekp#0] ^хӑйӑвӑмӑрӑн/хӑю<n><px1pl><gen>$
+[/cm6H_n9g3ekp]
+[cm7C_ha-reuw#0] ^кенгурувӗ/*кенгурувӗ$
+[/cm7C_ha-reuw]
+[cmuYeY0HeztN#0] ^чикӗсене/чикӗ<n><pl><dat>$
+[/cmuYeY0HeztN]
+[cnZ_T3vntggF#0] ^пальтошӑн/пальто<n><ter>$
+[/cnZ_T3vntggF]
+[csW1xKMmsamL#0] ^пулӑсемшӗн/пулӑ<n><pl><ter>$
+[/csW1xKMmsamL]
+[cvqtfGsb9RZx#0] ^урамсенче/урам<n><pl><loc>/ура<n><px1sg><pl><loc>$
+[/cvqtfGsb9RZx]
+[d1qvxsyTSfKg#0] ^литературӑмӑрӑн/литература<n><px1pl><gen>$
+[/d1qvxsyTSfKg]
+[d3Ab1CHa8-NF#0] ^урама/урам<n><dat>/ура<n><px1sg><dat>$
+[/d3Ab1CHa8-NF]
+[d3sf0xks12iO#0] ^вӑкӑрӑмӑрӑн/вӑкӑр<n><px1pl><gen>$
+[/d3sf0xks12iO]
+[d51G7EgL2HJl#0] ^кенгурумӑн/кенгуру<n><px1sg><gen>$
+[/d51G7EgL2HJl]
+[d57JMyIqvbtp#0] ^тухьясӑр/тухья<n>+сӑр<post>$
+[/d57JMyIqvbtp]
+[d7h4OvZ2Mtlf#0] ^уй/уй<adj>/уй<adj><subst><nom>/уй<n><attr>/уй<n><nom>$
+[/d7h4OvZ2Mtlf]
+[d9X98nP_glMJ#0] ^музейӗмӗрӗн/музей<n><px1pl><gen>$
+[/d9X98nP_glMJ]
+[dFbZ-PcZTitn#0] ^Ивановӑрӑн/Иваново<np><top><px2pl><gen>/Иванов<np><cog><f><px2pl><gen>/Иванов<np><cog><m><px2pl><gen>$
+[/dFbZ-PcZTitn]
+[dGUuN0Qt6Crq#0] ^июнӗмӗр/июнь<n><px1pl><nom>$
+[/dGUuN0Qt6Crq]
+[dGtbHtMEkF_j#0] ^Порттӑма/*Порттӑма$
+[/dGtbHtMEkF_j]
+[dJs7JPSR9Tz7#0] ^вӑййуна/вӑйӑ<n><px2sg><dat>$
+[/dJs7JPSR9Tz7]
+[dMF3y1M34a3e#0] ^хӗвелӗмӗр/хӗвел<adj><subst><px1pl><nom>/хӗвел<n><px1pl><nom>$
+[/dMF3y1M34a3e]
+[dMfueP3TLrgu#0] ^менюӑмӑрӑн/*менюӑмӑрӑн$
+[/dMfueP3TLrgu]
+[dPulemg2gxUo#0] ^влаҫсен/власть<n><pl><gen>$
+[/dPulemg2gxUo]
+[dQhMfdvKbZwV#0] ^кроликӗ/кролик<n><px3sp><nom>$
+[/dQhMfdvKbZwV]
+[dS8q4Lg_b7o4#0] ^платйи/платье<n><px3sp><nom>$
+[/dS8q4Lg_b7o4]
+[dSFzw-k2c6NR#0] ^йӗппӗмӗре/*йӗппӗмӗре$
+[/dSFzw-k2c6NR]
+[dSNk6VWKzEdl#0] ^вӑкӑрсенче/вӑкӑр<n><pl><loc>$
+[/dSNk6VWKzEdl]
+[dWgI1ASJIMZv#0] ^чиккине/чикӗ<n><px3sp><dat>$
+[/dWgI1ASJIMZv]
+[dX_KdZ05mTsU#0] ^кӳлӗсем/кӳлӗ<n><pl><nom>$
+[/dX_KdZ05mTsU]
+[d_pRDjRh176e#0] ^сарайна/сар<v><iv><abil><ger_past>/сар<v><tv><abil><ger_past>/сарай<n><px2sg><dat>$
+[/d_pRDjRh176e]
+[dbF82tUzqxN9#0] ^делӑва/*делӑва$
+[/dbF82tUzqxN9]
+[dcwGryjUzZt7#0] ^ҫуртӑрӑн/ҫурта<n><px2pl><gen>/ҫурт<n><px2pl><gen>$
+[/dcwGryjUzZt7]
+[ddrT-z6YzZB4#0] ^чейрен/чей<n><abl>$
+[/ddrT-z6YzZB4]
+[ddvlVRnAkjjE#0] ^стенаран/стена<n><abl>$
+[/ddvlVRnAkjjE]
+[ds_p-Sd9E-eN#0] ^сарайра/сарай<n><loc>$
+[/ds_p-Sd9E-eN]
+[dtkDYWw6oGol#0] ^влаҫсенчен/власть<n><pl><abl>$
+[/dtkDYWw6oGol]
+[dvDQLkjo4SbI#0] ^пӳсенчен/пӳ<n><pl><abl>$
+[/dvDQLkjo4SbI]
+[dvr1wHWNEoho#0] ^стенӑра/стена<n><px2pl><dat>$
+[/dvr1wHWNEoho]
+[dytRrGJpUItN#0] ^хӗвелсемсӗр/хӗвел<adj><subst><pl>+сӑр<post>/хӗвел<n><pl>+сӑр<post>$
+[/dytRrGJpUItN]
+[dzj4-QsSEB5I#0] ^вӑййӑма/вӑйӑ<n><px1sg><dat>$
+[/dzj4-QsSEB5I]
+[e-kG1v3WtAYI#0] ^вӑкӑрӑмӑн/вӑкӑр<n><px1sg><gen>$
+[/e-kG1v3WtAYI]
+[e4tNBb_7O4Yl#0] ^влаҫсемпе/власть<n><pl><ins>$
+[/e4tNBb_7O4Yl]
+[e52zHE74KQYo#0] ^кроликӑн/кролик<n><gen>$
+[/e52zHE74KQYo]
+[e5esicgtSAJV#0] ^кофӗр/кофе<n><px2pl><nom>$
+[/e5esicgtSAJV]
+[e6xLEH_zqG9G#0] ^шоссемӗрӗн/шоссе<n><px1pl><gen>$
+[/e6xLEH_zqG9G]
+[e7bZmG4c_-dR#0] ^кукӑлӗм/кукӑль<n><px1sg><nom>$
+[/e7bZmG4c_-dR]
+[e7dvXaDzI9bl#0] ^деловӗ/*деловӗ$
+[/e7dvXaDzI9bl]
+[eA9JfChf_YWl#0] ^металӑрӑн/металл<n><px2pl><gen>$
+[/eA9JfChf_YWl]
+[eBQfCe7jv-sM#0] ^металӑмӑрӑн/металл<n><px1pl><gen>$
+[/eBQfCe7jv-sM]
+[eCPuhTgG73By#0] ^пӳсемпе/пӳ<n><pl><ins>$
+[/eCPuhTgG73By]
+[eCfK6iZwRAkV#0] ^складшӑн/склад<n><ter>$
+[/eCfK6iZwRAkV]
+[eDbxr-RSgYPo#0] ^вӑкӑрсӑр/вӑкӑр<n>+сӑр<post>$
+[/eDbxr-RSgYPo]
+[eEArTyD0Boam#0] ^стенӑрӑн/стена<n><px2pl><gen>$
+[/eEArTyD0Boam]
+[eFwgy37jjXAX#0] ^чейсем/чей<n><pl><nom>$
+[/eFwgy37jjXAX]
+[eI0F5JFvW27U#0] ^стихир/*стихир$
+[/eI0F5JFvW27U]
+[eI9fVgokkx17#0] ^кенгурӑрӑн/кенгуру<n><px2pl><gen>$
+[/eI9fVgokkx17]
+[eKMqTSP0zt_d#0] ^чикӗсӗр/чикӗсӗр<adj>/чикӗсӗр<adj><subst><nom>/чик<v><iv><opt><p2><pl>/чик<v><tv><opt><p2><pl>/чикӗ<n>+сӑр<post>$
+[/eKMqTSP0zt_d]
+[eNf3BL8xJ90S#0] ^ҫынсемсӗр/ҫын<n><pl>+сӑр<post>$
+[/eNf3BL8xJ90S]
+[ePXNpRyLqzh1#0] ^кинун/кино<n><px2sg><gen>$
+[/ePXNpRyLqzh1]
+[ePmuR7f5grBZ#0] ^аллейӑсене/аллея<n><pl><dat>$
+[/ePmuR7f5grBZ]
+[eQFhnbhjBC2L#0] ^кофӗре/кофе<n><loc>/кофе<n><px2pl><dat>$
+[/eQFhnbhjBC2L]
+[eUWhBujumdTk#0] ^Сашӑн/Саша<np><ant><f><gen>/Саша<np><ant><m><gen>$
+[/eUWhBujumdTk]
+[eZN4dCPOClpW#0] ^хурҫӑсемшӗн/хурҫӑ<n><pl><ter>$
+[/eZN4dCPOClpW]
+[eaDb0VUUa_Z2#0] ^пӳсен/пӳ<n><pl><gen>$
+[/eaDb0VUUa_Z2]
+[eaOR5mtCuJQZ#0] ^чикӗсенчен/чикӗ<n><pl><abl>$
+[/eaOR5mtCuJQZ]
+[eeQ-JmiHC8i3#0] ^стенашӑн/стена<n><ter>$
+[/eeQ-JmiHC8i3]
+[efiL0y5KgGJa#0] ^ҫынпа/ҫын<n><ins>$
+[/efiL0y5KgGJa]
+[efopFUmo33-I#0] ^автанпа/автан<n><ins>$
+[/efopFUmo33-I]
+[egrs3fvqX_42#0] ^влаҫӑмӑра/власть<n><px1pl><dat>$
+[/egrs3fvqX_42]
+[emu6GFDuwUc1#0] ^урамӑр/урам<n><px2pl><nom>/ура<n><px1pl><nom>$
+[/emu6GFDuwUc1]
+[enOtGP5l6ZL1#0] ^тимӗрҫӗмӗр/тимӗрҫӗ<n><px1pl><nom>$
+[/enOtGP5l6ZL1]
+[eo2SCajsA_mD#0] ^влаҫа/власть<n><dat>$
+[/eo2SCajsA_mD]
+[evVAvQMsFWT1#0] ^музейсем/музей<n><pl><nom>$
+[/evVAvQMsFWT1]
+[evbTVo7OBKjW#0] ^шосси/шоссе<n><px3sp><nom>$
+[/evbTVo7OBKjW]
+[ewOiIHyGMIup#0] ^аллеюна/аллея<n><px2sg><dat>$
+[/ewOiIHyGMIup]
+[eyxTS5G1eD8o#0] ^июлне/*июлне$
+[/eyxTS5G1eD8o]
+[f0jc3XI6Snin#0] ^автанӗн/автан<n><px3sp><gen>$
+[/f0jc3XI6Snin]
+[f1Dy5G_0g8-A#0] ^менювӑмӑн/*менювӑмӑн$
+[/f1Dy5G_0g8-A]
+[f27VQI8N0Fyd#0] ^пӳшӗн/пӳ<n><ter>$
+[/f27VQI8N0Fyd]
+[f4zwoQUr4MtN#0] ^литературӑн/литература<n><gen>$
+[/f4zwoQUr4MtN]
+[fBu3cf0evgRo#0] ^уйсенчен/уй<adj><subst><pl><abl>/уй<n><pl><abl>$
+[/fBu3cf0evgRo]
+[fBvty3aAuqMi#0] ^тухьясенче/тухья<n><pl><loc>$
+[/fBvty3aAuqMi]
+[fD1wIgPaDiyR#0] ^метала/металлӑ<adj><subst><dat>/металл<n><dat>$
+[/fD1wIgPaDiyR]
+[fEG3CDsJ6s81#0] ^хурҫа/хурҫӑ<n><dat>$
+[/fEG3CDsJ6s81]
+[fH0oMm0mMio_#0] ^шоссемӗр/шоссе<n><px1pl><nom>$
+[/fH0oMm0mMio_]
+[fHL07U31TyRY#0] ^супӑньсем/супӑнь<n><pl><nom>$
+[/fHL07U31TyRY]
+[fJUascBDN65a#0] ^Бакушӑн/бак<n><px2sg><ter>$
+[/fJUascBDN65a]
+[fMbl6M83d-F5#0] ^кукӑлӗ/кукӑль<n><px3sp><nom>$
+[/fMbl6M83d-F5]
+[fQpGXweBXOMw#0] ^стенасенчен/стена<n><pl><abl>$
+[/fQpGXweBXOMw]
+[fTqejmPs9B8w#0] ^шӑшийӗмӗре/шӑши<n><px1pl><dat>$
+[/fTqejmPs9B8w]
+[fXKDLOfdtlVD#0] ^хӗвелсенчен/хӗвел<adj><subst><pl><abl>/хӗвел<n><pl><abl>$
+[/fXKDLOfdtlVD]
+[fbVuzJad-8wo#0] ^кӳллӳн/кӳлӗ<n><px2sg><gen>$
+[/fbVuzJad-8wo]
+[fdtrT0Db3M7D#0] ^пуллуна/пулӑ<n><px2sg><dat>/пулӗ<adj><subst><px2sg><dat>$
+[/fdtrT0Db3M7D]
+[ff7sIuTndcHq#0] ^тетрадна/*тетрадна$
+[/ff7sIuTndcHq]
+[ffaC_53I86Gs#0] ^тенкӗсенче/тенкӗ<n><pl><loc>$
+[/ffaC_53I86Gs]
+[fjuHCNI6hsfG#0] ^литературӑма/литература<n><px1sg><dat>$
+[/fjuHCNI6hsfG]
+[frO7RX9dpznZ#0] ^пурттин/пуртӑ<n><px3sp><gen>$
+[/frO7RX9dpznZ]
+[fxq-7hi2mFOq#0] ^июнӗре/июнь<n><px2pl><dat>$
+[/fxq-7hi2mFOq]
+[fy4ByqDnPLbu#0] ^кӗсьепе/кӗсье<n><ins>$
+[/fy4ByqDnPLbu]
+[fzo8OSM4F0Ql#0] ^автобусӑмӑр/автобус<n><px1pl><nom>$
+[/fzo8OSM4F0Ql]
+[g3jsn5WsumBr#0] ^йӗппӗм/*йӗппӗм$
+[/g3jsn5WsumBr]
+[g4PLV4uToBD7#0] ^металӗ/металл<n><px3sp><nom>$
+[/g4PLV4uToBD7]
+[g7ZjhXa9G7jF#0] ^кофӗмӗн/кофе<n><px1sg><gen>$
+[/g7ZjhXa9G7jF]
+[gDSVT97a8fbO#0] ^ӗҫсӗр/ӗҫсӗр<adj>/ӗҫсӗр<adj><subst><nom>/ӗҫ<n>+сӑр<post>$
+[/gDSVT97a8fbO]
+[gFE3EV4BcLZF#0] ^тӑвӑрӑн/ту<n><px2pl><gen>/тӑвӑр<adj><subst><gen>$
+[/gFE3EV4BcLZF]
+[gGc-KmRNXU8F#0] ^Золотницкисемшӗн/Золотницкий<np><cog><m><pl><ter>$
+[/gGc-KmRNXU8F]
+[gHoGCFxeLH2p#0] ^пальтӑрӑн/пальто<n><px2pl><gen>$
+[/gHoGCFxeLH2p]
+[gKNs6m6wLixB#0] ^каҫмасемпе/каҫма<n><pl><ins>$
+[/gKNs6m6wLixB]
+[gNRqN0A7VRrF#0] ^кролика/кролик<n><dat>$
+[/gNRqN0A7VRrF]
+[gNg4kaFYBbGu#0] ^чӗрӗпӗре/чӗрӗп<n><px2pl><dat>$
+[/gNg4kaFYBbGu]
+[gOMRL5VedZwQ#0] ^супӑньсенчен/супӑнь<n><pl><abl>$
+[/gOMRL5VedZwQ]
+[gQenzuLacIn6#0] ^автобусӑмӑрӑн/автобус<n><px1pl><gen>$
+[/gQenzuLacIn6]
+[gR_xrjxsF7Lp#0] ^тӑвӑмӑн/ту<n><px1sg><gen>/тӑвӑм<n><gen>$
+[/gR_xrjxsF7Lp]
+[gUNkLKCbwVyn#0] ^автансемсӗр/автан<n><pl>+сӑр<post>$
+[/gUNkLKCbwVyn]
+[gYQl5x3TNiqf#0] ^кукӑльпе/кукӑль<n><ins>$
+[/gYQl5x3TNiqf]
+[g_GSday1Pj8U#0] ^Порттӑмӑн/*Порттӑмӑн$
+[/g_GSday1Pj8U]
+[ge-wpZo9vH7B#0] ^влаҫун/власть<n><px2sg><gen>$
+[/ge-wpZo9vH7B]
+[giAnMGAlqUxd#0] ^Бакувӑмӑр/*Бакувӑмӑр$
+[/giAnMGAlqUxd]
+[gikmjTiP6Lyi#0] ^урамӑмӑн/урам<n><px1sg><gen>$
+[/gikmjTiP6Lyi]
+[gil9Jj582eBu#0] ^ҫуртсенчен/ҫурт<n><pl><abl>$
+[/gil9Jj582eBu]
+[gjIJCeHQY2qa#0] ^кӳлӗрен/кӳлӗ<n><abl>$
+[/gjIJCeHQY2qa]
+[gkQCnWGFdOoB#0] ^кӳлӗпе/кӳлӗ<n><ins>$
+[/gkQCnWGFdOoB]
+[gkbhbTAASzgU#0] ^июнӗ/июнь<n><px3sp><nom>$
+[/gkbhbTAASzgU]
+[gmFHs7lwF0Q0#0] ^вӑййӑра/вӑйӑ<n><px2pl><dat>$
+[/gmFHs7lwF0Q0]
+[gs_RbTzWT41t#0] ^тухьясене/тухья<n><pl><dat>$
+[/gs_RbTzWT41t]
+[h1JOa78lsRys#0] ^Золотницкийин/*Золотницкийин$
+[/h1JOa78lsRys]
+[h25s2Tk8kWNJ#0] ^тухьюне/*тухьюне$
+[/h25s2Tk8kWNJ]
+[h50wWCue2wV-#0] ^автобуссемшӗн/автобус<n><pl><ter>$
+[/h50wWCue2wV-]
+[h62E5NYhB7w1#0] ^чейпе/чей<n><ins>$
+[/h62E5NYhB7w1]
+[h8lE8xB7BIkj#0] ^июнӗмӗре/июнь<n><px1pl><dat>$
+[/h8lE8xB7BIkj]
+[hD1fb8Tof6kK#0] ^хӗвелӗмӗре/хӗвел<adj><subst><px1pl><dat>/хӗвел<n><px1pl><dat>$
+[/hD1fb8Tof6kK]
+[hG0j9vQ-T2Gq#0] ^Сашӑр/Саша<np><ant><f><px2pl><nom>/Саша<np><ant><m><px2pl><nom>$
+[/hG0j9vQ-T2Gq]
+[hKgMXCqiK1B1#0] ^стенун/стена<n><px2sg><gen>$
+[/hKgMXCqiK1B1]
+[hO2jk0LTtpQ8#0] ^училищӗсемшӗн/училище<n><pl><ter>$
+[/hO2jk0LTtpQ8]
+[hO72Ohu3nTdI#0] ^влаҫсемшӗн/власть<n><pl><ter>$
+[/hO72Ohu3nTdI]
+[hRbNtx7Ka-vB#0] ^пӗвӗ/пӗве<v><iv><fut><p3><sg>/пӗве<v><tv><fut><p3><sg>/пӗвӗ<n><attr>/пӗвӗ<n><nom>/пӳ<n><px3sp><nom>$
+[/hRbNtx7Ka-vB]
+[hW-8arGZb0rT#0] ^июлӗре/июль<n><px2pl><dat>$
+[/hW-8arGZb0rT]
+[hY1LjY6qXkF9#0] ^кенгуру/кенгуру<n><attr>/кенгуру<n><nom>/кенгуру<n><px2sg><nom>$
+[/hY1LjY6qXkF9]
+[h_9a5jXhpJiP#0] ^литературӑмӑр/литература<n><px1pl><nom>$
+[/h_9a5jXhpJiP]
+[h_bpCHy6isXC#0] ^тӑвӑн/ту<n><gen>/ту<v><tv><fut><p2><sg>/ту<v><tv><pres><p2><sg>/тӑвӑн<v><iv><imp><p2><sg>/тӑвӑн<v><tv><imp><p2><sg>$
+[/h_bpCHy6isXC]
+[ha-orRs2Etrj#0] ^урамшӑн/урам<n><ter>/ура<n><px1sg><ter>$
+[/ha-orRs2Etrj]
+[haITZVInEAP8#0] ^каҫмара/каҫма<n><loc>$
+[/haITZVInEAP8]
+[hab6R2bJzftJ#0] ^Золотницкийӳне/Золотницкий<np><cog><m><px2sg><dat>$
+[/hab6R2bJzftJ]
+[hiajsHv3nraQ#0] ^чӗрӗпрен/чӗрӗп<n><abl>$
+[/hiajsHv3nraQ]
+[hqxnV1pMlSHX#0] ^складӑн/склад<n><gen>$
+[/hqxnV1pMlSHX]
+[hu3AtedJN48c#0] ^тимӗрҫӳне/тимӗрҫӗ<n><px2sg><dat>$
+[/hu3AtedJN48c]
+[huxs8ey5o-5y#0] ^ӗҫсенче/ӗҫ<n><pl><loc>$
+[/huxs8ey5o-5y]
+[hvVklz8XZKlQ#0] ^пурттӑн/пуртӑ<n><gen>$
+[/hvVklz8XZKlQ]
+[hwS3fNo0rKOn#0] ^влаҫӑмӑрӑн/власть<n><px1pl><gen>$
+[/hwS3fNo0rKOn]
+[hygqlQnsCwix#0] ^вӑйӑсем/вӑйӑ<n><pl><nom>$
+[/hygqlQnsCwix]
+[hzL1VHp4_0hV#0] ^супӑньсемшӗн/супӑнь<n><pl><ter>$
+[/hzL1VHp4_0hV]
+[i0xf0hNXllO2#0] ^пурттӑмӑн/пуртӑ<n><px1sg><gen>$
+[/i0xf0hNXllO2]
+[i3IL9Ajq9sKl#0] ^кофӗм/кофе<n><px1sg><nom>$
+[/i3IL9Ajq9sKl]
+[i6FRYIgEH-BK#0] ^сӑввӑр/сӑвӑ<n><px2pl><nom>$
+[/i6FRYIgEH-BK]
+[i8TA28RgW7yl#0] ^сӑввӑра/сӑвӑ<n><px2pl><dat>$
+[/i8TA28RgW7yl]
+[i9ZNgfGSiAsf#0] ^июнӗрӗн/июнь<n><px2pl><gen>$
+[/i9ZNgfGSiAsf]
+[iCseg1HlHjxm#0] ^хурҫӑ/хурҫӑ<n><attr>/хурҫӑ<n><nom>$
+[/iCseg1HlHjxm]
+[iD2kbLNNLM6b#0] ^кроликӑмӑрӑн/кролик<n><px1pl><gen>$
+[/iD2kbLNNLM6b]
+[iDxZm_HxjEu_#0] ^ҫыннӑра/ҫын<n><px2pl><dat>$
+[/iDxZm_HxjEu_]
+[iFgU-YEBQID_#0] ^стенасене/стена<n><pl><dat>$
+[/iFgU-YEBQID_]
+[iIBUc0VKrQBk#0] ^кӳллине/кӳлӗ<n><px3sp><dat>$
+[/iIBUc0VKrQBk]
+[iIfoLQOD-fcS#0] ^информацире/информаци<n><loc>$
+[/iIfoLQOD-fcS]
+[iIoYe4z7FS-E#0] ^вӑкӑрӑмӑра/вӑкӑр<n><px1pl><dat>$
+[/iIoYe4z7FS-E]
+[iTpdoE3BpfWK#0] ^сарая/сарай<n><dat>$
+[/iTpdoE3BpfWK]
+[iVAVcGzX7-_D#0] ^менювӑм/*менювӑм$
+[/iVAVcGzX7-_D]
+[iVj-qSnoU6LB#0] ^сарайсене/сарай<n><pl><dat>$
+[/iVj-qSnoU6LB]
+[iWHFRtn2f25E#0] ^складна/склад<n><px2sg><dat>$
+[/iWHFRtn2f25E]
+[i_bnSqxUvbzG#0] ^классемпе/класс<n><pl><ins>$
+[/i_bnSqxUvbzG]
+[i_j6hKZjuu_z#0] ^складран/склад<n><abl>$
+[/i_j6hKZjuu_z]
+[ieET0IFdua_b#0] ^менюсенчен/меню<n><pl><abl>/меню<n><px2sg><pl><abl>$
+[/ieET0IFdua_b]
+[ieUAQMQQnjcs#0] ^кенгурура/кенгуру<n><loc>$
+[/ieUAQMQQnjcs]
+[ihJFSSn_D--c#0] ^вӑкӑр/вӑкӑр<n><attr>/вӑкӑр<n><nom>$
+[/ihJFSSn_D--c]
+[ij9gZzvXqgHr#0] ^тенкӗн/тенкӗ<n><gen>$
+[/ij9gZzvXqgHr]
+[ikTojTVCqvrH#0] ^Бакупа/бак<n><px2sg><ins>$
+[/ikTojTVCqvrH]
+[imyMk_c1Yjqe#0] ^Золотницкире/Золотницкий<np><cog><m><loc>$
+[/imyMk_c1Yjqe]
+[isaeaCcROWSa#0] ^Золотницкимӗре/*Золотницкимӗре$
+[/isaeaCcROWSa]
+[itIl27vPHZcK#0] ^чиккӗме/чикӗ<n><px1sg><dat>$
+[/itIl27vPHZcK]
+[itWr34u2-JUV#0] ^кӗнекесем/кӗнеке<n><pl><nom>$
+[/itWr34u2-JUV]
+[iwI3-u76xaiG#0] ^менюӑмӑр/*менюӑмӑр$
+[/iwI3-u76xaiG]
+[iy4B7sdenXb7#0] ^Сашин/Саша<np><ant><f><px3sp><gen>/Саша<np><ant><m><px3sp><gen>$
+[/iy4B7sdenXb7]
+[iyAtoAeNGcNG#0] ^хӑюран/хӑю<adj><subst><abl>/хӑю<n><abl>$
+[/iyAtoAeNGcNG]
+[izJNTQjbpHky#0] ^сарайӑрӑн/сарай<n><px2pl><gen>$
+[/izJNTQjbpHky]
+[j3vJwLzmg4fj#0] ^кӗсьесемсӗр/кӗсье<n><pl>+сӑр<post>$
+[/j3vJwLzmg4fj]
+[jAVlAIaGHzQs#0] ^шоссесемшӗн/шоссе<n><pl><ter>$
+[/jAVlAIaGHzQs]
+[jCgB0EX7hudp#0] ^делун/дело<n><px2sg><gen>$
+[/jCgB0EX7hudp]
+[jCwTXtKJDxEO#0] ^автанӑмӑра/автан<n><px1pl><dat>$
+[/jCwTXtKJDxEO]
+[jEIKVJtxiAdv#0] ^нянине/няня<n><px3sp><dat>$
+[/jEIKVJtxiAdv]
+[jEOHa0jRFv5U#0] ^кукӑлӗве/*кукӑлӗве$
+[/jEOHa0jRFv5U]
+[jFb7yxUOzjWe#0] ^тетрадьсенче/тетрадь<n><pl><loc>$
+[/jFb7yxUOzjWe]
+[jGvWv_GPiK1B#0] ^каҫмасем/каҫма<n><pl><nom>$
+[/jGvWv_GPiK1B]
+[jHo2-AVKcmDw#0] ^июльпе/июль<n><ins>$
+[/jHo2-AVKcmDw]
+[jIjl_tpLTeHX#0] ^кӗнекӗр/кӗнеке<n><px2pl><nom>$
+[/jIjl_tpLTeHX]
+[jJTTXRIyNfph#0] ^тетрачӗн/тетрадь<n><px3sp><gen>$
+[/jJTTXRIyNfph]
+[jOatL-MvkD-Y#0] ^лашасен/лаша<n><pl><gen>$
+[/jOatL-MvkD-Y]
+[jOjRqQ1dPBGm#0] ^няньӑма/няня<n><px1sg><dat>$
+[/jOjRqQ1dPBGm]
+[jRULF77QlGAL#0] ^пуллӑмӑрӑн/пулӑ<n><px1pl><gen>/пулӗ<adj><subst><px1pl><gen>$
+[/jRULF77QlGAL]
+[jV1lW4yDs54s#0] ^класӑра/класс<n><px2pl><dat>$
+[/jV1lW4yDs54s]
+[jV5OYUvFBU51#0] ^автанӑм/автан<n><px1sg><nom>$
+[/jV5OYUvFBU51]
+[jWHbX4b-4QCo#0] ^кӗсйӳне/кӗсье<n><px2sg><dat>$
+[/jWHbX4b-4QCo]
+[j_QfgsEEUIWX#0] ^тухьюн/тухья<n><px2sg><gen>$
+[/j_QfgsEEUIWX]
+[jbLKGv8rH0Lj#0] ^кроликсем/кролик<n><pl><nom>$
+[/jbLKGv8rH0Lj]
+[jgKpBLS-6tiD#0] ^кроликӑмӑн/кролик<n><px1sg><gen>$
+[/jgKpBLS-6tiD]
+[jg_kbwEeuDJc#0] ^йӗпшӗн/йӗп<n><ter>$
+[/jg_kbwEeuDJc]
+[jgcTUigQdAbO#0] ^йӗпсенчен/йӗп<n><pl><abl>$
+[/jgcTUigQdAbO]
+[jgfeuj-huQnW#0] ^кенгурусен/кенгуру<n><pl><gen>/кенгуру<n><px2sg><pl><gen>$
+[/jgfeuj-huQnW]
+[jgmYdNuo91GU#0] ^кроликӑмӑр/кролик<n><px1pl><nom>$
+[/jgmYdNuo91GU]
+[jhJbN4Y8aAip#0] ^складсен/склад<n><pl><gen>$
+[/jhJbN4Y8aAip]
+[jhfswl8N4DjV#0] ^стенапа/стена<n><ins>$
+[/jhfswl8N4DjV]
+[ji7UbL7jZi1A#0] ^информацийӗр/информаци<n><px2pl><nom>$
+[/ji7UbL7jZi1A]
+[jtGoHxUb8PSe#0] ^Бакувӑмӑра/*Бакувӑмӑра$
+[/jtGoHxUb8PSe]
+[juuEWS3IT5eT#0] ^музейӗм/музей<n><px1sg><nom>$
+[/juuEWS3IT5eT]
+[jwP95uB1Nbk7#0] ^супӑнӳн/супӑнь<n><px2sg><gen>$
+[/jwP95uB1Nbk7]
+[jwYx_Re7SDZg#0] ^кукӑльре/кукӑль<n><loc>$
+[/jwYx_Re7SDZg]
+[jx_V25sabp3p#0] ^ҫуртна/ҫурт<n><px2sg><dat>$
+[/jx_V25sabp3p]
+[jxcpXuQIy3xM#0] ^училищӗре/училище<n><loc>/училище<n><px2pl><dat>$
+[/jxcpXuQIy3xM]
+[jy-zmOz5YmQ8#0] ^менюсен/меню<n><pl><gen>/меню<n><px2sg><pl><gen>$
+[/jy-zmOz5YmQ8]
+[kBWFGsBsNSae#0] ^Золотницкипе/Золотницкий<np><cog><m><ins>$
+[/kBWFGsBsNSae]
+[kDVNCbsrmzoK#0] ^кроликӗн/кролик<n><px3sp><gen>$
+[/kDVNCbsrmzoK]
+[kIEREhGsO-tN#0] ^стихира/*стихира$
+[/kIEREhGsO-tN]
+[kOlMQ5J_0nv2#0] ^проспектшӑн/проспект<n><ter>$
+[/kOlMQ5J_0nv2]
+[kQOLd740O2TR#0] ^тетраде/тетрадь<n><dat>$
+[/kQOLd740O2TR]
+[kRkXzT7RDoZ9#0] ^автобусшӑн/автобус<n><ter>$
+[/kRkXzT7RDoZ9]
+[kSJhicOQ8sjQ#0] ^сарайӗ/сарай<n><px3sp><nom>/сар<v><iv><abil><fut><p3><sg>/сар<v><tv><abil><fut><p3><sg>$
+[/kSJhicOQ8sjQ]
+[kWxK7rfCarGu#0] ^кӗсьесӗр/кӗсье<n>+сӑр<post>$
+[/kWxK7rfCarGu]
+[kXVNcUfb0ON6#0] ^проспектӑрӑн/проспект<n><px2pl><gen>$
+[/kXVNcUfb0ON6]
+[kZWbvAIvsqIH#0] ^вӑкӑрсен/вӑкӑр<n><pl><gen>$
+[/kZWbvAIvsqIH]
+[kadhv6jNBINW#0] ^сӑвва/сӑвӑ<n><dat>$
+[/kadhv6jNBINW]
+[kb4kOSFA60Oh#0] ^класӑма/класс<n><px1sg><dat>$
+[/kb4kOSFA60Oh]
+[kdUJhMmn1h3-#0] ^автобуссем/автобус<n><pl><nom>$
+[/kdUJhMmn1h3-]
+[kelvRzlTCNfr#0] ^йӗпсемпе/йӗпсе<n><px1sg><ins>/йӗп<n><pl><ins>$
+[/kelvRzlTCNfr]
+[kjisOi42MZEA#0] ^стихирен/стихи<n><abl>$
+[/kjisOi42MZEA]
+[klusIuUVHf4j#0] ^лашуна/лаша<n><px2sg><dat>$
+[/klusIuUVHf4j]
+[knVKqlfdPyQq#0] ^автансене/автан<n><pl><dat>$
+[/knVKqlfdPyQq]
+[kr-XqWerpqQx#0] ^вӑкӑра/вӑкӑр<n><dat>$
+[/kr-XqWerpqQx]
+[krHcpDroY2Xw#0] ^тухьясемпе/тухья<n><pl><ins>$
+[/krHcpDroY2Xw]
+[krPLX0GY-8BV#0] ^хӑйӑва/хӑю<n><dat>$
+[/krPLX0GY-8BV]
+[ku_NRA6Y6mYe#0] ^кофӗсемшӗн/кофе<n><pl><ter>$
+[/ku_NRA6Y6mYe]
+[kxM6ALd_-mlj#0] ^вӑййине/вӑйӑ<n><px3sp><dat>$
+[/kxM6ALd_-mlj]
+[l-eQHVmzz2qH#0] ^кӳлӗсемсӗр/кӳлӗ<n><pl>+сӑр<post>$
+[/l-eQHVmzz2qH]
+[l0MA5nbc_Lh3#0] ^информацисӗр/информаци<n>+сӑр<post>$
+[/l0MA5nbc_Lh3]
+[l0RKhMMIfLu8#0] ^чӗрӗпӗн/чӗрӗп<n><gen>/чӗрӗп<n><px3sp><gen>$
+[/l0RKhMMIfLu8]
+[l2G-OWf7P9qZ#0] ^металсене/металл<n><pl><dat>$
+[/l2G-OWf7P9qZ]
+[l3gyXuamxtti#0] ^автаншӑн/автан<n><ter>$
+[/l3gyXuamxtti]
+[l6h0pDLZAfiN#0] ^пурттӑра/пуртӑ<n><px2pl><dat>$
+[/l6h0pDLZAfiN]
+[l7CuwsI5RkzY#0] ^урампа/урам<n><ins>/ура<n><px1sg><ins>$
+[/l7CuwsI5RkzY]
+[l95U7IdsiEHT#0] ^урамсӑр/урам<n>+сӑр<post>/ура<n><px1sg>+сӑр<post>$
+[/l95U7IdsiEHT]
+[lB5EGSB0ZR0l#0] ^лашасене/лаша<n><pl><dat>$
+[/lB5EGSB0ZR0l]
+[lCfcZ5mJabIJ#0] ^чикӗсем/чикӗ<n><pl><nom>$
+[/lCfcZ5mJabIJ]
+[lFHP-CfAcDeE#0] ^вӑййи/вӑйӑ<n><px3sp><nom>$
+[/lFHP-CfAcDeE]
+[lI5yaWmFj0-8#0] ^шӑшие/шӑши<n><dat>$
+[/lI5yaWmFj0-8]
+[lIa9_J13HV5u#0] ^каҫму/каҫма<n><px2sg><nom>$
+[/lIa9_J13HV5u]
+[lIpHzLubKvTB#0] ^тухьяпа/тухья<n><ins>$
+[/lIpHzLubKvTB]
+[lJaXw93leAVC#0] ^менюран/меню<n><abl>$
+[/lJaXw93leAVC]
+[lNXNgrggD7Zn#0] ^автобусран/автобус<n><abl>$
+[/lNXNgrggD7Zn]
+[lO6t-AzTkBpu#0] ^супӑнӗмӗрӗн/супӑнь<n><px1pl><gen>$
+[/lO6t-AzTkBpu]
+[lPXVi-di-n_7#0] ^тенкӗсен/тенкӗ<n><pl><gen>$
+[/lPXVi-di-n_7]
+[lPslD8uEQv04#0] ^шӑшисенчен/шӑши<n><pl><abl>$
+[/lPslD8uEQv04]
+[lQwKEulyXI4b#0] ^аллейӑмӑн/аллея<n><px1sg><gen>$
+[/lQwKEulyXI4b]
+[lRBXS3_fHOoo#0] ^кенгурума/кенгуру<n><px1sg><dat>$
+[/lRBXS3_fHOoo]
+[lRMJth2OIKOs#0] ^йӗпрен/йӗпре<v><iv><fut><p2><sg>/йӗпре<v><iv><pres><p2><sg>/йӗпре<v><tv><fut><p2><sg>/йӗпре<v><tv><pres><p2><sg>/йӗп<n><abl>$
+[/lRMJth2OIKOs]
+[lUHt4jS_TBQG#0] ^тимӗрҫӗсенчен/тимӗрҫӗ<n><pl><abl>$
+[/lUHt4jS_TBQG]
+[lVMj9ALMu3VN#0] ^нянюна/няня<n><px2sg><dat>$
+[/lVMj9ALMu3VN]
+[lXRgiRC1M6bG#0] ^вӑкӑрӗ/вӑкӑр<n><px3sp><nom>$
+[/lXRgiRC1M6bG]
+[laJpz5wD_TnQ#0] ^уйсӑр/уй<adj><subst>+сӑр<post>/уй<n>+сӑр<post>$
+[/laJpz5wD_TnQ]
+[laqONqYpdk3y#0] ^сарайӑр/сарай<n><px2pl><nom>/сар<v><iv><abil><fut><p2><pl>/сар<v><iv><abil><imp><p2><pl>/сар<v><tv><abil><fut><p2><pl>/сар<v><tv><abil><imp><p2><pl>$
+[/laqONqYpdk3y]
+[lb7LKDmSXfBL#0] ^чикӗре/чике<n><px2pl><dat>/чикӗ<n><loc>$
+[/lb7LKDmSXfBL]
+[lbKbeD10L2UW#0] ^хӑйӑвӑмӑн/хӑю<n><px1sg><gen>$
+[/lbKbeD10L2UW]
+[lg6KdaiG4rtf#0] ^тухьямӑра/тухья<n><px1pl><dat>$
+[/lg6KdaiG4rtf]
+[ljcNJY8PktGB#0] ^чӗрӗпшӗн/чӗрӗп<n><ter>$
+[/ljcNJY8PktGB]
+[lk7BJxlE7rW0#0] ^шӑшийӗре/шӑши<n><px2pl><dat>$
+[/lk7BJxlE7rW0]
+[lkmOsVKktwvn#0] ^платйӗн/платье<n><gen>$
+[/lkmOsVKktwvn]
+[llFuqCoEVRkY#0] ^тусем/ту<adj><subst><pl><nom>/ту<adj><subst><px2sg><pl><nom>/ту<n><pl><nom>$
+[/llFuqCoEVRkY]
+[llWwkDvCIgxo#0] ^литературӑрӑн/литература<n><px2pl><gen>$
+[/llWwkDvCIgxo]
+[lnU57_ZZUdDt#0] ^йӗпре/йӗпре<v><iv><imp><p2><sg>/йӗпре<v><tv><imp><p2><sg>/йӗп<n><loc>$
+[/lnU57_ZZUdDt]
+[loVDKQ1LIWE4#0] ^киномӑр/кино<n><px1pl><nom>$
+[/loVDKQ1LIWE4]
+[lp08BKPbi_4C#0] ^сарайӑм/сарай<n><px1sg><nom>$
+[/lp08BKPbi_4C]
+[lpu8Uvy2nRW3#0] ^каҫмам/каҫма<n><px1sg><nom>$
+[/lpu8Uvy2nRW3]
+[lqJPnSKaELEd#0] ^урамӑма/урам<n><px1sg><dat>$
+[/lqJPnSKaELEd]
+[lqSsGxOsBZGy#0] ^ӗҫшӗн/ӗҫ<n><ter>$
+[/lqSsGxOsBZGy]
+[ls2sgezXFbIt#0] ^Сашӑсене/Саша<np><ant><f><pl><dat>/Саша<np><ant><m><pl><dat>$
+[/ls2sgezXFbIt]
+[lub3rTuqI0eN#0] ^хӑйӑвӗн/хӑю<n><px3sp><gen>$
+[/lub3rTuqI0eN]
+[lv5UB-L79wzN#0] ^металне/металл<n><px3sp><dat>$
+[/lv5UB-L79wzN]
+[lxXQy-LxJaEj#0] ^складра/склад<n><loc>$
+[/lxXQy-LxJaEj]
+[lxhB1IEDOq9o#0] ^кенгурусӑр/кенгуру<n>+сӑр<post>/кенгуру<n><px2sg>+сӑр<post>$
+[/lxhB1IEDOq9o]
+[lyoVVAzzWZS7#0] ^влаҫпа/власть<n><ins>$
+[/lyoVVAzzWZS7]
+[lz1Hni1nKfop#0] ^кролику/кролик<n><px2sg><nom>$
+[/lz1Hni1nKfop]
+[m-Uo-6xpHr0m#0] ^пуртӑсем/пуртӑ<n><pl><nom>$
+[/m-Uo-6xpHr0m]
+[m2SUh-toAsaB#0] ^шӑшийӳ/шӑши<n><px2sg><nom>$
+[/m2SUh-toAsaB]
+[m2YunFcJs0SV#0] ^Золотницким/*Золотницким$
+[/m2YunFcJs0SV]
+[m84Dbje9i08Q#0] ^менюӑва/*менюӑва$
+[/m84Dbje9i08Q]
+[m9xeRglJ2o_X#0] ^информацисемпе/информаци<n><pl><ins>$
+[/m9xeRglJ2o_X]
+[mB3wXZT8XK-_#0] ^автобуссен/автобус<n><pl><gen>$
+[/mB3wXZT8XK-_]
+[mFpBe2ikj-au#0] ^июньсенче/июнь<n><pl><loc>$
+[/mFpBe2ikj-au]
+[mG548klavAaf#0] ^хурҫӑм/хурҫӑ<n><px1sg><nom>$
+[/mG548klavAaf]
+[mHFqbWsmwLfX#0] ^няньӑмӑрӑн/няня<n><px1pl><gen>$
+[/mHFqbWsmwLfX]
+[mMWp6x-LxNX3#0] ^кроликсӑр/кролик<n>+сӑр<post>$
+[/mMWp6x-LxNX3]
+[mQOu-HJ1nTJ9#0] ^вӑййӑмӑн/вӑйӑ<n><px1sg><gen>$
+[/mQOu-HJ1nTJ9]
+[mR6-1BHMFc-R#0] ^кофӗрен/кофе<n><abl>$
+[/mR6-1BHMFc-R]
+[mSf4aj1oyKw-#0] ^Ивановскаясӑр/*Ивановскаясӑр$
+[/mSf4aj1oyKw-]
+[mSxFBs4jeMQP#0] ^киноран/кино<n><abl>$
+[/mSxFBs4jeMQP]
+[mX_KgRWJff8y#0] ^складӑра/склад<n><px2pl><dat>$
+[/mX_KgRWJff8y]
+[mZSty5K-VzsC#0] ^шӑшисӗр/шӑши<n>+сӑр<post>$
+[/mZSty5K-VzsC]
+[m_u6na188kUw#0] ^тухьяма/тухья<n><px1sg><dat>$
+[/m_u6na188kUw]
+[mcelzIb_KJUZ#0] ^кукӑльсемсӗр/кукӑль<n><pl>+сӑр<post>$
+[/mcelzIb_KJUZ]
+[mdHvvFjFopvm#0] ^сӑвӑпа/сӑвӑ<n><ins>$
+[/mdHvvFjFopvm]
+[mdMGeTBhxpL7#0] ^кроликӑмӑра/кролик<n><px1pl><dat>$
+[/mdMGeTBhxpL7]
+[mjrH-8jUGCaY#0] ^урамӑра/урам<n><px2pl><dat>/ура<n><px1pl><dat>$
+[/mjrH-8jUGCaY]
+[mloFa5gO8Bs4#0] ^ҫуртӑма/ҫурт<n><px1sg><dat>$
+[/mloFa5gO8Bs4]
+[mnfilyMUpXAZ#0] ^ӗҫӗм/ӗҫ<n><px1sg><nom>$
+[/mnfilyMUpXAZ]
+[morUezLVDrEY#0] ^Сашӑсенчен/Саша<np><ant><f><pl><abl>/Саша<np><ant><m><pl><abl>$
+[/morUezLVDrEY]
+[ms3aAm9KFFLQ#0] ^сӑвӑсӑр/су<v><iv><opt><p2><pl>/су<v><tv><opt><p2><pl>/сӑвӑс<n><px2pl><nom>/сӑвӑ<n>+сӑр<post>$
+[/ms3aAm9KFFLQ]
+[msKyR-2_Tbel#0] ^ҫуртсемшӗн/ҫурт<n><pl><ter>$
+[/msKyR-2_Tbel]
+[mskp_aNfGtBh#0] ^тетрачӗ/тетрадь<n><px3sp><nom>$
+[/mskp_aNfGtBh]
+[mwWRgNl_dk3e#0] ^вӑкӑрсем/вӑкӑр<n><pl><nom>$
+[/mwWRgNl_dk3e]
+[mxQh-on5pf6C#0] ^каҫмашӑн/каҫма<n><ter>$
+[/mxQh-on5pf6C]
+[mz57JvZpBEq8#0] ^стенасем/стена<n><pl><nom>$
+[/mz57JvZpBEq8]
+[mzHdIKadwtZn#0] ^пуртта/пуртӑ<n><dat>$
+[/mzHdIKadwtZn]
+[n1eoWkPjiwno#0] ^шоссесене/шоссе<n><pl><dat>$
+[/n1eoWkPjiwno]
+[n1h2mbvHNH01#0] ^июнӗр/июнь<n><px2pl><nom>$
+[/n1h2mbvHNH01]
+[n1zoWSh35z-s#0] ^Ивановскайӑрӑн/Ивановский<np><cog><f><px2pl><gen>$
+[/n1zoWSh35z-s]
+[n4u5IMthtO9b#0] ^хӑйӑвӑра/хӑю<n><px2pl><dat>$
+[/n4u5IMthtO9b]
+[n5OL-8h7UdyY#0] ^кенгурӑра/кенгуру<n><px2pl><dat>$
+[/n5OL-8h7UdyY]
+[n68bWHIkfXqN#0] ^аллейӑшӑн/аллея<n><ter>$
+[/n68bWHIkfXqN]
+[n9_tL5tlNUE1#0] ^литература/литература<n><attr>/литература<n><nom>$
+[/n9_tL5tlNUE1]
+[nBD4-50BEDPu#0] ^кӗнекесемсӗр/кӗнеке<n><pl>+сӑр<post>$
+[/nBD4-50BEDPu]
+[nBp5HSBQ14LZ#0] ^литературин/литература<n><px3sp><gen>$
+[/nBp5HSBQ14LZ]
+[nDHjvkWYwnit#0] ^кофӳ/кофе<n><px2sg><nom>$
+[/nDHjvkWYwnit]
+[nDxQ-ASKN-2m#0] ^училищӗм/училище<n><px1sg><nom>$
+[/nDxQ-ASKN-2m]
+[nFOWjXNuUOjk#0] ^менюун/*менюун$
+[/nFOWjXNuUOjk]
+[nJ9fMAzhUuYu#0] ^тимӗрҫӗсенче/тимӗрҫӗ<n><pl><loc>$
+[/nJ9fMAzhUuYu]
+[nLkpGLfp-WZA#0] ^кофӗмӗре/кофе<n><px1pl><dat>$
+[/nLkpGLfp-WZA]
+[nLyhJktOXZbU#0] ^Портта/*Портта$
+[/nLyhJktOXZbU]
+[nP8-_6Kf7Uus#0] ^Золотницкисенчен/Золотницкий<np><cog><m><pl><abl>$
+[/nP8-_6Kf7Uus]
+[nRMSRa-n-YBk#0] ^ӗҫӳн/ӗҫ<n><px2sg><gen>$
+[/nRMSRa-n-YBk]
+[nRm1uaFZrguO#0] ^менюӑмӑра/*менюӑмӑра$
+[/nRm1uaFZrguO]
+[nUHs_seFHxG7#0] ^менюсӑр/меню<n>+сӑр<post>/меню<n><px2sg>+сӑр<post>$
+[/nUHs_seFHxG7]
+[nYLPqO801jYv#0] ^аллейин/аллея<n><px3sp><gen>$
+[/nYLPqO801jYv]
+[nZZdGxT-uHA9#0] ^каҫмамӑн/каҫма<n><px1sg><gen>$
+[/nZZdGxT-uHA9]
+[n_t0LaFvT_X1#0] ^киносенчен/кино<n><pl><abl>$
+[/n_t0LaFvT_X1]
+[nag9JM6xUHAM#0] ^литературӑсӑр/литература<n>+сӑр<post>$
+[/nag9JM6xUHAM]
+[ncFYijmQuXfC#0] ^Порттуна/*Порттуна$
+[/ncFYijmQuXfC]
+[neVP8nglKLyD#0] ^ҫуртне/ҫурт<n><px3sp><dat>$
+[/neVP8nglKLyD]
+[nhnoeOYAtat0#0] ^стени/стена<n><px3sp><nom>$
+[/nhnoeOYAtat0]
+[nifFrBX7arkT#0] ^чиккӗрӗн/чикӗ<n><px2pl><gen>$
+[/nifFrBX7arkT]
+[nlD8PUi_QrC1#0] ^каҫмин/каҫма<n><px3sp><gen>/каҫ<v><iv><neg><opt><p3><sg>/каҫ<v><tv><neg><opt><p3><sg>$
+[/nlD8PUi_QrC1]
+[np-aXhBLi7ID#0] ^класӑмӑр/класс<n><px1pl><nom>$
+[/np-aXhBLi7ID]
+[nqFsJznZdso5#0] ^музейшӗн/музей<n><ter>$
+[/nqFsJznZdso5]
+[nquRW40HOU2V#0] ^металсемпе/металл<n><pl><ins>$
+[/nquRW40HOU2V]
+[nrJAD05akvDn#0] ^пурттӑм/пуртӑ<n><px1sg><nom>$
+[/nrJAD05akvDn]
+[nrzx5DD_NFsL#0] ^кукӑлӗре/кукӑль<n><px2pl><dat>$
+[/nrzx5DD_NFsL]
+[nu8RbGlhx4YC#0] ^сарайсенче/сарай<n><pl><loc>$
+[/nu8RbGlhx4YC]
+[nuE0HPhOhWMl#0] ^ӗҫсемпе/ӗҫ<n><pl><ins>$
+[/nuE0HPhOhWMl]
+[nvfM1tpZKykD#0] ^училищӗсен/училище<n><pl><gen>$
+[/nvfM1tpZKykD]
+[nxJ1VhkhWrtg#0] ^платйӗмӗн/*платйӗмӗн$
+[/nxJ1VhkhWrtg]
+[o-hBvtNtjdVt#0] ^проспектсенче/проспект<n><pl><loc>$
+[/o-hBvtNtjdVt]
+[o0dD3hHiHuen#0] ^хӗвелӗ/хӗвел<adj>+и<subst><nom>/хӗвел<adj><subst><px3sp><nom>/хӗвел<n><px3sp><nom>$
+[/o0dD3hHiHuen]
+[o5Jn9MRJFmCp#0] ^урамран/урам<n><abl>/ура<n><px1sg><abl>$
+[/o5Jn9MRJFmCp]
+[oAeFkT2hP8M7#0] ^тӑвӗн/ту<n><px3sp><gen>$
+[/oAeFkT2hP8M7]
+[oC40Y1jqx-c3#0] ^информацийӳн/информаци<n><px2sg><gen>$
+[/oC40Y1jqx-c3]
+[oEcuKDScbhv1#0] ^проспектӑмӑр/проспект<n><px1pl><nom>$
+[/oEcuKDScbhv1]
+[oHEL0wZippJ0#0] ^кӗсьӗрӗн/*кӗсьӗрӗн$
+[/oHEL0wZippJ0]
+[oHZJgb8ESlvr#0] ^кинӑр/кино<n><px2pl><nom>$
+[/oHZJgb8ESlvr]
+[oJ09yjHhbYzm#0] ^Ивановскаям/*Ивановскаям$
+[/oJ09yjHhbYzm]
+[oJD2Yuu_L9y4#0] ^пуртӑсемсӗр/пуртӑ<n><pl>+сӑр<post>$
+[/oJD2Yuu_L9y4]
+[oKuXgUXSeZ6k#0] ^кофӗве/*кофӗве$
+[/oKuXgUXSeZ6k]
+[oLEAiWhzFzQw#0] ^няньӑрӑн/няня<n><px2pl><gen>$
+[/oLEAiWhzFzQw]
+[oMgtXurLkWzE#0] ^пальтовӗн/*пальтовӗн$
+[/oMgtXurLkWzE]
+[oRfcf5l729w7#0] ^менюӑрӑн/*менюӑрӑн$
+[/oRfcf5l729w7]
+[oSanBxc7HDAA#0] ^каҫмасенче/каҫма<n><pl><loc>$
+[/oSanBxc7HDAA]
+[oSzMuIcrFhqo#0] ^йӗпсен/йӗпсе<n><gen>/йӗп<n><pl><gen>$
+[/oSzMuIcrFhqo]
+[oUKsPBee0UiQ#0] ^пальтовӗне/*пальтовӗне$
+[/oUKsPBee0UiQ]
+[oUl5E9r6Tg7N#0] ^кӗнекӳн/кӗнеке<n><px2sg><gen>$
+[/oUl5E9r6Tg7N]
+[oW6sKFsyC0gq#0] ^пальтомӑра/пальто<n><px1pl><dat>$
+[/oW6sKFsyC0gq]
+[oWSFttZ8sHzm#0] ^влаҫсене/власть<n><pl><dat>$
+[/oWSFttZ8sHzm]
+[oX4TYuTexWrH#0] ^Ивановскаю/Ивановский<np><cog><f><px2sg><nom>$
+[/oX4TYuTexWrH]
+[oeAeeXAPHBfU#0] ^йӗппӗмӗр/*йӗппӗмӗр$
+[/oeAeeXAPHBfU]
+[oh72UxONP95z#0] ^пӗвӗм/пӳ<n><px1sg><nom>$
+[/oh72UxONP95z]
+[ohCVb5rkjl9v#0] ^кӳлӗсемпе/кӳлӗ<n><pl><ins>$
+[/ohCVb5rkjl9v]
+[oi3Tef-sgxCk#0] ^кукӑльсенчен/кукӑль<n><pl><abl>$
+[/oi3Tef-sgxCk]
+[ojM4XKlmseet#0] ^кӗсьемӗре/кӗсье<n><px1pl><dat>$
+[/ojM4XKlmseet]
+[ojp6CF-6HZFC#0] ^тусӑр/тус<n><px2pl><nom>/тус<v><iv><fut><p2><pl>/тус<v><iv><imp><p2><pl>/тус<v><tv><fut><p2><pl>/тус<v><tv><imp><p2><pl>/ту<adj><subst>+сӑр<post>/ту<adj><subst><px2sg>+сӑр<post>/ту<n>+сӑр<post>$
+[/ojp6CF-6HZFC]
+[okEUninranh0#0] ^Порту/порт<n><px2sg><nom>$
+[/okEUninranh0]
+[on-DOc9jK_2A#0] ^Ивановскаямӑн/*Ивановскаямӑн$
+[/on-DOc9jK_2A]
+[op7_iRbB7ODL#0] ^кӗсьере/кӗсье<n><loc>$
+[/op7_iRbB7ODL]
+[opA0vJDRh0us#0] ^пӳсем/пӳ<n><pl><nom>$
+[/opA0vJDRh0us]
+[oqGXSsZ3qZTN#0] ^сӑвӑсен/сӑвӑ<n><pl><gen>$
+[/oqGXSsZ3qZTN]
+[ou04m-IsqwYV#0] ^складсӑр/склад<n>+сӑр<post>$
+[/ou04m-IsqwYV]
+[ouq9XUUe6p02#0] ^класна/класс<n><px2sg><dat>$
+[/ouq9XUUe6p02]
+[ovRDj9TuwM3Y#0] ^кроликшӑн/кролик<n><ter>$
+[/ovRDj9TuwM3Y]
+[ovt-G0mU2c9G#0] ^Ивановӑшӑн/Иваново<np><top><ter>/Иванов<np><cog><f><ter>$
+[/ovt-G0mU2c9G]
+[ow-3B6wwE68k#0] ^ҫуртӑмӑр/ҫурт<n><px1pl><nom>/ҫур<v><iv><past><p1><pl>/ҫур<v><tv><past><p1><pl>$
+[/ow-3B6wwE68k]
+[owj7NPiCtcXx#0] ^хӗвелӳн/хӗвел<adj><subst><px2sg><gen>/хӗвел<n><px2sg><gen>$
+[/owj7NPiCtcXx]
+[ox3CVkRv9m8_#0] ^стихим/*стихим$
+[/ox3CVkRv9m8_]
+[oxrFOXdBO9ed#0] ^менюсене/меню<n><pl><dat>/меню<n><px2sg><pl><dat>$
+[/oxrFOXdBO9ed]
+[oyHA_LLoVMrO#0] ^шоссӳе/*шоссӳе$
+[/oyHA_LLoVMrO]
+[oyZZRRWBAsIo#0] ^Сашӑрӑн/Саша<np><ant><f><px2pl><gen>/Саша<np><ant><m><px2pl><gen>$
+[/oyZZRRWBAsIo]
+[oz8dC8P8kGoH#0] ^вӑкӑрпа/вӑкӑр<n><ins>$
+[/oz8dC8P8kGoH]
+[ozU4JLtS2iNn#0] ^йӗппине/йӗп<n><px3sp><dat>$
+[/ozU4JLtS2iNn]
+[p-sjCTzi4-GG#0] ^аллейӑсем/аллея<n><pl><nom>$
+[/p-sjCTzi4-GG]
+[p2u8Hjmq6_NE#0] ^ҫыннӑма/ҫын<n><px1sg><dat>$
+[/p2u8Hjmq6_NE]
+[p3RcRKgZPGMZ#0] ^делосемшӗн/*делосемшӗн$
+[/p3RcRKgZPGMZ]
+[p9L-PT-6Dd88#0] ^пуллӑм/пулӑ<n><px1sg><nom>/пулӗ<adj><subst><px1sg><nom>$
+[/p9L-PT-6Dd88]
+[pDp8EyMaGRSX#0] ^кенгурусемпе/кенгуру<n><pl><ins>/кенгуру<n><px2sg><pl><ins>$
+[/pDp8EyMaGRSX]
+[pGmOoK0Tuqz9#0] ^менюӑра/*менюӑра$
+[/pGmOoK0Tuqz9]
+[pHYBK7RAzWaO#0] ^кофӗмӗрӗн/кофе<n><px1pl><gen>$
+[/pHYBK7RAzWaO]
+[pKkexdSzgB8o#0] ^супӑньпе/супӑнь<n><ins>$
+[/pKkexdSzgB8o]
+[pMOTE7HyZtR2#0] ^делона/*делона$
+[/pMOTE7HyZtR2]
+[pOnbGcgXKvMe#0] ^хӑйӑвӑма/хӑю<n><px1sg><dat>$
+[/pOnbGcgXKvMe]
+[pP3xsdX0UZlH#0] ^чӗрӗпӳ/чӗрӗп<n><px2sg><nom>$
+[/pP3xsdX0UZlH]
+[pP9epZ6e55sf#0] ^проспектсене/проспект<n><pl><dat>$
+[/pP9epZ6e55sf]
+[pQClJWNTmDyP#0] ^хурҫӑр/хурҫӑ<n><px2pl><nom>$
+[/pQClJWNTmDyP]
+[pRo9gvdR-H38#0] ^ҫыннӑмӑн/ҫын<n><px1sg><gen>$
+[/pRo9gvdR-H38]
+[pSBg95p5Zr_x#0] ^няньӑпа/няня<n><ins>$
+[/pSBg95p5Zr_x]
+[pUNjKBExkVH_#0] ^тӑвӗ/ту<n><px3sp><nom>/ту<v><tv><fut><p3><sg>$
+[/pUNjKBExkVH_]
+[pf9ftgp5zLMW#0] ^пальтосемшӗн/пальто<n><pl><ter>$
+[/pf9ftgp5zLMW]
+[pfYpGtdUX4hy#0] ^класра/класс<n><loc>$
+[/pfYpGtdUX4hy]
+[pk8m-gNTyLPd#0] ^классӑр/класс<n>+сӑр<post>$
+[/pk8m-gNTyLPd]
+[pko7x1lExVXe#0] ^киносем/кино<n><pl><nom>$
+[/pko7x1lExVXe]
+[pks8bsF__F4F#0] ^йӗпсемсӗр/йӗпсе<n><px1sg>+сӑр<post>/йӗп<n><pl>+сӑр<post>$
+[/pks8bsF__F4F]
+[ppf8ZdJ2JB_X#0] ^хӗвелӗр/хӗвел<adj><subst><px2pl><nom>/хӗвел<n><px2pl><nom>$
+[/ppf8ZdJ2JB_X]
+[ppvc_zkdB4wo#0] ^хӗвелӳ/хӗвел<adj><subst><px2sg><nom>/хӗвел<n><px2sg><nom>$
+[/ppvc_zkdB4wo]
+[pxyTkSuhfZ45#0] ^уйӑм/уй<adj><subst><px1sg><nom>/уй<n><px1sg><nom>$
+[/pxyTkSuhfZ45]
+[pyOdoz1tInOc#0] ^вӑкӑрун/вӑкӑр<n><px2sg><gen>$
+[/pyOdoz1tInOc]
+[q-XPWilVV4Kl#0] ^автанӑмӑн/автан<n><px1sg><gen>$
+[/q-XPWilVV4Kl]
+[q0uybEHAsQmY#0] ^влаҫӑмӑр/власть<n><px1pl><nom>$
+[/q0uybEHAsQmY]
+[q2m-WP75fLq2#0] ^кроликра/кролик<n><loc>$
+[/q2m-WP75fLq2]
+[q7khM9VglRqx#0] ^металсенче/металл<n><pl><loc>$
+[/q7khM9VglRqx]
+[q83LrreXT83i#0] ^хӑюра/хӑю<adj><subst><loc>/хӑю<n><loc>$
+[/q83LrreXT83i]
+[q8rcHY0gM6dO#0] ^складӑмӑра/склад<n><px1pl><dat>$
+[/q8rcHY0gM6dO]
+[qBJdfA6tM2nT#0] ^пулӑсемсӗр/пулӑ<n><pl>+сӑр<post>$
+[/qBJdfA6tM2nT]
+[qD7lXL0FugxS#0] ^кенгурусене/кенгуру<n><pl><dat>/кенгуру<n><px2sg><pl><dat>$
+[/qD7lXL0FugxS]
+[qEFNtphS2zTz#0] ^уюн/уй<adj><subst><px2sg><gen>/уй<n><px2sg><gen>$
+[/qEFNtphS2zTz]
+[qFAwuu18A5I7#0] ^тухьямӑр/тухья<n><px1pl><nom>$
+[/qFAwuu18A5I7]
+[qFgwPaEZTBix#0] ^металу/металл<n><px2sg><nom>$
+[/qFgwPaEZTBix]
+[qG4BdYYUIT3Q#0] ^лашасем/лаша<n><pl><nom>$
+[/qG4BdYYUIT3Q]
+[qIdIU0IQUC4a#0] ^июнӗмӗрӗн/июнь<n><px1pl><gen>$
+[/qIdIU0IQUC4a]
+[qIz0kP8_JLUc#0] ^шӑшисенче/шӑши<n><pl><loc>$
+[/qIz0kP8_JLUc]
+[qJ86bChUgirM#0] ^автобусӑмӑра/автобус<n><px1pl><dat>$
+[/qJ86bChUgirM]
+[qOzn-xx085W0#0] ^хӑйӑвӑрӑн/хӑю<n><px2pl><gen>$
+[/qOzn-xx085W0]
+[qPoXlgOF7q7K#0] ^тенкӗмӗрӗн/тенкӗ<n><px1pl><gen>$
+[/qPoXlgOF7q7K]
+[qXDxQOmoiWeK#0] ^Ивановӑма/Иваново<np><top><px1sg><dat>/Иванов<np><cog><f><px1sg><dat>/Иванов<np><cog><m><px1sg><dat>$
+[/qXDxQOmoiWeK]
+[qYHAJfnxwSoG#0] ^кӳллӗрӗн/кӳлӗ<n><px2pl><gen>$
+[/qYHAJfnxwSoG]
+[qZn6CCeb2Y9t#0] ^аллейине/аллея<n><px3sp><dat>$
+[/qZn6CCeb2Y9t]
+[q_Xb5iKhY5qO#0] ^кроликсенче/кролик<n><pl><loc>$
+[/q_Xb5iKhY5qO]
+[qabZDmIp189L#0] ^шӑшире/шӑши<n><loc>$
+[/qabZDmIp189L]
+[qagyfhkyqy86#0] ^классенчен/класс<n><pl><abl>$
+[/qagyfhkyqy86]
+[qbbK2PluotdD#0] ^няньӑсен/няня<n><pl><gen>$
+[/qbbK2PluotdD]
+[qh1UbFlnKMWi#0] ^автобусӑма/автобус<n><px1sg><dat>$
+[/qh1UbFlnKMWi]
+[qj3nFAazBOWa#0] ^ӗҫне/ӗҫ<n><px3sp><dat>/ӗҫ<v><iv><ger_past>/ӗҫ<v><tv><ger_past>/ӗҫ<n><px2sg><dat>$
+[/qj3nFAazBOWa]
+[qkbSaWnaZSN5#0] ^аллейӑсенче/аллея<n><pl><loc>$
+[/qkbSaWnaZSN5]
+[qlUIlzbThk1v#0] ^хурҫӑран/хурҫӑ<n><abl>$
+[/qlUIlzbThk1v]
+[qmhodm_6ynOd#0] ^металӗн/металл<n><px3sp><gen>$
+[/qmhodm_6ynOd]
+[qn9cCfXNoxdE#0] ^ҫынсӑр/ҫынсӑр<adj>/ҫынсӑр<adj><subst><nom>/ҫын<n>+сӑр<post>$
+[/qn9cCfXNoxdE]
+[qnyC6j7vLmpA#0] ^няньӑмӑра/няня<n><px1pl><dat>$
+[/qnyC6j7vLmpA]
+[qp6zZ0KNGqA3#0] ^кӗнекине/кӗнеке<n><px3sp><dat>$
+[/qp6zZ0KNGqA3]
+[qpSLCONERJ7h#0] ^платйӗр/платье<n><px2pl><nom>$
+[/qpSLCONERJ7h]
+[qqKlAeLdax3a#0] ^Ивановскаямӑрӑн/*Ивановскаямӑрӑн$
+[/qqKlAeLdax3a]
+[qrOOgJ7ok0dg#0] ^тетрадӗмӗрӗн/тетрадь<n><px1pl><gen>$
+[/qrOOgJ7ok0dg]
+[qsfKkn0Re-fO#0] ^каҫмасенчен/каҫма<n><pl><abl>$
+[/qsfKkn0Re-fO]
+[qu-X1-bbRkFp#0] ^автобусӑн/автобус<n><gen>$
+[/qu-X1-bbRkFp]
+[qyO25Us8-cRp#0] ^пуртӑсемшӗн/пуртӑ<n><pl><ter>$
+[/qyO25Us8-cRp]
+[r09MZF9P_dHE#0] ^стихимӗн/*стихимӗн$
+[/r09MZF9P_dHE]
+[r0qrAoWO2HxQ#0] ^кӗсьесенчен/кӗсье<n><pl><abl>$
+[/r0qrAoWO2HxQ]
+[r2Cl1JhrI3Gj#0] ^ҫуртра/ҫурт<n><loc>$
+[/r2Cl1JhrI3Gj]
+[r3LlHKg4NqQr#0] ^июлӗмӗр/июль<n><px1pl><nom>$
+[/r3LlHKg4NqQr]
+[r3lUnmRJp6I1#0] ^пальтосенчен/пальто<n><pl><abl>$
+[/r3lUnmRJp6I1]
+[r5PF1ghcG7vQ#0] ^кӳллӗмӗн/кӳлӗ<n><px1sg><gen>$
+[/r5PF1ghcG7vQ]
+[rG196MIyimCG#0] ^вӑкӑршӑн/вӑкӑр<n><ter>$
+[/rG196MIyimCG]
+[rK08FMvDw8jz#0] ^училищӗме/училище<n><px1sg><dat>$
+[/rK08FMvDw8jz]
+[rNecL6jFw2O3#0] ^литературӑсене/литература<n><pl><dat>$
+[/rNecL6jFw2O3]
+[rNzZbmgasYrP#0] ^проспектпа/проспект<n><ins>$
+[/rNzZbmgasYrP]
+[rObIx0gWQCQ_#0] ^кӗсье/кӗсье<n><attr>/кӗсье<n><nom>$
+[/rObIx0gWQCQ_]
+[rOy30G5yj6AD#0] ^киносене/кино<n><pl><dat>$
+[/rOy30G5yj6AD]
+[rTFoXQKJSQaC#0] ^металӑма/металл<n><px1sg><dat>$
+[/rTFoXQKJSQaC]
+[rTkZ8oDxuQB-#0] ^менюӑр/*менюӑр$
+[/rTkZ8oDxuQB-]
+[rU1eCZVjUhmK#0] ^пальтӑра/пальто<n><px2pl><dat>$
+[/rU1eCZVjUhmK]
+[rUZfExd_RaYk#0] ^автанӑмӑрӑн/автан<n><px1pl><gen>$
+[/rUZfExd_RaYk]
+[rYFeGGhqfYPu#0] ^проспектна/проспект<n><px2sg><dat>$
+[/rYFeGGhqfYPu]
+[rYzEBB6nbELv#0] ^тимӗрҫе/тимӗрҫӗ<n><dat>$
+[/rYzEBB6nbELv]
+[r_MJwPXYbmE_#0] ^супӑнӗ/супӑнь<n><px3sp><nom>/супӑн<v><iv><fut><p3><sg>/супӑн<v><tv><fut><p3><sg>$
+[/r_MJwPXYbmE_]
+[r_g3xN1gM4gl#0] ^тухьямӑн/тухья<n><px1sg><gen>$
+[/r_g3xN1gM4gl]
+[raqZ6X9V0Sb0#0] ^проспектсен/проспект<n><pl><gen>$
+[/raqZ6X9V0Sb0]
+[rb3eRHtZrVEg#0] ^платйӗсемшӗн/платье<n><pl><ter>$
+[/rb3eRHtZrVEg]
+[rbd79LnGHNmP#0] ^Золотницкиме/*Золотницкиме$
+[/rbd79LnGHNmP]
+[rcrBsXQLUqlf#0] ^стихине/стихи<n><px3sp><dat>/стихи<n><px2sg><dat>$
+[/rcrBsXQLUqlf]
+[rd2xNPSIsV5m#0] ^автобусра/автобус<n><loc>$
+[/rd2xNPSIsV5m]
+[rgH78UlxCcXy#0] ^кӗнекесенчен/кӗнеке<n><pl><abl>$
+[/rgH78UlxCcXy]
+[rhlLfwAJZne8#0] ^училищӗсемпе/училище<n><pl><ins>$
+[/rhlLfwAJZne8]
+[rknjFshK36c8#0] ^пуллӑрӑн/пулӑ<n><px2pl><gen>$
+[/rknjFshK36c8]
+[rnoUbP0lcvu-#0] ^Порттун/*Порттун$
+[/rnoUbP0lcvu-]
+[rpkhD_jn-p2E#0] ^Ивановскаяма/*Ивановскаяма$
+[/rpkhD_jn-p2E]
+[rqrWgTCw3BjI#0] ^Ивановӑпа/Иваново<np><top><ins>/Иванов<np><cog><f><ins>$
+[/rqrWgTCw3BjI]
+[rrBYkUQ5MHFj#0] ^тетрадьрен/тетрадь<n><abl>$
+[/rrBYkUQ5MHFj]
+[rs_TiP00bE0s#0] ^каҫмасене/каҫма<n><pl><dat>$
+[/rs_TiP00bE0s]
+[ruWj5tNaQG6Q#0] ^урамсемсӗр/урам<n><pl>+сӑр<post>/ура<n><px1sg><pl>+сӑр<post>$
+[/ruWj5tNaQG6Q]
+[rvayktY4VUAA#0] ^ӗҫрен/ӗҫ<n><abl>$
+[/rvayktY4VUAA]
+[s-dnujbn-cPL#0] ^чикке/чикӗ<n><dat>$
+[/s-dnujbn-cPL]
+[s2qZDfEy1hcO#0] ^стихийин/стихия<n><px3sp><gen>$
+[/s2qZDfEy1hcO]
+[s47ko-Gmr0_I#0] ^Сашӑмӑр/Саша<np><ant><f><px1pl><nom>/Саша<np><ant><m><px1pl><nom>$
+[/s47ko-Gmr0_I]
+[sHr5-njL1IiK#0] ^нянин/няня<n><px3sp><gen>$
+[/sHr5-njL1IiK]
+[sJf5rZ0nhmyX#0] ^шоссене/шоссе<n><dat>$
+[/sJf5rZ0nhmyX]
+[sKBDsbNGXb8X#0] ^пуртти/пуртӑ<n><px3sp><nom>$
+[/sKBDsbNGXb8X]
+[sKVQMFDcqcp1#0] ^кӗсьесене/кӗсье<n><pl><dat>$
+[/sKVQMFDcqcp1]
+[sLrACCG0dp78#0] ^делосенчен/*делосенчен$
+[/sLrACCG0dp78]
+[sMXVEB8_7tOB#0] ^кофӗме/кофе<n><px1sg><dat>$
+[/sMXVEB8_7tOB]
+[sNbTkNIh9RKE#0] ^Ивановуна/Иваново<np><top><px2sg><dat>/Иванов<np><cog><f><px2sg><dat>/Иванов<np><cog><m><px2sg><dat>$
+[/sNbTkNIh9RKE]
+[sOHlOnzcIwOi#0] ^июнӗм/июнь<n><px1sg><nom>$
+[/sOHlOnzcIwOi]
+[sP8b4wDpmPhz#0] ^литературӑр/литература<n><px2pl><nom>$
+[/sP8b4wDpmPhz]
+[sYgcDBGEbb0I#0] ^чикӗсенче/чикӗ<n><pl><loc>$
+[/sYgcDBGEbb0I]
+[sYk4qVMRTOlP#0] ^Ивановскаяна/*Ивановскаяна$
+[/sYk4qVMRTOlP]
+[sYlw_hcvn1jw#0] ^кенгурум/кенгуру<n><px1sg><nom>$
+[/sYlw_hcvn1jw]
+[s_EYhR4Gs2pu#0] ^кукӑльсенче/кукӑль<n><pl><loc>$
+[/s_EYhR4Gs2pu]
+[s_dS6RumVXFq#0] ^проспектӑм/проспект<n><px1sg><nom>$
+[/s_dS6RumVXFq]
+[s_w8XM5oxCS2#0] ^урамсенчен/урам<n><pl><abl>/ура<n><px1sg><pl><abl>$
+[/s_w8XM5oxCS2]
+[saAVg_UStGKf#0] ^тетрадьсен/тетрадь<n><pl><gen>$
+[/saAVg_UStGKf]
+[sajoQ1lJ4p59#0] ^киновӗн/кино<n><px3sp><gen>$
+[/sajoQ1lJ4p59]
+[sf64RAYXOJTi#0] ^автобусӑра/автобус<n><px2pl><dat>$
+[/sf64RAYXOJTi]
+[sjJVmDNWEsjd#0] ^сарайӑн/сарай<n><gen>/сар<v><iv><abil><fut><p2><sg>/сар<v><iv><abil><pres><p2><sg>/сар<v><tv><abil><fut><p2><sg>/сар<v><tv><abil><pres><p2><sg>$
+[/sjJVmDNWEsjd]
+[slXSHlLptFae#0] ^менюу/*менюу$
+[/slXSHlLptFae]
+[ss5R9bjcUPTL#0] ^кинон/кино<n><gen>$
+[/ss5R9bjcUPTL]
+[sv7WVh1ZQVi5#0] ^каҫми/каҫма<n><px3sp><nom>/каҫ<v><iv><ger><px3sp><nom>/каҫ<v><tv><ger><px3sp><nom>$
+[/sv7WVh1ZQVi5]
+[t0-xfbtSyozp#0] ^аллейӑма/аллея<n><px1sg><dat>$
+[/t0-xfbtSyozp]
+[t0TtpaNeLD6D#0] ^Ивановӑн/Иваново<np><top><gen>/Иванов<np><cog><f><gen>/Иванов<np><cog><m><gen>$
+[/t0TtpaNeLD6D]
+[t6Yan5YCziPz#0] ^кроликсене/кролик<n><pl><dat>$
+[/t6Yan5YCziPz]
+[t6sQgPm4SBX6#0] ^Бакуна/бак<n><px2sg><dat>$
+[/t6sQgPm4SBX6]
+[tAdvKNsdlb-5#0] ^училищӳн/училище<n><px2sg><gen>$
+[/tAdvKNsdlb-5]
+[tC615sR2ieHo#0] ^шоссер/*шоссер$
+[/tC615sR2ieHo]
+[tFcmEImb4wwv#0] ^тусенче/ту<adj><subst><pl><loc>/ту<adj><subst><px2sg><pl><loc>/ту<n><pl><loc>$
+[/tFcmEImb4wwv]
+[tHX-TYCafALg#0] ^влаҫӗн/власть<n><px3sp><gen>$
+[/tHX-TYCafALg]
+[tIL0AVM016PY#0] ^стихирӗн/*стихирӗн$
+[/tIL0AVM016PY]
+[tK9ZVU0wD6xr#0] ^кӗнекен/кӗнеке<n><gen>$
+[/tK9ZVU0wD6xr]
+[tMwWQ8GV7rfV#0] ^ҫынсем/ҫын<n><pl><nom>$
+[/tMwWQ8GV7rfV]
+[tNzxf9wCtRgv#0] ^металшӑн/металл<n><ter>$
+[/tNzxf9wCtRgv]
+[tONi-ttX_0YV#0] ^сӑввӑма/сӑвӑ<n><px1sg><dat>$
+[/tONi-ttX_0YV]
+[tP78yoAramNO#0] ^стихийи/стихия<n><px3sp><nom>$
+[/tP78yoAramNO]
+[tPqXfso7WhIg#0] ^металӑн/металл<n><gen>$
+[/tPqXfso7WhIg]
+[tQcNOwMBhbOZ#0] ^кофӳн/кофе<n><px2sg><gen>$
+[/tQcNOwMBhbOZ]
+[tUxp1b2YctDN#0] ^училищин/училище<n><px3sp><gen>$
+[/tUxp1b2YctDN]
+[tW_7ffvEMGTq#0] ^тушӑн/тушь<n><gen>/туш<n><gen>/ту<adj><subst><px2sg><ter>/ту<adj><subst><ter>/ту<n><ter>$
+[/tW_7ffvEMGTq]
+[tY5XD6BMkvQO#0] ^кофин/кофе<n><px3sp><gen>$
+[/tY5XD6BMkvQO]
+[taCUa68tzofG#0] ^кукӑльрен/кукӑль<n><abl>$
+[/taCUa68tzofG]
+[taIhTOBlE_eE#0] ^аллейӑн/аллея<n><gen>$
+[/taIhTOBlE_eE]
+[tbJX98nq0WlQ#0] ^шӑшийӗмӗр/шӑши<n><px1pl><nom>$
+[/tbJX98nq0WlQ]
+[tge6oF45Hduq#0] ^июнӗмӗн/июнь<n><px1sg><gen>$
+[/tge6oF45Hduq]
+[tgmeo2c--poE#0] ^вӑкӑрӑмӑр/вӑкӑр<n><px1pl><nom>$
+[/tgmeo2c--poE]
+[tj21zeSvrP9f#0] ^Золотницкишӗн/Золотницкий<np><cog><m><ter>$
+[/tj21zeSvrP9f]
+[tm3WxMev-oP-#0] ^музейӗр/музей<n><px2pl><nom>$
+[/tm3WxMev-oP-]
+[tqUo7I7joLlJ#0] ^чӗрӗпӗме/чӗрӗп<n><px1sg><dat>$
+[/tqUo7I7joLlJ]
+[trtWGynpbJBu#0] ^кӗнеки/кӗнеке<n><px3sp><nom>$
+[/trtWGynpbJBu]
+[tx8idURYMiPI#0] ^чӗрӗпӳн/чӗрӗп<n><px2sg><gen>$
+[/tx8idURYMiPI]
+[txCYqK-xMqMk#0] ^июнь/июнь<n><attr>/июнь<n><nom>$
+[/txCYqK-xMqMk]
+[txO0cfEIRuTN#0] ^тимӗрҫӗсем/тимӗрҫӗ<n><pl><nom>$
+[/txO0cfEIRuTN]
+[txgGi9o4syVq#0] ^супӑне/супӑнь<n><dat>$
+[/txgGi9o4syVq]
+[tzkUwDfLbiHH#0] ^шӑшин/шӑши<n><gen>$
+[/tzkUwDfLbiHH]
+[u0P8GGlAbmzj#0] ^складсене/склад<n><pl><dat>$
+[/u0P8GGlAbmzj]
+[u0eBsT1R-3Xt#0] ^хӗвеле/хӗвеллӗ<adj><subst><dat>/хӗвел<adj><subst><dat>/хӗвел<n><dat>$
+[/u0eBsT1R-3Xt]
+[u5sYr2Mpzl4l#0] ^чейӗме/чей<n><px1sg><dat>$
+[/u5sYr2Mpzl4l]
+[u9WMkzMCNbO1#0] ^хурҫӑма/хурҫӑ<n><px1sg><dat>$
+[/u9WMkzMCNbO1]
+[uCRO7-KQAHdc#0] ^Портту/*Портту$
+[/uCRO7-KQAHdc]
+[uEF-1WqXKOQc#0] ^пӗвӗмӗре/пӳ<n><px1pl><dat>$
+[/uEF-1WqXKOQc]
+[uHEX_k-rgV9y#0] ^Ивановӑсӑр/Иваново<np><top>+сӑр<post>/Иванов<np><cog><f>+сӑр<post>$
+[/uHEX_k-rgV9y]
+[uIjp3hle09aF#0] ^информаципе/информаци<n><ins>$
+[/uIjp3hle09aF]
+[uMvRh-kfXRs7#0] ^сарайӑра/сарай<n><px2pl><dat>$
+[/uMvRh-kfXRs7]
+[uNWgSliXiS_D#0] ^пальтона/пальто<n><dat>$
+[/uNWgSliXiS_D]
+[uNt86pXWIXvb#0] ^аллейӑсенчен/аллея<n><pl><abl>$
+[/uNt86pXWIXvb]
+[uPj1HpU3_IQo#0] ^пӗвӳн/пӗве<n><px2sg><gen>/пӳ<n><px2sg><gen>$
+[/uPj1HpU3_IQo]
+[uRA5jxB9tno-#0] ^кӳлӗсӗр/кӳл<v><iv><opt><p2><pl>/кӳл<v><tv><opt><p2><pl>/кӳлӗ<n>+сӑр<post>$
+[/uRA5jxB9tno-]
+[uSlb0piK3Y_b#0] ^Сашӑсен/Саша<np><ant><f><pl><gen>/Саша<np><ant><m><pl><gen>$
+[/uSlb0piK3Y_b]
+[uTXgtg-9oPCr#0] ^сараюн/сарай<n><px2sg><gen>$
+[/uTXgtg-9oPCr]
+[uTs7TWdozbiX#0] ^металл/металл<n><attr>/металл<n><nom>$
+[/uTs7TWdozbiX]
+[uVdpIBDJIU2X#0] ^сӑввин/сӑвӑ<n><px3sp><gen>$
+[/uVdpIBDJIU2X]
+[uXhuSeu85N1C#0] ^автобуссенчен/автобус<n><pl><abl>$
+[/uXhuSeu85N1C]
+[uaey7NvUCEi2#0] ^чикӗсемпе/чикӗ<n><pl><ins>$
+[/uaey7NvUCEi2]
+[ufcKaSC54KFp#0] ^хурҫу/хурҫӑ<n><px2sg><nom>$
+[/ufcKaSC54KFp]
+[ui8Iuf4zIJ0d#0] ^тухьян/тухья<n><gen>$
+[/ui8Iuf4zIJ0d]
+[ujhS22iSOTdJ#0] ^тӑвӑма/ту<n><px1sg><dat>/тӑвӑм<n><dat>$
+[/ujhS22iSOTdJ]
+[uksW2o1WcxM4#0] ^хӗвелсенче/хӗвел<adj><subst><pl><loc>/хӗвел<n><pl><loc>$
+[/uksW2o1WcxM4]
+[umXhL3vVHcrT#0] ^проспектӑма/проспект<n><px1sg><dat>$
+[/umXhL3vVHcrT]
+[ur57XVlx0mm1#0] ^влаҫсенче/власть<n><pl><loc>$
+[/ur57XVlx0mm1]
+[uuQf1HgEG9Vv#0] ^уйӑма/уй<adj><subst><px1sg><dat>/уй<n><px1sg><dat>$
+[/uuQf1HgEG9Vv]
+[uusSQ6HSVp8b#0] ^ӗҫӗмӗр/ӗҫ<n><px1pl><nom>$
+[/uusSQ6HSVp8b]
+[uzm0zTkKQ2jM#0] ^аллейӑран/аллея<n><abl>$
+[/uzm0zTkKQ2jM]
+[v0HNpaNcTQeJ#0] ^тенкӗмӗр/тенкӗ<n><px1pl><nom>$
+[/v0HNpaNcTQeJ]
+[v1lX3Psclm0J#0] ^ӗҫӗмӗре/ӗҫ<n><px1pl><dat>$
+[/v1lX3Psclm0J]
+[v1zWCKwfYf-a#0] ^супӑньсӗр/супӑнь<n>+сӑр<post>$
+[/v1zWCKwfYf-a]
+[v20sZBs08p5T#0] ^киномӑн/кино<n><px1sg><gen>$
+[/v20sZBs08p5T]
+[v2GhwYnduPVw#0] ^лашӑрӑн/лаша<n><px2pl><gen>$
+[/v2GhwYnduPVw]
+[v3NuKfcYdsnm#0] ^аллейӑмӑрӑн/аллея<n><px1pl><gen>$
+[/v3NuKfcYdsnm]
+[v6F7UGga5rQu#0] ^автану/автан<n><px2sg><nom>$
+[/v6F7UGga5rQu]
+[v6zQm2XX349y#0] ^уйӗн/уй<adj>+и<subst><gen>/уй<adj><subst><px3sp><gen>/уй<n><px3sp><gen>$
+[/v6zQm2XX349y]
+[v80veyEBzYGr#0] ^Портуран/*Портуран$
+[/v80veyEBzYGr]
+[v95mqXygCzip#0] ^стенам/стена<n><px1sg><nom>$
+[/v95mqXygCzip]
+[vDniAzvW2ZrK#0] ^кином/кино<n><px1sg><nom>$
+[/vDniAzvW2ZrK]
+[vIg7Z2D8BwBp#0] ^июньсемсӗр/июнь<n><pl>+сӑр<post>$
+[/vIg7Z2D8BwBp]
+[vKJ4UJL5pBjc#0] ^Золотницкие/Золотницкий<np><cog><m><dat>$
+[/vKJ4UJL5pBjc]
+[vN8aeFgh8emp#0] ^Сашӑмӑра/Саша<np><ant><f><px1pl><dat>/Саша<np><ant><m><px1pl><dat>$
+[/vN8aeFgh8emp]
+[vOoKLN6jR0cA#0] ^кӗнекӳне/кӗнеке<n><px2sg><dat>$
+[/vOoKLN6jR0cA]
+[vUfzTbfFL922#0] ^пальтомӑрӑн/пальто<n><px1pl><gen>$
+[/vUfzTbfFL922]
+[veNM_dSCbKgA#0] ^делу/дело<n><px2sg><nom>$
+[/veNM_dSCbKgA]
+[vfeWOjOon4An#0] ^каҫман/каҫма<n><gen>/каҫ<v><iv><neg><gpr_past>/каҫ<v><iv><neg><gpr_pres>/каҫ<v><iv><neg><gpr_pres><subst><nom>/каҫ<v><iv><neg><past><evid>/каҫ<v><tv><neg><gpr_past>/каҫ<v><tv><neg><gpr_pres>/каҫ<v><tv><neg><gpr_pres><subst><nom>/каҫ<v><tv><neg><past><evid>$
+[/vfeWOjOon4An]
+[vg1oaRvCpgOv#0] ^вӑййӑн/вӑйӑ<n><gen>$
+[/vg1oaRvCpgOv]
+[vi2u7J7f1My9#0] ^стихипе/стихи<n><ins>$
+[/vi2u7J7f1My9]
+[vj4dMn7VVFMz#0] ^Ивановин/Иваново<np><top><px3sp><gen>/Иванов<np><cog><f><px3sp><gen>$
+[/vj4dMn7VVFMz]
+[vjpUYz8-XSO7#0] ^чӗрӗпсен/чӗрӗп<n><pl><gen>$
+[/vjpUYz8-XSO7]
+[vmto2qd783z1#0] ^Золотницкин/Золотницкий<np><cog><m><gen>$
+[/vmto2qd783z1]
+[voWOkKADE6B-#0] ^влаҫра/власть<n><loc>$
+[/voWOkKADE6B-]
+[vqGDX3VY5_E7#0] ^кӗсьемӗрӗн/кӗсье<n><px1pl><gen>$
+[/vqGDX3VY5_E7]
+[vqVeAefNIFCt#0] ^автансенчен/автан<n><pl><abl>$
+[/vqVeAefNIFCt]
+[vri63MCR3IuS#0] ^няньӑсемшӗн/няня<n><pl><ter>$
+[/vri63MCR3IuS]
+[vsSxPoyPC-X0#0] ^сӑвӑра/су<n><px2pl><dat>/сӑвӑр<n><dat>/сӑвӑ<n><loc>$
+[/vsSxPoyPC-X0]
+[w-G61xwTGmns#0] ^автана/автан<n><dat>$
+[/w-G61xwTGmns]
+[w1EHUbwWS_UQ#0] ^складӑмӑрӑн/склад<n><px1pl><gen>$
+[/w1EHUbwWS_UQ]
+[w1rAbxrdiO8T#0] ^хӗвелсемпе/хӗвел<adj><subst><pl><ins>/хӗвел<n><pl><ins>$
+[/w1rAbxrdiO8T]
+[w6DSGK-B9Umc#0] ^чӗрӗпне/чӗрӗп<n><px3sp><dat>/чӗрӗп<n><px2sg><dat>$
+[/w6DSGK-B9Umc]
+[w6y8Xv15WEcy#0] ^ҫурчӗ/ҫурт<n><px3sp><nom>/ҫур<v><iv><past><p3><sg>/ҫур<v><tv><past><p3><sg>$
+[/w6y8Xv15WEcy]
+[w87FhZYB66Iw#0] ^тимӗрҫӗ/тимӗрҫӗ<n><attr>/тимӗрҫӗ<n><nom>$
+[/w87FhZYB66Iw]
+[w8vztRmiUrCe#0] ^тимӗрҫӗсене/тимӗрҫӗ<n><pl><dat>$
+[/w8vztRmiUrCe]
+[wBcP3CYGma4f#0] ^стихийине/стихия<n><px3sp><dat>$
+[/wBcP3CYGma4f]
+[wDPKx4_rzsM-#0] ^Золотницкисенче/Золотницкий<np><cog><m><pl><loc>$
+[/wDPKx4_rzsM-]
+[wGqxk_pCtz3-#0] ^кенгурумӑра/кенгуру<n><px1pl><dat>$
+[/wGqxk_pCtz3-]
+[wITlt9s7Fb4m#0] ^чӗрӗпсенчен/чӗрӗп<n><pl><abl>$
+[/wITlt9s7Fb4m]
+[wIWrgx_Oouqm#0] ^кукӑлӗме/кукӑль<n><px1sg><dat>$
+[/wIWrgx_Oouqm]
+[wJC_EGv9vSFN#0] ^пӗвӗрӗн/пӗве<n><px2pl><gen>/пӳ<n><px2pl><gen>$
+[/wJC_EGv9vSFN]
+[wKqNI_w6RGXI#0] ^хӗвелре/*хӗвелре$
+[/wKqNI_w6RGXI]
+[wKueqQ8GDyki#0] ^хӑйӑвӑн/хӑю<n><gen>$
+[/wKueqQ8GDyki]
+[wLeGps9etJZN#0] ^июлӗмӗн/июль<n><px1sg><gen>$
+[/wLeGps9etJZN]
+[wPtM9Yw5fOea#0] ^платйӳ/платье<n><px2sg><nom>$
+[/wPtM9Yw5fOea]
+[wTn9EH1pYFRp#0] ^музейсемпе/музей<n><pl><ins>$
+[/wTn9EH1pYFRp]
+[wVHvWbkX1RSG#0] ^ҫуртпа/ҫурт<n><ins>$
+[/wVHvWbkX1RSG]
+[wZASWjHRBUMw#0] ^чиккӗмӗр/чикӗ<n><px1pl><nom>$
+[/wZASWjHRBUMw]
+[waFLv4-eyVky#0] ^ӗҫсем/ӗҫ<n><pl><nom>$
+[/waFLv4-eyVky]
+[weJUer0LbF5J#0] ^Порттӑмӑр/*Порттӑмӑр$
+[/weJUer0LbF5J]
+[wfPJhlXeVxlZ#0] ^училищӗсенче/училище<n><pl><loc>$
+[/wfPJhlXeVxlZ]
+[wfi36lN_IuxU#0] ^июлӗн/июль<n><gen>/июль<n><px3sp><gen>$
+[/wfi36lN_IuxU]
+[wgbI0vVdYIz-#0] ^платйине/платье<n><px3sp><dat>$
+[/wgbI0vVdYIz-]
+[whW41Pv7oIY-#0] ^проспекчӗн/проспект<n><px3sp><gen>$
+[/whW41Pv7oIY-]
+[wkkO2iC3dzPB#0] ^тенкӗсене/тенкӗ<n><pl><dat>$
+[/wkkO2iC3dzPB]
+[wnB93P8W3u3d#0] ^тӑвна/ту<v><tv><ger_past>/ту<n><px2sg><dat>$
+[/wnB93P8W3u3d]
+[woh1sX5r_2t-#0] ^чӗрӗппе/чӗрӗп<n><ins>$
+[/woh1sX5r_2t-]
+[wpCB3O4lfHZA#0] ^Сашӑра/Саша<np><ant><f><loc>/Саша<np><ant><f><px2pl><dat>/Саша<np><ant><m><loc>/Саша<np><ant><m><px2pl><dat>$
+[/wpCB3O4lfHZA]
+[wq6Eln-h5NNs#0] ^уйна/уй<n><px2sg><dat>$
+[/wq6Eln-h5NNs]
+[wrxbV1ot1izc#0] ^чей/чей<n><attr>/чей<n><nom>$
+[/wrxbV1ot1izc]
+[wtYf0lOuh-eV#0] ^кенгуруран/кенгуру<n><abl>$
+[/wtYf0lOuh-eV]
+[wy9_BQBUFUio#0] ^июньсӗр/июнь<n>+сӑр<post>$
+[/wy9_BQBUFUio]
+[x0TJMnwaGojC#0] ^Сашӑран/Саша<np><ant><f><abl>/Саша<np><ant><m><abl>$
+[/x0TJMnwaGojC]
+[x29JX3smoIBV#0] ^хӑйӑву/хӑю<n><px2sg><nom>$
+[/x29JX3smoIBV]
+[x6CPL1xjv1SB#0] ^пуртӑшӑн/пуртӑ<n><ter>$
+[/x6CPL1xjv1SB]
+[x6e1nzsqYA5q#0] ^тетрадӳн/тетрадь<n><px2sg><gen>$
+[/x6e1nzsqYA5q]
+[x7JeOzimjYU0#0] ^делопа/*делопа$
+[/x7JeOzimjYU0]
+[x7trQdCHwh4l#0] ^ҫуртсемсӗр/ҫурт<n><pl>+сӑр<post>$
+[/x7trQdCHwh4l]
+[xAfF1d50rly3#0] ^пальтора/пальто<n><loc>$
+[/xAfF1d50rly3]
+[xHPITWxXwvjS#0] ^тухьяра/тухья<n><loc>$
+[/xHPITWxXwvjS]
+[xJlxSacDE5r-#0] ^ҫынсемпе/ҫын<n><pl><ins>$
+[/xJlxSacDE5r-]
+[xK8R31SNKrLd#0] ^проспекта/проспект<n><dat>$
+[/xK8R31SNKrLd]
+[xMuvHFQbPJGh#0] ^музейне/музей<n><px3sp><dat>$
+[/xMuvHFQbPJGh]
+[xNtuQ8SN38dX#0] ^класӑрӑн/класс<n><px2pl><gen>$
+[/xNtuQ8SN38dX]
+[xWVT2VNw5BAA#0] ^вӑййин/вӑйӑ<n><px3sp><gen>$
+[/xWVT2VNw5BAA]
+[xYyJ6T_v1ehP#0] ^кролик/кролик<n><attr>/кролик<n><nom>$
+[/xYyJ6T_v1ehP]
+[xZ9Hs1ThqQdr#0] ^тенкӗме/тенкӗ<n><px1sg><dat>$
+[/xZ9Hs1ThqQdr]
+[xb_kjycHI3rM#0] ^супӑньрен/супӑнь<n><abl>$
+[/xb_kjycHI3rM]
+[xc-IAgATrM9u#0] ^йӗппи/йӗп<n><px3sp><nom>$
+[/xc-IAgATrM9u]
+[xdPUPltkaXUl#0] ^стихия/стихия<n><attr>/стихия<n><nom>$
+[/xdPUPltkaXUl]
+[xgE1-7xCms5K#0] ^хурҫӑрӑн/хурҫӑ<n><px2pl><gen>$
+[/xgE1-7xCms5K]
+[xgfQ_Wd8-ScM#0] ^каҫмапа/каҫма<n><ins>$
+[/xgfQ_Wd8-ScM]
+[xoNZf556N8a0#0] ^пулӑсене/пулӑ<n><pl><dat>$
+[/xoNZf556N8a0]
+[xp-JupK0sil6#0] ^кӳллин/кӳлӗ<n><px3sp><gen>$
+[/xp-JupK0sil6]
+[xp0cL5GBTQPm#0] ^вӑкӑрне/вӑкӑр<n><px3sp><dat>$
+[/xp0cL5GBTQPm]
+[xsoDLIzZcNBj#0] ^лашамӑрӑн/лаша<n><px1pl><gen>$
+[/xsoDLIzZcNBj]
+[xxpjPy8LK_RZ#0] ^кинопа/кино<n><ins>$
+[/xxpjPy8LK_RZ]
+[xzsaUSs5Tylw#0] ^ҫынна/ҫын<n><dat>$
+[/xzsaUSs5Tylw]
+[y3J6SVrCpu-5#0] ^автобусӗ/автобус<n><px3sp><nom>$
+[/y3J6SVrCpu-5]
+[y7COnqw6XSA9#0] ^проспекчӗ/проспект<n><px3sp><nom>$
+[/y7COnqw6XSA9]
+[y7rrXAG_eahQ#0] ^супӑнне/*супӑнне$
+[/y7rrXAG_eahQ]
+[yAlxSZpT8HMQ#0] ^училищӗсӗр/училище<n>+сӑр<post>$
+[/yAlxSZpT8HMQ]
+[yD6AdtrxBbmE#0] ^проспектран/проспект<n><abl>$
+[/yD6AdtrxBbmE]
+[yE1XPx4jiuGc#0] ^кӗнекин/кӗнеке<n><px3sp><gen>$
+[/yE1XPx4jiuGc]
+[yFdvBfsJ8tP1#0] ^лаша/лаша<n><attr>/лаша<n><nom>$
+[/yFdvBfsJ8tP1]
+[yGMxGkRxxOQx#0] ^пуртӑсенчен/пуртӑ<n><pl><abl>$
+[/yGMxGkRxxOQx]
+[yIVGWE5jwC92#0] ^супӑньшӗн/супӑнь<n><ter>$
+[/yIVGWE5jwC92]
+[yIox-F8Y2wKH#0] ^вӑйӑсен/вӑйӑ<n><pl><gen>$
+[/yIox-F8Y2wKH]
+[yMRiXgyubped#0] ^пулӑсенчен/пулӑ<n><pl><abl>$
+[/yMRiXgyubped]
+[yP7ouc6Vb98O#0] ^кӗсьесенче/кӗсье<n><pl><loc>$
+[/yP7ouc6Vb98O]
+[yPlnodwnDo0_#0] ^литературӑсем/литература<n><pl><nom>$
+[/yPlnodwnDo0_]
+[yPqg0q5ZtK7H#0] ^шоссине/шоссе<n><px3sp><dat>$
+[/yPqg0q5ZtK7H]
+[yQCNi8fUNrML#0] ^кукӑлӗр/кукӑль<n><px2pl><nom>$
+[/yQCNi8fUNrML]
+[yUt1bbeF3phW#0] ^йӗп/йӗп<n><attr>/йӗп<n><nom>$
+[/yUt1bbeF3phW]
+[yVf2hvdIjCZD#0] ^Портушӑн/порт<n><px2sg><ter>$
+[/yVf2hvdIjCZD]
+[yVuCuKyMkEvz#0] ^менюсем/меню<n><pl><nom>/меню<n><px2sg><pl><nom>$
+[/yVuCuKyMkEvz]
+[yWJ8ooQXQglz#0] ^сарайӑмӑн/сарай<n><px1sg><gen>$
+[/yWJ8ooQXQglz]
+[yYCa9IIfpHaK#0] ^класӗн/класс<n><px3sp><gen>$
+[/yYCa9IIfpHaK]
+[ybo0UaZcFhQA#0] ^дело/дело<n><attr>/дело<n><nom>$
+[/ybo0UaZcFhQA]
+[ygvZdaVM-krC#0] ^Ивановскаяшӑн/*Ивановскаяшӑн$
+[/ygvZdaVM-krC]
+[yhTN2dwYis_4#0] ^июньсене/июнь<n><pl><dat>$
+[/yhTN2dwYis_4]
+[yhfPF51AMuaC#0] ^Порттӑм/*Порттӑм$
+[/yhfPF51AMuaC]
+[yhnHojncZEQ4#0] ^ҫыннӑм/ҫын<n><px1sg><nom>$
+[/yhnHojncZEQ4]
+[ymf0np0MxVkQ#0] ^тетрадӗмӗр/тетрадь<n><px1pl><nom>$
+[/ymf0np0MxVkQ]
+[ymooPIfdjELt#0] ^классенче/класс<n><pl><loc>$
+[/ymooPIfdjELt]
+[ysrM843DPqeL#0] ^Ивановӑсен/Иваново<np><top><pl><gen>/Иванов<np><cog><f><pl><gen>$
+[/ysrM843DPqeL]
+[ytCVIpYlykmJ#0] ^металсенчен/металл<n><pl><abl>$
+[/ytCVIpYlykmJ]
+[yxxhPP1O3zlm#0] ^информацине/информаци<n><px3sp><dat>/информаци<n><px2sg><dat>$
+[/yxxhPP1O3zlm]
+[yzFIvjJ73liI#0] ^автансӑр/автан<n>+сӑр<post>$
+[/yzFIvjJ73liI]
+[z-VOnB6X92X9#0] ^деломӑрӑн/*деломӑрӑн$
+[/z-VOnB6X92X9]
+[z1BWRf3p5h1X#0] ^туран/туран<v><iv><imp><p2><sg>/туран<v><tv><imp><p2><sg>/тура<n><gen>/тура<v><iv><fut><p2><sg>/тура<v><iv><pres><p2><sg>/тура<v><tv><fut><p2><sg>/тура<v><tv><pres><p2><sg>/ту<adj><subst><abl>/ту<n><abl>$
+[/z1BWRf3p5h1X]
+[z2lXcbGTq6Ln#0] ^шӑшийӗр/шӑши<n><px2pl><nom>$
+[/z2lXcbGTq6Ln]
+[z3pXvzwCuftV#0] ^нянюн/няня<n><px2sg><gen>$
+[/z3pXvzwCuftV]
+[z7b1GRjHsAyp#0] ^вӑкӑрӑр/вӑкӑр<n><px2pl><nom>$
+[/z7b1GRjHsAyp]
+[z8E-Qx3C9bsz#0] ^автобусӗн/автобус<n><px3sp><gen>$
+[/z8E-Qx3C9bsz]
+[z9Q0E2U6U5nS#0] ^сӑвӑсемшӗн/сӑвӑ<n><pl><ter>$
+[/z9Q0E2U6U5nS]
+[z9Yt5Xzy8JEp#0] ^автанта/автан<n><loc>$
+[/z9Yt5Xzy8JEp]
+[zD7EKh_aVRPz#0] ^металсӑр/металл<n>+сӑр<post>$
+[/zD7EKh_aVRPz]
+[zDqJg7cQClBb#0] ^ҫынран/ҫын<n><abl>$
+[/zDqJg7cQClBb]
+[zEh3mAmKysjy#0] ^литературине/литература<n><px3sp><dat>$
+[/zEh3mAmKysjy]
+[zF9lhAn44YKN#0] ^информацисемшӗн/информаци<n><pl><ter>$
+[/zF9lhAn44YKN]
+[zFyNdhC1sRdx#0] ^вӑййун/вӑйӑ<n><px2sg><gen>$
+[/zFyNdhC1sRdx]
+[zG5_U7A0WB04#0] ^июле/июль<n><dat>$
+[/zG5_U7A0WB04]
+[zI2OKoO6j4Hd#0] ^музейпе/музей<n><ins>$
+[/zI2OKoO6j4Hd]
+[zMPL8AcFYE61#0] ^литературӑпа/литература<n><ins>$
+[/zMPL8AcFYE61]
+[zMsDCqEZ7woL#0] ^Ивановӑмӑн/Иваново<np><top><px1sg><gen>/Иванов<np><cog><f><px1sg><gen>/Иванов<np><cog><m><px1sg><gen>$
+[/zMsDCqEZ7woL]
+[zPRM6t2HzD5d#0] ^металпа/металл<n><ins>$
+[/zPRM6t2HzD5d]
+[zPVDCPWcGvl3#0] ^шӑшишӗн/шӑши<n><ter>$
+[/zPVDCPWcGvl3]
+[zUFWLu8U2zG3#0] ^чикӗ/чикӗ<n><attr>/чикӗ<n><nom>/чик<v><iv><fut><p3><sg>/чик<v><tv><fut><p3><sg>$
+[/zUFWLu8U2zG3]
+[zUGNNeWgd2kr#0] ^тухья/тухья<n><attr>/тухья<n><nom>$
+[/zUGNNeWgd2kr]
+[zYBeJn695lLk#0] ^шоссеме/шоссе<n><px1sg><dat>$
+[/zYBeJn695lLk]
+[zbY6ilQrFmqV#0] ^сарайӑмӑрӑн/сарай<n><px1pl><gen>$
+[/zbY6ilQrFmqV]
+[zdZeazLlOYZ4#0] ^стенама/стена<n><px1sg><dat>$
+[/zdZeazLlOYZ4]
+[ze9_e_9RrcFW#0] ^киносемпе/кино<n><pl><ins>$
+[/ze9_e_9RrcFW]
+[zej5bL-2k7Bh#0] ^Золотницкимӗрӗн/*Золотницкимӗрӗн$
+[/zej5bL-2k7Bh]
+[zf-Q3n5TQEgV#0] ^июльсенчен/июль<n><pl><abl>$
+[/zf-Q3n5TQEgV]
+[zjH2PYj63KtF#0] ^стенамӑр/стена<n><px1pl><nom>$
+[/zjH2PYj63KtF]
+[zpJZKwL76XSM#0] ^проспектӑра/проспект<n><px2pl><dat>$
+[/zpJZKwL76XSM]
+[zr2M5kEFonik#0] ^платйӗре/платье<n><loc>/платье<n><px2pl><dat>$
+[/zr2M5kEFonik]
+[zrAZcA8d9AMe#0] ^уйшӑн/уй<adj><subst><ter>/уй<n><ter>$
+[/zrAZcA8d9AMe]

@@ -1,0 +1,12 @@
+[67Vp8e34rmmq#0] ^хуняҫа/хуняҫа<n><nom>$
+[/67Vp8e34rmmq]
+[6sBZkYfhDcwJ#0] ^хуняҫам/хуняҫа<n><px1sg><nom>$
+[/6sBZkYfhDcwJ]
+[GHBA3hE8GCDl#0] ^хуняҫӑр/хуняҫа<n><px2pl><nom>$
+[/GHBA3hE8GCDl]
+[HpIJ7zGpdMIt#0] ^хуняҫамӑр/хуняҫа<n><px1pl><nom>$
+[/HpIJ7zGpdMIt]
+[e7ziSwO8h0QJ#0] ^хуняҫу/хуняҫа<n><px2sg><nom>$
+[/e7ziSwO8h0QJ]
+[ve_lkwqBUSWs#0] ^хуняшшӗ/хуняҫа<n><px3sp><nom>$
+[/ve_lkwqBUSWs]

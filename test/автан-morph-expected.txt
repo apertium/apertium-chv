@@ -1,0 +1,192 @@
+[0wV9DKEclaZr#0] ^автанӑмсемпе/автан<n><px1sg><pl><ins>$
+[/0wV9DKEclaZr]
+[24g8FYHc4FyQ#0] ^автанӑрсемпе/автан<n><px2pl><pl><ins>$
+[/24g8FYHc4FyQ]
+[2cwj7GkArZLT#0] ^автантан/автан<n><abl>$
+[/2cwj7GkArZLT]
+[3dbuYlYipvvx#0] ^автанӑрсенчен/автан<n><px2pl><pl><abl>$
+[/3dbuYlYipvvx]
+[4VfbXIYr0j9t#0] ^автанӑрӑн/автан<n><px2pl><gen>$
+[/4VfbXIYr0j9t]
+[4reWsXb3mlxm#0] ^автанӗ/автан<n><px3sp><nom>$
+[/4reWsXb3mlxm]
+[4syumkpcj3J0#0] ^автанӑмӑрсенче/автан<n><px1pl><pl><loc>$
+[/4syumkpcj3J0]
+[65PXz3Hizj-1#0] ^автанӑмӑртан/автан<n><px1pl><abl>$
+[/65PXz3Hizj-1]
+[69eXKE9S5NnM#0] ^автанусен/автан<n><px2sg><pl><gen>$
+[/69eXKE9S5NnM]
+[8P-EK4-11E-G#0] ^автанушӑн/автан<n><px2sg><ter>$
+[/8P-EK4-11E-G]
+[8RLUhyAghN97#0] ^автанӑмӑрсемпе/автан<n><px1pl><pl><ins>$
+[/8RLUhyAghN97]
+[8YbO_n1nEWWd#0] ^автанӑмсенчен/автан<n><px1sg><pl><abl>$
+[/8YbO_n1nEWWd]
+[9MUcWjohioAV#0] ^автанӑмсен/автан<n><px1sg><pl><gen>$
+[/9MUcWjohioAV]
+[9OLdC0sViBQB#0] ^автанӗсемпе/автан<n><px3sp><pl><ins>$
+[/9OLdC0sViBQB]
+[9WVjNtO7Odb6#0] ^автан/автан<n><attr>/автан<n><nom>$
+[/9WVjNtO7Odb6]
+[BoUOqvZRqr08#0] ^автанӑртан/автан<n><px2pl><abl>$
+[/BoUOqvZRqr08]
+[CRb0kLClO167#0] ^автанна/автан<n><px2sg><dat>$
+[/CRb0kLClO167]
+[C_-en2WrZMXJ#0] ^автанӑмран/автан<n><px1sg><abl>$
+[/C_-en2WrZMXJ]
+[CydKVzoadIi7#0] ^автанӑмсем/автан<n><px1sg><pl><nom>$
+[/CydKVzoadIi7]
+[DYDwrtaTgtLw#0] ^автанӑрта/автан<n><px2pl><loc>$
+[/DYDwrtaTgtLw]
+[DYrxLApuFMzB#0] ^автанӑрсӑр/автан<n><px2pl>+сӑр<post>$
+[/DYrxLApuFMzB]
+[Dy7OuVJsYO9Q#0] ^автанӑмсене/автан<n><px1sg><pl><dat>$
+[/Dy7OuVJsYO9Q]
+[F00qq1De9blS#0] ^автанӑмӑрсем/автан<n><px1pl><pl><nom>$
+[/F00qq1De9blS]
+[FM53TEQTU1vR#0] ^автанӑр/автан<n><px2pl><nom>$
+[/FM53TEQTU1vR]
+[FjikjXLWJHET#0] ^автанӑмӑрсене/автан<n><px1pl><pl><dat>$
+[/FjikjXLWJHET]
+[GAhYZJIgh_zR#0] ^автанӑмӑрпа/автан<n><px1pl><ins>$
+[/GAhYZJIgh_zR]
+[HQABt_iNBkmU#0] ^автанусемшӗн/автан<n><px2sg><pl><ter>$
+[/HQABt_iNBkmU]
+[IVkhoIwYcNz3#0] ^автанӑмӑр/автан<n><px1pl><nom>$
+[/IVkhoIwYcNz3]
+[J03VvjX9se8B#0] ^автанӑмпа/автан<n><px1sg><ins>$
+[/J03VvjX9se8B]
+[J8Gr4jRQV99e#0] ^автанунтан/автан<n><px2sg><abl>$
+[/J8Gr4jRQV99e]
+[JC0rLX8VSiSm#0] ^автансем/автан<n><pl><nom>$
+[/JC0rLX8VSiSm]
+[KUSdCQNQLbDL#0] ^автанӑра/автан<n><px2pl><dat>$
+[/KUSdCQNQLbDL]
+[Ksg8QVAv37wz#0] ^автанӑмсӑр/автан<n><px1sg>+сӑр<post>$
+[/Ksg8QVAv37wz]
+[MFXJ2Ntkl2oj#0] ^автанӗсенче/автан<n><px3sp><pl><loc>$
+[/MFXJ2Ntkl2oj]
+[MpA8sROT49AG#0] ^автанӑма/автан<n><px1sg><dat>$
+[/MpA8sROT49AG]
+[MuL6PS3pOjy2#0] ^автанӑрсене/автан<n><px2pl><pl><dat>$
+[/MuL6PS3pOjy2]
+[MxLQy29_dtLs#0] ^автанун/автан<n><px2sg><gen>$
+[/MxLQy29_dtLs]
+[N-x8ap4ySkeD#0] ^автанӑрсем/автан<n><px2pl><pl><nom>$
+[/N-x8ap4ySkeD]
+[N7g_GAx2Kwvw#0] ^автанусенчен/автан<n><px2sg><pl><abl>$
+[/N7g_GAx2Kwvw]
+[O0Xyelt3Eoz3#0] ^автанусем/автан<n><px2sg><pl><nom>$
+[/O0Xyelt3Eoz3]
+[O2GLlEwCGWi3#0] ^автанӑрсенче/автан<n><px2pl><pl><loc>$
+[/O2GLlEwCGWi3]
+[QZOvZ4e448yt#0] ^автанусемпе/автан<n><px2sg><pl><ins>$
+[/QZOvZ4e448yt]
+[RAi_VgCxLNSA#0] ^автанӑмӑрсӑр/автан<n><px1pl>+сӑр<post>$
+[/RAi_VgCxLNSA]
+[TrCZ1zGBBg4_#0] ^автанне/автан<n><px3sp><dat>$
+[/TrCZ1zGBBg4_]
+[TwJa2BfnfI81#0] ^автанӗсӗр/автан<n><px3sp>+сӑр<post>$
+[/TwJa2BfnfI81]
+[VeGW3AeTPGjE#0] ^автанӗнче/автан<n><px3sp><loc>$
+[/VeGW3AeTPGjE]
+[WKZHG1U-KZz4#0] ^автансенче/автан<n><pl><loc>$
+[/WKZHG1U-KZz4]
+[XipZYlrtuO19#0] ^автанӑмсенче/автан<n><px1sg><pl><loc>$
+[/XipZYlrtuO19]
+[YEV9l8UTHdU8#0] ^автансемпе/автан<n><pl><ins>$
+[/YEV9l8UTHdU8]
+[_5YHxmhI1aA_#0] ^автанӑн/автан<n><gen>$
+[/_5YHxmhI1aA_]
+[_At3Tzr65bQi#0] ^автансен/автан<n><pl><gen>$
+[/_At3Tzr65bQi]
+[_PYhqC8ZSfEK#0] ^автанӗпе/автан<n><px3sp><ins>$
+[/_PYhqC8ZSfEK]
+[_eOV_0B7aPmu#0] ^автансемшӗн/автан<n><pl><ter>$
+[/_eOV_0B7aPmu]
+[bna4FvvBq8Zh#0] ^автанӑмӑрсемшӗн/автан<n><px1pl><pl><ter>$
+[/bna4FvvBq8Zh]
+[cGviPvYLeeso#0] ^автанӗшӗн/автан<n><px3sp><ter>$
+[/cGviPvYLeeso]
+[cSjbOKEhMS5O#0] ^автанӑмӑрсен/автан<n><px1pl><pl><gen>$
+[/cSjbOKEhMS5O]
+[d26mePpDdnjz#0] ^автанӗсемшӗн/автан<n><px3sp><pl><ter>$
+[/d26mePpDdnjz]
+[dTn7n_dD2gJK#0] ^автанусемсӗр/автан<n><px2sg><pl>+сӑр<post>$
+[/dTn7n_dD2gJK]
+[dr5iBKV5Zz4_#0] ^автанӑмӑршӑн/автан<n><px1pl><ter>$
+[/dr5iBKV5Zz4_]
+[eYiT0qrsrmzw#0] ^автанӑрсемшӗн/автан<n><px2pl><pl><ter>$
+[/eYiT0qrsrmzw]
+[efopFUmo33-I#0] ^автанпа/автан<n><ins>$
+[/efopFUmo33-I]
+[f0jc3XI6Snin#0] ^автанӗн/автан<n><px3sp><gen>$
+[/f0jc3XI6Snin]
+[fhi0DUexxloW#0] ^автанӗсем/автан<n><px3sp><pl><nom>$
+[/fhi0DUexxloW]
+[flWPGQ425nUQ#0] ^автанӑмра/автан<n><px1sg><loc>$
+[/flWPGQ425nUQ]
+[gUNkLKCbwVyn#0] ^автансемсӗр/автан<n><pl>+сӑр<post>$
+[/gUNkLKCbwVyn]
+[gdEVR4rC1GfH#0] ^автанӑмӑрта/автан<n><px1pl><loc>$
+[/gdEVR4rC1GfH]
+[iy8QaXbZwV8U#0] ^автанӗсен/автан<n><px3sp><pl><gen>$
+[/iy8QaXbZwV8U]
+[jCwTXtKJDxEO#0] ^автанӑмӑра/автан<n><px1pl><dat>$
+[/jCwTXtKJDxEO]
+[jV5OYUvFBU51#0] ^автанӑм/автан<n><px1sg><nom>$
+[/jV5OYUvFBU51]
+[k5GRJgLbeyfq#0] ^автанӑмсемсӗр/автан<n><px1sg><pl>+сӑр<post>$
+[/k5GRJgLbeyfq]
+[knVKqlfdPyQq#0] ^автансене/автан<n><pl><dat>$
+[/knVKqlfdPyQq]
+[kp83j_vjMZVo#0] ^автанӑршӑн/автан<n><px2pl><ter>$
+[/kp83j_vjMZVo]
+[kyjDj8o3KOks#0] ^автанӑмсемшӗн/автан<n><px1sg><pl><ter>$
+[/kyjDj8o3KOks]
+[l3gyXuamxtti#0] ^автаншӑн/автан<n><ter>$
+[/l3gyXuamxtti]
+[lBTDVfHXP9Pk#0] ^автанӗнчен/автан<n><px3sp><abl>$
+[/lBTDVfHXP9Pk]
+[lhLbHjJ1eY24#0] ^автанунта/автан<n><px2sg><loc>$
+[/lhLbHjJ1eY24]
+[lkUVkCKV6MZB#0] ^автанӑмшӑн/автан<n><px1sg><ter>$
+[/lkUVkCKV6MZB]
+[luJSV3sCipdY#0] ^автанупа/автан<n><px2sg><ins>$
+[/luJSV3sCipdY]
+[mT5f3gcZg8Fu#0] ^автанӑмӑрсемсӗр/автан<n><px1pl><pl>+сӑр<post>$
+[/mT5f3gcZg8Fu]
+[muIRedDpzBHn#0] ^автанусенче/автан<n><px2sg><pl><loc>$
+[/muIRedDpzBHn]
+[otiShSbffmmL#0] ^автанӑрсен/автан<n><px2pl><pl><gen>$
+[/otiShSbffmmL]
+[pZp3V3QE9SyH#0] ^автанусене/автан<n><px2sg><pl><dat>$
+[/pZp3V3QE9SyH]
+[p_yq1HcE0NJZ#0] ^автанӑмӑрсенчен/автан<n><px1pl><pl><abl>$
+[/p_yq1HcE0NJZ]
+[pom5n2M4EkjD#0] ^автанӑрпа/автан<n><px2pl><ins>$
+[/pom5n2M4EkjD]
+[q-XPWilVV4Kl#0] ^автанӑмӑн/автан<n><px1sg><gen>$
+[/q-XPWilVV4Kl]
+[rUZfExd_RaYk#0] ^автанӑмӑрӑн/автан<n><px1pl><gen>$
+[/rUZfExd_RaYk]
+[uYQ87r4YxAst#0] ^автанусӑр/автан<n><px2sg>+сӑр<post>$
+[/uYQ87r4YxAst]
+[v6F7UGga5rQu#0] ^автану/автан<n><px2sg><nom>$
+[/v6F7UGga5rQu]
+[vMj6PTQ8HfBc#0] ^автанӗсемсӗр/автан<n><px3sp><pl>+сӑр<post>$
+[/vMj6PTQ8HfBc]
+[vcFmRG2tFVkG#0] ^автанӑрсемсӗр/автан<n><px2pl><pl>+сӑр<post>$
+[/vcFmRG2tFVkG]
+[vqVeAefNIFCt#0] ^автансенчен/автан<n><pl><abl>$
+[/vqVeAefNIFCt]
+[w-G61xwTGmns#0] ^автана/автан<n><dat>$
+[/w-G61xwTGmns]
+[wrBSRJrpg4G4#0] ^автанӗсене/автан<n><px3sp><pl><dat>$
+[/wrBSRJrpg4G4]
+[yzFIvjJ73liI#0] ^автансӑр/автан<n>+сӑр<post>$
+[/yzFIvjJ73liI]
+[z9Yt5Xzy8JEp#0] ^автанта/автан<n><loc>$
+[/z9Yt5Xzy8JEp]
+[zntJXPW-3_3Z#0] ^автанӗсенчен/автан<n><px3sp><pl><abl>$
+[/zntJXPW-3_3Z]

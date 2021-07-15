@@ -1,0 +1,32 @@
+[25NfO8wpY2sv#0] ^хури/хура<adj>+и<subst><nom>/хура<adj><subst><px3sp><nom>/хура<n><px3sp><nom>$
+[/25NfO8wpY2sv]
+[5VDbtrsAfI0j#0] ^лайӑххисем/лайӑх<adj>+и<subst><pl><nom>/лайӑх<adj><subst><px3sp><pl><nom>$
+[/5VDbtrsAfI0j]
+[7fqA7Rz585aH#0] ^лайӑххи/лайӑх<adj>+и<subst><nom>/лайӑх<adj><subst><px3sp><nom>$
+[/7fqA7Rz585aH]
+[FoeL0g5JgvDL#0] ^лайӑххисен/лайӑх<adj>+и<subst><pl><gen>/лайӑх<adj><subst><px3sp><pl><gen>$
+[/FoeL0g5JgvDL]
+[HEJ8h5A_79BO#0] ^авантарах/аван<adj><comp>$
+[/HEJ8h5A_79BO]
+[IEo78NFt96Cf#0] ^пӗчӗкки/пӗчӗккӗ<adj>+и<subst><nom>/пӗчӗккӗ<adj><subst><px3sp><nom>$
+[/IEo78NFt96Cf]
+[NQRvBAIbe7ou#0] ^тутли/тутлӑ<adj>+и<subst><nom>/тутлӑ<adj><subst><px3sp><nom>$
+[/NQRvBAIbe7ou]
+[O2lhGc9G95iR#0] ^аванах/аван<adj>+ах<mod>/аван<adj><subst><nom>+ах<mod>/аван<adv>+ах<mod>$
+[/O2lhGc9G95iR]
+[eXkO1Q_sZDWg#0] ^хитри/хитре<adj>+и<subst><nom>/хитре<adj><subst><px3sp><nom>/хитре<n><px3sp><nom>/хит<n><loc><attr>/хит<n><loc><subst><nom>$
+[/eXkO1Q_sZDWg]
+[kdszUlzmvPnW#0] ^пысӑкки/*пысӑкки$
+[/kdszUlzmvPnW]
+[mxAvZMOhRe-I#0] ^лайӑхах/лайӑх<adv>+ах<mod>/лайӑх<n><nom>+ах<mod>$
+[/mxAvZMOhRe-I]
+[npLWMsE1aiox#0] ^лайӑххин/лайӑх<adj>+и<subst><gen>/лайӑх<adj><subst><px3sp><gen>$
+[/npLWMsE1aiox]
+[pH3gHJd922jY#0] ^аванни/*аванни$
+[/pH3gHJd922jY]
+[s1TkEt6zLhNk#0] ^ҫурри/ҫурӑ<adj>+и<subst><nom>/ҫурӑ<adj><subst><px3sp><nom>/ҫурӑ<n><px3sp><nom>$
+[/s1TkEt6zLhNk]
+[uGuy2wfIbZ9L#0] ^лайӑххипе/лайӑх<adj>+и<subst><ins>/лайӑх<adj><subst><px3sp><ins>$
+[/uGuy2wfIbZ9L]
+[vU5QeVJjEtZX#0] ^лайӑхрах/лайӑх<adj><comp>$
+[/vU5QeVJjEtZX]

@@ -1,0 +1,12 @@
+[MFSh8FxmMT7G#0] ^хуняма/хуняма<n><nom>$
+[/MFSh8FxmMT7G]
+[SIAqkS9OdlWI#0] ^хунямӑшӗ/хуняма<n><px3sp><nom>$
+[/SIAqkS9OdlWI]
+[c71U3JVbOU42#0] ^хунямамӑр/хуняма<n><px1pl><nom>$
+[/c71U3JVbOU42]
+[j_r_UgoQtN6x#0] ^хунямам/хуняма<n><px1sg><nom>$
+[/j_r_UgoQtN6x]
+[xKfy8cHyyF00#0] ^хунямӑр/хуняма<n><px2pl><nom>$
+[/xKfy8cHyyF00]
+[zdnjgBNmjfH3#0] ^хуняму/хуняма<n><px2sg><nom>$
+[/zdnjgBNmjfH3]

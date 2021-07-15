@@ -1,0 +1,128 @@
+[-09Z6O9KFAkf#0] ^калӑн/калӑн<v><iv><imp><p2><sg>/калӑн<v><tv><imp><p2><sg>/кал<n><gen>$
+[/-09Z6O9KFAkf]
+[0GVh1fvbzxZv#0] ^калин/кала<v><tv><opt><p3><sg>/калий<n><gen>/кали<n><gen>$
+[/0GVh1fvbzxZv]
+[0OryHciGkWU-#0] ^калаятӑн/*калаятӑн$
+[/0OryHciGkWU-]
+[1W_ngnZvilpl#0] ^калӗҫ/кала<v><tv><fut><p3><pl>$
+[/1W_ngnZvilpl]
+[2klkGvC1QNRw#0] ^каласӑмӑр/кала<v><tv><imp><p2><pl>+сӑм<mod>$
+[/2klkGvC1QNRw]
+[2rgRg36UwdAN#0] ^каларӗҫ/кала<v><tv><past><p3><pl>$
+[/2rgRg36UwdAN]
+[5HIlAm0k9vj1#0] ^калакалатӑн/*калакалатӑн$
+[/5HIlAm0k9vj1]
+[6B_ioDUH9lnL#0] ^калатӑр/кала<v><tv><imp><p3><sg>/кала<v><tv><pres><p2><pl>$
+[/6B_ioDUH9lnL]
+[7ldrQBHNk_Od#0] ^калакалӑттӑмӑр/*калакалӑттӑмӑр$
+[/7ldrQBHNk_Od]
+[8ZO5a0gK6Nzo#0] ^калатӑп/кала<v><tv><pres><p1><sg>$
+[/8ZO5a0gK6Nzo]
+[8_xaK9guQt8M#0] ^калаччӗ-ха/кала<v><tv><imp><p2><sg>+ччӗ<mod>+ха<mod>/кал<n><dat>+ӗ<cop><ifi>+ха<mod>$
+[/8_xaK9guQt8M]
+[AfjprE1kWEo2#0] ^калакалӑттӑр/*калакалӑттӑр$
+[/AfjprE1kWEo2]
+[B-R0CL1bMcIF#0] ^калӑрччӗ/кал<n><px2pl><nom>+ӗ<cop><ifi>$
+[/B-R0CL1bMcIF]
+[CG4H3ObVgn1b#0] ^калакалӗччӗ/*калакалӗччӗ$
+[/CG4H3ObVgn1b]
+[GPC_4SavSZhz#0] ^калаҫҫӗ/кала<v><tv><pres><p3><pl>$
+[/GPC_4SavSZhz]
+[HYILuxZwEIdY#0] ^калӗҫин/кала<v><tv><opt><p3><pl>$
+[/HYILuxZwEIdY]
+[I98gCC5mPwYO#0] ^калаччӑр/кала<v><tv><imp><p3><pl>$
+[/I98gCC5mPwYO]
+[Jsbfp4Ld2OqE#0] ^калӗ/кала<v><tv><fut><p3><sg>/кал<n><px3sp><nom>$
+[/Jsbfp4Ld2OqE]
+[K-R9cE_pbs_9#0] ^калӑпин/*калӑпин$
+[/K-R9cE_pbs_9]
+[KErAx11nVL4Z#0] ^калӑп/калӑп<n><attr>/калӑп<n><nom>$
+[/KErAx11nVL4Z]
+[M5zDebEEVUqm#0] ^калакалаҫҫӗ/*калакалаҫҫӗ$
+[/M5zDebEEVUqm]
+[MA2Oi0Oo7ZCg#0] ^калаяҫҫӗ/*калаяҫҫӗ$
+[/MA2Oi0Oo7ZCg]
+[OZQ-1L7xppYC#0] ^каласӑмччӗ/кала<v><tv><imp><p2><sg>+сӑм<mod>+ччӗ<mod>$
+[/OZQ-1L7xppYC]
+[PsrDhDW6dJCg#0] ^калӑпӑрин/*калӑпӑрин$
+[/PsrDhDW6dJCg]
+[QCO3LccSyE4X#0] ^калать/кала<v><tv><pres><p3><sg>$
+[/QCO3LccSyE4X]
+[RPfizGlJ0BEg#0] ^каласӑм/кала<v><tv><imp><p2><sg>+сӑм<mod>$
+[/RPfizGlJ0BEg]
+[RlBJ8WZc-T1W#0] ^каларӗ/кала<v><tv><past><p3><sg>$
+[/RlBJ8WZc-T1W]
+[ShFnsNtAWYfk#0] ^каларӑр/кала<v><tv><past><p2><pl>$
+[/ShFnsNtAWYfk]
+[URfI9sopWgw7#0] ^калакалӑттӑм/*калакалӑттӑм$
+[/URfI9sopWgw7]
+[UTseoyefsQa2#0] ^калатӑн/кала<v><tv><pih><p1><sg><p2><sg>/кала<v><tv><pres><p2><sg>$
+[/UTseoyefsQa2]
+[V4PVXyqWGpkJ#0] ^калӑттӑр/*калӑттӑр$
+[/V4PVXyqWGpkJ]
+[V9z5YL79jz-X#0] ^калӑттӑмӑр/*калӑттӑмӑр$
+[/V9z5YL79jz-X]
+[W9NYfOXLBn9z#0] ^каласӑм-ха/кала<v><tv><imp><p2><sg>+сӑм<mod>+ха<mod>$
+[/W9NYfOXLBn9z]
+[X3ADGReHKcpw#0] ^калам/*калам$
+[/X3ADGReHKcpw]
+[ZNXHJ_3tH3L8#0] ^каласӑмччӗ-ха/кала<v><tv><imp><p2><sg>+сӑм<mod>+ччӗ<mod>+ха<mod>$
+[/ZNXHJ_3tH3L8]
+[c-GRK94CMqlO#0] ^каласӑмӑрччӗ-ха/кала<v><tv><imp><p2><pl>+сӑм<mod>+ччӗ<mod>+ха<mod>$
+[/c-GRK94CMqlO]
+[ctEcrl5qeI6T#0] ^калӑсӑн/*калӑсӑн$
+[/ctEcrl5qeI6T]
+[eh48Odn_LKMq#0] ^калакалать/*калакалать$
+[/eh48Odn_LKMq]
+[ff3lGrvo7xJc#0] ^калар/*калар$
+[/ff3lGrvo7xJc]
+[figRMBoX4Tk1#0] ^калакалатӑр/кала<v><tv><iter><imp><p3><sg>$
+[/figRMBoX4Tk1]
+[gMFKK1xIXIZy#0] ^калӑсӑр/*калӑсӑр$
+[/gMFKK1xIXIZy]
+[gQoeZD_WOhP_#0] ^калӑттӑн/*калӑттӑн$
+[/gQoeZD_WOhP_]
+[gswNF9uuvThF#0] ^калӑр/кал<n><px2pl><nom>$
+[/gswNF9uuvThF]
+[kVKM1YaOdkui#0] ^каласӑмӑрччӗ/кала<v><tv><imp><p2><pl>+сӑм<mod>+ччӗ<mod>$
+[/kVKM1YaOdkui]
+[l9x8fttSdzT0#0] ^калаятӑр/*калаятӑр$
+[/l9x8fttSdzT0]
+[lcz37H2ALHBN#0] ^каларӑм/кала<v><tv><past><p1><sg>$
+[/lcz37H2ALHBN]
+[lk_AkBdi7v0n#0] ^калакалӑттӑн/*калакалӑттӑн$
+[/lk_AkBdi7v0n]
+[m0D7nDGHYORi#0] ^калӗччӗ/кала<v><tv><cond><p3><sg>/кала<v><tv><fut><p3><sg>+ӗ<cop><ifi>/кал<n><px3sp><nom>+ӗ<cop><ifi>$
+[/m0D7nDGHYORi]
+[mKRjioMFmHc9#0] ^калаччӗ/кала<v><tv><imp><p2><sg>+ччӗ<mod>/кал<n><dat>+ӗ<cop><ifi>$
+[/mKRjioMFmHc9]
+[oqi2i4p8treV#0] ^каларӑн/кала<v><tv><past><p2><sg>$
+[/oqi2i4p8treV]
+[pTzv183O-X8T#0] ^калакалатпӑр/*калакалатпӑр$
+[/pTzv183O-X8T]
+[qXVs8oBO3m3o#0] ^калаять/*калаять$
+[/qXVs8oBO3m3o]
+[r8iezF00ZZn3#0] ^калакалӗччӗҫ/*калакалӗччӗҫ$
+[/r8iezF00ZZn3]
+[rJftZof8qRU7#0] ^калӑпӑр/калӑп<n><px2pl><nom>$
+[/rJftZof8qRU7]
+[sHinsenDekNF#0] ^каласӑмӑр-ха/кала<v><tv><imp><p2><pl>+сӑм<mod>+ха<mod>$
+[/sHinsenDekNF]
+[sQOr4LbqeCp8#0] ^калакалатӑп/*калакалатӑп$
+[/sQOr4LbqeCp8]
+[sgY9P_FLisll#0] ^каларӑмӑр/кала<v><tv><past><p1><pl>$
+[/sgY9P_FLisll]
+[tICsEWC0e7cX#0] ^калаятпӑр/*калаятпӑр$
+[/tICsEWC0e7cX]
+[v7CVYH50zG93#0] ^кала/кала<v><tv><imp><p2><sg>/кал<n><dat>$
+[/v7CVYH50zG93]
+[wX9IOoZ3H-cm#0] ^калӗччӗҫ/кала<v><tv><cond><p3><pl>$
+[/wX9IOoZ3H-cm]
+[x-lMCkqe025r#0] ^калатпӑр/кала<v><tv><pres><p1><pl>$
+[/x-lMCkqe025r]
+[xXSrFdWHlLOv#0] ^калӑрччӗ-ха/кал<n><px2pl><nom>+ӗ<cop><ifi>+ха<mod>$
+[/xXSrFdWHlLOv]
+[yj8V5_3-Krwf#0] ^калӑттӑм/*калӑттӑм$
+[/yj8V5_3-Krwf]
+[yyRaQkte_jfY#0] ^калаятӑп/*калаятӑп$
+[/yyRaQkte_jfY]

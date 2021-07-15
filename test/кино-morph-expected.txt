@@ -1,0 +1,192 @@
+[-_P0O4ctr6GX#0] ^киномӑрпа/кино<n><px1pl><ins>$
+[/-_P0O4ctr6GX]
+[-u73yb3MiZfP#0] ^киномӑрсене/кино<n><px1pl><pl><dat>$
+[/-u73yb3MiZfP]
+[0v5N-FR6b6tU#0] ^кинусене/кино<n><px2sg><pl><dat>$
+[/0v5N-FR6b6tU]
+[1Q4P_MWHfXOd#0] ^киномсемшӗн/кино<n><px1sg><pl><ter>$
+[/1Q4P_MWHfXOd]
+[1xWOj7YKnbuH#0] ^кинупа/кино<n><px2sg><ins>$
+[/1xWOj7YKnbuH]
+[3cP0vsZfvTdo#0] ^кинона/кино<n><dat>$
+[/3cP0vsZfvTdo]
+[4xsNZDTVdQ1r#0] ^кинуна/кино<n><px2sg><dat>$
+[/4xsNZDTVdQ1r]
+[5lfjgJa4fEgF#0] ^киновӗпе/кино<n><px3sp><ins>$
+[/5lfjgJa4fEgF]
+[6xAQNeIU3tT-#0] ^киномӑрсемшӗн/кино<n><px1pl><pl><ter>$
+[/6xAQNeIU3tT-]
+[7N4YiYAzOyrV#0] ^кинӑрсемшӗн/кино<n><px2pl><pl><ter>$
+[/7N4YiYAzOyrV]
+[8Rawz07rbQoS#0] ^киновӗшӗн/кино<n><px3sp><ter>$
+[/8Rawz07rbQoS]
+[8sBcOE2ioOFg#0] ^кинусемпе/кино<n><px2sg><pl><ins>$
+[/8sBcOE2ioOFg]
+[9dqJZZ1UAM0I#0] ^кинӑрсӑр/кино<n><px2pl>+сӑр<post>$
+[/9dqJZZ1UAM0I]
+[9rmbPFmPSMlU#0] ^киномсӑр/кино<n><px1sg>+сӑр<post>$
+[/9rmbPFmPSMlU]
+[A94N_hJzPxFL#0] ^кинӑрсен/кино<n><px2pl><pl><gen>$
+[/A94N_hJzPxFL]
+[AgAVCYzkhPci#0] ^кинӑрта/кино<n><px2pl><loc>$
+[/AgAVCYzkhPci]
+[Bwh7v0AQZfkC#0] ^киношӑн/кино<n><ter>$
+[/Bwh7v0AQZfkC]
+[DLpE47UsePl5#0] ^кинӑрсемсӗр/кино<n><px2pl><pl>+сӑр<post>$
+[/DLpE47UsePl5]
+[D_RLCR-yWRgL#0] ^киновӗсемшӗн/кино<n><px3sp><pl><ter>$
+[/D_RLCR-yWRgL]
+[De0caXYIiQRO#0] ^киномра/кино<n><px1sg><loc>$
+[/De0caXYIiQRO]
+[ESMikylvEtkm#0] ^кинӑрсенче/кино<n><px2pl><pl><loc>$
+[/ESMikylvEtkm]
+[FnEU1W7zL1u4#0] ^киносенче/кино<n><pl><loc>$
+[/FnEU1W7zL1u4]
+[G6rvjF-VO5lV#0] ^кинусемшӗн/кино<n><px2sg><pl><ter>$
+[/G6rvjF-VO5lV]
+[G89bVrsCHREV#0] ^киносен/кино<n><pl><gen>$
+[/G89bVrsCHREV]
+[Icwi1J2Bl1hm#0] ^кинора/кино<n><loc>$
+[/Icwi1J2Bl1hm]
+[JDCZ9WhrN5k0#0] ^киносемшӗн/кино<n><pl><ter>$
+[/JDCZ9WhrN5k0]
+[K0ivRPokkuW9#0] ^киномӑрсен/кино<n><px1pl><pl><gen>$
+[/K0ivRPokkuW9]
+[LBKBSJ7Sc9Xy#0] ^киносемсӗр/кино<n><pl>+сӑр<post>$
+[/LBKBSJ7Sc9Xy]
+[LLJNyKNYpEMQ#0] ^кинусен/кино<n><px2sg><pl><gen>$
+[/LLJNyKNYpEMQ]
+[M3zqAtLlC1Xc#0] ^киномсем/кино<n><px1sg><pl><nom>$
+[/M3zqAtLlC1Xc]
+[M8hrq85rbD9Y#0] ^киномӑрсенче/кино<n><px1pl><pl><loc>$
+[/M8hrq85rbD9Y]
+[MHIOdrFKL370#0] ^кину/кино<n><px2sg><nom>$
+[/MHIOdrFKL370]
+[NTOLH9Xf6H77#0] ^кинӑрӑн/кино<n><px2pl><gen>$
+[/NTOLH9Xf6H77]
+[PZpu9CE3yLtM#0] ^кинусенче/кино<n><px2sg><pl><loc>$
+[/PZpu9CE3yLtM]
+[QB9XyV9wduik#0] ^киновӗсенчен/кино<n><px3sp><pl><abl>$
+[/QB9XyV9wduik]
+[Rxbt4L3cl2ZO#0] ^киномӑрӑн/кино<n><px1pl><gen>$
+[/Rxbt4L3cl2ZO]
+[SAE24b1Ad161#0] ^киновӗ/кино<n><px3sp><nom>$
+[/SAE24b1Ad161]
+[SU7QHhxpy86G#0] ^кинӑра/кино<n><px2pl><dat>$
+[/SU7QHhxpy86G]
+[Spcqurch6Mmi#0] ^киновӗсем/кино<n><px3sp><pl><nom>$
+[/Spcqurch6Mmi]
+[T94COAkgmWqB#0] ^киномран/кино<n><px1sg><abl>$
+[/T94COAkgmWqB]
+[TH0BKvCIoUot#0] ^кинусемсӗр/кино<n><px2sg><pl>+сӑр<post>$
+[/TH0BKvCIoUot]
+[TsQQzHMoVV43#0] ^кинусем/кино<n><px2sg><pl><nom>$
+[/TsQQzHMoVV43]
+[TuBzgIRYOu8H#0] ^кинӑрсене/кино<n><px2pl><pl><dat>$
+[/TuBzgIRYOu8H]
+[Uc7PwmrONuu9#0] ^киномӑрта/кино<n><px1pl><loc>$
+[/Uc7PwmrONuu9]
+[VwRW9BxLg2cJ#0] ^кинӑртан/кино<n><px2pl><abl>$
+[/VwRW9BxLg2cJ]
+[XKgNBr79ErF0#0] ^кинома/кино<n><px1sg><dat>$
+[/XKgNBr79ErF0]
+[Yb0C-mPytpvD#0] ^киномӑрсӑр/кино<n><px1pl>+сӑр<post>$
+[/Yb0C-mPytpvD]
+[Yc4-KpFCcio8#0] ^киномшӑн/кино<n><px1sg><ter>$
+[/Yc4-KpFCcio8]
+[ZIhjit97cAje#0] ^киносӑр/кино<n>+сӑр<post>$
+[/ZIhjit97cAje]
+[_Sp2Rt_TqomN#0] ^кино/кино<n><attr>/кино<n><nom>$
+[/_Sp2Rt_TqomN]
+[bZEhM5_ank2X#0] ^киномсемсӗр/кино<n><px1sg><pl>+сӑр<post>$
+[/bZEhM5_ank2X]
+[bbTTXbSmL1Yc#0] ^кинусенчен/кино<n><px2sg><pl><abl>$
+[/bbTTXbSmL1Yc]
+[bmdqTIuQLU4u#0] ^киновӗне/кино<n><px3sp><dat>$
+[/bmdqTIuQLU4u]
+[brjZDQkVgqZg#0] ^кинӑрсенчен/кино<n><px2pl><pl><abl>$
+[/brjZDQkVgqZg]
+[c7G62ezBUc_V#0] ^киномӑра/кино<n><px1pl><dat>$
+[/c7G62ezBUc_V]
+[d1K8LNr1LtEp#0] ^киномӑршӑн/кино<n><px1pl><ter>$
+[/d1K8LNr1LtEp]
+[dv0RjXiLg29i#0] ^киновӗсемсӗр/кино<n><px3sp><pl>+сӑр<post>$
+[/dv0RjXiLg29i]
+[ePXNpRyLqzh1#0] ^кинун/кино<n><px2sg><gen>$
+[/ePXNpRyLqzh1]
+[eksKaK9IVXVA#0] ^киновӗнчен/кино<n><px3sp><abl>$
+[/eksKaK9IVXVA]
+[fEGL395MiypT#0] ^киновӗсӗр/кино<n><px3sp>+сӑр<post>$
+[/fEGL395MiypT]
+[g4orvFKN6qZh#0] ^киновӗсемпе/кино<n><px3sp><pl><ins>$
+[/g4orvFKN6qZh]
+[ht77laiC0XcY#0] ^кинунтан/кино<n><px2sg><abl>$
+[/ht77laiC0XcY]
+[iSRbf9mSuIB2#0] ^киномӑртан/кино<n><px1pl><abl>$
+[/iSRbf9mSuIB2]
+[ifsGj3-O59eH#0] ^киномсенче/кино<n><px1sg><pl><loc>$
+[/ifsGj3-O59eH]
+[jJaT-kMLlTNw#0] ^кинунта/кино<n><px2sg><loc>$
+[/jJaT-kMLlTNw]
+[jWU1VqTwd0hL#0] ^киномӑрсенчен/кино<n><px1pl><pl><abl>$
+[/jWU1VqTwd0hL]
+[jwmAvX3jhU3T#0] ^киновӗсенче/кино<n><px3sp><pl><loc>$
+[/jwmAvX3jhU3T]
+[kMqfH33Zznk9#0] ^киномсенчен/кино<n><px1sg><pl><abl>$
+[/kMqfH33Zznk9]
+[lMlHQgdAn27S#0] ^кинӑрсем/кино<n><px2pl><pl><nom>$
+[/lMlHQgdAn27S]
+[lPcsrTHjgN2l#0] ^киномпа/кино<n><px1sg><ins>$
+[/lPcsrTHjgN2l]
+[loVDKQ1LIWE4#0] ^киномӑр/кино<n><px1pl><nom>$
+[/loVDKQ1LIWE4]
+[mEEM_YFsPefO#0] ^киновӗсен/кино<n><px3sp><pl><gen>$
+[/mEEM_YFsPefO]
+[mGHT8Dyn0xZz#0] ^кинусӑр/кино<n><px2sg>+сӑр<post>$
+[/mGHT8Dyn0xZz]
+[mSxFBs4jeMQP#0] ^киноран/кино<n><abl>$
+[/mSxFBs4jeMQP]
+[n_t0LaFvT_X1#0] ^киносенчен/кино<n><pl><abl>$
+[/n_t0LaFvT_X1]
+[oHZJgb8ESlvr#0] ^кинӑр/кино<n><px2pl><nom>$
+[/oHZJgb8ESlvr]
+[pko7x1lExVXe#0] ^киносем/кино<n><pl><nom>$
+[/pko7x1lExVXe]
+[qrifybM9-4jp#0] ^киномсен/кино<n><px1sg><pl><gen>$
+[/qrifybM9-4jp]
+[rOy30G5yj6AD#0] ^киносене/кино<n><pl><dat>$
+[/rOy30G5yj6AD]
+[r_pojC0EbPAR#0] ^кинӑршӑн/кино<n><px2pl><ter>$
+[/r_pojC0EbPAR]
+[sRbT7O1sUMnL#0] ^киновӗсене/кино<n><px3sp><pl><dat>$
+[/sRbT7O1sUMnL]
+[sajoQ1lJ4p59#0] ^киновӗн/кино<n><px3sp><gen>$
+[/sajoQ1lJ4p59]
+[sqfidLw1DVSF#0] ^киномӑрсем/кино<n><px1pl><pl><nom>$
+[/sqfidLw1DVSF]
+[ss5R9bjcUPTL#0] ^кинон/кино<n><gen>$
+[/ss5R9bjcUPTL]
+[v20sZBs08p5T#0] ^киномӑн/кино<n><px1sg><gen>$
+[/v20sZBs08p5T]
+[v6__EqdA8Hud#0] ^киномӑрсемсӗр/кино<n><px1pl><pl>+сӑр<post>$
+[/v6__EqdA8Hud]
+[vDniAzvW2ZrK#0] ^кином/кино<n><px1sg><nom>$
+[/vDniAzvW2ZrK]
+[wcn9N7NXm_MS#0] ^киномсемпе/кино<n><px1sg><pl><ins>$
+[/wcn9N7NXm_MS]
+[wsDXMN3mqYZK#0] ^киновӗнче/кино<n><px3sp><loc>$
+[/wsDXMN3mqYZK]
+[xlPRAc8tOFDv#0] ^кинӑрпа/кино<n><px2pl><ins>$
+[/xlPRAc8tOFDv]
+[xxpjPy8LK_RZ#0] ^кинопа/кино<n><ins>$
+[/xxpjPy8LK_RZ]
+[yFYtCQz1bFEZ#0] ^кинушӑн/кино<n><px2sg><ter>$
+[/yFYtCQz1bFEZ]
+[z_H5cPBGZzOh#0] ^кинӑрсемпе/кино<n><px2pl><pl><ins>$
+[/z_H5cPBGZzOh]
+[ze9_e_9RrcFW#0] ^киносемпе/кино<n><pl><ins>$
+[/ze9_e_9RrcFW]
+[zfRXDbWofvHp#0] ^киномӑрсемпе/кино<n><px1pl><pl><ins>$
+[/zfRXDbWofvHp]
+[zrtrtPJuPGm0#0] ^киномсене/кино<n><px1sg><pl><dat>$
+[/zrtrtPJuPGm0]

@@ -1,0 +1,190 @@
+[-59GMbbW4lsH#0] ^литературӑмӑрсен/литература<n><px1pl><pl><gen>$
+[/-59GMbbW4lsH]
+[-8miWnuCrn7w#0] ^литературисемшӗн/литература<n><px3sp><pl><ter>$
+[/-8miWnuCrn7w]
+[-hpy9TYKoPTa#0] ^литературӑрта/литература<n><px2pl><loc>$
+[/-hpy9TYKoPTa]
+[0Pa7AHInR_4J#0] ^литературун/литература<n><px2sg><gen>$
+[/0Pa7AHInR_4J]
+[0jhjZ2v_gYEA#0] ^литературӑсен/литература<n><pl><gen>$
+[/0jhjZ2v_gYEA]
+[1VvaWlNG3LJz#0] ^литературуна/литература<n><px2sg><dat>$
+[/1VvaWlNG3LJz]
+[2Uv2dKd7jmLh#0] ^литературӑрсемсӗр/литература<n><px2pl><pl>+сӑр<post>$
+[/2Uv2dKd7jmLh]
+[37hrgzPIHUmB#0] ^литературӑмра/литература<n><px1sg><loc>$
+[/37hrgzPIHUmB]
+[46F7HsVxUUT0#0] ^литературӑртан/литература<n><px2pl><abl>$
+[/46F7HsVxUUT0]
+[4l6HW-9ySoTx#0] ^литературӑмӑрсенче/литература<n><px1pl><pl><loc>$
+[/4l6HW-9ySoTx]
+[4pqqNgePgz9S#0] ^литературусене/литература<n><px2sg><pl><dat>$
+[/4pqqNgePgz9S]
+[6ORopw0EQFk-#0] ^литературинче/литература<n><px3sp><loc>$
+[/6ORopw0EQFk-]
+[7HxEPAmWxOyq#0] ^литературӑмсенчен/литература<n><px1sg><pl><abl>$
+[/7HxEPAmWxOyq]
+[7UwVQkQtAhOB#0] ^литературӑмсене/литература<n><px1sg><pl><dat>$
+[/7UwVQkQtAhOB]
+[88re3MgwHWv1#0] ^литературӑршӑн/литература<n><px2pl><ter>$
+[/88re3MgwHWv1]
+[8XTF3VCeQv-r#0] ^литературӑмӑрпа/литература<n><px1pl><ins>$
+[/8XTF3VCeQv-r]
+[8Y8g-oFSQN5n#0] ^литературӑмӑршӑн/литература<n><px1pl><ter>$
+[/8Y8g-oFSQN5n]
+[8_bzRMVrxl_8#0] ^литературӑсемшӗн/литература<n><pl><ter>$
+[/8_bzRMVrxl_8]
+[9DYLvBFmy7Cd#0] ^литературӑрсӑр/литература<n><px2pl>+сӑр<post>$
+[/9DYLvBFmy7Cd]
+[9SQ3KaQ6a0U6#0] ^литературисенче/литература<n><px3sp><pl><loc>$
+[/9SQ3KaQ6a0U6]
+[9o9HgXi1fZ63#0] ^литературӑран/литература<n><abl>$
+[/9o9HgXi1fZ63]
+[AOMEo-i-O4S5#0] ^литературӑмӑн/литература<n><px1sg><gen>$
+[/AOMEo-i-O4S5]
+[AXa6Hh8X0PZb#0] ^литературӑмсӑр/литература<n><px1sg>+сӑр<post>$
+[/AXa6Hh8X0PZb]
+[Aj70oxvmjPUL#0] ^литературушӑн/литература<n><px2sg><ter>$
+[/Aj70oxvmjPUL]
+[Bfl4fTAO4gpz#0] ^литературӑрсемпе/литература<n><px2pl><pl><ins>$
+[/Bfl4fTAO4gpz]
+[CZ8PbXJ7bIJ9#0] ^литературӑмсемсӗр/литература<n><px1sg><pl>+сӑр<post>$
+[/CZ8PbXJ7bIJ9]
+[D9hd6AryxGDt#0] ^литературисен/литература<n><px3sp><pl><gen>$
+[/D9hd6AryxGDt]
+[DJs6ptsNDvY9#0] ^литературӑсемсӗр/литература<n><pl>+сӑр<post>$
+[/DJs6ptsNDvY9]
+[F2ITas-AhmNb#0] ^литературусемсӗр/литература<n><px2sg><pl>+сӑр<post>$
+[/F2ITas-AhmNb]
+[F8zkMoGdDzO5#0] ^литературисене/литература<n><px3sp><pl><dat>$
+[/F8zkMoGdDzO5]
+[GzbCVY84Q7HA#0] ^литературӑсенче/литература<n><pl><loc>$
+[/GzbCVY84Q7HA]
+[HQEkSDMP3Bba#0] ^литературишӗн/литература<n><px3sp><ter>$
+[/HQEkSDMP3Bba]
+[IAqOemoE8NJO#0] ^литературу/литература<n><px2sg><nom>$
+[/IAqOemoE8NJO]
+[Ib18JN5X_r7w#0] ^литературисенчен/литература<n><px3sp><pl><abl>$
+[/Ib18JN5X_r7w]
+[JYwmMRFeoHK2#0] ^литературӑмӑрсемсӗр/литература<n><px1pl><pl>+сӑр<post>$
+[/JYwmMRFeoHK2]
+[JZBJVBj-1GfF#0] ^литературинчен/литература<n><px3sp><abl>$
+[/JZBJVBj-1GfF]
+[KEdlg8LeKpcm#0] ^литературӑмӑра/литература<n><px1pl><dat>$
+[/KEdlg8LeKpcm]
+[KLaUfpdFeoPB#0] ^литературунтан/литература<n><px2sg><abl>$
+[/KLaUfpdFeoPB]
+[KeRShMawRkL8#0] ^литературӑмсем/литература<n><px1sg><pl><nom>$
+[/KeRShMawRkL8]
+[LaMzoJ3VcZD_#0] ^литературупа/литература<n><px2sg><ins>$
+[/LaMzoJ3VcZD_]
+[LuvmSeiEuFGL#0] ^литературӑмпа/литература<n><px1sg><ins>$
+[/LuvmSeiEuFGL]
+[NBCaeZ4f6XIK#0] ^литературӑмсемшӗн/литература<n><px1sg><pl><ter>$
+[/NBCaeZ4f6XIK]
+[NQFaJLBbDIR0#0] ^литературӑра/литература<n><loc>/литература<n><px2pl><dat>$
+[/NQFaJLBbDIR0]
+[Nb_5jdB6d802#0] ^литературӑмӑрсене/литература<n><px1pl><pl><dat>$
+[/Nb_5jdB6d802]
+[OYITWrAmYsE1#0] ^литературӑмсемпе/литература<n><px1sg><pl><ins>$
+[/OYITWrAmYsE1]
+[PfQCDTAJMZZp#0] ^литературӑна/литература<n><dat>$
+[/PfQCDTAJMZZp]
+[Q0pv7IdAC1fl#0] ^литературисемсӗр/литература<n><px3sp><pl>+сӑр<post>$
+[/Q0pv7IdAC1fl]
+[QdKoFNFnb7D6#0] ^литературӑрсемшӗн/литература<n><px2pl><pl><ter>$
+[/QdKoFNFnb7D6]
+[RlgqPj1bNPF1#0] ^литературӑмӑрсӑр/литература<n><px1pl>+сӑр<post>$
+[/RlgqPj1bNPF1]
+[SDwsdMvDHp4n#0] ^литературӑмсенче/литература<n><px1sg><pl><loc>$
+[/SDwsdMvDHp4n]
+[Uh-eqKG0WEM2#0] ^литературисӗр/литература<n><px3sp>+сӑр<post>$
+[/Uh-eqKG0WEM2]
+[UhiIY7cJjI5J#0] ^литературӑрсем/литература<n><px2pl><pl><nom>$
+[/UhiIY7cJjI5J]
+[V1D3tXPWOoqw#0] ^литературӑшӑн/литература<n><ter>$
+[/V1D3tXPWOoqw]
+[WwuJbYcMJ4Ks#0] ^литературӑсенчен/литература<n><pl><abl>$
+[/WwuJbYcMJ4Ks]
+[Wy3wDEGy4hNO#0] ^литературипе/литература<n><px3sp><ins>$
+[/Wy3wDEGy4hNO]
+[XRSRGACszjg5#0] ^литературӑсемпе/литература<n><pl><ins>$
+[/XRSRGACszjg5]
+[YByKGgskBcT5#0] ^литературусем/литература<n><px2sg><pl><nom>$
+[/YByKGgskBcT5]
+[YUtjx97SN8dL#0] ^литературусемшӗн/литература<n><px2sg><pl><ter>$
+[/YUtjx97SN8dL]
+[YnGZBqmiHMBg#0] ^литературӑрсене/литература<n><px2pl><pl><dat>$
+[/YnGZBqmiHMBg]
+[YyWlNY5ziDWQ#0] ^литературӑмӑрта/литература<n><px1pl><loc>$
+[/YyWlNY5ziDWQ]
+[_LiM27wti1s1#0] ^литературӑмӑрсемшӗн/литература<n><px1pl><pl><ter>$
+[/_LiM27wti1s1]
+[_MFEhEQIkpHU#0] ^литературӑм/литература<n><px1sg><nom>$
+[/_MFEhEQIkpHU]
+[aWn8_W2aU1yY#0] ^литературӑрсенче/литература<n><px2pl><pl><loc>$
+[/aWn8_W2aU1yY]
+[bEZYXb0nJyVW#0] ^литературисем/литература<n><px3sp><pl><nom>$
+[/bEZYXb0nJyVW]
+[bR_Ry7jen5kW#0] ^литератури/литература<n><px3sp><nom>$
+[/bR_Ry7jen5kW]
+[d1qvxsyTSfKg#0] ^литературӑмӑрӑн/литература<n><px1pl><gen>$
+[/d1qvxsyTSfKg]
+[dNGLAP49AL9d#0] ^литературусенче/литература<n><px2sg><pl><loc>$
+[/dNGLAP49AL9d]
+[dPmTWMKayYlH#0] ^литературӑрпа/литература<n><px2pl><ins>$
+[/dPmTWMKayYlH]
+[f4zwoQUr4MtN#0] ^литературӑн/литература<n><gen>$
+[/f4zwoQUr4MtN]
+[fjuHCNI6hsfG#0] ^литературӑма/литература<n><px1sg><dat>$
+[/fjuHCNI6hsfG]
+[h8hMQqIiJaw6#0] ^литературӑрсенчен/литература<n><px2pl><pl><abl>$
+[/h8hMQqIiJaw6]
+[h_9a5jXhpJiP#0] ^литературӑмӑр/литература<n><px1pl><nom>$
+[/h_9a5jXhpJiP]
+[llWwkDvCIgxo#0] ^литературӑрӑн/литература<n><px2pl><gen>$
+[/llWwkDvCIgxo]
+[n9_tL5tlNUE1#0] ^литература/литература<n><attr>/литература<n><nom>$
+[/n9_tL5tlNUE1]
+[nBp5HSBQ14LZ#0] ^литературин/литература<n><px3sp><gen>$
+[/nBp5HSBQ14LZ]
+[nY__U7CvTty1#0] ^литературӑмӑрсем/литература<n><px1pl><pl><nom>$
+[/nY__U7CvTty1]
+[nag9JM6xUHAM#0] ^литературӑсӑр/литература<n>+сӑр<post>$
+[/nag9JM6xUHAM]
+[pW4uanLAo_rA#0] ^литературусен/литература<n><px2sg><pl><gen>$
+[/pW4uanLAo_rA]
+[q691Ud-PdJvg#0] ^литературӑмсен/литература<n><px1sg><pl><gen>$
+[/q691Ud-PdJvg]
+[r38bql6eUXGk#0] ^литературӑрсен/литература<n><px2pl><pl><gen>$
+[/r38bql6eUXGk]
+[rNecL6jFw2O3#0] ^литературӑсене/литература<n><pl><dat>$
+[/rNecL6jFw2O3]
+[rRXILZiq8zn4#0] ^литературӑмӑртан/литература<n><px1pl><abl>$
+[/rRXILZiq8zn4]
+[sP8b4wDpmPhz#0] ^литературӑр/литература<n><px2pl><nom>$
+[/sP8b4wDpmPhz]
+[tJS9RcX2LE28#0] ^литературисемпе/литература<n><px3sp><pl><ins>$
+[/tJS9RcX2LE28]
+[tJxmIYQMu-Np#0] ^литературусемпе/литература<n><px2sg><pl><ins>$
+[/tJxmIYQMu-Np]
+[tgHCajwVcXTU#0] ^литературӑмӑрсемпе/литература<n><px1pl><pl><ins>$
+[/tgHCajwVcXTU]
+[tijRseLnYAfs#0] ^литературӑмӑрсенчен/литература<n><px1pl><pl><abl>$
+[/tijRseLnYAfs]
+[u7y1y5kny8uh#0] ^литературусенчен/литература<n><px2sg><pl><abl>$
+[/u7y1y5kny8uh]
+[uDfedg9OcvFD#0] ^литературӑмшӑн/литература<n><px1sg><ter>$
+[/uDfedg9OcvFD]
+[uM9kZ2HYLVNi#0] ^литературусӑр/литература<n><px2sg>+сӑр<post>$
+[/uM9kZ2HYLVNi]
+[xUVV5y_rAPZ8#0] ^литературӑмран/литература<n><px1sg><abl>$
+[/xUVV5y_rAPZ8]
+[yPlnodwnDo0_#0] ^литературӑсем/литература<n><pl><nom>$
+[/yPlnodwnDo0_]
+[zD0UJ68Z8BxM#0] ^литературунта/литература<n><px2sg><loc>$
+[/zD0UJ68Z8BxM]
+[zEh3mAmKysjy#0] ^литературине/литература<n><px3sp><dat>$
+[/zEh3mAmKysjy]
+[zMPL8AcFYE61#0] ^литературӑпа/литература<n><ins>$
+[/zMPL8AcFYE61]

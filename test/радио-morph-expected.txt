@@ -1,0 +1,192 @@
+[-oh4yhU23XF1#0] ^радиосене/радио<n><pl><dat>$
+[/-oh4yhU23XF1]
+[0HCp8wMUUbeb#0] ^радиӑрсенче/радио<n><px2pl><pl><loc>$
+[/0HCp8wMUUbeb]
+[1cVk-J0kspyg#0] ^радиосен/радио<n><pl><gen>$
+[/1cVk-J0kspyg]
+[2KLAvB7yfiqX#0] ^радиомӑрсенчен/радио<n><px1pl><pl><abl>$
+[/2KLAvB7yfiqX]
+[2Mvn3kZfORQP#0] ^радиовӗсем/радио<n><px3sp><pl><nom>$
+[/2Mvn3kZfORQP]
+[31PLMP50KU1Q#0] ^радиомӑршӑн/радио<n><px1pl><ter>$
+[/31PLMP50KU1Q]
+[4RpQjoEj8C29#0] ^радиомсем/радио<n><px1sg><pl><nom>$
+[/4RpQjoEj8C29]
+[4otptl3SVrnY#0] ^радиӑрсене/радио<n><px2pl><pl><dat>$
+[/4otptl3SVrnY]
+[5ijl9AYgn2fu#0] ^радиомӑрсемшӗн/радио<n><px1pl><pl><ter>$
+[/5ijl9AYgn2fu]
+[5j_d4lLigwNt#0] ^радиосенчен/радио<n><pl><abl>$
+[/5j_d4lLigwNt]
+[5oKKdNzGjniN#0] ^радиомшӑн/радио<n><px1sg><ter>$
+[/5oKKdNzGjniN]
+[69FZdgxHgX1F#0] ^радиомӑрсен/радио<n><px1pl><pl><gen>$
+[/69FZdgxHgX1F]
+[6SnbFG3oVSdo#0] ^радиомӑрпа/радио<n><px1pl><ins>$
+[/6SnbFG3oVSdo]
+[6VBtDSu5dVu9#0] ^радиошӑн/радио<n><ter>$
+[/6VBtDSu5dVu9]
+[8Gvikn0Fm5x7#0] ^радиовӗпе/радио<n><px3sp><ins>$
+[/8Gvikn0Fm5x7]
+[8xYOcAmShuHt#0] ^радиӑрсемшӗн/радио<n><px2pl><pl><ter>$
+[/8xYOcAmShuHt]
+[9H4h4O23DpRS#0] ^радиӑрӑн/радио<n><px2pl><gen>$
+[/9H4h4O23DpRS]
+[AZwMjgBFmJhY#0] ^радиовоӗсен/*радиовоӗсен$
+[/AZwMjgBFmJhY]
+[B2FsGDYn5P_3#0] ^радиомпа/радио<n><px1sg><ins>$
+[/B2FsGDYn5P_3]
+[BlvHKY1Gk_dp#0] ^радиомран/радио<n><px1sg><abl>$
+[/BlvHKY1Gk_dp]
+[Boi5zcQHXJko#0] ^радиомӑрсене/радио<n><px1pl><pl><dat>$
+[/Boi5zcQHXJko]
+[CpDVE4_ziezj#0] ^радюсемпе/радио<n><px2sg><pl><ins>$
+[/CpDVE4_ziezj]
+[Cvokblf6eEVn#0] ^радиома/радио<n><px1sg><dat>$
+[/Cvokblf6eEVn]
+[DiK6cnIj3U3q#0] ^радиомӑртан/радио<n><px1pl><abl>$
+[/DiK6cnIj3U3q]
+[EYU5-B7MtSG2#0] ^радюсенчен/радио<n><px2sg><pl><abl>$
+[/EYU5-B7MtSG2]
+[GC5yNxu0KGgg#0] ^радиона/радио<n><dat>$
+[/GC5yNxu0KGgg]
+[GZQR4lOivh0r#0] ^радиӑрсемпе/радио<n><px2pl><pl><ins>$
+[/GZQR4lOivh0r]
+[GhQUss_Nv69F#0] ^радиовӗсенчен/радио<n><px3sp><pl><abl>$
+[/GhQUss_Nv69F]
+[GtzLhi8UF0xq#0] ^радиомсемсӗр/радио<n><px1sg><pl>+сӑр<post>$
+[/GtzLhi8UF0xq]
+[H4U0xlziFXuR#0] ^радю/радио<n><px2sg><nom>$
+[/H4U0xlziFXuR]
+[HCaFeQecgGe1#0] ^радиовӗне/радио<n><px3sp><dat>$
+[/HCaFeQecgGe1]
+[I2IYTR_JL7yF#0] ^радиом/радио<n><px1sg><nom>$
+[/I2IYTR_JL7yF]
+[I8Cu9bse3ueI#0] ^радюнта/радио<n><px2sg><loc>$
+[/I8Cu9bse3ueI]
+[IJ4DyM4QdLZn#0] ^радион/радио<n><gen>$
+[/IJ4DyM4QdLZn]
+[IVC7QLvst38C#0] ^радиомсенче/радио<n><px1sg><pl><loc>$
+[/IVC7QLvst38C]
+[Iy40tkCFkqqH#0] ^радюсене/радио<n><px2sg><pl><dat>$
+[/Iy40tkCFkqqH]
+[JGQURUu7nv-Q#0] ^радиовӗсемпе/радио<n><px3sp><pl><ins>$
+[/JGQURUu7nv-Q]
+[JLzOeenZI7UE#0] ^радиовӗ/радио<n><px3sp><nom>$
+[/JLzOeenZI7UE]
+[Jf3pMUIaw39W#0] ^радиора/радио<n><loc>$
+[/Jf3pMUIaw39W]
+[KbQcGkHHa6RN#0] ^радюсем/радио<n><px2sg><pl><nom>$
+[/KbQcGkHHa6RN]
+[KwVGSiuFFBN7#0] ^радиовӗсенче/радио<n><px3sp><pl><loc>$
+[/KwVGSiuFFBN7]
+[LqaQUw3G_-6a#0] ^радиосем/радио<n><pl><nom>$
+[/LqaQUw3G_-6a]
+[N78DCQ2EXJW5#0] ^радиомӑрсемсӗр/радио<n><px1pl><pl>+сӑр<post>$
+[/N78DCQ2EXJW5]
+[NBikiK96J9O7#0] ^радиӑра/радио<n><px2pl><dat>$
+[/NBikiK96J9O7]
+[N_-jLxdx67D0#0] ^радиӑрсем/радио<n><px2pl><pl><nom>$
+[/N_-jLxdx67D0]
+[P2cNGplgFj9N#0] ^радиоран/радио<n><abl>$
+[/P2cNGplgFj9N]
+[POHHM6MQaDtQ#0] ^радиовӗсемшӗн/радио<n><px3sp><pl><ter>$
+[/POHHM6MQaDtQ]
+[R2u7V0iFOVN5#0] ^радиӑрсен/радио<n><px2pl><pl><gen>$
+[/R2u7V0iFOVN5]
+[Rfn2K_vLoVy6#0] ^радиопа/радио<n><ins>$
+[/Rfn2K_vLoVy6]
+[SETPllNbp30y#0] ^радиӑр/радио<n><px2pl><nom>$
+[/SETPllNbp30y]
+[ToiCnvr52tgh#0] ^радиовӗнче/радио<n><px3sp><loc>$
+[/ToiCnvr52tgh]
+[VBKI0Ge5ABky#0] ^радиомӑрсемпе/радио<n><px1pl><pl><ins>$
+[/VBKI0Ge5ABky]
+[VDdT7P2tkcM4#0] ^радюсен/радио<n><px2sg><pl><gen>$
+[/VDdT7P2tkcM4]
+[WJbfMk77rSFQ#0] ^радиомӑрта/радио<n><px1pl><loc>$
+[/WJbfMk77rSFQ]
+[WUU-fbTR4Mvh#0] ^радюшӑн/радио<n><px2sg><ter>$
+[/WUU-fbTR4Mvh]
+[XKh8-y_ADiVb#0] ^радиомсӑр/радио<n><px1sg>+сӑр<post>$
+[/XKh8-y_ADiVb]
+[XaSCPsyq0TjP#0] ^радиӑрсенчен/радио<n><px2pl><pl><abl>$
+[/XaSCPsyq0TjP]
+[YUvRSD1hPgfv#0] ^радиомӑрсенче/радио<n><px1pl><pl><loc>$
+[/YUvRSD1hPgfv]
+[YpY4ZoyCh2Z7#0] ^радиӑрсемсӗр/радио<n><px2pl><pl>+сӑр<post>$
+[/YpY4ZoyCh2Z7]
+[ZHW52pYWRjFr#0] ^радюпа/радио<n><px2sg><ins>$
+[/ZHW52pYWRjFr]
+[_2adJBvuEF4j#0] ^радиовӗнчен/радио<n><px3sp><abl>$
+[/_2adJBvuEF4j]
+[_E1_Jq9MungI#0] ^радюнтан/радио<n><px2sg><abl>$
+[/_E1_Jq9MungI]
+[_xNSBEExPMiy#0] ^радиомӑрсем/радио<n><px1pl><pl><nom>$
+[/_xNSBEExPMiy]
+[aXBH5SFjeJTe#0] ^радиомсемпе/радио<n><px1sg><pl><ins>$
+[/aXBH5SFjeJTe]
+[axH2vB-lM-3-#0] ^радиомӑн/радио<n><px1sg><gen>$
+[/axH2vB-lM-3-]
+[bTw0M1OeU-uQ#0] ^радиӑртан/радио<n><px2pl><abl>$
+[/bTw0M1OeU-uQ]
+[bkzLSjL-jsl6#0] ^радиомсен/радио<n><px1sg><pl><gen>$
+[/bkzLSjL-jsl6]
+[btD1dVfeWjBh#0] ^радиомӑрӑн/радио<n><px1pl><gen>$
+[/btD1dVfeWjBh]
+[dgzNcfmubJNW#0] ^радиӑрпа/радио<n><px2pl><ins>$
+[/dgzNcfmubJNW]
+[dtbYcdGZOGXo#0] ^радио/радио<n><attr>/радио<n><nom>$
+[/dtbYcdGZOGXo]
+[dvz6bwnhCMmb#0] ^радиомӑр/радио<n><px1pl><nom>$
+[/dvz6bwnhCMmb]
+[eifBgsYfCG9D#0] ^радиовӗн/радио<n><px3sp><gen>$
+[/eifBgsYfCG9D]
+[fYAmiYGPOCQ1#0] ^радиӑрсӑр/радио<n><px2pl>+сӑр<post>$
+[/fYAmiYGPOCQ1]
+[g-Mre0LmKBzY#0] ^радюсемшӗн/радио<n><px2sg><pl><ter>$
+[/g-Mre0LmKBzY]
+[g8xflu3cF3SL#0] ^радиовӗшӗн/радио<n><px3sp><ter>$
+[/g8xflu3cF3SL]
+[hEE5VtjQ7HlP#0] ^радюсӑр/радио<n><px2sg>+сӑр<post>$
+[/hEE5VtjQ7HlP]
+[hTmtD50PnktH#0] ^радиосӑр/радио<n>+сӑр<post>$
+[/hTmtD50PnktH]
+[jgFkQ51Oz7ws#0] ^радиюна/*радиюна$
+[/jgFkQ51Oz7ws]
+[kSLeVlMLVyw_#0] ^радиомра/радио<n><px1sg><loc>$
+[/kSLeVlMLVyw_]
+[mIyNfqiY62AX#0] ^радюсемсӗр/радио<n><px2sg><pl>+сӑр<post>$
+[/mIyNfqiY62AX]
+[mTQxOqknwboL#0] ^радиомӑра/радио<n><px1pl><dat>$
+[/mTQxOqknwboL]
+[oUy8PDXRJ8eN#0] ^радиовӗсемсӗр/радио<n><px3sp><pl>+сӑр<post>$
+[/oUy8PDXRJ8eN]
+[pEg6yDTMJE6A#0] ^радиомсене/радио<n><px1sg><pl><dat>$
+[/pEg6yDTMJE6A]
+[pzz6DUJN63Td#0] ^радиовӗсӗр/радио<n><px3sp>+сӑр<post>$
+[/pzz6DUJN63Td]
+[qgpsHjzVFXol#0] ^радиомӑрсӑр/радио<n><px1pl>+сӑр<post>$
+[/qgpsHjzVFXol]
+[rnxwqjdB_QDl#0] ^радиомсемшӗн/радио<n><px1sg><pl><ter>$
+[/rnxwqjdB_QDl]
+[sGtC01ecVE8A#0] ^радиосенче/радио<n><pl><loc>$
+[/sGtC01ecVE8A]
+[sc0iFtoB9quc#0] ^радиовӗсене/радио<n><px3sp><pl><dat>$
+[/sc0iFtoB9quc]
+[spUpdgjsxRUT#0] ^радиӑршӑн/радио<n><px2pl><ter>$
+[/spUpdgjsxRUT]
+[srVChaJYR3-Q#0] ^радюн/радио<n><px2sg><gen>$
+[/srVChaJYR3-Q]
+[tph6Kn3shHpo#0] ^радиомсенчен/радио<n><px1sg><pl><abl>$
+[/tph6Kn3shHpo]
+[uHo9roQFjdjG#0] ^радиӑрта/радио<n><px2pl><loc>$
+[/uHo9roQFjdjG]
+[vVxqgY895lax#0] ^радиосемсӗр/радио<n><pl>+сӑр<post>$
+[/vVxqgY895lax]
+[w5WD5J4zzJx-#0] ^радюсенче/радио<n><px2sg><pl><loc>$
+[/w5WD5J4zzJx-]
+[zBIsFlEHEc7l#0] ^радиосемшӗн/радио<n><pl><ter>$
+[/zBIsFlEHEc7l]
+[zcwzUfOVFCwS#0] ^радиосемпе/радио<n><pl><ins>$
+[/zcwzUfOVFCwS]

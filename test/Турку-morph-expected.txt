@@ -1,0 +1,92 @@
+[-5rpdqFtVd1s#0] ^Туркине/*Туркине$
+[/-5rpdqFtVd1s]
+[-G_UNkHY76ie#0] ^Туркӑмӑра/*Туркӑмӑра$
+[/-G_UNkHY76ie]
+[0U9yiCZb36Lr#0] ^Туркунтан/Турку<np><top><px2sg><abl>$
+[/0U9yiCZb36Lr]
+[1iZM6T21twdi#0] ^Туркӑрӑн/Турку<np><top><px2pl><gen>$
+[/1iZM6T21twdi]
+[29g7_Mhv6jpG#0] ^Туркупа/Турку<np><top><ins>/Турку<np><top><px2sg><ins>$
+[/29g7_Mhv6jpG]
+[3VHQKhOQTtjI#0] ^Туркӑмӑрӑн/*Туркӑмӑрӑн$
+[/3VHQKhOQTtjI]
+[5t20ky3tjAc3#0] ^Туркун/Турку<np><top><gen>/Турку<np><top><px2sg><gen>$
+[/5t20ky3tjAc3]
+[870aqo54tbr0#0] ^Туркӑрта/Турку<np><top><px2pl><loc>$
+[/870aqo54tbr0]
+[8I4Fpm5DfikW#0] ^Туркӑна/*Туркӑна$
+[/8I4Fpm5DfikW]
+[8lvcsGzTBrmv#0] ^Туркӑн/*Туркӑн$
+[/8lvcsGzTBrmv]
+[9wEDazkX6m-A#0] ^Туркӑшӑн/*Туркӑшӑн$
+[/9wEDazkX6m-A]
+[A5KRkz883WAq#0] ^Туркӑмӑрта/*Туркӑмӑрта$
+[/A5KRkz883WAq]
+[B5LKJzEzJv1K#0] ^Туркӑм/*Туркӑм$
+[/B5LKJzEzJv1K]
+[Baj8JPRarnfo#0] ^Туркӑмӑрпа/*Туркӑмӑрпа$
+[/Baj8JPRarnfo]
+[CZGf7E9gixRb#0] ^Туркӑмсӑр/*Туркӑмсӑр$
+[/CZGf7E9gixRb]
+[EsUWYnKEX-dg#0] ^Туркушӑн/Турку<np><top><px2sg><ter>/Турку<np><top><ter>$
+[/EsUWYnKEX-dg]
+[HBDk1EL9KBrE#0] ^Туркӑран/*Туркӑран$
+[/HBDk1EL9KBrE]
+[KFNIMG1CZEQy#0] ^Туркӑр/Турку<np><top><px2pl><nom>$
+[/KFNIMG1CZEQy]
+[M-KJ2cDEspiJ#0] ^Туркӑмӑрсӑр/*Туркӑмӑрсӑр$
+[/M-KJ2cDEspiJ]
+[MQhKwU7-9BMm#0] ^Туркӑма/*Туркӑма$
+[/MQhKwU7-9BMm]
+[PAxnBPbHqdNy#0] ^Туркусӑр/Турку<np><top>+сӑр<post>/Турку<np><top><px2sg>+сӑр<post>$
+[/PAxnBPbHqdNy]
+[Qd0KI_twN3v8#0] ^Туркӑрсӑр/Турку<np><top><px2pl>+сӑр<post>$
+[/Qd0KI_twN3v8]
+[RHgRq5yqWIWv#0] ^Туркисӗр/*Туркисӗр$
+[/RHgRq5yqWIWv]
+[RS-InPNsajP1#0] ^Туркӑршӑн/Турку<np><top><px2pl><ter>$
+[/RS-InPNsajP1]
+[RegsKBiXjYR9#0] ^Туркӑрпа/Турку<np><top><px2pl><ins>$
+[/RegsKBiXjYR9]
+[SlaPTOSHzpCH#0] ^Туркӑпа/*Туркӑпа$
+[/SlaPTOSHzpCH]
+[V-KVCf8SjQbA#0] ^Туркинче/*Туркинче$
+[/V-KVCf8SjQbA]
+[WpQcC-1EPvS1#0] ^Турку/Турку<np><top><attr>/Турку<np><top><nom>/Турку<np><top><px2sg><nom>$
+[/WpQcC-1EPvS1]
+[Xw4F-NpPhVjR#0] ^Туркӑмран/*Туркӑмран$
+[/Xw4F-NpPhVjR]
+[YATX9D7IpCIS#0] ^Турки/*Турки$
+[/YATX9D7IpCIS]
+[YLPt_yjRbUZD#0] ^Туркӑсӑр/*Туркӑсӑр$
+[/YLPt_yjRbUZD]
+[ZWaknA21j45o#0] ^Туркуна/Турку<np><top><dat>/Турку<np><top><px2sg><dat>$
+[/ZWaknA21j45o]
+[aDEtN2oZbf6f#0] ^Туркинчен/*Туркинчен$
+[/aDEtN2oZbf6f]
+[cA_riaz0nPpA#0] ^Туркӑмӑр/*Туркӑмӑр$
+[/cA_riaz0nPpA]
+[ciyAs3-yrdJu#0] ^Туркӑмпа/*Туркӑмпа$
+[/ciyAs3-yrdJu]
+[d4tBIqKgJ2Xo#0] ^Туркунта/Турку<np><top><px2sg><loc>$
+[/d4tBIqKgJ2Xo]
+[eBRtZoybG8CV#0] ^Туркӑмра/*Туркӑмра$
+[/eBRtZoybG8CV]
+[jHjIaCHRxM0P#0] ^Туркӑртан/Турку<np><top><px2pl><abl>$
+[/jHjIaCHRxM0P]
+[jLNRigErFvHa#0] ^Туркин/*Туркин$
+[/jLNRigErFvHa]
+[kRuTHZw6jNn_#0] ^Туркӑмӑн/*Туркӑмӑн$
+[/kRuTHZw6jNn_]
+[lW9h0_LadnAw#0] ^Туркӑмӑртан/*Туркӑмӑртан$
+[/lW9h0_LadnAw]
+[oeQkMD7CGPCx#0] ^Туркӑра/Турку<np><top><px2pl><dat>$
+[/oeQkMD7CGPCx]
+[rp8A_b3HQKYm#0] ^Туркӑмшӑн/*Туркӑмшӑн$
+[/rp8A_b3HQKYm]
+[uQqGadoTX4qp#0] ^Туркӑмӑршӑн/*Туркӑмӑршӑн$
+[/uQqGadoTX4qp]
+[vTftyoCovKnZ#0] ^Туркипе/*Туркипе$
+[/vTftyoCovKnZ]
+[wpH_e9eFG2wu#0] ^Туркишӗн/*Туркишӗн$
+[/wpH_e9eFG2wu]

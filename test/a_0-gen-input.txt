@@ -1,0 +1,6 @@
+# For some reason {а} in the present tense suffix doesn't fall in verbs like вула (ending in а)
+^шыра<v><tv><pres><p3><sg>$
+^вула<v><tv><pres><p1><sg>$
+^ӗҫле<v><iv><pres><p1><sg>$
+^пул<v><iv><pres><p1><sg>$
+^ил<v><iv><pres><p1><sg>$

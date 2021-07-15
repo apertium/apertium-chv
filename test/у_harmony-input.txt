@@ -1,0 +1,12 @@
+# Regular У harmony
+ялу
+ывӑлу
+тӗнӳ
+ҫеремӳ
+# У harmony for words ending in vowels
+кӗсйӳ
+аннӳ
+училищӳне
+# У harmony for words ending in ь
+супанӳ
+тетрадӳ

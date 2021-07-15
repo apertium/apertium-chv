@@ -1,0 +1,164 @@
+[-HLVTSutHDDw#0] ^кенгурупа/кенгуру<n><ins>/кенгуру<n><px2sg><ins>$
+[/-HLVTSutHDDw]
+[03ZpaRbRYuZh#0] ^кенгурӑвӗсӗр/кенгуру<n><px3sp>+сӑр<post>$
+[/03ZpaRbRYuZh]
+[1OkQZeCXLQ0Z#0] ^кенгурӑвӗсенчен/кенгуру<n><px3sp><pl><abl>$
+[/1OkQZeCXLQ0Z]
+[1ZiiN4Mmfnga#0] ^кенгурусемсӗр/кенгуру<n><pl>+сӑр<post>/кенгуру<n><px2sg><pl>+сӑр<post>$
+[/1ZiiN4Mmfnga]
+[1hO5EIO4L2Mx#0] ^кенгурумӑрӑн/кенгуру<n><px1pl><gen>$
+[/1hO5EIO4L2Mx]
+[2qcpUonU_Bfz#0] ^кенгурӑвӗсемшӗн/кенгуру<n><px3sp><pl><ter>$
+[/2qcpUonU_Bfz]
+[330oefzWdMv4#0] ^кенгурӑвӗсен/кенгуру<n><px3sp><pl><gen>$
+[/330oefzWdMv4]
+[4-rDFCEYICwb#0] ^кенгурумсӑр/кенгуру<n><px1sg>+сӑр<post>$
+[/4-rDFCEYICwb]
+[4fHrk4u2hveo#0] ^кенгурӑвӗне/кенгуру<n><px3sp><dat>$
+[/4fHrk4u2hveo]
+[4pUFK-GfSoTE#0] ^кенгурумӑрсене/кенгуру<n><px1pl><pl><dat>$
+[/4pUFK-GfSoTE]
+[6uRdxIgLzSlC#0] ^кенгурумра/кенгуру<n><px1sg><loc>$
+[/6uRdxIgLzSlC]
+[7sbGNyOx48aQ#0] ^кенгурунтан/кенгуру<n><px2sg><abl>$
+[/7sbGNyOx48aQ]
+[8D4cwRy7a0wp#0] ^кенгурумсем/кенгуру<n><px1sg><pl><nom>$
+[/8D4cwRy7a0wp]
+[934KmFuBJl9q#0] ^кенгурумӑрсенчен/кенгуру<n><px1pl><pl><abl>$
+[/934KmFuBJl9q]
+[9WdyU0XtRQYh#0] ^кенгурумсенче/кенгуру<n><px1sg><pl><loc>$
+[/9WdyU0XtRQYh]
+[BJBlUwn4wSD_#0] ^кенгурумсемсӗр/кенгуру<n><px1sg><pl>+сӑр<post>$
+[/BJBlUwn4wSD_]
+[CyCZJxB3hZMb#0] ^кенгурӑвӗнчен/кенгуру<n><px3sp><abl>$
+[/CyCZJxB3hZMb]
+[D7EYG41fC8HM#0] ^кенгурумӑрсен/кенгуру<n><px1pl><pl><gen>$
+[/D7EYG41fC8HM]
+[GuT7PcFVMAju#0] ^кенгурӑрсенчен/кенгуру<n><px2pl><pl><abl>$
+[/GuT7PcFVMAju]
+[HhtHaBZEIdV6#0] ^кенгурунта/кенгуру<n><px2sg><loc>$
+[/HhtHaBZEIdV6]
+[JbKyNDA2hiWa#0] ^кенгурушӑн/кенгуру<n><px2sg><ter>/кенгуру<n><ter>$
+[/JbKyNDA2hiWa]
+[KE2WklHcq8pz#0] ^кенгурумсемшӗн/кенгуру<n><px1sg><pl><ter>$
+[/KE2WklHcq8pz]
+[LFinV1YOof1J#0] ^кенгуруна/кенгуру<n><dat>/кенгуру<n><px2sg><dat>$
+[/LFinV1YOof1J]
+[LpglDHIbO-CN#0] ^кенгурусемшӗн/кенгуру<n><pl><ter>/кенгуру<n><px2sg><pl><ter>$
+[/LpglDHIbO-CN]
+[MLu2pjwPfuLY#0] ^кенгурумпа/кенгуру<n><px1sg><ins>$
+[/MLu2pjwPfuLY]
+[MpVLo2EHxpiW#0] ^кенгурӑвӗсемсӗр/кенгуру<n><px3sp><pl>+сӑр<post>$
+[/MpVLo2EHxpiW]
+[OSZm_xKxR6C2#0] ^кенгурӑрсемшӗн/кенгуру<n><px2pl><pl><ter>$
+[/OSZm_xKxR6C2]
+[PRte_eO4OaTb#0] ^кенгурӑрсен/кенгуру<n><px2pl><pl><gen>$
+[/PRte_eO4OaTb]
+[SbqnzXwiuOUF#0] ^кенгурусем/кенгуру<n><pl><nom>/кенгуру<n><px2sg><pl><nom>$
+[/SbqnzXwiuOUF]
+[TPqmaTAyAvUb#0] ^кенгурӑрсемсӗр/кенгуру<n><px2pl><pl>+сӑр<post>$
+[/TPqmaTAyAvUb]
+[USeFS4idwFL_#0] ^кенгурӑрсем/кенгуру<n><px2pl><pl><nom>$
+[/USeFS4idwFL_]
+[UeD9z7TIZXLC#0] ^кенгурусенчен/кенгуру<n><pl><abl>/кенгуру<n><px2sg><pl><abl>$
+[/UeD9z7TIZXLC]
+[WGR3xHNlFqrh#0] ^кенгурӑвӗсене/кенгуру<n><px3sp><pl><dat>$
+[/WGR3xHNlFqrh]
+[WU2CuqvI_ewX#0] ^кенгурумӑр/кенгуру<n><px1pl><nom>$
+[/WU2CuqvI_ewX]
+[WVlxfYxk0iBK#0] ^кенгурумӑрсемпе/кенгуру<n><px1pl><pl><ins>$
+[/WVlxfYxk0iBK]
+[WvZ86J3dNSRY#0] ^кенгурӑрсенче/кенгуру<n><px2pl><pl><loc>$
+[/WvZ86J3dNSRY]
+[XfQW0h771EH5#0] ^кенгурумӑрсемшӗн/кенгуру<n><px1pl><pl><ter>$
+[/XfQW0h771EH5]
+[YwvEUqMN9339#0] ^кенгурумсен/кенгуру<n><px1sg><pl><gen>$
+[/YwvEUqMN9339]
+[ZW2JtJuzcZ6e#0] ^кенгурун/кенгуру<n><gen>/кенгуру<n><px2sg><gen>$
+[/ZW2JtJuzcZ6e]
+[_fVmaBrqB28-#0] ^кенгурӑрпа/кенгуру<n><px2pl><ins>$
+[/_fVmaBrqB28-]
+[_ovkkBRjO7fS#0] ^кенгурӑршӑн/кенгуру<n><px2pl><ter>$
+[/_ovkkBRjO7fS]
+[_qxVj9FL2nsZ#0] ^кенгурусенче/кенгуру<n><pl><loc>/кенгуру<n><px2sg><pl><loc>$
+[/_qxVj9FL2nsZ]
+[b6LG_MUQv2ZS#0] ^кенгурӑвӗн/кенгуру<n><px3sp><gen>$
+[/b6LG_MUQv2ZS]
+[bBll6ZAhwkLf#0] ^кенгурӑр/кенгуру<n><px2pl><nom>$
+[/bBll6ZAhwkLf]
+[bxQEj4A6QZzq#0] ^кенгурумшӑн/кенгуру<n><px1sg><ter>$
+[/bxQEj4A6QZzq]
+[cbOgWQYRgGdz#0] ^кенгурумӑртан/кенгуру<n><px1pl><abl>$
+[/cbOgWQYRgGdz]
+[cmlRDWw5DTxv#0] ^кенгурумӑрпа/кенгуру<n><px1pl><ins>$
+[/cmlRDWw5DTxv]
+[d51G7EgL2HJl#0] ^кенгурумӑн/кенгуру<n><px1sg><gen>$
+[/d51G7EgL2HJl]
+[dxS1lpP5gZYr#0] ^кенгурумӑрсемсӗр/кенгуру<n><px1pl><pl>+сӑр<post>$
+[/dxS1lpP5gZYr]
+[e20Y5tXbJCVf#0] ^кенгурумсемпе/кенгуру<n><px1sg><pl><ins>$
+[/e20Y5tXbJCVf]
+[e2Gl4249cQXN#0] ^кенгурӑвӗ/кенгуру<n><px3sp><nom>$
+[/e2Gl4249cQXN]
+[eI9fVgokkx17#0] ^кенгурӑрӑн/кенгуру<n><px2pl><gen>$
+[/eI9fVgokkx17]
+[eIUWYiczeQVn#0] ^кенгурумран/кенгуру<n><px1sg><abl>$
+[/eIUWYiczeQVn]
+[fNXiB0jQTWF4#0] ^кенгурумӑрсем/кенгуру<n><px1pl><pl><nom>$
+[/fNXiB0jQTWF4]
+[fQGSylsJIeAh#0] ^кенгурӑвӗсенче/кенгуру<n><px3sp><pl><loc>$
+[/fQGSylsJIeAh]
+[fkW96wwlBevr#0] ^кенгурӑвӗнче/кенгуру<n><px3sp><loc>$
+[/fkW96wwlBevr]
+[fo1tr_YMrZ9p#0] ^кенгурӑрта/кенгуру<n><px2pl><loc>$
+[/fo1tr_YMrZ9p]
+[hY1LjY6qXkF9#0] ^кенгуру/кенгуру<n><attr>/кенгуру<n><nom>/кенгуру<n><px2sg><nom>$
+[/hY1LjY6qXkF9]
+[hs5uRN0avqBJ#0] ^кенгурумсене/кенгуру<n><px1sg><pl><dat>$
+[/hs5uRN0avqBJ]
+[iH8jyL_acaWn#0] ^кенгурӑвӗсемпе/кенгуру<n><px3sp><pl><ins>$
+[/iH8jyL_acaWn]
+[ieUAQMQQnjcs#0] ^кенгурура/кенгуру<n><loc>$
+[/ieUAQMQQnjcs]
+[jgfeuj-huQnW#0] ^кенгурусен/кенгуру<n><pl><gen>/кенгуру<n><px2sg><pl><gen>$
+[/jgfeuj-huQnW]
+[lRBXS3_fHOoo#0] ^кенгурума/кенгуру<n><px1sg><dat>$
+[/lRBXS3_fHOoo]
+[lRXdvsQZ5PNR#0] ^кенгурӑрсӑр/кенгуру<n><px2pl>+сӑр<post>$
+[/lRXdvsQZ5PNR]
+[lxhB1IEDOq9o#0] ^кенгурусӑр/кенгуру<n>+сӑр<post>/кенгуру<n><px2sg>+сӑр<post>$
+[/lxhB1IEDOq9o]
+[mC_Mo5j3dlyX#0] ^кенгурумӑрсенче/кенгуру<n><px1pl><pl><loc>$
+[/mC_Mo5j3dlyX]
+[n5OL-8h7UdyY#0] ^кенгурӑра/кенгуру<n><px2pl><dat>$
+[/n5OL-8h7UdyY]
+[ncEDy5jDL8wd#0] ^кенгурӑвӗшӗн/кенгуру<n><px3sp><ter>$
+[/ncEDy5jDL8wd]
+[p-OiY7QDuTcn#0] ^кенгурумсенчен/кенгуру<n><px1sg><pl><abl>$
+[/p-OiY7QDuTcn]
+[p9IOdyhLTAC0#0] ^кенгурӑрсемпе/кенгуру<n><px2pl><pl><ins>$
+[/p9IOdyhLTAC0]
+[pDp8EyMaGRSX#0] ^кенгурусемпе/кенгуру<n><pl><ins>/кенгуру<n><px2sg><pl><ins>$
+[/pDp8EyMaGRSX]
+[qD7lXL0FugxS#0] ^кенгурусене/кенгуру<n><pl><dat>/кенгуру<n><px2sg><pl><dat>$
+[/qD7lXL0FugxS]
+[rjRt_iLXHim-#0] ^кенгурумӑрсӑр/кенгуру<n><px1pl>+сӑр<post>$
+[/rjRt_iLXHim-]
+[s4c9dLDUjCrL#0] ^кенгурумӑрта/кенгуру<n><px1pl><loc>$
+[/s4c9dLDUjCrL]
+[sYlw_hcvn1jw#0] ^кенгурум/кенгуру<n><px1sg><nom>$
+[/sYlw_hcvn1jw]
+[tf4MCq1UzrHx#0] ^кенгурумӑршӑн/кенгуру<n><px1pl><ter>$
+[/tf4MCq1UzrHx]
+[vfXyIBPUndQy#0] ^кенгурӑрсене/кенгуру<n><px2pl><pl><dat>$
+[/vfXyIBPUndQy]
+[vft4ZTdx2h1-#0] ^кенгурӑвӗпе/кенгуру<n><px3sp><ins>$
+[/vft4ZTdx2h1-]
+[wGqxk_pCtz3-#0] ^кенгурумӑра/кенгуру<n><px1pl><dat>$
+[/wGqxk_pCtz3-]
+[wqma0C3frX8T#0] ^кенгурӑвӗсем/кенгуру<n><px3sp><pl><nom>$
+[/wqma0C3frX8T]
+[wtYf0lOuh-eV#0] ^кенгуруран/кенгуру<n><abl>$
+[/wtYf0lOuh-eV]
+[yWfSlUWd3YA-#0] ^кенгурӑртан/кенгуру<n><px2pl><abl>$
+[/yWfSlUWd3YA-]

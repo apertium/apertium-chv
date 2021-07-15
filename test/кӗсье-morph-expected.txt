@@ -1,0 +1,168 @@
+[07j3zfnujYCq#0] ^кӗсйӗрсенче/кӗсье<n><px2pl><pl><loc>$
+[/07j3zfnujYCq]
+[0QqVxCtahPCC#0] ^кӗсьемӗрсемпе/кӗсье<n><px1pl><pl><ins>$
+[/0QqVxCtahPCC]
+[0sOufb7CmLP_#0] ^кӗсьемсемшӗн/кӗсье<n><px1sg><pl><ter>$
+[/0sOufb7CmLP_]
+[26MNBwjoHbwS#0] ^кӗсйӳ/кӗсье<n><px2sg><nom>$
+[/26MNBwjoHbwS]
+[2n3ZzDDCc8P4#0] ^кӗсйинче/кӗсье<n><px3sp><loc>$
+[/2n3ZzDDCc8P4]
+[2tabP6S4S473#0] ^кӗсйин/кӗсье<n><px3sp><gen>$
+[/2tabP6S4S473]
+[3h5d7gifaXTU#0] ^кӗсьемӗрте/кӗсье<n><px1pl><loc>$
+[/3h5d7gifaXTU]
+[59og7J0Nvm_u#0] ^кӗсьемӗрсенчен/кӗсье<n><px1pl><pl><abl>$
+[/59og7J0Nvm_u]
+[6S5x0vVsF0s6#0] ^кӗсьемӗн/кӗсье<n><px1sg><gen>$
+[/6S5x0vVsF0s6]
+[7AnM6RSOCjCd#0] ^кӗсйӗрсенчен/кӗсье<n><px2pl><pl><abl>$
+[/7AnM6RSOCjCd]
+[8ptQD82KKRa4#0] ^кӗсьене/кӗсье<n><dat>$
+[/8ptQD82KKRa4]
+[9bcoWKlC_hxS#0] ^кӗсьемсемпе/кӗсье<n><px1sg><pl><ins>$
+[/9bcoWKlC_hxS]
+[AUZbZ-H1mDiY#0] ^кӗсйӗрсем/кӗсье<n><px2pl><pl><nom>$
+[/AUZbZ-H1mDiY]
+[A___r7fh9F6c#0] ^кӗсйӳшӗн/кӗсье<n><px2sg><ter>$
+[/A___r7fh9F6c]
+[Aw9iJKdayh-g#0] ^кӗсьешӗн/кӗсье<n><ter>$
+[/Aw9iJKdayh-g]
+[B3TDeO-RoDo_#0] ^кӗсйӳнте/кӗсье<n><px2sg><loc>$
+[/B3TDeO-RoDo_]
+[CHVCZu0OnU24#0] ^кӗсьемсен/кӗсье<n><px1sg><pl><gen>$
+[/CHVCZu0OnU24]
+[FLri5G9fEM6r#0] ^кӗсьеме/кӗсье<n><px1sg><dat>$
+[/FLri5G9fEM6r]
+[FRrU7PEs0ROz#0] ^кӗсьесен/кӗсье<n><pl><gen>$
+[/FRrU7PEs0ROz]
+[GjA_P3z7Igzk#0] ^кӗсьемсене/кӗсье<n><px1sg><pl><dat>$
+[/GjA_P3z7Igzk]
+[GrmoSkS4CApo#0] ^кӗсьемсенче/кӗсье<n><px1sg><pl><loc>$
+[/GrmoSkS4CApo]
+[HX9qShcRcw8f#0] ^кӗсйисемшӗн/кӗсье<n><px3sp><pl><ter>$
+[/HX9qShcRcw8f]
+[Hzw9wmvchCd8#0] ^кӗсьемсем/кӗсье<n><px1sg><pl><nom>$
+[/Hzw9wmvchCd8]
+[IG2SeyQmnUUd#0] ^кӗсйӗршӗн/кӗсье<n><px2pl><ter>$
+[/IG2SeyQmnUUd]
+[Nh9c3Oy8-C2F#0] ^кӗсйӳсене/кӗсье<n><px2sg><pl><dat>$
+[/Nh9c3Oy8-C2F]
+[OyuSE1XdmrzT#0] ^кӗсьемӗр/кӗсье<n><px1pl><nom>$
+[/OyuSE1XdmrzT]
+[P_yMrrQxEn2x#0] ^кӗсьемсенчен/кӗсье<n><px1sg><pl><abl>$
+[/P_yMrrQxEn2x]
+[RRAd1U1Rbve5#0] ^кӗсйинчен/кӗсье<n><px3sp><abl>$
+[/RRAd1U1Rbve5]
+[SCV9joyKZZ1D#0] ^кӗсьен/кӗсье<n><gen>$
+[/SCV9joyKZZ1D]
+[SLJPAGHWINuR#0] ^кӗсьем/кӗсье<n><px1sg><nom>$
+[/SLJPAGHWINuR]
+[S_A2YI0CFQS5#0] ^кӗсьерен/кӗсье<n><abl>$
+[/S_A2YI0CFQS5]
+[T6PzxiyfU8gX#0] ^кӗсйисене/кӗсье<n><px3sp><pl><dat>$
+[/T6PzxiyfU8gX]
+[TLMvg1L1LYj0#0] ^кӗсьемӗрсен/кӗсье<n><px1pl><pl><gen>$
+[/TLMvg1L1LYj0]
+[U0KZ5BaoStIa#0] ^кӗсьемрен/кӗсье<n><px1sg><abl>$
+[/U0KZ5BaoStIa]
+[UDZyRRRSIu9B#0] ^кӗсйисем/кӗсье<n><px3sp><pl><nom>$
+[/UDZyRRRSIu9B]
+[V63vsyJtiqKo#0] ^кӗсьемӗршӗн/кӗсье<n><px1pl><ter>$
+[/V63vsyJtiqKo]
+[V8Kfr3vMcvAw#0] ^кӗсьесемпе/кӗсье<n><pl><ins>$
+[/V8Kfr3vMcvAw]
+[XxkdmTfV3pfn#0] ^кӗсйӗрсемшӗн/кӗсье<n><px2pl><pl><ter>$
+[/XxkdmTfV3pfn]
+[YkHxKnjMdfyl#0] ^кӗсьемӗртен/кӗсье<n><px1pl><abl>$
+[/YkHxKnjMdfyl]
+[ZEqITgLCCXsQ#0] ^кӗсйи/кӗсье<n><px3sp><nom>$
+[/ZEqITgLCCXsQ]
+[ZUBudP0xUagV#0] ^кӗсйӳсен/кӗсье<n><px2sg><pl><gen>$
+[/ZUBudP0xUagV]
+[ZkC4d-Lkb1Lx#0] ^кӗсйӳсем/кӗсье<n><px2sg><pl><nom>$
+[/ZkC4d-Lkb1Lx]
+[ZykZ0nfNr4GM#0] ^кӗсьесемшӗн/кӗсье<n><pl><ter>$
+[/ZykZ0nfNr4GM]
+[_IZ2JJUYkJT4#0] ^кӗсйӳн/кӗсье<n><px2sg><gen>$
+[/_IZ2JJUYkJT4]
+[aAAQOdWaiO0l#0] ^кӗсйине/кӗсье<n><px3sp><dat>$
+[/aAAQOdWaiO0l]
+[aHibQtMu7EQK#0] ^кӗсьемӗрсемшӗн/кӗсье<n><px1pl><pl><ter>$
+[/aHibQtMu7EQK]
+[aTquIanvFYZI#0] ^кӗсьесем/кӗсье<n><pl><nom>$
+[/aTquIanvFYZI]
+[bCx0AcnoJ8dN#0] ^кӗсйӗр/кӗсье<n><px2pl><nom>$
+[/bCx0AcnoJ8dN]
+[brOWdK3-xvEc#0] ^кӗсйӗрте/кӗсье<n><px2pl><loc>$
+[/brOWdK3-xvEc]
+[eYlFWryiuC8t#0] ^кӗсьемӗрсене/кӗсье<n><px1pl><pl><dat>$
+[/eYlFWryiuC8t]
+[en2m8wsjGJZF#0] ^кӗсйӗрсемпе/кӗсье<n><px2pl><pl><ins>$
+[/en2m8wsjGJZF]
+[fBeuOVDnRkZ1#0] ^кӗсйӳсемшӗн/кӗсье<n><px2sg><pl><ter>$
+[/fBeuOVDnRkZ1]
+[fecmb32BwR_u#0] ^кӗсйӗрӗн/кӗсье<n><px2pl><gen>$
+[/fecmb32BwR_u]
+[fy4ByqDnPLbu#0] ^кӗсьепе/кӗсье<n><ins>$
+[/fy4ByqDnPLbu]
+[heBB-jGnKYzY#0] ^кӗсйишӗн/кӗсье<n><px3sp><ter>$
+[/heBB-jGnKYzY]
+[ifaSa3rQVWwe#0] ^кӗсйӳсенче/кӗсье<n><px2sg><pl><loc>$
+[/ifaSa3rQVWwe]
+[jWHbX4b-4QCo#0] ^кӗсйӳне/кӗсье<n><px2sg><dat>$
+[/jWHbX4b-4QCo]
+[jhiY9LVJIXtm#0] ^кӗсйисенчен/кӗсье<n><px3sp><pl><abl>$
+[/jhiY9LVJIXtm]
+[jtR-UMBXMxwc#0] ^кӗсйӳнтен/кӗсье<n><px2sg><abl>$
+[/jtR-UMBXMxwc]
+[kU0eVZj9SVG2#0] ^кӗсьемшӗн/кӗсье<n><px1sg><ter>$
+[/kU0eVZj9SVG2]
+[kj0JZ8YwyaGH#0] ^кӗсйӗре/кӗсье<n><px2pl><dat>$
+[/kj0JZ8YwyaGH]
+[mfUBMNopo6B1#0] ^кӗсйӗрсене/кӗсье<n><px2pl><pl><dat>$
+[/mfUBMNopo6B1]
+[nPr85uAWwFJA#0] ^кӗсйӳпе/кӗсье<n><px2sg><ins>$
+[/nPr85uAWwFJA]
+[ofIsFUfg23wE#0] ^кӗсйӗртен/кӗсье<n><px2pl><abl>$
+[/ofIsFUfg23wE]
+[ojM4XKlmseet#0] ^кӗсьемӗре/кӗсье<n><px1pl><dat>$
+[/ojM4XKlmseet]
+[op7_iRbB7ODL#0] ^кӗсьере/кӗсье<n><loc>$
+[/op7_iRbB7ODL]
+[q5P22pQWXuHH#0] ^кӗсйӳсемпе/кӗсье<n><px2sg><pl><ins>$
+[/q5P22pQWXuHH]
+[qhiQoxzsfTm-#0] ^кӗсьемӗрсем/кӗсье<n><px1pl><pl><nom>$
+[/qhiQoxzsfTm-]
+[r0qrAoWO2HxQ#0] ^кӗсьесенчен/кӗсье<n><pl><abl>$
+[/r0qrAoWO2HxQ]
+[rObIx0gWQCQ_#0] ^кӗсье/кӗсье<n><attr>/кӗсье<n><nom>$
+[/rObIx0gWQCQ_]
+[rzWYwqtEfJHB#0] ^кӗсьемпе/кӗсье<n><px1sg><ins>$
+[/rzWYwqtEfJHB]
+[sKUiudrAamB1#0] ^кӗсйисенче/кӗсье<n><px3sp><pl><loc>$
+[/sKUiudrAamB1]
+[sKVQMFDcqcp1#0] ^кӗсьесене/кӗсье<n><pl><dat>$
+[/sKVQMFDcqcp1]
+[uIxDqlokzMDh#0] ^кӗсйӗрсен/кӗсье<n><px2pl><pl><gen>$
+[/uIxDqlokzMDh]
+[uQBlAtyEr8O6#0] ^кӗсьемре/кӗсье<n><px1sg><loc>$
+[/uQBlAtyEr8O6]
+[vNIg69Cbgm1u#0] ^кӗсьемӗрпе/кӗсье<n><px1pl><ins>$
+[/vNIg69Cbgm1u]
+[vqGDX3VY5_E7#0] ^кӗсьемӗрӗн/кӗсье<n><px1pl><gen>$
+[/vqGDX3VY5_E7]
+[vy7AZVIhuNIk#0] ^кӗсйипе/кӗсье<n><px3sp><ins>$
+[/vy7AZVIhuNIk]
+[w3i-TTKFpYbR#0] ^кӗсйисемпе/кӗсье<n><px3sp><pl><ins>$
+[/w3i-TTKFpYbR]
+[wPaQcJL50E9H#0] ^кӗсйӳсенчен/кӗсье<n><px2sg><pl><abl>$
+[/wPaQcJL50E9H]
+[wvPglQ-3IBzd#0] ^кӗсйисен/кӗсье<n><px3sp><pl><gen>$
+[/wvPglQ-3IBzd]
+[xjJ1vZad9V12#0] ^кӗсьемӗрсенче/кӗсье<n><px1pl><pl><loc>$
+[/xjJ1vZad9V12]
+[yP7ouc6Vb98O#0] ^кӗсьесенче/кӗсье<n><pl><loc>$
+[/yP7ouc6Vb98O]
+[ysiN3xo2oqoM#0] ^кӗсйӗрпе/кӗсье<n><px2pl><ins>$
+[/ysiN3xo2oqoM]

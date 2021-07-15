@@ -1,0 +1,18 @@
+[-YLkm5l8aXp6#0] ^ывӑлу/ывӑл<n><px2sg><nom>$
+[/-YLkm5l8aXp6]
+[26MNBwjoHbwS#0] ^кӗсйӳ/кӗсье<n><px2sg><nom>$
+[/26MNBwjoHbwS]
+[5XKArzYZ-AZJ#0] ^училищӳне/училище<n><px2sg><dat>$
+[/5XKArzYZ-AZJ]
+[MEEpmuLXT3pi#0] ^тетрадӳ/тетрадь<n><px2sg><nom>$
+[/MEEpmuLXT3pi]
+[MVZNWGPUGJ9c#0] ^ҫеремӳ/ҫерем<n><px2sg><nom>$
+[/MVZNWGPUGJ9c]
+[Wf06CcUJpAWV#0] ^супанӳ/*супанӳ$
+[/Wf06CcUJpAWV]
+[Y-hrRXvGhKZw#0] ^тӗнӳ/тӗн<adj><subst><px2sg><nom>/тӗн<n><px2sg><nom>$
+[/Y-hrRXvGhKZw]
+[sbejA3Uc34zt#0] ^аннӳ/*аннӳ$
+[/sbejA3Uc34zt]
+[xvENACsI4WN7#0] ^ялу/ял<adj><subst><px2sg><nom>/ял<n><px2sg><nom>$
+[/xvENACsI4WN7]

@@ -1,0 +1,378 @@
+{
+  "a_0": {
+    "input": "a_0-input.txt",
+    "mode": "chv-morph"
+  },
+  "a_0-gen": {
+    "input": "a_0-gen-input.txt",
+    "mode": "chv-gener"
+  },
+  "cv-nouns": {
+    "input": "cv-nouns-input.txt",
+    "mode": "chv-morph"
+  },
+  "cv-nouns-gen": {
+    "input": "cv-nouns-gen-input.txt",
+    "mode": "chv-gener"
+  },
+  "cv-possessives": {
+    "input": "cv-possessives-input.txt",
+    "mode": "chv-morph"
+  },
+  "cv-possessives-gen": {
+    "input": "cv-possessives-gen-input.txt",
+    "mode": "chv-gener"
+  },
+  "cv-runouns": {
+    "input": "cv-runouns-input.txt",
+    "mode": "chv-morph"
+  },
+  "cv-runouns-gen": {
+    "input": "cv-runouns-gen-input.txt",
+    "mode": "chv-gener"
+  },
+  "ger1": {
+    "input": "ger1-input.txt",
+    "mode": "chv-morph"
+  },
+  "ger1-gen": {
+    "input": "ger1-gen-input.txt",
+    "mode": "chv-gener"
+  },
+  "gna10": {
+    "input": "gna10-input.txt",
+    "mode": "chv-morph"
+  },
+  "gna10-gen": {
+    "input": "gna10-gen-input.txt",
+    "mode": "chv-gener"
+  },
+  "v_opt_p3": {
+    "input": "v_opt_p3-input.txt",
+    "mode": "chv-morph"
+  },
+  "v_opt_p3-gen": {
+    "input": "v_opt_p3-gen-input.txt",
+    "mode": "chv-gener"
+  },
+  "v_выля_del": {
+    "input": "v_выля_del-input.txt",
+    "mode": "chv-morph"
+  },
+  "v_выля_del-gen": {
+    "input": "v_выля_del-gen-input.txt",
+    "mode": "chv-gener"
+  },
+  "v_кай_del": {
+    "input": "v_кай_del-input.txt",
+    "mode": "chv-morph"
+  },
+  "v_кай_del-gen": {
+    "input": "v_кай_del-gen-input.txt",
+    "mode": "chv-gener"
+  },
+  "v_кала_del": {
+    "input": "v_кала_del-input.txt",
+    "mode": "chv-morph"
+  },
+  "v_кала_del-gen": {
+    "input": "v_кала_del-gen-input.txt",
+    "mode": "chv-gener"
+  },
+  "v_кил_del": {
+    "input": "v_кил_del-input.txt",
+    "mode": "chv-morph"
+  },
+  "v_кил_del-gen": {
+    "input": "v_кил_del-gen-input.txt",
+    "mode": "chv-gener"
+  },
+  "v_ту_del": {
+    "input": "v_ту_del-input.txt",
+    "mode": "chv-morph"
+  },
+  "v_ту_del-gen": {
+    "input": "v_ту_del-gen-input.txt",
+    "mode": "chv-gener"
+  },
+  "v_ҫи_del": {
+    "input": "v_ҫи_del-input.txt",
+    "mode": "chv-morph"
+  },
+  "v_ҫи_del-gen": {
+    "input": "v_ҫи_del-gen-input.txt",
+    "mode": "chv-gener"
+  },
+  "wiki": {
+    "input": "wiki-input.txt",
+    "mode": "chv-morph"
+  },
+  "wiki-gen": {
+    "input": "wiki-gen-input.txt",
+    "mode": "chv-gener"
+  },
+  "wiki_curt": {
+    "input": "wiki_curt-input.txt",
+    "mode": "chv-morph"
+  },
+  "wiki_curt-gen": {
+    "input": "wiki_curt-gen-input.txt",
+    "mode": "chv-gener"
+  },
+  "Золотницкий": {
+    "input": "Золотницкий-input.txt",
+    "mode": "chv-morph"
+  },
+  "Золотницкий-gen": {
+    "input": "Золотницкий-gen-input.txt",
+    "mode": "chv-gener"
+  },
+  "Турку": {
+    "input": "Турку-input.txt",
+    "mode": "chv-morph"
+  },
+  "Турку-gen": {
+    "input": "Турку-gen-input.txt",
+    "mode": "chv-gener"
+  },
+  "автан": {
+    "input": "автан-input.txt",
+    "mode": "chv-morph"
+  },
+  "автан-gen": {
+    "input": "автан-gen-input.txt",
+    "mode": "chv-gener"
+  },
+  "атте": {
+    "input": "атте-input.txt",
+    "mode": "chv-morph"
+  },
+  "атте-gen": {
+    "input": "атте-gen-input.txt",
+    "mode": "chv-gener"
+  },
+  "барокко": {
+    "input": "барокко-input.txt",
+    "mode": "chv-morph"
+  },
+  "барокко-gen": {
+    "input": "барокко-gen-input.txt",
+    "mode": "chv-gener"
+  },
+  "вӑйӑ": {
+    "input": "вӑйӑ-input.txt",
+    "mode": "chv-morph"
+  },
+  "вӑйӑ-gen": {
+    "input": "вӑйӑ-gen-input.txt",
+    "mode": "chv-gener"
+  },
+  "звено": {
+    "input": "звено-input.txt",
+    "mode": "chv-morph"
+  },
+  "звено-gen": {
+    "input": "звено-gen-input.txt",
+    "mode": "chv-gener"
+  },
+  "и_subst": {
+    "input": "и_subst-input.txt",
+    "mode": "chv-morph"
+  },
+  "и_subst-gen": {
+    "input": "и_subst-gen-input.txt",
+    "mode": "chv-gener"
+  },
+  "информаци": {
+    "input": "информаци-input.txt",
+    "mode": "chv-morph"
+  },
+  "информаци-gen": {
+    "input": "информаци-gen-input.txt",
+    "mode": "chv-gener"
+  },
+  "июль": {
+    "input": "июль-input.txt",
+    "mode": "chv-morph"
+  },
+  "июль-gen": {
+    "input": "июль-gen-input.txt",
+    "mode": "chv-gener"
+  },
+  "июнь": {
+    "input": "июнь-input.txt",
+    "mode": "chv-morph"
+  },
+  "июнь-gen": {
+    "input": "июнь-gen-input.txt",
+    "mode": "chv-gener"
+  },
+  "йӗп": {
+    "input": "йӗп-input.txt",
+    "mode": "chv-morph"
+  },
+  "йӗп-gen": {
+    "input": "йӗп-gen-input.txt",
+    "mode": "chv-gener"
+  },
+  "кенгуру": {
+    "input": "кенгуру-input.txt",
+    "mode": "chv-morph"
+  },
+  "кенгуру-gen": {
+    "input": "кенгуру-gen-input.txt",
+    "mode": "chv-gener"
+  },
+  "кино": {
+    "input": "кино-input.txt",
+    "mode": "chv-morph"
+  },
+  "кино-gen": {
+    "input": "кино-gen-input.txt",
+    "mode": "chv-gener"
+  },
+  "кӗсье": {
+    "input": "кӗсье-input.txt",
+    "mode": "chv-morph"
+  },
+  "кӗсье-gen": {
+    "input": "кӗсье-gen-input.txt",
+    "mode": "chv-gener"
+  },
+  "лаша": {
+    "input": "лаша-input.txt",
+    "mode": "chv-morph"
+  },
+  "лаша-gen": {
+    "input": "лаша-gen-input.txt",
+    "mode": "chv-gener"
+  },
+  "литература": {
+    "input": "литература-input.txt",
+    "mode": "chv-morph"
+  },
+  "литература-gen": {
+    "input": "литература-gen-input.txt",
+    "mode": "chv-gener"
+  },
+  "министерство": {
+    "input": "министерство-input.txt",
+    "mode": "chv-morph"
+  },
+  "министерство-gen": {
+    "input": "министерство-gen-input.txt",
+    "mode": "chv-gener"
+  },
+  "пальто": {
+    "input": "пальто-input.txt",
+    "mode": "chv-morph"
+  },
+  "пальто-gen": {
+    "input": "пальто-gen-input.txt",
+    "mode": "chv-gener"
+  },
+  "пуртӑ": {
+    "input": "пуртӑ-input.txt",
+    "mode": "chv-morph"
+  },
+  "пуртӑ-gen": {
+    "input": "пуртӑ-gen-input.txt",
+    "mode": "chv-gener"
+  },
+  "радио": {
+    "input": "радио-input.txt",
+    "mode": "chv-morph"
+  },
+  "радио-gen": {
+    "input": "радио-gen-input.txt",
+    "mode": "chv-gener"
+  },
+  "ту": {
+    "input": "ту-input.txt",
+    "mode": "chv-morph"
+  },
+  "ту-gen": {
+    "input": "ту-gen-input.txt",
+    "mode": "chv-gener"
+  },
+  "у_harmony": {
+    "input": "у_harmony-input.txt",
+    "mode": "chv-morph"
+  },
+  "у_harmony-gen": {
+    "input": "у_harmony-gen-input.txt",
+    "mode": "chv-gener"
+  },
+  "утӑ": {
+    "input": "утӑ-input.txt",
+    "mode": "chv-morph"
+  },
+  "утӑ-gen": {
+    "input": "утӑ-gen-input.txt",
+    "mode": "chv-gener"
+  },
+  "училище": {
+    "input": "училище-input.txt",
+    "mode": "chv-morph"
+  },
+  "училище-gen": {
+    "input": "училище-gen-input.txt",
+    "mode": "chv-gener"
+  },
+  "хуняма": {
+    "input": "хуняма-input.txt",
+    "mode": "chv-morph"
+  },
+  "хуняма-gen": {
+    "input": "хуняма-gen-input.txt",
+    "mode": "chv-gener"
+  },
+  "хуняҫа": {
+    "input": "хуняҫа-input.txt",
+    "mode": "chv-morph"
+  },
+  "хуняҫа-gen": {
+    "input": "хуняҫа-gen-input.txt",
+    "mode": "chv-gener"
+  },
+  "хӑю": {
+    "input": "хӑю-input.txt",
+    "mode": "chv-morph"
+  },
+  "хӑю-gen": {
+    "input": "хӑю-gen-input.txt",
+    "mode": "chv-gener"
+  },
+  "хӗв": {
+    "input": "хӗв-input.txt",
+    "mode": "chv-morph"
+  },
+  "хӗв-gen": {
+    "input": "хӗв-gen-input.txt",
+    "mode": "chv-gener"
+  },
+  "чикӗ": {
+    "input": "чикӗ-input.txt",
+    "mode": "chv-morph"
+  },
+  "чикӗ-gen": {
+    "input": "чикӗ-gen-input.txt",
+    "mode": "chv-gener"
+  },
+  "чӗрӗп": {
+    "input": "чӗрӗп-input.txt",
+    "mode": "chv-morph"
+  },
+  "чӗрӗп-gen": {
+    "input": "чӗрӗп-gen-input.txt",
+    "mode": "chv-gener"
+  },
+  "шӑши": {
+    "input": "шӑши-input.txt",
+    "mode": "chv-morph"
+  },
+  "шӑши-gen": {
+    "input": "шӑши-gen-input.txt",
+    "mode": "chv-gener"
+  }
+}

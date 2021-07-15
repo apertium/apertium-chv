@@ -1,0 +1,190 @@
+[-JaEHogaFKUb#0] ^министерствӑмӑршӑн/министерство<n><px1pl><ter>$
+[/-JaEHogaFKUb]
+[-PmB8qtBaPju#0] ^министерствӑмпа/министерство<n><px1sg><ins>$
+[/-PmB8qtBaPju]
+[-tCFKMhbBvYy#0] ^министерствӑмсенчен/министерство<n><px1sg><pl><abl>$
+[/-tCFKMhbBvYy]
+[05aoIGP8D74X#0] ^министерствӑпа/министерство<n><ins>$
+[/05aoIGP8D74X]
+[0OR35n1o7p4h#0] ^министерствисенче/министерство<n><px3sp><pl><loc>$
+[/0OR35n1o7p4h]
+[0ix02nLJVDIZ#0] ^министерствӑрсем/министерство<n><px2pl><pl><nom>$
+[/0ix02nLJVDIZ]
+[1DSrvxTjoien#0] ^министерствӑрсене/министерство<n><px2pl><pl><dat>$
+[/1DSrvxTjoien]
+[1N3dtt1zZLS6#0] ^министерствӑмӑн/министерство<n><px1sg><gen>$
+[/1N3dtt1zZLS6]
+[3EaxNhFuPM97#0] ^министерствӑрсӑр/министерство<n><px2pl>+сӑр<post>$
+[/3EaxNhFuPM97]
+[4U25naPRinEW#0] ^министерствисемпе/министерство<n><px3sp><pl><ins>$
+[/4U25naPRinEW]
+[7c8-XtY_7bSH#0] ^министерствӑрсен/министерство<n><px2pl><pl><gen>$
+[/7c8-XtY_7bSH]
+[8I2iXrpARzry#0] ^министерствӑмшӑн/министерство<n><px1sg><ter>$
+[/8I2iXrpARzry]
+[8NiQ_1-Ld0M7#0] ^министерствӑма/министерство<n><px1sg><dat>$
+[/8NiQ_1-Ld0M7]
+[8Vi6BEBuyUlc#0] ^министерствӑрта/министерство<n><px2pl><loc>$
+[/8Vi6BEBuyUlc]
+[8gIz4OeLYZTC#0] ^министерствӑмсен/министерство<n><px1sg><pl><gen>$
+[/8gIz4OeLYZTC]
+[8oHfzQlTCtTc#0] ^министерствӑмӑрта/министерство<n><px1pl><loc>$
+[/8oHfzQlTCtTc]
+[9hJcTlDiC8jf#0] ^министерствушӑн/министерство<n><px2sg><ter>$
+[/9hJcTlDiC8jf]
+[9r-1EE9gBjEe#0] ^министерствусемшӗн/министерство<n><px2sg><pl><ter>$
+[/9r-1EE9gBjEe]
+[ArlX42z7Ry54#0] ^министерствӑна/министерство<n><dat>$
+[/ArlX42z7Ry54]
+[BQbgYSwrVkDG#0] ^министерствӑсемшӗн/министерство<n><pl><ter>$
+[/BQbgYSwrVkDG]
+[BviVJI5Rm1Sn#0] ^министерствӑмсӑр/министерство<n><px1sg>+сӑр<post>$
+[/BviVJI5Rm1Sn]
+[EAGP6RPHP6Nd#0] ^министерствӑрсемсӗр/министерство<n><px2pl><pl>+сӑр<post>$
+[/EAGP6RPHP6Nd]
+[ECWMzWdT2FQy#0] ^министерствӑмӑрӑн/министерство<n><px1pl><gen>$
+[/ECWMzWdT2FQy]
+[F5VJQyDfw8me#0] ^министерстви/министерство<n><px3sp><nom>$
+[/F5VJQyDfw8me]
+[FQx5rWeaZJsL#0] ^министерствинчен/министерство<n><px3sp><abl>$
+[/FQx5rWeaZJsL]
+[HfF33OikKyEg#0] ^министерствӑмсене/министерство<n><px1sg><pl><dat>$
+[/HfF33OikKyEg]
+[HyHP99Yf56dB#0] ^министерствинче/министерство<n><px3sp><loc>$
+[/HyHP99Yf56dB]
+[ILNYvmPKnyeW#0] ^министерствусемпе/министерство<n><px2sg><pl><ins>$
+[/ILNYvmPKnyeW]
+[ISZ_qyMg-oNn#0] ^министерствӑмӑра/министерство<n><px1pl><dat>$
+[/ISZ_qyMg-oNn]
+[I_VeS4VbVZqD#0] ^министерствӑмсем/министерство<n><px1sg><pl><nom>$
+[/I_VeS4VbVZqD]
+[IohXAQY5xyHk#0] ^министерствӑра/министерство<n><loc>/министерство<n><px2pl><dat>$
+[/IohXAQY5xyHk]
+[Iw8Oc6cEBF4g#0] ^министерствисемсӗр/министерство<n><px3sp><pl>+сӑр<post>$
+[/Iw8Oc6cEBF4g]
+[IwgzpYzAKk2Y#0] ^министерствисене/министерство<n><px3sp><pl><dat>$
+[/IwgzpYzAKk2Y]
+[JtDcDr0hdahk#0] ^министерствӑмсенче/министерство<n><px1sg><pl><loc>$
+[/JtDcDr0hdahk]
+[K4irUhKgtkte#0] ^министерствунта/министерство<n><px2sg><loc>$
+[/K4irUhKgtkte]
+[KVXB773czUHF#0] ^министерствӑмӑрсемпе/министерство<n><px1pl><pl><ins>$
+[/KVXB773czUHF]
+[KodF0nvaNq3h#0] ^министерствӑн/министерство<n><gen>$
+[/KodF0nvaNq3h]
+[LP_-Y4pV_AlD#0] ^министерствӑран/министерство<n><abl>$
+[/LP_-Y4pV_AlD]
+[Md6LjToBWnES#0] ^министерствӑсене/министерство<n><pl><dat>$
+[/Md6LjToBWnES]
+[MoFa2lCTkzrb#0] ^министерствӑсем/министерство<n><pl><nom>$
+[/MoFa2lCTkzrb]
+[NCaTKDb1DQMY#0] ^министерству/министерство<n><px2sg><nom>$
+[/NCaTKDb1DQMY]
+[NlZfl6vNJvSq#0] ^министерствисемшӗн/министерство<n><px3sp><pl><ter>$
+[/NlZfl6vNJvSq]
+[PRpQiX0SLX_4#0] ^министерствунтан/министерство<n><px2sg><abl>$
+[/PRpQiX0SLX_4]
+[PfrTEjoK68bo#0] ^министерствин/министерство<n><px3sp><gen>$
+[/PfrTEjoK68bo]
+[QYk6uLRr_Dd3#0] ^министерствисенчен/министерство<n><px3sp><pl><abl>$
+[/QYk6uLRr_Dd3]
+[QtWNKmvTQI1C#0] ^министерствусем/министерство<n><px2sg><pl><nom>$
+[/QtWNKmvTQI1C]
+[RCSFJmnsWmfr#0] ^министерствӑрсенчен/министерство<n><px2pl><pl><abl>$
+[/RCSFJmnsWmfr]
+[Rc2CFCqOGikH#0] ^министерствусенчен/министерство<n><px2sg><pl><abl>$
+[/Rc2CFCqOGikH]
+[RsxaCNJvdxkc#0] ^министерствусене/министерство<n><px2sg><pl><dat>$
+[/RsxaCNJvdxkc]
+[S2-IcMYoW3MR#0] ^министерствусенче/министерство<n><px2sg><pl><loc>$
+[/S2-IcMYoW3MR]
+[UkNfH33h5VNd#0] ^министерствун/министерство<n><px2sg><gen>$
+[/UkNfH33h5VNd]
+[VPuA8cKtH2O9#0] ^министерство/министерство<n><attr>/министерство<n><nom>$
+[/VPuA8cKtH2O9]
+[Vwnxyi7PyvnO#0] ^министерствишӗн/министерство<n><px3sp><ter>$
+[/Vwnxyi7PyvnO]
+[W2UAAyuBqe8v#0] ^министерствипе/министерство<n><px3sp><ins>$
+[/W2UAAyuBqe8v]
+[WUjgNO0co3KR#0] ^министерствусен/министерство<n><px2sg><pl><gen>$
+[/WUjgNO0co3KR]
+[WYCOK1OT6dzP#0] ^министерствусемсӗр/министерство<n><px2sg><pl>+сӑр<post>$
+[/WYCOK1OT6dzP]
+[XkR_gxW84ktV#0] ^министерствӑсенче/министерство<n><pl><loc>$
+[/XkR_gxW84ktV]
+[Xp2eV58ZFBq7#0] ^министерствӑрсенче/министерство<n><px2pl><pl><loc>$
+[/Xp2eV58ZFBq7]
+[Y6VQHOztlUi4#0] ^министерствӑмсемпе/министерство<n><px1sg><pl><ins>$
+[/Y6VQHOztlUi4]
+[Y_5p3I8rzQQN#0] ^министерствупа/министерство<n><px2sg><ins>$
+[/Y_5p3I8rzQQN]
+[Yjrk5LRwVg-k#0] ^министерствӑмӑрсенче/министерство<n><px1pl><pl><loc>$
+[/Yjrk5LRwVg-k]
+[Z-dKHlV4900Y#0] ^министерствӑмӑр/министерство<n><px1pl><nom>$
+[/Z-dKHlV4900Y]
+[_NscIHsE5TNk#0] ^министерствӑшӑн/министерство<n><ter>$
+[/_NscIHsE5TNk]
+[a1G8LPA27qch#0] ^министерствӑмра/министерство<n><px1sg><loc>$
+[/a1G8LPA27qch]
+[adV77bc2Ruz6#0] ^министерствӑрӑн/министерство<n><px2pl><gen>$
+[/adV77bc2Ruz6]
+[b6LqWt6MicGi#0] ^министерствӑрсемшӗн/министерство<n><px2pl><pl><ter>$
+[/b6LqWt6MicGi]
+[be0VCzzVxWXh#0] ^министерствисен/министерство<n><px3sp><pl><gen>$
+[/be0VCzzVxWXh]
+[cYbQkGpj1rSA#0] ^министерствӑрсемпе/министерство<n><px2pl><pl><ins>$
+[/cYbQkGpj1rSA]
+[d2JGsPZNYI_a#0] ^министерствӑсемпе/министерство<n><pl><ins>$
+[/d2JGsPZNYI_a]
+[dHEJD5-GLET0#0] ^министерствисем/министерство<n><px3sp><pl><nom>$
+[/dHEJD5-GLET0]
+[d_GU_kvlDh82#0] ^министерствӑмӑрсен/министерство<n><px1pl><pl><gen>$
+[/d_GU_kvlDh82]
+[gwPKcNICWdjV#0] ^министерствӑмӑрсемсӗр/министерство<n><px1pl><pl>+сӑр<post>$
+[/gwPKcNICWdjV]
+[jApFvE5wrdkz#0] ^министерствӑмӑрсене/министерство<n><px1pl><pl><dat>$
+[/jApFvE5wrdkz]
+[jdI6ggOGYKPx#0] ^министерствӑмсемшӗн/министерство<n><px1sg><pl><ter>$
+[/jdI6ggOGYKPx]
+[kDzspVdTVbxT#0] ^министерствӑмран/министерство<n><px1sg><abl>$
+[/kDzspVdTVbxT]
+[nUNksG2kQX67#0] ^министерствӑмӑрсемшӗн/министерство<n><px1pl><pl><ter>$
+[/nUNksG2kQX67]
+[nxIX27CuGKJw#0] ^министерствӑршӑн/министерство<n><px2pl><ter>$
+[/nxIX27CuGKJw]
+[o4WsliYvxP_n#0] ^министерствӑм/министерство<n><px1sg><nom>$
+[/o4WsliYvxP_n]
+[qCgtaL_IuU1O#0] ^министерствӑсемсӗр/министерство<n><pl>+сӑр<post>$
+[/qCgtaL_IuU1O]
+[q_Uy04MizqIo#0] ^министерствӑмсемсӗр/министерство<n><px1sg><pl>+сӑр<post>$
+[/q_Uy04MizqIo]
+[qmcLO5mzkv_u#0] ^дмӑрсенчен/*дмӑрсенчен$
+[/qmcLO5mzkv_u]
+[sqbgljvp1puc#0] ^министерствисӗр/министерство<n><px3sp>+сӑр<post>$
+[/sqbgljvp1puc]
+[sySKoykp7nu8#0] ^министерствӑрпа/министерство<n><px2pl><ins>$
+[/sySKoykp7nu8]
+[tFQVnBf4hO0d#0] ^министерствӑмӑртан/министерство<n><px1pl><abl>$
+[/tFQVnBf4hO0d]
+[uILQy_M9qV_j#0] ^министерствуна/министерство<n><px2sg><dat>$
+[/uILQy_M9qV_j]
+[uf-_wgrtljYB#0] ^министерствине/министерство<n><px3sp><dat>$
+[/uf-_wgrtljYB]
+[v0478tB2l5HE#0] ^министерствӑсӑр/министерство<n>+сӑр<post>$
+[/v0478tB2l5HE]
+[x1HnIu0Mzhsr#0] ^министерствӑмӑрсӑр/министерство<n><px1pl>+сӑр<post>$
+[/x1HnIu0Mzhsr]
+[xEaqniNkxuu7#0] ^министерствӑртан/министерство<n><px2pl><abl>$
+[/xEaqniNkxuu7]
+[xGWpLMR6oBH5#0] ^министерствӑсен/министерство<n><pl><gen>$
+[/xGWpLMR6oBH5]
+[xJ2U-7HaUkBw#0] ^министерствӑр/министерство<n><px2pl><nom>$
+[/xJ2U-7HaUkBw]
+[yQYBJnlY_0NK#0] ^министерствӑсенчен/министерство<n><pl><abl>$
+[/yQYBJnlY_0NK]
+[yeDelFkycQrn#0] ^министерствӑмӑрсем/министерство<n><px1pl><pl><nom>$
+[/yeDelFkycQrn]
+[ygif7ULMGP1W#0] ^министерствусӑр/министерство<n><px2sg>+сӑр<post>$
+[/ygif7ULMGP1W]
+[zKYFRJZflcYG#0] ^министерствӑмӑрпа/министерство<n><px1pl><ins>$
+[/zKYFRJZflcYG]

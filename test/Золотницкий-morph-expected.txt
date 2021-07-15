@@ -1,0 +1,192 @@
+[-PqHVrLI3G8Q#0] ^Золотницкийӗмӗрсене/Золотницкий<np><cog><m><px1pl><pl><dat>$
+[/-PqHVrLI3G8Q]
+[-dpuxy9uLsz3#0] ^Золотницкийӗмӗрсемшӗн/Золотницкий<np><cog><m><px1pl><pl><ter>$
+[/-dpuxy9uLsz3]
+[1xhZjMxQBVAq#0] ^Золотницкийӗмсен/Золотницкий<np><cog><m><px1sg><pl><gen>$
+[/1xhZjMxQBVAq]
+[22l9a8IZvSLB#0] ^Золотницкийӗмӗрсемпе/Золотницкий<np><cog><m><px1pl><pl><ins>$
+[/22l9a8IZvSLB]
+[2cDvgAm-_kGy#0] ^Золотницкийӗм/Золотницкий<np><cog><m><px1sg><nom>$
+[/2cDvgAm-_kGy]
+[3TTC9h9bsBFu#0] ^Золотницкийӗрсенче/Золотницкий<np><cog><m><px2pl><pl><loc>$
+[/3TTC9h9bsBFu]
+[3mvuovwX2lg6#0] ^Золотницкийӗсене/Золотницкий<np><cog><m><px3sp><pl><dat>$
+[/3mvuovwX2lg6]
+[5GpkdhGq7zKH#0] ^Золотницкийӗсемпе/Золотницкий<np><cog><m><px3sp><pl><ins>$
+[/5GpkdhGq7zKH]
+[5exh0FYOyYUD#0] ^Золотницкийӗсен/Золотницкий<np><cog><m><px3sp><pl><gen>$
+[/5exh0FYOyYUD]
+[6LrZvh2xT5Np#0] ^Золотницкийӗре/Золотницкий<np><cog><m><px2pl><dat>$
+[/6LrZvh2xT5Np]
+[7JFkqDvuEE5C#0] ^Золотницкийӗрсемшӗн/Золотницкий<np><cog><m><px2pl><pl><ter>$
+[/7JFkqDvuEE5C]
+[7NUJj6aW3xDa#0] ^Золотницкийӳнтен/Золотницкий<np><cog><m><px2sg><abl>$
+[/7NUJj6aW3xDa]
+[8QhyQbG-kBGb#0] ^Золотницкий/Золотницкий<np><cog><m><nom>$
+[/8QhyQbG-kBGb]
+[8TcS88yLied5#0] ^Золотницкийӗсем/Золотницкий<np><cog><m><px3sp><pl><nom>$
+[/8TcS88yLied5]
+[A9UMJrgprIXu#0] ^Золотницкийӗрсемпе/Золотницкий<np><cog><m><px2pl><pl><ins>$
+[/A9UMJrgprIXu]
+[Au7iYduRYxCb#0] ^Золотницкийӗмӗре/Золотницкий<np><cog><m><px1pl><dat>$
+[/Au7iYduRYxCb]
+[B3TiCvASPfXi#0] ^Золотницкийӗн/Золотницкий<np><cog><m><px3sp><gen>$
+[/B3TiCvASPfXi]
+[Bo09jszrImFe#0] ^Золотницкийӗмӗрсӗр/Золотницкий<np><cog><m><px1pl>+сӑр<post>$
+[/Bo09jszrImFe]
+[Cfxpq53JcYt_#0] ^Золотницкийӳпе/Золотницкий<np><cog><m><px2sg><ins>$
+[/Cfxpq53JcYt_]
+[DA9Gc-womGSC#0] ^Золотницкийӳн/Золотницкий<np><cog><m><px2sg><gen>$
+[/DA9Gc-womGSC]
+[DAxG3elfgNf3#0] ^Золотницкийӗсемшӗн/Золотницкий<np><cog><m><px3sp><pl><ter>$
+[/DAxG3elfgNf3]
+[Dx6ZMRRIQLWr#0] ^Золотницкийӗмӗрсем/Золотницкий<np><cog><m><px1pl><pl><nom>$
+[/Dx6ZMRRIQLWr]
+[EcIYDx9EmkE6#0] ^Золотницкисӗр/Золотницкий<np><cog><m>+сӑр<post>$
+[/EcIYDx9EmkE6]
+[EiuBzRrvx0kA#0] ^Золотницкисем/Золотницкий<np><cog><m><pl><nom>$
+[/EiuBzRrvx0kA]
+[EkXL2hekxbZG#0] ^Золотницкийӗмсенче/Золотницкий<np><cog><m><px1sg><pl><loc>$
+[/EkXL2hekxbZG]
+[FZmeL-1lUQoc#0] ^Золотницкийӗмӗр/Золотницкий<np><cog><m><px1pl><nom>$
+[/FZmeL-1lUQoc]
+[JcxVv8GIS89C#0] ^Золотницкийӗрсен/Золотницкий<np><cog><m><px2pl><pl><gen>$
+[/JcxVv8GIS89C]
+[K6EN_z7wec2j#0] ^Золотницкийӳсенчен/Золотницкий<np><cog><m><px2sg><pl><abl>$
+[/K6EN_z7wec2j]
+[KDt_93N11aXY#0] ^Золотницкийӗмсемшӗн/Золотницкий<np><cog><m><px1sg><pl><ter>$
+[/KDt_93N11aXY]
+[LVSdFbijNtEN#0] ^Золотницкийӳсенче/Золотницкий<np><cog><m><px2sg><pl><loc>$
+[/LVSdFbijNtEN]
+[LXCQMxyB9iCV#0] ^Золотницкийӳсӗр/Золотницкий<np><cog><m><px2sg>+сӑр<post>$
+[/LXCQMxyB9iCV]
+[M6JqlBYOXHE5#0] ^Золотницкийӳсем/Золотницкий<np><cog><m><px2sg><pl><nom>$
+[/M6JqlBYOXHE5]
+[MgJPMSlHc84t#0] ^Золотницкирен/Золотницкий<np><cog><m><abl>$
+[/MgJPMSlHc84t]
+[MhGMeJ01crsp#0] ^Золотницкисен/Золотницкий<np><cog><m><pl><gen>$
+[/MhGMeJ01crsp]
+[N-2t_49L9Tpu#0] ^Золотницкийӗмӗрпе/Золотницкий<np><cog><m><px1pl><ins>$
+[/N-2t_49L9Tpu]
+[NQWoyrIeyK4_#0] ^Золотницкийӗртен/Золотницкий<np><cog><m><px2pl><abl>$
+[/NQWoyrIeyK4_]
+[NxngL_9eQUZh#0] ^Золотницкийӳсемшӗн/Золотницкий<np><cog><m><px2sg><pl><ter>$
+[/NxngL_9eQUZh]
+[OhDAJ_uU-yhB#0] ^Золотницкийӗмӗршӗн/Золотницкий<np><cog><m><px1pl><ter>$
+[/OhDAJ_uU-yhB]
+[PbeuS6_ly7eD#0] ^Золотницкийӳ/Золотницкий<np><cog><m><px2sg><nom>$
+[/PbeuS6_ly7eD]
+[QOFvvBIxJpzi#0] ^Золотницкийӗр/Золотницкий<np><cog><m><px2pl><nom>$
+[/QOFvvBIxJpzi]
+[QdEUnZzqi6ae#0] ^Золотницкине/Золотницкий<np><cog><m><px3sp><dat>$
+[/QdEUnZzqi6ae]
+[SHFRteCwuKHp#0] ^Золотницкисене/Золотницкий<np><cog><m><pl><dat>$
+[/SHFRteCwuKHp]
+[SP1SmwOoZmy1#0] ^Золотницкийӳшӗн/Золотницкий<np><cog><m><px2sg><ter>$
+[/SP1SmwOoZmy1]
+[SgKH8svj7jTX#0] ^Золотницкийӗсемсӗр/Золотницкий<np><cog><m><px3sp><pl>+сӑр<post>$
+[/SgKH8svj7jTX]
+[SvMCdrSWTD9n#0] ^Золотницкийӗмсемсӗр/Золотницкий<np><cog><m><px1sg><pl>+сӑр<post>$
+[/SvMCdrSWTD9n]
+[URaFqcc4R2CU#0] ^Золотницкийӗрӗн/Золотницкий<np><cog><m><px2pl><gen>$
+[/URaFqcc4R2CU]
+[UYuAH70lXMKN#0] ^Золотницкийӗмӗрсен/Золотницкий<np><cog><m><px1pl><pl><gen>$
+[/UYuAH70lXMKN]
+[VXSwbIkPdFYh#0] ^Золотницкисемсӗр/Золотницкий<np><cog><m><pl>+сӑр<post>$
+[/VXSwbIkPdFYh]
+[VnVtyQzW7OKl#0] ^Золотницкийӗсӗр/Золотницкий<np><cog><m><px3sp>+сӑр<post>$
+[/VnVtyQzW7OKl]
+[X6AD0IGeuA44#0] ^Золотницкийӗ/Золотницкий<np><cog><m><px3sp><nom>$
+[/X6AD0IGeuA44]
+[Yniuza1ocfLY#0] ^Золотницкийӗмӗрсенче/Золотницкий<np><cog><m><px1pl><pl><loc>$
+[/Yniuza1ocfLY]
+[ZH764BfvYwON#0] ^Золотницкийӳнте/Золотницкий<np><cog><m><px2sg><loc>$
+[/ZH764BfvYwON]
+[ZtB8kIe40gi7#0] ^Золотницкийӳсемпе/Золотницкий<np><cog><m><px2sg><pl><ins>$
+[/ZtB8kIe40gi7]
+[_bngBfEwE009#0] ^Золотницкийӗрсене/Золотницкий<np><cog><m><px2pl><pl><dat>$
+[/_bngBfEwE009]
+[axB2Y-To2YG4#0] ^Золотницкисемпе/Золотницкий<np><cog><m><pl><ins>$
+[/axB2Y-To2YG4]
+[bXAjneMDKr46#0] ^Золотницкийӗмӗртен/Золотницкий<np><cog><m><px1pl><abl>$
+[/bXAjneMDKr46]
+[cL1AVejs6Vjk#0] ^Золотницкийӗмӗн/Золотницкий<np><cog><m><px1sg><gen>$
+[/cL1AVejs6Vjk]
+[fY8kw2huwQ_F#0] ^Золотницкийӗрсӗр/Золотницкий<np><cog><m><px2pl>+сӑр<post>$
+[/fY8kw2huwQ_F]
+[f_NQjdIkgNdE#0] ^Золотницкийӗмпе/Золотницкий<np><cog><m><px1sg><ins>$
+[/f_NQjdIkgNdE]
+[g25sRumIdyTk#0] ^Золотницкийӗмӗрте/Золотницкий<np><cog><m><px1pl><loc>$
+[/g25sRumIdyTk]
+[gGc-KmRNXU8F#0] ^Золотницкисемшӗн/Золотницкий<np><cog><m><pl><ter>$
+[/gGc-KmRNXU8F]
+[hGVjoje1G9jo#0] ^Золотницкийӗпе/Золотницкий<np><cog><m><px3sp><ins>$
+[/hGVjoje1G9jo]
+[hQrqH9YwyFNy#0] ^Золотницкийӗршӗн/Золотницкий<np><cog><m><px2pl><ter>$
+[/hQrqH9YwyFNy]
+[h_YRXd3-_DP4#0] ^Золотницкийӳсен/Золотницкий<np><cog><m><px2sg><pl><gen>$
+[/h_YRXd3-_DP4]
+[hab6R2bJzftJ#0] ^Золотницкийӳне/Золотницкий<np><cog><m><px2sg><dat>$
+[/hab6R2bJzftJ]
+[iQQcVcs5gVYY#0] ^Золотницкийӗмсене/Золотницкий<np><cog><m><px1sg><pl><dat>$
+[/iQQcVcs5gVYY]
+[imyMk_c1Yjqe#0] ^Золотницкире/Золотницкий<np><cog><m><loc>$
+[/imyMk_c1Yjqe]
+[jNbNOAo7XTwn#0] ^Золотницкийӗмрен/Золотницкий<np><cog><m><px1sg><abl>$
+[/jNbNOAo7XTwn]
+[jaJcFPBL9Zvn#0] ^Золотницкийӗмӗрсенчен/Золотницкий<np><cog><m><px1pl><pl><abl>$
+[/jaJcFPBL9Zvn]
+[jt4dWZ50JeoJ#0] ^Золотницкийӗрсем/Золотницкий<np><cog><m><px2pl><pl><nom>$
+[/jt4dWZ50JeoJ]
+[kBWFGsBsNSae#0] ^Золотницкипе/Золотницкий<np><cog><m><ins>$
+[/kBWFGsBsNSae]
+[kKj3gWKn07Km#0] ^Золотницкийӗрте/Золотницкий<np><cog><m><px2pl><loc>$
+[/kKj3gWKn07Km]
+[lQ47E4ZiDEDB#0] ^Золотницкийӗсенче/Золотницкий<np><cog><m><px3sp><pl><loc>$
+[/lQ47E4ZiDEDB]
+[lr5-FH8UVzqq#0] ^Золотницкийӗнчен/Золотницкий<np><cog><m><px3sp><abl>$
+[/lr5-FH8UVzqq]
+[lydhfK_ogm0l#0] ^Золотницкийӗрсемсӗр/Золотницкий<np><cog><m><px2pl><pl>+сӑр<post>$
+[/lydhfK_ogm0l]
+[n2RuFY2lYZ1f#0] ^Золотницкийӗмре/Золотницкий<np><cog><m><px1sg><loc>$
+[/n2RuFY2lYZ1f]
+[n6dY6FwltQxv#0] ^Золотницкийӗме/Золотницкий<np><cog><m><px1sg><dat>$
+[/n6dY6FwltQxv]
+[nInJwITnIgnf#0] ^Золотницкийӗмӗрӗн/Золотницкий<np><cog><m><px1pl><gen>$
+[/nInJwITnIgnf]
+[nP8-_6Kf7Uus#0] ^Золотницкисенчен/Золотницкий<np><cog><m><pl><abl>$
+[/nP8-_6Kf7Uus]
+[nh6uqzDW0BSb#0] ^Золотницкийӗшӗн/Золотницкий<np><cog><m><px3sp><ter>$
+[/nh6uqzDW0BSb]
+[oT3BfVTdBXVm#0] ^Золотницкийӗсенчен/Золотницкий<np><cog><m><px3sp><pl><abl>$
+[/oT3BfVTdBXVm]
+[oXSAJgGJ1av6#0] ^Золотницкийӳсене/Золотницкий<np><cog><m><px2sg><pl><dat>$
+[/oXSAJgGJ1av6]
+[q_jWht8jXxow#0] ^Золотницкийӗнче/Золотницкий<np><cog><m><px3sp><loc>$
+[/q_jWht8jXxow]
+[qseJmb2MyhM_#0] ^Золотницкийӗмсӗр/Золотницкий<np><cog><m><px1sg>+сӑр<post>$
+[/qseJmb2MyhM_]
+[ssn0QrtnT0jt#0] ^Золотницкийӗмсемпе/Золотницкий<np><cog><m><px1sg><pl><ins>$
+[/ssn0QrtnT0jt]
+[t-9ZzahYAHXc#0] ^Золотницкийӗмшӗн/Золотницкий<np><cog><m><px1sg><ter>$
+[/t-9ZzahYAHXc]
+[tj21zeSvrP9f#0] ^Золотницкишӗн/Золотницкий<np><cog><m><ter>$
+[/tj21zeSvrP9f]
+[v0VgBUY5fN5G#0] ^Золотницкийӳсемсӗр/Золотницкий<np><cog><m><px2sg><pl>+сӑр<post>$
+[/v0VgBUY5fN5G]
+[vKJ4UJL5pBjc#0] ^Золотницкие/Золотницкий<np><cog><m><dat>$
+[/vKJ4UJL5pBjc]
+[vmto2qd783z1#0] ^Золотницкин/Золотницкий<np><cog><m><gen>$
+[/vmto2qd783z1]
+[vqqWpF8-vnik#0] ^Золотницкийӗмӗрсемсӗр/Золотницкий<np><cog><m><px1pl><pl>+сӑр<post>$
+[/vqqWpF8-vnik]
+[w4ztuDb9dMkb#0] ^Золотницкийӗрсенчен/Золотницкий<np><cog><m><px2pl><pl><abl>$
+[/w4ztuDb9dMkb]
+[wDPKx4_rzsM-#0] ^Золотницкисенче/Золотницкий<np><cog><m><pl><loc>$
+[/wDPKx4_rzsM-]
+[wJlt9jIIP3os#0] ^Золотницкийӗрпе/Золотницкий<np><cog><m><px2pl><ins>$
+[/wJlt9jIIP3os]
+[wNqRBC5_adCn#0] ^Золотницкийӗмсенчен/Золотницкий<np><cog><m><px1sg><pl><abl>$
+[/wNqRBC5_adCn]
+[zgaW3S2tLTp-#0] ^Золотницкийӗмсем/Золотницкий<np><cog><m><px1sg><pl><nom>$
+[/zgaW3S2tLTp-]

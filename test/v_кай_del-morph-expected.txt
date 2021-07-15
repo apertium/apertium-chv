@@ -1,0 +1,70 @@
+[-ZlUtirIVQiz#0] ^кайӑттӑмӑр/кай<v><iv><cond><p1><pl>$
+[/-ZlUtirIVQiz]
+[-qNYEpzFGu7w#0] ^кайӑттӑн/кай<v><iv><cond><p2><sg>$
+[/-qNYEpzFGu7w]
+[29tYB77pISzK#0] ^кайӑсӑн/кай<v><iv><opt><p2><sg>$
+[/29tYB77pISzK]
+[6ApSOhvV9XfZ#0] ^каятӑн/кай<v><iv><dur><p1><sg><p2><sg>/кай<v><iv><pih><p1><sg><p2><sg>/кай<v><iv><pres><p2><sg>$
+[/6ApSOhvV9XfZ]
+[6JDkhCJizCGt#0] ^кайӑпӑрин/кай<v><iv><opt><p1><pl>$
+[/6JDkhCJizCGt]
+[CxYXIWf46497#0] ^кайӗҫин/кай<v><iv><opt><p3><pl>$
+[/CxYXIWf46497]
+[D6AsQxXLeyrq#0] ^кайӗ/кай<adj>+и<subst><nom>/кай<adj><subst><px3sp><nom>/кай<n><px3sp><nom>/кай<v><iv><fut><p3><sg>$
+[/D6AsQxXLeyrq]
+[EGZE1U6Ozf8y#0] ^каятпӑр/кай<v><iv><pres><p1><pl>$
+[/EGZE1U6Ozf8y]
+[F2PBrm3eEdBU#0] ^каяяҫҫӗ/кай<v><iv><abil><pres><p3><pl>$
+[/F2PBrm3eEdBU]
+[FOD7SaHK3QrT#0] ^кайӗччӗҫ/кай<v><iv><cond><p3><pl>$
+[/FOD7SaHK3QrT]
+[GMit2OGpJmre#0] ^кайӑр/кайӑр<n><attr>/кайӑр<n><nom>/кай<adj><subst><px2pl><nom>/кай<n><px2pl><nom>/кай<v><iv><fut><p2><pl>/кай<v><iv><imp><p2><pl>$
+[/GMit2OGpJmre]
+[Gid9DsXrC66p#0] ^каям/кай<v><iv><imp><p1><sg>$
+[/Gid9DsXrC66p]
+[HTNYSS_MdJN-#0] ^кайӗҫ/кай<v><iv><fut><p3><pl>$
+[/HTNYSS_MdJN-]
+[Ik_cxFWtPWMx#0] ^кай/кай<adj>/кай<adj><subst><nom>/кай<n><attr>/кай<n><nom>/кай<v><iv><imp><p2><sg>$
+[/Ik_cxFWtPWMx]
+[KqgVRPv5fS5Y#0] ^каятӑть/*каятӑть$
+[/KqgVRPv5fS5Y]
+[NSzdJ2sTkqFG#0] ^кайӑн/кай<adj><subst><gen>/кай<n><gen>/кай<v><iv><fut><p2><sg>/кай<v><iv><pres><p2><sg>$
+[/NSzdJ2sTkqFG]
+[QZ0Xhi12fl27#0] ^кайӑпӑр/кай<v><iv><fut><p1><pl>$
+[/QZ0Xhi12fl27]
+[RFvB-958BAlu#0] ^кайӑттӑм/кай<v><iv><cond><p1><sg>$
+[/RFvB-958BAlu]
+[U17ZBRWM39Nu#0] ^кайтӑр/кай<v><iv><imp><p3><sg>$
+[/U17ZBRWM39Nu]
+[XnHXwf1sOE-R#0] ^каяҫҫӗ/кай<v><iv><pres><p3><pl>$
+[/XnHXwf1sOE-R]
+[Z-o8GeyhQ-r-#0] ^каятӑп/кай<v><iv><pres><p1><sg>$
+[/Z-o8GeyhQ-r-]
+[ZPtGv8mzEbVI#0] ^кайӗччӗ/кай<adj>+и<subst><nom>+ӗ<cop><ifi>/кай<adj><subst><px3sp><nom>+ӗ<cop><ifi>/кай<n><px3sp><nom>+ӗ<cop><ifi>/кай<v><iv><cond><p3><sg>/кай<v><iv><fut><p3><sg>+ӗ<cop><ifi>$
+[/ZPtGv8mzEbVI]
+[bTnstl_t8fkX#0] ^каяятӑть/*каяятӑть$
+[/bTnstl_t8fkX]
+[d1x40cwg6IDO#0] ^кайин/кай<v><iv><opt><p3><sg>$
+[/d1x40cwg6IDO]
+[dNaAKErOTI8K#0] ^кайччӑр/кай<v><iv><imp><p3><pl>$
+[/dNaAKErOTI8K]
+[fdZNWQgxB2G0#0] ^кайӑпин/кай<v><iv><opt><p1><sg>$
+[/fdZNWQgxB2G0]
+[kuvURFFZghMi#0] ^каяятӑр/кай<v><iv><abil><pres><p2><pl>$
+[/kuvURFFZghMi]
+[mi6fuHTZiGPb#0] ^кайӑп/кай<v><iv><fut><p1><sg>$
+[/mi6fuHTZiGPb]
+[q1gFk0W6SoVq#0] ^каяятпӑр/кай<v><iv><abil><pres><p1><pl>$
+[/q1gFk0W6SoVq]
+[qD94qBJOIMQI#0] ^каяятӑн/кай<v><iv><abil><dur><p1><sg><p2><sg>/кай<v><iv><abil><pih><p1><sg><p2><sg>/кай<v><iv><abil><pres><p2><sg>$
+[/qD94qBJOIMQI]
+[rFk7cLzd_qma#0] ^каяр/кай<v><iv><imp><p1><pl>$
+[/rFk7cLzd_qma]
+[tl3_SQlB3Qro#0] ^каяятӑп/кай<v><iv><abil><pres><p1><sg>$
+[/tl3_SQlB3Qro]
+[wpNNt6wfXhuW#0] ^кайӑттӑр/кай<v><iv><cond><p2><pl>$
+[/wpNNt6wfXhuW]
+[wqlRTecRq_n7#0] ^каятӑр/кай<v><iv><pres><p2><pl>$
+[/wqlRTecRq_n7]
+[x11yEX_4ctp_#0] ^кайӑсӑр/кай<v><iv><opt><p2><pl>$
+[/x11yEX_4ctp_]
