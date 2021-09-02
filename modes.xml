@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <modes>
 
-  <mode name="chv-twol" install="yes">
+  <mode name="chv-twol" install="no">
     <pipeline>
       <program name="hfst-strings2fst -S"/>
       <program name="hfst-compose-intersect">
@@ -27,7 +27,7 @@
     </pipeline>
   </mode>
 
-  <mode name="chv-lexc" install="yes">
+  <mode name="chv-lexc" install="no">
     <pipeline>
       <program name="hfst-proc -g">
         <file name=".deps/chv.lexc.hfst"/>
